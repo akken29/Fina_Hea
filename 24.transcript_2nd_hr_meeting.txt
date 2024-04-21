@@ -1,0 +1,1116 @@
+Continued Employment Meeting with Mory-Marcel Sangare
+Date:
+Location:
+Present:
+
+22 tune 2023
+Head Office
+Mory-Marcel Sangare- Employee {Mt5)
+Laura Cooper - People Advisor[}
+David Middleton - Management Representati on {DM)
+
+LC- We just terminated the meeting just due to time constraints.
+
+MS--l understand.
+LC- So we've obviously kind of started back up and just before we start l just want to check your happy on
+your own today, you do have the right to be accompanied?
+
+MS-Its fine.
+LC - Your fine on your own tday. Right so we obviously went through a few points on Tuesday and we've
+still got a few points to go through.
+MS- Yeah
+LC- So lwanted to start because I know I said on Tuesday that I would start by going through my points and
+then l'd go to your email and we'd kind of talk through that so that's how l'm going to start today by referring
+to your email so I know you sent me this on Monday...
+
+MS- Yeah.
+LC - Which I did have a look at and I've spoken through with David as well. So ! know from speaking with
+David in terms of the point 1 that you've put through, the first task, that's not something that you know
+we've got a concern with that we're discussing however you did kind of raise concerns in this point in relation
+to Jason White and I just kind of wanted to discuss that with yourself just your experience with Jason.
+
+MS - Erm before we get into that point...
+LC - Uh huh.
+MS -As I said I have...and I mentioned that in my email yesterday, I had a rather difficult weekend so when I
+got in here on Tuesday I wanted to be on my best form.
+LC- Ok.
+MS-But if you would please erm I just don't want to mess up the timetable we've set but I just want to cover
+as it is being recorded.
+LC - Uh huh.
+MS- I just want to cover 4 important points.
+LC-Ok.
+MS --I think are relevant to both the last session and this one in the conclusion (01.2g)
+Page 1 of23-FM
+C - CONITNUED EMPLOYMENT MEETING - MORY MARCE SANGARE - 22.06 23
+
+220
+
+Continued Employment Meeting with Mory-Marcel Sangare
+Date:
+Location:
+Present:
+
+22 tune 2023
+Head Office
+Mory-Marcel Sangare- Employee {Mt5)
+Laura Cooper - People Advisor[}
+David Middleton - Management Representati on {DM)
+
+LC- We just terminated the meeting just due to time constraints.
+
+MS--l understand.
+LC- So we've obviously kind of started back up and just before we start l just want to check your happy on
+your own today, you do have the right to be accompanied?
+
+MS-Its fine.
+LC - Your fine on your own tday. Right so we obviously went through a few points on Tuesday and we've
+still got a few points to go through.
+MS- Yeah
+LC- So lwanted to start because I know I said on Tuesday that I would start by going through my points and
+then l'd go to your email and we'd kind of talk through that so that's how l'm going to start today by referring
+to your email so I know you sent me this on Monday...
+
+MS- Yeah.
+LC - Which I did have a look at and I've spoken through with David as well. So ! know from speaking with
+David in terms of the point 1 that you've put through, the first task, that's not something that you know
+we've got a concern with that we're discussing however you did kind of raise concerns in this point in relation
+to Jason White and I just kind of wanted to discuss that with yourself just your experience with Jason.
+
+MS - Erm before we get into that point...
+LC - Uh huh.
+MS -As I said I have...and I mentioned that in my email yesterday, I had a rather difficult weekend so when I
+got in here on Tuesday I wanted to be on my best form.
+LC- Ok.
+MS-But if you would please erm I just don't want to mess up the timetable we've set but I just want to cover
+as it is being recorded.
+LC - Uh huh.
+MS- I just want to cover 4 important points.
+LC-Ok.
+MS --I think are relevant to both the last session and this one in the conclusion (01.2g)
+Page 1 of23-FM
+C - CONITNUED EMPLOYMENT MEETING - MORY MARCE SANGARE - 22.06 23
+
+221
+
+M5-- Just give me one send.
+
+(- No its ok takeyour time.
+M5-So the first point that I wanted to raise because after the discussion we had here._
+C-Uh huh.
+MS-fern l don't know Ljust to make sure I was not just losing it or just saying some nonsense 1 did refer
+to some of my yu know formeryou know University you know graduates...
+LC--Uh huh
+MS-I did spoke to 2 of my former Managers and ! spoke to some friends and mostly most of them work in
+(0227) you know engineering, developers and so on..
+LC- Uh huh.
+MS - They're doctors and so on. So the first point I wanted to repeat again and clarify and I think it is very
+important, you see Dev-ops people are people who are working as both developers and this is the first point
+developers and they're working as both developers and people of the ops team so they need to have you
+know operation and skills and they need to be able to write code
+LC - Uh huh.
+MS -- Someone who is writing code is akin to someone who is writing a book you know and there are many
+types of book writers, some book writers will just if given 8 hours to write a book will spend 6-7 hours just
+sharpening the structure and the points they want to raise in the book and spend the last hour just pulling
+these things altogether.
+LC- Uh huh.
+MS -- Some writers will just start to write straight away.
+LC- Uh huh.
+MS - Now the repository we're using the Github repository we are using it is like a book in which we're
+writing right and you basically have generally speaking 3 main states, 1 state where the number of lines
+you're writing are increasing...
+LC- Uh huh.
+MS - Another state where they are decreasing and the first state where obviously they remain similar
+somehow.
+LC- Uh huh.
+MS - So the first day when you start working in the morning the repository in which your working alright it is
+in a state I can call (0
+3.56) alright at the end of the day it is (400) for the sake of simplification if we say that
+Page2 of23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06.23
+
+222
+
+the (04
+3)±s equal t 3 and {4.
+p4)is equal t 5 you an basicall y say that it's just for the sake of simplification
+you can basically see that awe've gt 2 Jines that gt added.
+C- Uh huh.
+
+MS - No t go mathema tically speaking to go fram 3 to S there are many ways t do it, yu can do 3+1+1
+so that will be 2 (04.23) that gets you t 5.
+LC--Uh huh.
+MS - You can d0 3+05+05 +0.5 4 times that will get you to 5 too that ame t 4 (04.32) or you can do 3+2
+and it will get y0u to 5.
+LC-Uh huh.
+MS- And what l wanted to say is when l was told.and what l'm mostly doing is you know when I'm working
+during the day l tend to do 3+2 because I was talking to my former Managers who lend me the words for that
+they said recorder repository should be considered as shrine. There are some people who are throwing some
+stuff into it and rectifying it over time but there are some other people who are making sure every single bit
+of code they're pushing is working and commented and fine and this is precisely what l've been doing, every
+single line of code I've been pushing on the Github repository of the company is fully working and operational
+because when I finished writing I tested on my machine so that's one point l wanted to raise.
+LC- Ok
+MS - So I spoke to people around me just to make sure I was not losing my sense and two of my former
+Managers told me it's perfectly fine and maybe this is how you should be explaining it so that's why I'm just
+using their words here.
+LC- Ok.
+MS - The second point I wanted to raise is the point of consistency and equality and treatment and while I'm
+talking about that when ! first joined this company here Arnold Clark I have to insist on that..
+LC - Uh huh.
+MS - You know that was not the...it was not the only company I was (05.53) with it was not even the one
+paying the most to be honest, I was also selected with Ryman the administration company but I have to be
+very clear about it, from the job interview I had the gentleman who called me from HR for the recruitment
+we first went through the CV, I forget his name but I really liked him over the phone. The discussion I had
+with Claire and David to be frank when you look and no matter what happens or no matter what was said
+when you look at David and Claire when you simply look at their faces it tells you a lot about who they are,
+what kind of person they are and that was the main reason why I decided to come in here. But nonetheless
+when I joined when I was first given access to the data centre here the first thing I noticed was the fact that
+once your given access to the (06.46) server, from the (06.46) server the procedure we have you are given,
+you work as a route account and you need to please write it down its very important, everyone works as a
+route account. In terms of managing (07.00) infrastructure this is something extremely bad, this is something
+extremely bad and to the counsel I spoke before coming, as I said one of them is (07.10) you know I work in
+an environment where this simple fact will guarantee your dismissal on the spot.
+LC- What will? Sorry just to clarify what will?
+
+Page 30f23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06 23
+
+223
+
+AS - /prking from the rout aumt, everything you do is done from the route aunt berause with the
+route acunt the slightest mista le you make cld have catastrophic conseq uences, worst yet. Even though
+the company has zested a lot of money
+protecting netwo rks if same sort of yber threat were to
+manage to slip int, get int you inow the data centre just beause we tend run everything as route
+aun t that cul} have catastrophr conseq uences in no time. Now l saw that from the first second was
+into
+
+shown the whole thing but Tm going t tell you one thing out of not only respet for the people woriing
+here, out of the fat that technological perfection does not exist you know . didn't see it as1 know it's a
+massivesecurity risk to be frank but I didn't jump on the bak of anyone t tell them that you know they are
+not respecting the shrine they're not into the shrine of techno logical perfectio n therefore they do not know
+how to use (8.13) because on Monday l was told that ! don't inow how to use Github because I commit,
+excuse my French, the impertinence of making sure every single bit of ode l push in there is beautifully
+written, fully functional before pushing it in there. So what l want to say is as l was brought to this table, it's
+a question and I don't need an answer now, as l was brought to this table for interrogation I do hope that for
+the sake of equality and consiste nt in treatment, the people who did allow the route account to be used by
+all users on our back and also be brought to the table and asked the same kind of questions because I can't
+be the only one, this is one thing. The second thing l also want to talk about is erm the third point l want to
+raise is when l joined er on the day erm a few days after l joined, and mentioned that on Monday, the
+company was suffering a yber attack and you can ask my Manager Claire about that, I felt awful about this,
+why? Because before joining in here in my area in (0931) you know I was talking to one of my neighbours to
+whom I said "Do you know what I start working for Amold lark." so when he saw that on the news and he
+came to me and said Oh Marcel the cyber security expert, you start working for Amold Clark and they get
+hacked." he was basically taking you know laughing at me which I can understand.
+LC-Uh huh.
+MS - So I shared that anecdote with my Manager if she remembers and then on the second and during that
+time I send a message to my Manager Claire Thomson and also our big boss Mr David Moffat, what I told
+them I said "Please, please I know I was not hired for that but I happen to have that experience, would you
+please just give me the authorisation to just look on the open internet, the public internet and find possible
+entry point these cyber criminals might have used into our network?" I was given 2 hours, within an hour I
+gave them a list of more than 200 email addresses that were available online, so that would be used to
+sending some (10.37)gave the lP address and names of all the sisters that were supposed to be on the you
+know available from within our own network here but that were exposed online and I also told them how
+to...which tool and how to use it to get the list (10.59) for every single of these systems. But then the question
+I want to ask too is you know the company got hacked not because people in here are negligent this is not
+the feeling I've had up until now but yet it happened. And the question I also want to know for the sake of
+you know consistency and fairness of treatment was anyone brought to the same table right now because it
+happened? I don't need to know but this is a question that needs to be answered and I'm asking these
+questions because as I said everything I've done is online you know I took some screenshots of everything
+because the project I was asked to work on. For the sake of simplification one more time you see at home
+you have an internet connection most likely most of us do so you have home where you have your own
+network, your own Wi-Fi and password, your neighbours are in the same situation they have their own
+network and Wi-Fi and password and so on. If all of us here in the UK whether directly or indirectly are
+customers of BT so BT has in fact for every single of us the configuration for all our routers. You know the
+home routers we have BT does have the configuration for every single of them but let me tell you one thing,
+do you think BT would put all this configuration into the same file and use that same file to manage all of us
+in the UK? If they were to do so one mistake might destroy the internet configuration for the entire country
+with (12.
+36) consequences that might ensue and l'm taking that example to make you understand why when
+I was given the job to do and I have to insist on that, when Claire gave me that task to start working on AWS
+I have to insist AWS is like a Ferrari if you're not careful enough you might kill someone you know you're
+going to press the wrong button the car would just go on its own and with the speed and power its got might
+hurt someone or something. So this is why this is out of this principal of(13/10) that l went, I first of all made
+Page 40f23-FM
+LC -- CONTINUED EMPLOYMENT MEETING - MORY MARCEL 5ANGARE - 22.06 23
+
+224
+
+sure that everything is
+own flder because we can't manage all of them at the same tire and the reason
+why l ased the version somewhere in the middle was berause the version 13.7 whih we use on Asia, that
+version is not supported as of non, its gpt massive unreliability's. We have a service security team here you
+can ask them. If you g and tadie it on the darknet for example you can buy some exploit related to these
+things for $1, with conseq uences that can have. So that was the third point I wanted to raise. The fourth
+point and that most iely introduce the problem with Mr Jason White is after this happened I had a meeting
+with Claire and David after the tittle you know investigation oniine to find possible entry pots for these
+people that were annoyi ng us and I told them l said "Please one more time, I know most Eiely this is none of
+my prerogatives but as I happen to have some experience in it would you mind if 1 submit to your attention
+a projet that will consist of._beca use at Amold dark here you know we have two ways of doing things, we
+have the loud so you have Asia AWS is the one l know and you have our data centre. So for all the internet
+traffic coming on into to server it is going through a system called (14
+.39) is used for to load, balance the
+traffit most of the time but it is used to direct the traffic towa rds such or such server. Now the great thing
+with (14.52) is if a hacker is sending some (14.55) by default drops these packets (14
+.58) but in all companies
+including Amazon for whom I used to work and all my previous employers you know (15.06) you also use
+your (15.08) as some sort of (15.09) so basically any bit of traffc coming in and out of your (15.13) is analysed
+and any threat is you know there is an attempt for any threat to be blocked from there first. So I explained
+to David and Claire that l wanted to examine the possibility of having the firewall installed on the (15.31) and
+also two tools, one called (15.33) is basically a tool you use to detect any...because when someone wants to
+attack you he needs to scan your infrastructure first of all, there is no way out of that. So with (15.46) we
+will have the possibility from the (15
+52) to detect any intrusion attempt, so anyone trying to scan our
+infrastructure will catch him from here. But on top of that our (16.01) is running on (1603) and you know I
+know our company invested a lot of money into some firewall offered by Cisco or Fortinet but I will tell you
+one thing the firewall you find on Fortinet and Cisco is exactly the same firewall you find in the (16.19) system
+so I told them that they could also run some firewall rules on this one and block a lot of bad traffic from this
+point so basically building some sort of defence. They agreed on that and they thought I should be..I recall
+distinctly that Claire even had spent some time thinking about the question. So during a team meeting, the
+next team meeting she did announce the fact that herself and David spoke about that and I have to mention
+that the simple fact the two of them took the time to listen to that idea, I have to be honest I did like it a lot
+you know i was not doing it for fame, I was not doing it for money, it was just for the sake of the company
+I'm working for. And during the next team meeting where Claire announced the ...she openly said that they
+had a discussion with David and they were trying to see to think of the possibility of putting on (17.15) some
+means to detect bad traffic and also stop it using the (17.24) firewall. Mr Jason White burst youknow he
+became extremely angry as stated and I remember his words in the most you know the tone was brutal you
+know as the man himself to be ...and I'm sorry but you know this is what it is, the tone was brutal and he
+started to shout "We will not put a firewall on the (17.49) and everyone was quiet. The question I want to
+know is this is...! don't know what you think about that but that simple action this is gross misconduct, you
+can't... he is not the head of our team Claire is the one calling the shots, who gave you the possibility to even
+behave like that. And you know what he spent hours, he spent many minutes arguing around that basically
+saying how stupid it is and things like that. But let me tell you one thing, give you one reference, a few weeks
+ago we had representation by the Cyber Security Team where they showed us, they gave us some details,
+some insight towards the new ways of thinking in terms of cyber security at Arnold Clark and I recall the
+meeting is recorded I think, there is a young lady sitting there I can't remember her name but she recorded
+the meeting it is there. The gentleman speaking basically said that one thing we're trying to achieve here is
+defence (18.52) so our (18.54) router would do its bit. AI! the main systems, collective systems inside our
+network will also try to do their bits and also try to make sure that the end points can somehow you know
+do whatever is possible. So he interrupted the meeting, he was basically shouting and saying "We will not
+do that." and guess what it never happened, he is not the Manager of our team and I think this is a good
+introduction to what I wanted to say.
+ini
+ts
+
+.
+a
+
+a-.
+
+LC-Ok.
+
+Page 50f 23-FM
+LC -CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06.23
+
+225
+
+MS - You see I don't inow how you tan say that but maybe l wuld tale the risk t say this you know l
+thought_on my way in! thought a lot about that but i dun't know how risiy or how bad itis but t will none
+
+the less say You knwmy father was African and one thing he taught mne from a very young age ishe said
+"N matter where yu go in this world yu know for reasons finked t hstry or sociology or whatever yu
+want you wl unfrtmately see that you know men and women are not perfectly equal, unforma tely
+women tend to have a bit more diffulties in life to reah their position. And he was all the time telling me
+that no matter where you go when you see a woman somewh ere no matter where you go you need to see
+her as your own mother. The way you would treat and respect your own mother is the way you should be
+treating and respecti ng any woman who is in this world. And he added this thing, he added the thing that.he
+also said that wherever you see a woman managing to get to a certain level you know of responsibility in
+soiety your respect to her needs to be double. So the first part of your respect is the respect you owe t
+any woman as your mother and the second part is the fat that if you see her getting that far it is because
+she has some talent so your respect needs to be doubled. To be frank with you every time he is interrupting
+Claire the way he talks to her, even once he shh her when she was talking and you can tell it from my voice I
+felt and I still feel extremely offended by the ways of his behaviour and Claire will tell you that Clearly 1 have
+been trying to avoid Mr Jason White you know sine the very beginning, he is rude in his manners, his
+wording, the way he speaks like you know it's unbelievable. Even recently, not very long ago he was talking
+about... none of us needs to know about that anyway, he was talking about his work permit in the UK, actually
+I was very surprised l always thought he was you know a British national but he appears not to be. And he
+was basically saying...I don't even know why he was saying that but he was basically saying I got my work
+permit because of I think Mr Collins he said and I am sure he is now regretting that. What is the meaning of
+this? What is the meaning of this? So you disrespect you co-workers, you treat them like idiots, every time
+they will try to say or do something you will stop it with force when in fact.and you can hear it from me
+talking he is far from being the strongest in the team like even in terms of character. But as I told you my
+boss is a woman and as an African person my respect to her is doubled so therefore in front of her you know
+in front of her I would never..once after meeting l you know...the first time he reacted this way I had a
+meeting with her right afterwards where l told her that you know I have a lot of resentment towards his
+sheer rudeness, I've never seen anything like it And after that meeting l even recall having told my daughter
+that if she were to marry someone like him I would disown her on the spot and I was not kidding when I said
+that. You know rudeness is one of the worst you know defects in life and these guys are just like that, and I
+am happy it's recorded you know he is...I don't know what to say. So last week...to get to the point, last week
+when I had that session with Claire the initial aim of the session was for Claire to show me you know how I
+can much more easily merge these files we were talking about these configuration files. And when she got
+to the meeting on the Thursday morning I think it was erm before the start of the meeting I told her I said
+"Claire there is one thing I want to say is l've re-worked the configurations and now the merging of them is
+way more easier and I'm going to tell you why. On Monday when we were here you know during the meeting
+I was told that l shouldn't waste time building some tools on the side to make my work and ! disagree with
+that. I work as a Dev-ops Engineer. The role of the Dev-ops is precisely (24.4) of whatever he can and this
+is precisely what I was doing. If you check our repository online the Github we have you will see that the first
+version of the configuration took I think about a couple of weeks to write. But before the meeting with Claire
+the re-writing of all the configuration we've you know a stronger structure in terms of variable naming
+because my main problem was coming from the first time I was trying to merge. It took I think a couple of
+days and do you want to know why it went so quickly? It was not just a matter of experience no it was all
+these little tools that have been on the side that gave me the ability actually to redo the (24.44) faster. And
+I have to tell you one thing you know whatever task of configuration writing I would have been given
+afterwards they've gone just as quickly because the tools I'm writing basically is you know when you need to
+write a configuration you go on to a website, you get the template and you fill it up yourself and no matter
+what we think that part is (25.10) what l've been...the little tools I have on the side are basically you know
+automating that for you so if you want to rebuild for example an internet Gateway the main structure will be
+there, the system will ask you the question you need to answer to give some prompt, once you answer this
+prompt this part of the thing is added to the configuration so this is one thing I needed to say.
+it.
+
+Page 6 of23-FM
+LC - CON!TNUED EMPLOYMENT MEETING - MORY-MARCEL SANGARE - 22.06.23
+
+226
+
+LC-Uh huh.
+MS- Maybe to introdue about t came tad t get bak to a few points I iurgot to mention iast time and
+also to
+the problem of the
+of this gentleman. And during
+meeting with Caire l
+rerall distinctly
+day before
+meetingenm she was asting questions about erm the issues I was having
+with the merging process and as is customa ry with him you know he interrupted her one more time which l
+find I don't know maybe my education is to traditional or something but this is unthinkable t me that's
+why it's a nem,
+he interrupted her and said you inow with a very condescending voite you know
+characteristi c of the individua l saying Mate you know we simply ask you to do a simply opy and paste,who
+asked for your opinion? she is the Manager of the team,
+is the one t make
+kind of remarks, who
+asked for your opinion and why do you allow yourself to interrupt her? So when daire asked me during our
+last meeting she said "Are you talking your
+1 say am talking them." she said
+1said
+Of course 1 am talking Zoe." Zoe has
+a lovely personality and she is one of those ladies I was telling
+you about_
+i
+n
+trod
+uce
+
+attitude
+
+the
+
+th
+e same
+
+tha
+t
+
+but
+
+she
+
+to
+
+to
+
+co
+ll
+ea
+gues
+?"
+
+these
+
+I
+
+to
+
+Zoe
+?"
+
+go
+t
+
+LC- Uh huh.
+MS - How many women we encounter out there. Same for Greig, great sense of humour and all the others
+but when she came to Jason White l remain silent because as l wrote there I have been trying very hard
+avoid the guy---
+
+to
+
+LC - Uh huh.
+MS - Too rude, too brutal.
+LC - And in terms of obviously you've put forward that you feel that the way that you know he acts erm
+you've kind of said like how you've you know come out shaken and upset and things like that. Are you able
+to like just so that you've got something with your work that you maybe need assistance with can you go to
+you know Claire and Zoe, so you don't necessarily need to go to him so you can have other options yeah?
+MS-Absolutely, absolutely and Claire and Zoe will tell you and even Greig when I have some problem I have
+no problem whatsoever asking them.
+LC - Yeah. And have you spoke to Claire just about your concerns with Jason, is that a conversation you've
+had with her?
+MS - After the first time he distinctly said "We" so he speaks in the name of everyone else "We will not be
+implementing the firewall rules."
+LC - Uh huh.
+MS- Right after that meeting I told Claire that I need to talk to her.
+LC - Ok.
+MS-And I told her that I dislike very much his manner or the lack of it I would say.
+LC- Ok.
+MS - Now she ... after the meeting I understood that you know I listened carefully to what she had to say and
+I thought to myself after admitting ... ! thought to myself ok I've raised my concern I'll stop right there as I
+know the individual and I see him during almost every meeting calling the cyber security team his favourite
+Page 7 of 23-FM
+LC- CONITNUED EMPLOYMENT MEETING - MORY-MARCEL SANGARE - 2206 23
+
+227
+
+victins with the f vardwhich l would not even raise. in one sentence you have {7a43) the f word so you
+know with all of that yu will errs me but t have been trying very hard t avoid hmm because he has no
+respertfor anyone.
+LC - Ok And are you finding that if you are Wike avoiding hmm as such that your still able to. because you've
+gt other lleapyres, you've got your Manager, if you've got cnems you can go with them?
+M5-l understand that, I have no problem with Greig
+-Ok
+MS-mean Greig's aware and Claire herself despite being sitting here tday, how can you have issues with
+them they are easy going people?
+LC- Ok, so you feel that your able to approach them yeah?
+MS - Absolutely.
+LC- Ok
+MS - And my teams, on Microsoft Teams I cannot test them because I [29.22)
+LC - Ok, no that's good that your able to approach other colleagues And there was just another few points
+t just wanted to go through, I know we've kind of like spoken through a bit yesterday.
+MS -- Yes.
+LC - And ! just kind of wanted to ask yourself you've put in it just obviously due to the meeting you've been
+in a state of distress where you had an accident without consequences, I just wanted to tie in with that just
+to see if you're ok?
+MS - No, no its fine.
+LC- Ok.
+MS - But you know and I mentioned that in my message even though I think on Monday in here in this room
+I was told that {2955) is not working.
+LC- Ok.
+MS - Fortunately I took the screenshot and I saved. The final aim was the merging of all these individual files
+and all these files are fully operational
+LC- Ok.
+MS- So they are all fully operational, the merging also will work but erm but the ...so on Thursday when we
+went from the meeting we had where she clearly told me that little thing I had been putting together is
+working and we will most likely get that resolved very soon.
+LC - Uh huh.
+
+Page 8 0f23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06.23
+
+228
+
+M5-And she even shoved me the next step as t when the merging is dane this is what l want ycu to add
+on t that. lent from that t the email l received from you which l at first thought aas same sort of(30.45)
+for my anser.
+LC-Uh huh.
+MS - So you know going from that to that you can understand how shaken l was so t speak.
+C- Uh tuh.
+MS - Yeah and so I lost onentraton on a few things and as I said that in writing it was without any
+
+consequences so.
+LC- Ok, alright And there's a few points 1 just kind of wanted to l inow we've kind of talked a bit of detail
+on Tuesday but l just kind of want to irde back just after kind of darifying with Claire. So l know we discussed
+the kind of current tasks that you've been working on and you said that that is running, you know you have
+done that and Claire just advised that you know at one point whilst you have the resources imported and the
+plans running erm the structure didn't meet what they were trying to achieve, there was no pipelines, there
+was no PR and the branch was in no state to be merged which ultimately meant it didn't meet the definition
+of done. What's your kind of thoughts on that would you say that is the case?
+MS - Yeah, yeah, well in our team you raise the PR once you've..you know the process we have in the team
+you raise a PR, so you know you raise a PR once you've finished work on a project and everyone agrees on
+that, this is when you raise a PR that's one thing. Secondly erm saying that it is erm nothing is working I
+would disagree with that, as I said I have the recording of the test run on every single of these VPCs and also
+the test I showed her on Thursday which was the successful merging of many files at once. All of this is
+working so all I would...of course it was not in the state of being merged yet...
+LC-Ok.
+MS - Because it was still work-in-progress
+LC-Ok.
+MS - As I say you have 21 files at first, once you start merging them 2x 2 you get to maybe 10 or 11 and then
+up to point where you have a single file you need to push and once that single file is ready its only when that
+single file is ready that you will be writing the you know the configuration and necessary for you to be able
+to use you know our continued (33.0
+7) this is how it works. So obviously it was still work-in-progress of
+course, there was no PR raised because I was not done yet, the configuration for deployment is done once
+everything is you know you've tested it, you know it's worked that's how it worked in our team.
+LC-Ok.
+MS - So I don't understand that.
+LC - Ok. Have you got anything to add to that one?
+DM - So you say you were done with the task but you also say it's a work-in-progress and it's not complete,
+it can't be both things, the definition ...
+
+Page 90f23-FM
+LC- CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 220623
+
+229
+
+MS- Well as usual. and Im sorry t that, as usual with yu bearse as tld yu an Monday and V'm happy
+reordmg that, yu know your rle here is basically t find anything wrung with me so you're not trying t
+understand the context
+DM-fmsorry you an't say that
+MS -Sot will say that, l an say that because the thing is as i ld you the first attempt at working this, the
+first attempt at working this, the first attempt at merging these fles was
+DM --So !remember because you've said it multiple times its ok we an shortut that par of it
+MS -- The first attempt_t'm not shutting up because this is the context your refusing to take int aount,
+this is one problem I have with your approach, T'm sony, you refuse to take the context into acount and this
+is wrong because if you don't take the context into account you cannot be objective you need t know that
+So the first time we tried to merge all these files there were sme conflict in terms of varables.
+DM - Right let's just.it's alrght, it's alright let's just_
+MS - As I've mentioned now, as I've mentioned just now you know Ire-wrote the whole thing and showed
+to Claire that the merging would go easier.
+DM- But none of that we required, none of that was asked for, none of that was wanted._
+MS - Ok so..
+DM -- By Claire or you.
+MS -- Ok so it took._are you actually telling me here that it took2 or 3 months for someone to know that was
+not what was required, does it sound right to you?
+DM -- People immediately told you that you...
+MS - Does it sound right to you.
+DM -- Sorry if I could just finish. People..Claire specifically gave you a task...
+MS - Yeah.
+DM - Which was to take an existing AWC infrastructure ...
+MS - Yeah.
+DM - To put it into (35./17)
+MS -- Yes exactly.
+DM - As a single configuration file that then could be used as a template and put into a pipeline.
+MS - Ok.
+DM - What you produced was not that. When you were told the version of the 22 different folders was not
+the correct approach rather than stopping and doing the approach that we asked to do...
+Page 10 of23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORYMARCEL SANGARE- 22.06 23
+
+230
+
+A5- Yau want
+DM - You twisted your urent architecture into something that wasn't required.
+MS - Ok this is one more time your interpreta tion of the whole thing.
+DM-It's not my interpretation it's the interpretation of the entire department
+MS -It is your interpreta tion, so this is where the problem of bad faith is coming
+
+in.
+
+DM - There is no bad farth you refused t_
+MS - There is bad faith let me tell you why, I've been doing that exercise for dose t a uple of months
+DM-- Which is too long.
+MS - Ok Ok that's your opinion and I respect that it's the same for me. When l joined it took me once again
+to see that you know we have (36.05) yet it has been there for years.
+DM -- But it took you 10 minutes to work out what your job was and you still haven't worked out what it is.
+MS - No problem. So as l said you know putting all of that into a single file at once is not only risky but it's
+very difficult.
+DM- In your opinion but that's like your (36.20) in this whole team.
+MS - When 1 spoke to her the first time I told her that "What are we doing we need to get the individual
+configuration right first and once we know that the individual configurations are working then we will merge
+them." and let me tell you this to prove you wrong the last meeting I had with her where I was showing her
+that you know things weren't working that was precisely that showing that you know the merging of the
+individual working configuration was fine she had no...she didn't see...she was not unhappy about that, there
+was no condemnation about that and as I say zero condemnation and no contradiction, none of that for the
+entire duration of the project so what is your opinion on that?
+DM - Marcel you were just told by Laura three minutes ago...
+MS- Yeah.
+DM - That that's not what happened that Claire is certain that you were incorrect.
+MS - Ok but this ...
+LC - So are you disputing what Claire's saying?
+MS - I am disputing that because it is under repository right now. So I have a simple question to ask if what
+I was doing was completely wrong why for all this time no-one's stopping me? I'm asking you the question.
+DM- We repeatedly tried to stop you...
+MS- Oh really.
+
+Page 11f23FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06.23
+
+231
+
+DM- Which iiswhy Jason gpt so frustrated at
+M5 -So you see, you see, you see, ok fine, but the thing is yu see right now here, right now here, here fve
+been stpped and 4 arept fr no good reason but for two months no waring, no complaint, zero, nothing,
+you find that right?
+C-l think though in terms of that process it was advised that you were course corrected a couple of times,
+you spoke with Zoe who highligh ted issues with the structure and then you spoke with daire on a couple of
+occasions just t query
+it
+
+MS-Yeah.
+LC-So therefore from reading that like they are kind of cheking in with you and confirming that.
+MS - No, no, no, no it's not confirming what he is saying here The first meeting I had with Claire was
+regarding the version as I've said and I think we spoke long enough about that on Monday I don't want to
+waste any more time with that but as i said the version 1.3.7 is outdated, not supported any more. So when
+I was given no erm requirement and asked to do something about that I just used my good judgement to try
+to at least start with a version that is at least supported, the 1.3.7 is not supported any more so this is why l
+went for an intermediary version. Once I finished that the individual configuration were working and what
+happened is when I had the meeting with Zoe she said "Ok the thing is with configuration you have you are
+using a recent version but I would like you to use the 13.7." you know what I did I went back to work and
+wrote the whole thing using 1.37 this is the story. This is not. I am sorry to tell you that this is not stopping
+someone as such you know because stopping is stopping, this is not stopping and this is not even a warning
+so let's be clear about that. Have you got any email or any letter whatever that was basically labelling that
+as a waring? Absolutely not. And this is why I have and ! said that this is why I have issues with your way
+of doing things because yau're not being objective and I need to state that here because I don't know how
+things..how far we go you are not being objective. You have that repository right there and you are a
+programmer yourself you can get there, you can connect to it, you can go online.
+DM- I've seen it, Marcel l've seen it.
+MS - And you can use the Github to see for yourself.
+DM - And it's not acceptable.
+
+MS - There is no warning, there was no warning.
+DM -I can look at it and see what you did for the last 6 months it's not acceptable.
+MS -Ok. Sorry? That's you opinion.
+DM - What you've done for the last 6 months...well exactly, as a leader of this department. ..
+MS-This is your opinion, that's your opinion but you need to prove it, why no warning? Because you know
+the letter I received from HR, and let me make it clear for you here, the letter I received from HR where I'm
+being told that...this is what was written that on Tuesday I might be losing my job on Tuesday. When
+someone Is doing something wrong and I have to inform you on this you need to give him some clear warning
+or to stop him as you say, this never happened you know what it means it was fine I was on the right track.
+And the last meeting I had with Claire she distinctly said that this merging, this what I showed her was fine
+and they will get...and she was sure and convinced that we were getting now to the final aim and she even
+told me once the final aim is reached soon enough (4102) no erase (4
+1,04) so that it can get merged into the
+Page 120f23-FM
+LC-CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 0623
+
+232
+
+main branch and then l want yu t do this and this. Doesit sound tp yu file a waring or a way of stopping
+sprnene? You come in here your making allegation i mean sary right now you're erther just repeating
+whatever Claire tld yu or are yu just here t find something wrong w@th me and this is what you've been
+doing since Monday, your just making assumptio n with zero demonstration behind
+Why wasn't l given a
+written warning f whatever was ding was wrong? Im asking you the qustin, you're nut answering that
+just trying t jump t your own assumptions. And when you say that this is your opinion fine as l say let's go
+with someone else someone who knows what he is tailing about and let's review the whole thing and you
+will see for yourself.
+it
+
+LC-in terms of obviously David being in this meeting today Davi is a Manager of the department therefore
+he has a knowledge of the process of the structures of the odes and things fike that, therefore he does have
+an understanding of the situation. And you know like l was kind of obviously discussing with yourself in terms
+of this task you were of curse corrected a uple of times you know someone highlighted issues. You then
+contacted Claire a couple of times and she was having to go over it again with yourself and the oncer is
+that you should have the skills and the knowledge to be able t complete this task without.
+MS - What I have to say is the couple of times Claire (42
+.20) not in the sense that you know there were you
+know I was on the completely wrong track whatsoever it was more in the sense of you know maybe giving
+some advice here and there, this was not a meeting where you know.and when you're saying and where I
+feel very frustrated and slightly insulted, sorry for saying that but this is how I feel right now, you say that
+you've seen it and it doesn't work, if I doesn't work_because the aim of the exercise was to make sure there
+is zero difference with the configuration we have on your repository and what we have on the cloud. When
+you run (42.57) there is zero difference so what kind of unsuccessfu l work or attempt is that, can you explain
+that to me? Because you're not talking..
+DM - Were going over the same points again, we're going back over the same points...
+MS - Yeah.
+DM-I'm never going to convince you...
+MS -- Yeah.
+DM - So what's the point of continuing back and forward?
+MS - Yeah, so what is your point there? What do you say about that, if it working, I mean I have the
+screenshot, it is working.
+DM - It's not done, it's not done, we're asking you was it done...
+MS - Uh huh.
+DM - You said it was done, it wasn't done.
+LC- So in your opinion did it meet the definition of done?
+MS - Sorry?
+LC - in your opinion did that task meet the definition of done?
+MS -- The definition of done, when we say something is completely done it's all finished.
+
+Page 130f 23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY-MARCEL SANGARE - 22.06.23
+
+233
+
+LC- Jh huh.
+M5- N the thing is to get t the finish fine there ar same intermediary steps.
+LC- So had you completed them all?
+
+now
+
+MS - Yeah and that's what I said i was just that the_this s what t told yu, t get t a single fle you
+needed to merge 22 separate networks which this gentleman here doesn't seem t understand these are
+separate networks.
+LC-Uh huh.
+MS- So you need t write the configuration for every single of them and then try to merge them without
+causing an accident by the way ok.
+LC-Uh huh.
+MS--So this is what l was doing. So for a job to be done you need to go successfully through the intermediary
+steps, and the last meeting we had she was not disputing me for that you know we were on the right track
+she said that herself so what is he talking about now?
+LC- So l'm asking you like did that task meet the definition of done?
+MS -It was not completely done.
+LC-Uh huh.
+MS - But as l say during the last meeting we had she was certain that it would get done very soon.
+LC- So I think in terms of that the concern is the time taken to get to the point of it being the definition of
+done to which where we're still not at, and that's the concern obviously in terms of that task how long it's
+taken you to get to that point.
+MS - I understand that and as l said this is the point we can discuss about till the end of time if necessary..
+LC - Uh huh.
+MS - But if we stick to the fact the plain fact is the time taken.
+LC - Uh huh.
+MS - You know these are as l said there was the writing the configuration for AS was unchartered territory
+there was no requirement you understand?
+LC -Ok.
+MS - So as l said on Monday the first attempt was to avoid using the (45.21) which is not recommended but
+AWS (45.24) and try to write it from scratch.
+LC-Ok.
+
+Page 140!23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06.23
+
+234
+
+Mt5- So when l fund that out and ame t share it with Claire she said t me that she didn't want that she
+wanted t go fr the telephone import
+lC-Yeah.
+MS- When t went that route then ve used {45.41) and t have to say that, a rent version of the software
+because we needed t tale something that is at least recent and not outdated, it's seems you know logical
+to me. And when finished to do that Zoe told me Ok you've done it howeverwe would he this to be at
+the same level as Asia." but as l mentioned on Monday Asia AWS are two separate produts.
+LC-- Yeah so one point that you did put forward that there were no requirements in terms of the tasks so
+that's something that l darified with Claire.
+MS- Yeah, uh huh.
+LC- So she'd kind of said that as the ticket was split the original description about which repo to use and that
+it should be the same as our AKS structure was left on the first one and whilst the ticket didn't specify the
+exact version to be used
+MS -Uh huh
+LC - Marcel had used our current repo and it was expected given his experience that he would follow the
+structure and versioning that was consistent throughout.
+MS- No this is too easy to speak like that, you see what l've got to say this is too easy to speak like that
+LC - What do you mean by that?
+MS - You know when you work in this software project or software work in general (1) there is no (46.52)
+requirement because what you're reading i mean this is the Jira, I think it is coming from the Jira you know l
+don't have the printing of it sol can't tell you ! have got no more access.
+LC - Uh huh
+MS - But one thing I can tell you Jira is not a requirement that's one thing. And secondly when I'm talking
+about requirement here it's a proper document where you give clear instruction as to what you want to
+achieve, how you want to achieve it and so on.
+DM -I'm sorry Jira is a requirement that is (47
+21)
+MS - So right now, right now, from the first instruction I was given and I don't know if you can find a
+screenshot of it you know there was no specification in terms of use that version of the software for example,
+that's one.
+LC - Uh huh.
+MS - And l did it for quite some time, we had some meetings every day, every single day what l was reporting
+about that so why is it that they didn't raise any concern then?
+LC - Ok And it says that you know given your experience it would be expected..
+MS- No, no.
+Page 150f23-FM
+LC - CONTNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06 23
+
+235
+
+'IC-N, can I ask a questionsorry? tt said that given your experience would be experted that you would
+follow the struture anti versionmg that was consistent throughout, whar's your thoughts on that?
+it
+
+M5- And given my experiene also, given my experiene also, it is necessary when we want t avoid his sort
+of disussion to givea dear written requirement. And givenmy experience also it is wrong t use an outdated
+and unsupported version of the to! to write configuration. So this point why is it not taken into aunt?
+And as l say, the last point want to raise, we have daily meetingsLC-Uh huh.
+MS-For how many months Tve been here.
+LC- Uh huh.
+MS -- Since December, so dose to 7 months, so out of these 7 months if what I was doing was that rubbish
+why there is no clear waring about my work?
+LC -- So Claire advised that she did on numerous occasions point out to yourself that things weren't being
+committed or were not as expected leaving
+MS - It's not on numerous occasions
+LC - Sorry..
+MS - It was just once and I remember and I have a screenshot of that.
+LC - Leading course corrections throughout the tasks.
+MS - Yeah.
+LC - So she said that she had repeatedly asked you to push, remember to push and things like that.
+MS- Yeah, and this is not numerous occasions it happened once and you want to know when precisely it
+was?
+LC - Uh huh.
+MS -It was at the time where we were changing...when I was changing the version from the recent one lwas
+using to the old one, there were a couple of days where I was just trying to work everything and during that
+time we had a meeting where she told me but why is it that you are not pushing, pushing things and I told
+her "No I'm just re-working the whole structure before getting..." and started again and that was just once.
+LC - And can you recall when that was?
+MS - I don't have the date on top of my mind but I have the screenshot I can send you the date later.
+LC - Yeah, just because l've got some information from her so she had sent a message on 27 April just to
+say remember to push your work to the branch.
+MS - Ok.
+
+Page 16 at23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06 23
+
+236
+
+LC- She had sentone on 19 May saying please remember t push your local mm7ts t GIT.
+M5- Yeah, uh huh.
+LC - Erm she also mentioned again on 23" May saying just remember to commit
+MS -Uh huh.
+LC - So you know that's several occasions that she is saying to yourself.
+MS -- Ok and here again I can explain that. The first time she mentioned that, the first time she mentioned
+and push as I said l was in the process of reworking things, that's one.
+LC- Uh huh.
+MS - The second time she mentioned this and l'm sure l can find the answer I sent to her on that occasion,
+on that occasion I told her "Yes will do it l'm just you know finishing to re-work the lines of code I have here
+before pushing it." beause as l said before and N think the second time that was one day at around if you
+look at the time it was most likely the second occasion that we're talking about that was most likely before
+12.00 pm.
+LC-Ok
+MS - Yeah, am I correct? And if you check you know usually when I push some coding it is usually after that
+time..
+LC-Ok.
+MS- Because in the morning I'm still working so this is the information for the second occasion. And as I said
+I'm sorry like you know for the kind of work I was doing on AWS there are two things there, there is the
+writing of code of course but there is also the work around and the impact whatever you're doing with the
+procedure and sometimes it takes time...
+LC - Uh huh.
+MS - Its not just about pushing code you also need to check the consequence of what you're doing.
+LC - Yeah I understand that but obviously in terms of you know the processes of Arnold Clark like pushing
+the code is something that you know we expect the engineers to do, and from speaking with David you know
+he kind of stipulated maybe S or 6 times a day. And Claire says that you know although that's you know
+maybe the expectation she wasn't asking yourself to do that she was asking yourself to maybe do it daily.
+MS - Uh huh.
+LC - But there was times there was maybe like a space of like a week where you weren't pushing at all.
+MS - No, no that was right in the beginning because it took quite a bit of time because all the things that
+you're saying right now I don't have the screenshot right in front of me ...
+LC- Uh huh.
+MS - But as I do have a copy of our discussions I can clearly explain all these things.
+Page 170f23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06 23
+
+237
+
+(C--Ok
+
+M5 - And one mare tie what I have t say and t have to emphasise on that with the #ind of work we are
+ding when we are tying to reassess the situation you know before doing some real work, making some
+important changes, wile your doing that work of assessment you cant be pushing at the same time. And
+when I joined, and I need to insist on that, when l joined erm at the time l joined it was happening you know,
+the time I joined the company was having some issues, l think it was only.erm and I wasn't.I was the one
+actually you know runing after her even to get some stuff to do. I think it's only around if ry memory is
+correct but I7 need to check my note and give you a precise date but I think it was only around
+February/March that i was given AWS task to start working on. And t think l'll explain many more times what
+happened and all these things that I have been saying I don't see and I'm sorry to say that, I don't see where
+I was being negligent or where l wasbeause to receive the letter I received you know the intent of what l
+was doing should have been to maybe being careless about the interest of the company or not or being
+umwilling to do the things property.
+LC- Uh huh
+MS - And I have to insist on that erm the first time she told me to push l was still analysing, the two other
+times these were just_and that's how I took friendly reminders, the second time as you said on the second
+occasion where she spoke about that you know that was a friendly reminder because right after that l was
+pushing the code you know. When I received that from her l was still working on the thing, I can't be pushing
+something that is bugged or something like that and this is not and this is what l've been trying to explain,
+when I first joined you know every time l am pushing some code, the code l'm pushing has been fully tested
+and is working Now I know some people...and this is what l explained, to get from 3 to 5 there are many
+ways to do it Now where is it written for example in my contract that I should be pushing 5 times a day? In
+my contract...
+LC- But Claire said to you several times to make sure you're pushing daily so the expectation is that you
+follow management instruction. You said that you know you trust Claire.
+MS - And this is what I'm saying I was following management instruction, when I was not pushing I was
+analysing maybe some bugs or just trying to see the consequences of code I was doing.
+LC - l appreciate that but the expectation and part of the process is that you push at the very minimal once
+a day...
+MS - Yeah.
+LC - Because when you're doing that it means that management like Claire etc can go in, they can check
+your work, if you're not doing that they can't do that.
+MS - But then the point you're not raising is you know we have some daily meetings where we talk about
+the problems we've had or what happens during the day. As I said when you are having to deal with some
+infrastructure problem you can't be pushing at the same time. I think what is happening here, I think what is
+happening here is you know and this Is what I told you on Monday, if it's just a way to justify what happened
+I think its fine you know people can justify or find justification for anything but the thing is we also need to
+analyse the circumstances this is what l mentioned just now and we also need to take into account the broad
+context. When you're analysing the infrastructure after having done some modification and going from
+something you can't be pushing at the same time, you can't be told that.
+
+Page 18 !23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22.06 23
+
+238
+
+C- Bt the expetation is that yu should at least be pushing daily whuh yu weren't yu were going days
+without pushing and that's a cnern.
+MS -And as1say that was in the early beginning and as 1 said if what your saying istrue and if that was an
+issue wty didn't get a written waring about that?
+LC- You were spoken t on several oasins by management t ensure that you re pushing.
+MS- No, no, what you've just read, !'m sorry to say that madam, what you just read is not a dear warning,
+this is not a warning Tm sorry.
+LC- But its management giving you instruction that you failed to follow.
+MS - Which l was following of course, which I was following but this what you just read is not a waring.
+LC -!'m not saying it's a warning l'm saying that you were given management instruction.
+MS - Which l was following and I repeat that again but..and I think I have explained myself on numerous
+times about that. I have never disrespected her.
+LC - Uh huh.
+MS - Whatever she was telling me to do I will do it
+LC- Yeah.
+MS - And for whenever I was not able to do it l will tell her why, this is why we have our daily meeting if you
+see what I mean?
+LC -- Yeah, so Claire raised concerns to myself that you haven't been pushing daily and that she's got concerns
+with that and you've said that you and Claire have a good relationship so why do you think that Claire is
+raising these concerns about you not pushing?
+MS - As I said this is not a concern, the first time she spoke about that...
+LC -- Its not for you to say its not a concern l've got management telling us it's a concern.
+MS - Ok but I am also entitled to give some explanation about what I saw and what happened ok?
+LC - Yeah of course.
+MS - Ok so as I told you the first time she mentioned that as I said I was in the process of reanalysing things...
+LC- Uh huh.
+MS - And I even explained to her what happened. The second time she raised that concern ...
+LC- Uh huh.
+MS - I'm sure I can find that screenshot, I replied to her that don't worry I will do it, I'm just finishing some
+written pieces of the code if you see what I mean?
+
+Page 19of23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY-MARCEL SANGARE - 22 06 23
+
+239
+
+-
+
+LC-Uh huh
+M5 - So hat's what l said zhe send time but the point l want t raise fr of all l have never disputed
+whatever she asked me to do, I disagree with that sorry ok And the second point is whatever yu say this is
+not a waring, this is not a waring because for the letter I received from you an Thursday that was telling
+me yu know you could lase your job on Tuesday, no I mean to get t that point there is a process to be
+followed and l am sorry the process was not followed. Now i think sine Monday and l don't want to keep
+on talking for to long, smne Monday I think l gave you my version of everything
+i
+s
+
+LC-Uh huh.
+MS -I have tried to explain you know what happened and can't do any better than that.
+LC - Ok, alright Anything that you want to elaborate on, anything else that you want to go through at all?
+MS-I think l've said it all so you know I will go with whatever you have to do
+LC- Anything that you want to elaborate on?
+DM --l'm fine.
+LC - No, perfect. So what we will do Marcel is we will just take an adjournment to consider everything that's
+been put forward today so what to do is even if you just want to kind of go and sit in the hub or something
+like that_
+MS -Ok.
+LC - Then when l'm able to reconvene erm we will call you back through, is that alright?
+MS - Ok, ok.
+LC - Perfect.
+Meeting adjourned:
+Meeting reconvened:
+LC - That's it just on there. Alright so this is the second half of the meeting.
+MS - Uh huh.
+LC- So in the first half of the meeting we obviously considered everything that's been put forward, we've
+considered everything sorry that's been put forward sorry in the first half of the meeting. So we discussed
+concerns with your overall capability within your role erm and that was specifically in relation to your failure
+to perform tasks In a timely manner, erm to utilise our systems efficiently and to perform the tasks expected
+in your role to the standard expected. So in terms of the concerns that you brought to my attention today I
+know you discussed a few at the start erm one of which being the route account. So I spoke to David Keenan
+just in relation to that and he has advised that that is something that is being investigated.
+MS - Ok.
+
+Page 20 0f 23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06.23
+
+240
+
+4-Howeveryou lnowl do aknowledge that isa separate amnern. You also queried as well about whoever
+was responsible for the yber atak if they've
+kind of brought t the table, and again you inow this is
+a separate matter and it is you inow obvioushy being looked into, but I obviously can confirm that you know
+Arnold Clark do treat all employees equally and will tale artion as and when required.
+been
+
+MS--Ok.
+
+spoke through our concerns with the current tasks
+disussed that how yu didn't utilise the
+processes correctly which therefore has had an impact an the time taken t do the task.
+
+LC- We
+
+and
+
+we
+
+MS -Ok
+LC- And this task should have taken three days...
+MS -Uh huh.
+LC - However you acknowledge that it is still not complete and you know that is a oncem for us as you were
+hired as a replacement erm you know to be able to pick up these tasks.
+MS- Ok.
+LC - However you did take it upon yourself to use a different process.
+MS - This is not true but yeah if that's your opinion that's fine.
+LC - Ok. As you know you specified you know yourself that there was no requirements given erm however
+from speaking with management you know given your experience that you should have all the structure and
+versioning that was consistent throughout..
+MS - Obviously, obviously.
+LC - However you failed to do so.
+
+MS - Ok.
+LC - We also spoke through your concerns with your failure to push despite Claire advising you on several
+occasions to do so and you know you'll know yourself because you regulate as an industry standard erm as
+there is a requirement for you to do so, erm however you failed to regularly do this erm despite receiving
+management instruction
+you to do this. Vou spoke through the concerns with Jason White erm and
+you spoke through also concerns with the way Jason White was kind of towards Claire. And I have spoken
+with Claire who advised that you know whilst Jason can be quite blunt and to the point she has no concerns
+with his conduct erm and would contact us if she had a concern with how Jason spoke with her. And you did
+advise that you have other individuals to approach should you require any assistance including Greig, Claire,
+Zoe and therefore I appreciate while you know how you felt in this situation erm however I do acknowledge
+that you've got other individuals that you can approach erm and therefore I don't believe that your
+relationship with Jason would impact on your performance. You advised that you have had no written
+warning regarding your performance erm however as mentioned you did have several messages from Claire
+giving you management instruction.
+advising
+
+MS- Yeah well this is .. .it doesn't hold but its fine, so the conclusion of it if you don't mind me asking.. ?
+LC - Yeah l'm just getting to that.
+Page 21 of 23- FM
+C - CONITNUED EMPLOYMENT MEETING - MORYMARCEL SANGARE - 22 06 23
+
+241
+
+MS-Ok.
+C- So despite yu know Claire giving you several management instru ctions
+MS- Uh huh
+LC - You know you did fail to follow these instructions and on top of this we do have concerns with your
+overall performance to date which you have failed to foflow our processes which has resulted in jobs taling
+excessive time.
+
+MS -Ok.
+LC-- Erm I did advise in the letter and at the start of the first meeting that a potential outcome would be your
+dismissal from the company and that is the decision that N have made today.
+MS - Uh huh.
+LC - So you will be paid 4 weeks notice in lieu however we won't ask you to work that.
+MS- Ok.
+LC - We'll just ask you to finish up today and we will pay you that.
+MS - Uh huh.
+LC-I will send you a letter just to confirm the outcome today...
+MS - Ok.
+LC- And you do have the right to appeal against my decision.
+
+MS - Ok.
+LC - And details on how to do so will be stipulated in the letter.
+MS - Ok, ok
+LC - And we obviously ask for all equipment if you've got what you've got...
+MS - They're right here, so the laptop..
+LC - Yeah to leave that.
+MS- And the bag, ok no problem.
+LC - And if you've got anything else then just liaise with management.
+MS- Erm regarding the payment in lieu?
+LC - Uh huh.
+
+Page 22 of23-FM
+LC - CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06 23
+
+242
+
+NM/5 - Wold you please. an l please ask syu t send me an emai l with the details oaf whatever you know rt
+will be erm yu know you said so you inw of whatever Ti be receiving before leaving. And an l please.,
+please ask yu its very importantto get you know a work certificate you know so stating the fart that l started
+to work here on suh date and finish on suh a date and this is (0418} that's all Im asking.
+LC-Okyeah lan..
+MS - So work certifica te and please an email detailing you know what fl be getting so how many paid
+holidays that Ive got and not taken you know what am I receiving basically.
+LC-Ok
+MS - But beyo nd that the pass is right here.
+LC-Ok.
+MS- The laptop is here so I think I've got in it for you, so inside you have. here is the erm batter, the charger
+sorry...
+LC- Ok.
+MS - Here is the laptop, so it's all fine.
+LC- Ok.
+MS -All you have is another piece of paper here too, and here is the bag.
+LC- Ok.
+MS - Alright so I think we are...
+LC- Ok, yeah I will get a letter sent out to you and I'll get those details to yourself alright.
+
+MS - Ok. Sorry do you mind escorting me to ...
+LC -- Are you ok to walk him round yeah?
+DM - Yeah.
+LC- Yeah, perfect, alright, thank you very much.
+Meeting ends.
+
+Page 230f23- FM
+LC- CONITNUED EMPLOYMENT MEETING - MORY MARCEL SANGARE - 22 06.23
+
+243
+
+
