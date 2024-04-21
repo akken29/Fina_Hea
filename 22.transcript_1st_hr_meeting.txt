@@ -1,0 +1,3032 @@
+CarTirue Enrployment Meeting with Mory-Nara») Sargare
+Date:
+Location:
+Present
+
+20° 1ane 20z3
+Telephme
+May
+Mae) Sangare
+Laura Cooper
+D0avid Middleton
+
+LC:
+
+Employee {MMs)
+People Advisor {L}
+Management [DM)
+
+this meeting today, em, I know you sent me an email, so what we'l do is we'l go through that
+in a bit of detail during the meeting as well alright
+
+MMS: ok
+LC.
+
+!have reviewed it obviously pnor to this meeting but we'll just go through it just so that I an get a
+bit of info from yourself. So we've obviously got David Middleton who is the head of digital talent
+development sitting in this meeting today, and does advise yourself that you have the right to be
+accompanied today, are you ok on your own today
+it
+
+MMS sorry missed your last sentence
+LC:
+
+are you ok on your own today, you do have the right to be accompanied
+
+MMS: no, no its fne
+LC:
+
+ok perfect, alright so as it advises in the letter, I am looking to discuss concemns with your overall
+capability within your role as Dev ops engineer and that's specifically in relation to your failure to
+perform tasks in a timely manner, utilise our systems efficiently and to perform the tasks expected
+in your role to the standards expected. I just want to make you aware as it says in the letter, a
+potential outcome is the termination of your employment, so I just want to reiterate that before I
+start alright. So there are a few concerns I just want to go through so what I'll probably do first
+Marcel is l'II go through concerns that have been made aware to myself. And then once we've
+gone through all that we'll then go through your email, because there's a few points I want to
+discuss In a bit more detail with yourself regarding that
+
+MMS:
+
+no problem
+
+LC:
+
+So the first point in relation to what was brought to my attention, was that you seemed to struggle
+with the distributed version control systems, what's your thoughts on you know your abilities with
+that system
+
+MMS:
+
+I mean the ..... obviously the ........ we using Github full version control right, so you can actually see
+every single bit of code you know but I've been writing since I started, is all there. So when ..... you
+know In the statement I'm struggling with, I just don't get it because everything I've been writing is
+there, you know, every time I need to update some code I'm doing it from Github so, when l'm
+being told that I'm struggling, I mean someone's struggling to use Github or someone unable to
+push some code on Github unable to push some code, its absolutely not my case, I've been pushing
+code on Github since January so
+.
+
+LC:
+
+ok
+
+Page1of41.5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+167
+
+--------
+
+- - - ----~-----
+
+MMS:. wtyare the only thing l an thurl of was l think maybe it was 34 weels because yu know
+right now V'm workmg atyou know Arnold lark is using many douis, using from.
+the tp
+ofry head using mostly Azure and ANS, when 1 stared was told t artually use a language cafled
+Terraform t actually write the configuration for absolutely al the virtual private doud we have on
+AW, and r've been doing this for qurte some time 23
+7 the only remark l an think of was a l think
+34 weeks ago where as ! said when l first wrote the configura tion because Amazon is actually
+recommending t whenever we trying to write some pre-pieces which are actually private, lets all
+them private networks, so we have many private networks, so what they are recommending is
+actually trying t follow the modular approach
+LC:
+
+ok
+
+MMS:
+
+so instead of having all the configuration for absolutely all your private networks in a single fle
+which is actually risky, it is risky in the sense that you know, if you're doing anything wrong, instead
+of destroying one private network, you're going to destroy the entire networks for Arnold lark
+worldwide which is a catastrophe itself, so this is why from the get go l've been writing it in a
+modular fashion, and l also mentioned yesterday you know, I used to work at Amazon before, this
+is not the first time l'm writing amazon Terraform code for AWS and on top of that even when you
+go to TT school, any IT schools and these days before l actually recommended to write on code
+using .what do you call it, unobjected rented approach so some 4
+:24 and some spaghetti code all
+in one go you just need to break things into modules and this is precisely what l've been doing
+
+LC:
+
+ok
+
+MMS:
+
+now 3 weeks ago I recalled that I was actually ........I wrote it in the modular fashion, now I was told
+to move away from the modular fashion and have old configuration in the single file. The first risk I
+saw there was actually by doing that with a single mistake I could have basically destroyed all the
+networks for .....all the private networks for Arnold Clark AWS, which is you know something really
+bad and something very unprofessional so, I was taking a bit of time, back then I was taking hours, I
+wasn't pushing codes every day, because I was really trying to reassess the situation, how to move
+from modules I've been writing to something 517
+
+LC:
+
+ok
+
+MMS:
+
+so I was not pushing code every day and I recall my direct manager Claire, told me that I should be
+pushing a bit more often and I told her ok I will do so but as I did explain to her, you know I wasn't
+pushing every day because l was practically reassessing how to move from 5:35 to all in one
+
+LC:
+
+ok
+
+MMS:
+
+and one thing can I also mention is all the individual modules I've been writing for the VPC AWS,
+absolutely all of them are working perfectly
+
+LC:
+
+ok
+
+MMS: and they are good to operate now, so being told that
+
+551 1don't get it
+
+LC:
+
+ok, is that something that you're able to expand on David
+
+OM:
+
+so I think it helps if we narrow it down, so its not really about VPC's or any of the other stuff you
+went on to talk about, so I'm a 60
+3 engineer to trade, as well, ok, so when using Github I would
+
+Page2of41-ST
+Laura C/tune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20.06-23
+
+168
+
+have expected you t be doing multiple commits per day, so not just committing start of day, end
+of day or start of task, completed task we want t see your working as well so when Claire's talking
+t you about em, well commit every day and reminding you to commit every day its so you do that
+rather than send her emails and sreenshots and all that kind of thing
+MMS:
+
+no no, the I'm really sorry, the only time where I did share some sreenshots and an email
+with her, is when we were discussing the issue of the you know, of rebuilding the rTP server fr the
+company, that was the only time l sent her sreensho t and quite frankly you know, you can share
+de on Github but there is no 1 don't think there is anything wrong with sharing during the
+chat a saeensho t or a bit of text just to talk about something, I don't think there is anything wrong
+doing that, that's one, secondly, in terms of pushing the code on Github, as l save, I'm,if you
+check on the repository the configuration for all the VP's are done and they are working but as I
+said, moving from modules to a single file where you risk damaging absolutely everything, you can
+be pushing every 2 hours, { was basically trying to re-assess the entire thing, the 22 vPC'slwrote
+this is more than a thousand lines of ode so if you take anyone in here or anyone outside unless
+he's got an IQ way beyond comprehension, when you're trying to move from 22 modules and
+trying to get them into one, you can't be pushing every 2 seconds, you need to re
+assess what you
+did and trying to move into what was asking, and another thing I've got to say, these 22 modules
+and they're in Github right now when I wrote them in this fashion, the aim of it was basically just to
+have them what we call loosely coupled, so just trying to avoid them being tightly coupled
+together, so obviously when you have private clouds, each living in individual folders, some
+variables could be used in one specific project or folder....and being used again in the
+this is
+the problem I came to face because when we were to put, when I was asked to put all of them into
+one single folder, I needed to reassess the variable, I needed to reassess the ....you know all the
+results I created, this was not.......this is not a piece of cake, this is why pushing every two seconds
+or every two hours was simply not feasible, I was reassessing the entire thing and last week I've
+been doing that since last month basically and last week I actually had
+as I said its really not
+easy, last week I had a meeting with her to talk about that and I showed her the new way I was
+trying to ....the new path I was trying to follow to achieve that so basically I had to re-write the
+configuration for all of them because it was becoming unmanageable to be frank, I rewrote the
+configuration for all of them and when I finished rewriting the configuration for all of them,
+basically I was trying to merge these VPC two by two, so last week on Thursday we had a meeting,
+you know, the teams call on teams, and I did show her the full concept so I basically managed to
+merge, after re-writing the configuration after using this new methodology, I did manage to merge
+I think 4 maybe 6 all in one so the purpose of the meeting was no more because she saw it was
+working so the next step was doing it for all the others and if you check on Github, it turn out to be,
+not to be able to use, there is a new folder called refactoring and inside that folder you'll find 10
+groups, so, I've been, what I've been trying to do right now was to actually
+what I've
+achieved right now was inside every group you'll find the merge folder to which you have basically
+the configuration that its merged and working and I was moving to the next step, so, there were 22
+........ 10 and then Sand so on after the point I would get to a single configuration that is safe for the
+company and AWS and that's all I was doing and this is what I mentioned you know, I mentioned
+that yesterday I even sent a screenshot, you know when you taking the calls for the cloud architect
+on AWS, they do not recommend you use, first of all telephone calls because it's a risky
+.its a
+risk, you can destroy your cloud asset, so all l'm trying to make here aware of these, l'm not
+struggling with Github and secondly moving from the modular approach to an approach where you
+have everything into a single file, you need to be careful, you know today we could have been here
+because I would have inadvertently destroyed all the asset of Arnold Clark on AWS, how would we
+have caught that, that would have been total incompetence and in the email I sent yesterday it is
+the same thing I've been talking about again and again, when I was asked to write to rebuild the
+SFTP server, and this is why I mentioned the fact that its not on my CV but here it is you can
+
+Page 3af41-5T
+Laura C/lune 2023 /Continued Employment Mee ting with Mory-Marcel 5a ngare - 20-06-23
+
+169
+
+properly cherk, l got it from Harvard university you can see, T'm literally you don't need to take my
+word for it, T'en literally the only person that came cut from that, fram Harvard university with a
+periert sore, its right there
+DM.
+
+thats not the issue at hand,
+
+MMS:
+
+no, no, no I'm getting there, so what I'm trying to make you aware of is you know, in everything I've
+been tying to do, l've been trying to bank on the knowledge I have and I have been trained to help
+the interests of the company at hand, the SFP server for example, was asked to rebuld, the de
+is there, as you can see, the incident would have been fully secure, the system would have been
+able whether you wanted to create 10 aunt or 10 thousand to create them automatically
+without zero intervention, because its 500 fines of code and on top of that, I was, we were both
+trying to avoid copying the password from the old server into the new one which is unprofessional
+and which is something you don't do after a cyber attack so when I'm talking about that, it might
+not look like the issue at hand but when you're doing your job you need to bring first of all what
+knowledge you have and this knowledge can be coming from your work experience or your
+integrational level and secondly you need to be having....you need to have interest of the
+company at heart, this is why I've mentioned all these things so the two main tasks I was given to
+deal with, rebuilding SFTP server and dealing with the amazon cloud, it was always done in the
+direction of having it being efficient and not breaking anything that's all 1 was doing
+
+LC:.
+
+can !just ask just kind of for my understanding so David you may need to assist here, so is what
+you're saying in terms of when you're being asked to do a task with specific systems you feel that
+those systems that we're asking you to use could result in a risk to the business therefore you're
+taking it upon yourself to use another system
+
+MMS:
+
+no, no, this is not what I said
+
+LC:
+
+no, no its just I'm just trying to
+
+MMS:
+
+ok, I'm going to repeat again, t was given mostly two task in here, the first one was rebuilding the
+SrTP server, so the SFTP server is basically used by Amold Clark to exchange some files with
+external partners. Now as you know we got hacked and the company got an encroachment breach,
+so after an information breach unfortunately you need to consider absolutely all your assets are
+suspicious so I'm aware that the remaining servers we have were scanned but you know despite
+the fact they were scanned, when I was asked to rebuild the server I would have never even
+thought about copying the old passwords from the old server, to move them across to the new
+one, why? Because first, as of now only limits access we have, we don't have central application we
+don't have you know, our windows servers the one are using I think Delta, on the Linux side we
+could have used something like 1
+456 or even 1
+4:59 but we have no central application on our
+servers and despite the fact that these servers were scanned, when I was asked to rebuild and no
+specifications were given at that stage, but in my understanding when you are being asked to
+rebuild the server, in an environment where there is no central application you don't copy the
+password across, this is a lack of professionalism and this is risking the business after the cyber
+attack and this is why that piece of code you saw, it is, it was basically rebuilding the server and
+generating some passwords of 70 characters which is extremely hard, to break even with a cluster
+for every single customer's automatically, in the old servers we had the password were generated
+manually which was making management of that very difficult. On the new server, not only the
+server was fully automated I mean in terms of building, in terms of generating the password
+the
+methodology I've used is basically, there were two keys generated, one key is given to the user, you
+used that to authenticate and there was one key staying on the server, that is used to actually
+
+.
+
+Page 4 of41-ST
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+170
+
+authenticatethe one being used by the customer and the key staying on the server, i mean for
+sumneone t get aess t that, that person will need t have 1625 expert which isfeasible but
+then again you know not within the grasp of everyo ne so, when I was rebuilding that server l was
+not ignoring the orders given to me, absolutely not, just happened with my bagro und in cyber
+security l just happen to know a lot of cyber security and everything l mentioned there, that's wty I
+brought hat.
+not to show off, 'm not trying to show off, but ! do hold it and l'm that person,
+so, when l was doing that, to me, it was unthinka ble to do that, now when l wrote that script as I
+said one of my colleagues, Mr Jason White, I've mentioned, he came forward and said that we an't
+be using that suipt against, Ansible and you know, against Ansible, unfortunately this is not true at
+all, and during that meeting ...beca use my boss actually made me aware quite a few times that
+she was not necessarily familiar with Ansible, but when you're using Ansible to deploy on a server,
+there are two kind of programme you can use, you can use the Yam! configuration or you can use a
+bash script, now I've been using Linux servers for almost 30 years now, I'm not the kind of person
+that will be writing the script down for example, if that was the case I wouldn't have been able to
+handle all these large customers I was handling at NCR fr all these years and all the other
+companies before, so my..as l said, l was told, Marcel you need to rebuild that server. That
+server will be exposed to the outside world, we've suffered a cyber attack so what do you do, lwas
+not copying across the password so, what was trying to say here is when my colleagues told me,
+when first of all he said that we shouldn't be using bash script which is not true because all our
+Linux servers use bash script for the management and when he said that you should be copying the
+password during that meeting, my boss was there, I tried a little bit to say that was not a good idea,
+but again ok I was told ok you do that so I did it and even for the copying of password for both
+SSSG's and password from the old server to the new one, the approach that was committed by my
+colleague was a manual one, on our servers right now, I wrote two script that are automating
+process and this is the link I shared, so on the link I shared you can see there are 4 lines in red,
+these 4 lines in red were the lines added by my colleague and I left them there so that during the
+call they could see what his idea was and what I did, that's all I did. But, unfortunately, my boss,
+wrongly assumed that this task was a failure, its not true, the code is right there and I left his lines
+on purpose
+LC:
+
+and I think from speaking with David, I don't think like in terms of that specific task that's not of a
+concern for us, that wasn't something that you were concerned with that task that Marcel's put
+forward was it
+
+DM:
+
+no, we're not asserting that it was a failure either, we're saying that it was no longer required,
+however, if I could just point out a few things, Jason White wasn't saying you couldn't use bash
+scripts in the absolutist term, the part which I think is the core of the problem here is you were
+employed as a infrastructural code engineer primarily to use Terraform and Ansible, there may well
+be bash scripts in there already, there absolutely is, however, the entire point of your role being
+created, and the strategic objective of the department is to not use bash script any more. So the
+struggle that I have is when Jason said that to you why you didn't get on board with the strategy,
+why
+.
+
+MMS: this is a very good question,
+OM:
+
+the reason you just gave there was Claire and Jason are 20:18 and that's
+
+.
+
+MMS:
+
+no, no, sorry just around that specific point, maybe you were not listening when I was talking and
+its written there, when as I say the first thing I say is I went for the bash script, not because I can't
+use yam! files, no, because there were many things to do and doing the same thing, using yaml file
+we've created the file is massive so when we had that meeting where he said, because what he
+
+Page5 of41-sT
+Laura C/Jure 2023/Continued Employment Meeting wth Mory-Marcet Sangare - 20-06-23
+
+171
+
+said, firs of all 1 was never made aware of the fat that the mpany was ending use bash, and if
+the company is not using hash from now on, it's a state, it wan't be able to do the administratio n
+tut that was not tie pint, he saidthat using the 2100 was not possible, I wrote it down, this is not
+true. That's one, secondly, in the email sent, when he said that we shouldn't be using bash script,
+l tried to explain myself as to why l used bash script and the bash script
+.bash is code, we're
+not talking about 21-17 de, bash is part of it,just t be dear, so when he's said that, I rewrote the
+entire script using Ansible and I have this fle in py of the email l sent,
+on Githab to and that
+code was also working, when i presented that ode again, there were many parts for it, there was
+one part t configure the SSSG's for the custom ers, there was one part configure the password and
+there was also one part to deal with the security because if again we were to open that server to
+the extemal world you know we needed to be a minimum careful, and I rewrote that its attached
+that email in yam! but when we reviewed that code with him, he deleted most of it and this is when
+he insisted on the fact we will transfer the old passwo rd from the old server to the new one and
+this is wty l've been insisting on the fact that, for someone who graduated from Harvard university
+for someone who's been working in IT for almost 20 years I've been using Linux for 30, to me that
+was a bit of a shock, I tried to say that maybe this is not a good idea, I was not listened to and you
+know what ! did, I complied and the compliance and the act of compliance is precisely what l'm
+talking about you know, that link I sent where you can see 4 lines in red, this is precisely what I was
+22-4 if you look at the bottom of it, you can see the hash of the password which was meant to be
+deployed on the server using Ansible, this is what l've been saying from beginning, I wrote it
+personally I felt I was I felt bad about it because as I mentioned, in my mind doing that and with the
+salary I'm receiving here in my mind doing that was not having the interests of the company at
+heart but 1 was asked to do it I didn't argue with anyone, I did it, and this is what l said, thankfully
+its recorded so you can listen to it and its written there. So, I didn't refuse to do that, I didn't
+refuse, absolutely not, I did it even though it didn't feel quite right, and when I did it what it told
+me was ok you know its not the 23:38 task at the moment, we have time, we will review it later, so,
+after that I moved onto the Terraform task, yeah so this is what happened, I've not refused, at no
+time I was told that using bash is against the company interest, because if that were the case, the
+company wouldn't be using Linux, as far as l'm aware you can go online, get checked the offshore
+documentation. When you want to deploy on a Linux estate you can either use yaml configuration
+or bash scripting. I understand that most people are not very good with bash scripting, I know I'm
+aware of that and this is why when they said so I moved to yaml file, but I happen to have a colossal
+experience with bash scripting and even Jason himself if you ask him will tell you that. I can write
+some bash scipt to do absolutely anything. I've been using that language since when, 1993? Almost
+40 years now, so I sort of know what I'm talking about you know so I'm not deficient in Ansible and
+I've never refused to do anything that was asked from me, I always did it even though, this is what
+.....even though I had my fears, I mean try to put yourself in my place, I'm the only person alive that
+came out from Harvard university with 100% cyber security you know, I'm well known, at least in
+my circle of friends and so on, and I come to work for Arnold Clark, and I am copying password
+after a cyber breach, I'm copying password from an old server to a new one, how would you feel if
+you were
+i
+ts
+
+LC:
+
+did you raise concerns about that to management at all, that you felt that you weren't comfortable
+with the process and your concerns
+
+MMS:
+
+this is what I mentioned during the meeting, during that meeting even Claire couldn't utter a word,
+Jason was shouting at me, now when you hear me talk in here, do you truly believe that I couldn't
+shout back, I can, but this is not polite, this is not the way I was raised if you see what I mean, and I
+also mentioned that but during the meeting my manager is there, he is first of all telling me that
+the way I'm committed the security on the server which is the same used by Amazon to this day,
+for AWS, he told me that this is not what Amazon is doing is wrong because Amazon doesn't know
+
+Page 6of41-ST
+Laura C/June 2023/Continued Employment Meeting with Mary-Marcel Sangare - 20-06-23
+
+172
+
+what they are doing, are you kidding me, are you kidding me, Amazn doesn't inow what they are
+ding., Tm not a fanatic of Amazon there are many things they are doing wrong, happened t have
+worked there but jesus hrst, in tens of ayptgraphic key implem entation they do know what
+they're talking about, if you see what l mean, so when during that meeting he tld me that using a
+bash sript is not real Ansble whirh is a fie by the way, when he tld me what Amazon don't know
+what they are doing and when we moving from and it's a 26:26 when we moving from that yaml
+le where I'm trying t take into aunt a minimum of security , to a point we're copying old
+passwo rd across what do l do after that. My boss was there when the meeting was on, what do l
+do, l committed the solution even though l was tom apart inside, I committed the solution
+LC.
+
+and at that point did you raise ike your oncems that you maybe weren't comfortable with the
+process
+
+MMS: this is what l'm saying, this is precisely because that was wrong to do so, that, when l was told, with
+zero instruction I was told rebuild the server, I did rebuild the server, I did commit some,l even
+presented you know what I have my computer here, I even .. regarding that specific task, I even
+presented to Claire and Mr David Moffat, that was in January l even made a presentation during
+which I showed them how I rebuild the server automatically, how we will have a script that could
+build, can you imagine, a script that could build...the server itself, if we have 100 new partners,
+that are coming along and saying ok you know we need 100 accounts right now, you log onto the
+server, you launch the script, all you need to do is just choosing their user names, and the user
+name you choose, you know what if that is one of the user names is already in use the server will
+let you know, the code is there but it will use these user names, building password with the length
+of at least 70 characters its in the code there and then once we its finishing that you'll get on your
+home directory the folder into which a primary folder, inside that primary folder if for example we
+are A B and C, you will have A, inside A you will have the user name and password to use, the user
+name password and key to connect to the server but the key I'm talking about is not the key that is
+on the server that one stays there and that was it, that part was all about streamline the process.
+When you're working as a Devops what is your game, its automating as much as you can and also
+you know being mindful of the statutory security but the code was written in that sense, I'm being
+told that you know Ansible doesn't use bash which is a lie, I insist on that right, I didn't discuss, I'm
+being told that the Amazon methodology l'm using is basically not right you know, my boss was
+there, what do I do, I'm committed the solution
+DM:
+
+I think we keep going round the same things, fundamentally what the team were saying was you
+weren't following the strategy of the team and your position is that it wasn't right. I think basically
+
+MMS:
+
+look I think you are not listening to me, I was following
+
+DM:
+
+I definitely am listening
+
+MMS:
+
+no no,
+
+DM:
+
+but you keep on bringing up parts that we're not contesting
+
+MMS:
+
+no no, I'm sorry when I was given the task I was just told rebuild the server that's all I was told, I'm
+repeating myself again, when I was given the task I was just being told rebuild the server, that was
+it yes ok and when I was told
+.
+
+DM:
+
+none of this is in contention that's my point
+
+Page 7of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory·Marcel 5angare - 20-06-23
+
+173
+
+MMS: oak ok but as you don't seem to get it s T'm repeating here, so when l was tid that, i rebuilt the
+server using the you inow the rerommended proced ure is what T've been saying then my colleague
+Jason id me that firs of all ior having written the script in bash is a mistake, because Ans@ble
+doesn't use bash whuh is nct true, when l phone l said, secondly he told me that the method I was
+putting in place which was generating two keys was not right even though it is,identical to what
+Amazn is doing because Amazon doesn't know what they' re doing, that was second, third point
+it
+
+DM:
+
+we've gone round this again and again, what the team are saying t you is,isn't in the specifics of
+Ansible doesn't use bash script, the point is we don't want you writing bash scripts
+
+MMS: yeah and what t'm telling you is when I was given the task l was never told that you shouldn't be
+using bash script and when he said so during that meeting, I rewrote the whole thing in Ansible
+instead, it's a fact that, in yaml sorry
+DM:
+
+I understand that, but that was the first task just after you started with the business
+
+MMS: ok
+DM.
+
+we didn't talk about it in a statement we spoke about it in the second part, what we also spoke
+about your use of Github,
+
+MMS: ok which is the repository is right there
+OM:
+
+which doesn't have the number of commits that I would have expected, its got a fraction of the
+commits that I would have expected
+
+MMS: ok and as I told you l was refactoring more than a thousand lines of code, this is not......
+DM:
+
+which I would like to see intermediate steps from
+
+MMS: ok ok but what I was doing
+DM:
+
+.
+
+Which is what Claire asked you to do on a daily basis
+
+MMS: and I was doing it you know, when I was
+DM:
+
+every day
+
+look, lets be specific, you didn't do it because Claire had to ask you every single day
+
+MMS: no not every single day, no, she asked no no sorry
+OM:
+
+many many days then I don't have the specifics to hand,
+
+MMS:
+
+I do have the specifics
+
+DM:
+
+more days than is acceptable
+
+MMS:
+
+she was not asking me that every single day, no this is not true and I have a screen shot of that as I
+said when I moved from the modules to a single file you know you need to realise the situation, this
+is code, you understand
+
+DM:
+
+1do understand yes
+
+Page 8 of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+174
+
+MMS:. so you do mienstand that s, moving from modules t a single file, it takes some reflection, and
+this is when tar and! first spoke about this is what t told her, l said ofcourse l agree with
+yu but the thing is I'm just trying to reassess the situation and when l started to reassess the
+situation ! was making some changes and these hanges l was pushing on Github that was through
+the consequence of the work ! was doing on my local machine every single day, this is what l'm
+trying t tell you
+it
+
+DM:
+
+yes but that needs to be pushed up
+
+MMS:
+
+but what i'm trying to tell you is l'm not a computer, I'm a human being just ike yourself
+
+DM:
+
+andl'm
+
+MMS: so when t'm trying to refator 1000 lines of ode you cannot expet me to push every two seconds
+DM:
+
+no, but l expect you to push broken code to show your working and thought process so that we can
+all collaborate together to create the right solution for the business and that's the part which we
+fundamentally think you're not understanding
+
+MMS: no, I think you are not listening to me you're just trying to confirm the fact that l can't use Github
+which is not true, I'm sorry as l said its 1000 lines of code, ok, when you have 1000 lines of code to
+refactor into a single file it takes some time...it takes some time even to modify, so I spend a lot
+of time, if you look on Github for example, every single, ......the code you'll find most of it and I
+can bet my life on it if you want, is very robust, it is working but the
+.
+DM:
+
+lets not look at this in contention this particular...-......
+
+MMS: but what I'm trying to tell you is, I'm not a computer, I'm not a robot, I'm a human being, I take the
+code I visualise it I analyse it, I try to find where I can modify it and once I find it I modify it and
+push this is what I've been doing but I'm not doing so every 2 hours, no
+LC:
+
+so what's the expectation like how often would the expectation be to push the code
+
+DM:
+
+we're expecting something around 5-6 times a day
+
+LC:
+
+and would you say that that's something that you do
+
+MMS:
+
+I don't know but as l'm saying again, as l'm saying again, I am not pushing because the other thing
+is, to actually counter what you've just said, if I was not actually sitting at my desk and thinking
+about these things how would you explain then the fact that I went from one version of the code
+maybe in the morning or the previous day that is not working that is not complete to a version the
+following day where there is maybe a new file that is added with modifications that I explained
+what happened previously, it is because there was some brain work in the middle, all I'm trying to
+tell you is I'm not you, you know, I'm not a computer, I'm just a regular human being who needs to
+analyse things before making a change, and that's all I did
+
+OM:
+
+so my challenge back to you, I'm trying to help you here by narrowing down the scope of our
+conversation,
+
+MMS: ok
+
+Page 9of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+175
+
+DM:
+
+we have a team that you're rth ofaps engineers ok
+
+MMs. ok
+
+D0M:
+
+18 product squads, around about 100 engineers in the department and they an all work in the way
+that I'm suggestingyou should be working and you're suggestingyou must work in a different way
+
+MMS:
+
+no, no you are not one more time and have to insist on that, this is where its good its
+recorded, you are not listening to what Km saying, what l'm trying to tell you, what l'm desperately
+trying to make you understand is when you have to refactor more than parallel fines of code which
+are written in the modular fashion, t a single fle, ok, you cannot do that just every . like a
+machine, every two seconds, maybe 3510 an do it but l can't, l'm sorry but that's 35:13 what
+tend to do is taking the code I have, analyse it to make sure I'm not breaking the company
+infrastructure because this is another thing you forgetting, I've been telling you that when l was
+told to and l also wrote about it,when l was told to ....move it t a single file, I also tried in a
+quiet voice to raise the fact that putting all of it in a single file is actually a risk because if someone
+who is not me, were to take the code and even run some test he would run the risk of breaking all
+the VPCs so all the virtual private doud networks for Amold Clark on live worldwide, don't you
+think this is a risk that requires you to really carefully analyse every single step you're taking and
+this is what l was doing and as l said the people you're talking about maybe they're just refactoring
+some things they've been working on for maybe for months or years at hand, I was trying to move
+from the modular structure to a unified one and this is not easy task, it requires a lot of analysis
+and I don't know maybe you have the brain power to do so in two seconds, I don't so I take the
+time to analyse this
+
+DM.
+
+that's not what we're contesting again, we're contesting your ways of working and what you're
+telling me is that your ways of working as described by Claire and your team are correct, you aren't
+working in a way that they work, which is we don't........
+
+MMS: yeah because I'm not thinking the way they are I don't agree
+
+.
+
+DM:
+
+we have 100 people outside who ......do it in this way
+
+MMS:
+
+I'm not talking about 100 people I'm talking about myself, sir, with all due respect
+
+OM:
+
+I don't want you to commit the finished product, I want you to commit in bits, so I want to see the
+fact that you go down an alleyway that doesn't work, you come back up that alleyway and go down
+a new alleyway
+
+MMS:
+
+ok but then the question I'm asking you, is as I told you what I do is, I have the code in front of me
+on a rather large screen, I try to analyse it, I'm trying to make sure that whatever change I will
+bring, because whatever change I will bring won't be breaking all the VPC's because this is ..... the
+precisely
+what I was doing, the size I was taking, that was one of the risks so I identified, so
+what I tend to do is I'm telling you I have the code in front of me, I look at it carefully, I go down
+and analyse the integration amongst all the parts, and once its all clear in my mind then I'm trying
+to make some modifications, I test locally and when it is working I push this, that what I've been
+doing
+
+DM:
+
+but that's too late,
+
+.
+
+Page 10of41-5T
+Laura C/June 2023/Continued Employment Me eting with Mory -Marcel Sangare - 20-0 6.23
+
+176
+
+MMS:
+
+but this is not to late, this is our assertion beause.
+
+DM:
+
+irtsan assertion
+
+MMS: what l'mn trying t make you understand
+might have a different brain ok, ok, so what I'm trying
+to do is, you cannot ask me.what you're telling me here is I should be thinking the same way
+you do, I'm not you, 1 have a different DNA, I have a different brain and I happen to also know what
+T'm doing the proof is there, so you an't ask me t be coding the same way you do, I'm not you,
+I'm a different person
+is,
+
+LC:
+
+think in terms of the department because correct me if l'm wrong again, you work as a team,
+therefore there is the requirement to Ike you said push it every like several times a day
+because then that point the teams management .....-.
+
+MMS: we have the logs and this is what l'm trying to kill myself saying is this is what l've been doing, I
+could not be pushing every single second, I was playing with the integrity of all the virtual private
+cloud on AWS, this is not easy task ok and the point you're trying to emphasise you shouldn't be
+emphasising this point because if we were ft in good faith, we should be looking at the result,
+every single day.at the start of the day you see the code in a certain state, at the end of the day
+you see it in a different state, that is fully operational that is coming with improvement, this is what
+we should be focusing on, we not focusing on the result here, you asking me to think like you, I'm
+not you, and I will never be
+LC:
+
+1don't think it's a case of that you're being asked to think like anyone else its just that in terms of
+the department, there's processes that we require you to follow in order to work collaboratively
+
+MMS:
+
+that's what l kill myself to make you understand you know we would have been having that
+argument if the job was not done and I was sitting home daydreaming, this is not the case, I have
+and you can check the logs, I happen to be most of the time the one logging in first, I very often am
+the one logging in last and from one day to another you can actually see some massive
+improvement in the code every single time, I'm sorry this is how I happen to think and work, you
+know, I analyse things, I think I work them, I look at them I try to work the interaction and once l'm
+sure that's not going to break something then I start to modify and when I finish the modify I need
+to insist I test on my machine first, when its working then I push it this is what I've been doing and I
+don't think this is a crime, there is no way in my contract where its written you know, in my
+contract as an employee of Arnold Clark, my aim is to get things to work at the end of the day, so at
+the end of the day everything I've been writing for the past 7 months is working is there its got the
+interest of the company at heart and you can see that and what you're telling me is you should
+have been modifying it every two seconds and I can't, its not because I'm lazy or stupid, maybe you
+might think I am but my code can attest for me, I'm not stupid, I'm not lazy maybe I happen to
+think differently from you that's all, and its not a crime, because we should be looking at the result
+here, the code is there, jesus christ, the code is there, its working you can see some improvement
+all the time you don't focus on that, you focus on the fact that I should be coding the same way as
+other people, no this is not right, this is clearly not right
+
+OM:
+
+so when this particular session you're correct we're not looking at the result because the results
+aren't what we're talking about just now, you are an employee of Arnold Clark, a member of the
+Arc ops team,
+
+MMS:
+
+yeah
+
+Page11of41-5T
+Laura C/lune 2023/Continued Employment Meeting with Mary-Marcel 5angare - 20-06-23
+
+177
+
+DM:
+
+and yu have t wrkwith those people
+
+M1MS: T'm woriing-
+
+DM.
+
+working a solution and provide workings at the end that's not
+
+MMS: no no and this is what you're saying is also not true because they are not
+DM:
+
+whirh part is not true, I've been writing software sine I was 10 years old
+
+MM5: ok for me its all the same, don't worry
+DM.
+MMS:.
+
+which part is all the same
+no no writing ode from a very young age, don't worry for me, its exactly the same thing, if you
+
+want I can even tell you something not related that I happen to have built a rather powerful spare
+computer too, you know, most people would not believe that but you know you've been writing
+code since you were 10, congratulations for me its all the same so all l'm trying to make you
+understand here, what l'm trying to make you aware is talking about you, I'm not you and I would
+never be,
+
+DM.
+
+l'm not..-..
+
+MMS: what you should be judging me on is the result
+DM:
+
+no that's absolutely the assertion that we're trying to get across to you
+
+LC:
+
+the concern isn't the result the concern is the way in which you work
+
+MMS: but every day every single day for the past 7 months, we have a daily meeting in the team.....every
+single day, during that team meeting we contracted all the other colleagues and so on, every single
+day I happen to talk to Claire or the others, I'm not working in isolation, from the moment we have
+a meeting every single day ! must be working the solution, so this statement is also not.........its
+mathematically incorrect. I'm taking part in the meeting every day, every time I have a massive
+issue where I really don't know where I'm going I would try to get..
+talk to Claire, Greig or Zoe,
+but once I know where I'm going I will just focus on my work, so what do you want me to do then
+like while I'm focussing trying to make sure I'm not destroying the entire infrastructure world wide,
+you want me to go and chat about coffee, no, I won't be doing that, no I'm focused on my work,
+and this is not a crime,
+LC:
+
+we're not saying that's a crime, the concern is and again, chip in if I'm wrong, the requirement is
+when you're working within the team that you need to like every day like 5-6 times a day l think
+you said, to like push the code whereas the concern is that you're not
+
+MMS: what you've just said right now because the gentleman here is telling me that he's been
+programming since he was 10, as I say congratulations to him, I have been in the same situation,
+what I'm trying to make everyone aware of is at no time, you know you cannot tell me that because
+I'm not pushing code 5-6 times a day I'm not working, this is not true, you can see changes every
+day you can see that every time I am pushing there's some massive improvements so to go from
+state A in mathematics to a state B that is different, you know when you do B minus A you see the
+gap that gap didn't come from the sky, it was brainpower behind it so you cannot be saying that,
+
+Page 12of41-5T
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.-23
+
+178
+
+because what you should be keeping in mmd iswas l workimg,yes l was, did l have the interests of
+the mpanyat heart, yes I did
+LC.
+
+we're not disputing that you not working its just the
+
+MMS. but you cannot be asking me t be thinking ke everybody else r'mn not everybody else
+LC:
+
+no we're not asking you to think like everyone else, we understand that everyone else works
+differently but in terms of when you're working within a team there's certain processes that you
+need to ensure that you are following to ensure that the team and the department works well as a
+whole, one of which is pushing 56 times a day
+
+MMS: what l'm trying to.....what becauseyou know, what l'm trying to make you aware of is
+this is precisely what I wasand the code is there to show you that, now the fact that we've
+spent the last 30 minutes trying to make it appear as a bad guy because t'm not pushing 5 times a
+day this is wrong
+LC.
+
+its not a case of that we're trying to make out that you're a bad guy, I'm just trying to have a
+conversation with yourself and to determine....--...
+
+MMS:
+
+Iknow, know, this is why this is good this is recorded, we should be focussing on the result, the
+result is there.....-.
+
+LC.
+
+and again we're not disputing the end result,
+
+MMS:
+
+the result is there how can I be blamed not to be thinking like everyone else, so do you also want
+me to look like them or something
+
+LC:
+
+no that's not... .....
+
+MMS:
+
+lets make things clearer here, this is why I brought these two folders, madam, maybe its not clear
+on my cv, I didn't write all of that, I happen to have Sor 6 degrees,
+
+LC:
+
+you know, that's not something we're disputing
+
+MMS:
+
+one of them being in artificial intelligence and so on, at my place at home, and I spoke about that
+many times to Jason and all the others, I have a super computer at home that is just as powerful as
+the one using here at Arnold Clark for visualisation, do you think it's a common person doing that,
+no, its not a common person doing that so, I cannot be asked to think and act like everyone else no,
+this is wrong, this is wrong, what I should be asked rather is do you have the company interest at
+heart, yes do, are you qualified for it, way .......I'm very qualified for it, so l'm not being arrogant
+here, l'm just trying to be honest about that ok and did it work, it was working so what are we
+doing here, you want to know more, because you were coding when you were 10, you know I also
+graduated from Oxford university, its right there and I came out top of the class too, you want to
+know more, so ......you want me to 46:54 1 am not you, I will never be you, l don't even look like you
+but I happen to think differently, I can't be blamed for that, what we should be caring about is the
+end result, you have someone here, there's VPC's its more than a 1000 line of code, have you
+...you can go up on the log and check, that was written at a very high speed, most people wouldn't
+be able to write 20 VPC's in a couple of weeks, they won't be able to manage that ok, I
+was......you're talking about my colleagues, when they are sleeping l'm working, you know why,
+because maybe it will sound very unprofessional or something but I really didn't want to disappoint
+
+Page 13of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+179
+
+Clair beause I file her very murh as a person and as a manager ok, so, here you have samepane
+here, maybe the only crime IT've committed is to be maybe not an idiot, t don't #now, Tm just trying
+to think, l ires myself 100%, when my colleagues are sleeping l work, when they are working IT'm
+working, this is why you see these massive changes in no time, you know and! happen t be
+thinking differently sorry, you know, you old me you started to de at 10, l did the same, maybe
+you have 6 degrees Ike me, ok, 1 an even tell you something else you know you're going t ask me
+so if you've got all these things, you know, wty did you come to Scotland my daughter went to
+university aged 11, she got her bachelors degree aged 13, and her masters at 14, do you think
+that's a good reason enough to come to Scotland and work, yes, it is and all these details I'm giving
+you are just to show you that i am not everybody else and i will never be but what we should be
+focussing on the end result, what is the end result, what is the result and the result was reached
+LC.
+
+its not always about the end result though because there's processes that we've got in place or
+systems that we've got in place
+
+MMS:
+
+madam, I'm killing myself here you know, I was following the processes no, even when l was to
+...even when I was told to act, in fact contrary to the company interest I did try the best I could to
+make them understand this is not right, in the end I complied so you can't be saying that l'm not
+following processes, l am, even when it is hurtful to the company, so, I am really sorry if happen to
+see things other people don't, I been following you know, its today, its since.....all you read in that
+paper, what you're reading in that paper I wrote this yesterday, I wrote it yesterday but before
+yesterday no-one knew, I never said, I tried as best l could to say you shouldn't be copying
+passwords, its against company policy, when ....its against the company interests, the first time I
+said so, my colleague told me ok, eh, don't worry you know, our servers are safe. You want to
+know why I'm the only person alive that came from Harvard with 100% cyber security, it is because
+I know how to break in servers and fairly easily, so relying on SSH or 50.02 for the security of the
+server is a mistake, it is a mistake, there are many ways you can break into server and I happen to
+know that this is why I was trying to tell them please lets not copy the password, no-one listen so
+why you not emphasising this point, who is breaking the company interest here, me, or the people
+who are actually acting unprofessionally, you not raising that point. I also told you about moving
+from the modular approach to an integrated one, so as you are a coder yourself, so we're moving
+from object to spaghetti code, its not right
+
+DM:
+
+so at that point there, so to bring the conversation back to something else, you're talking there
+about your current task which we've run down on that document there, the assertion of the team
+including Claire is that that task should have taken you 3 days and it has not
+
+MMS: yeah
+DM:
+
+explain why
+
+MMS: yeah and as I said the code is there, the first time I wrote the configuration for 22 VPC's and this is
+more than 1000 lines of code which is right there and which is working, it took me a few days,
+which very few people would be able to manage
+OM:
+
+I didn't ask you to break it down
+
+MMS:
+
+no no, once again I will give you explanation, that was first day, so what I had to move as I said,
+from this modular approach to the fact where I had to have everything in a single file, that was not
+an easy task and it was also risky, so every single step I was taking I was even during my own work, I
+was trying first of all, because when you're using Terraform you can destroy the infrastructure, I
+
+Page 14of41.5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+180
+
+was first of all trying t be careful nt t break things an maybe you mght not kn abutthat
+but I've been building many digital tools t actually help me improve the pross t make sure
+nothing isbroken, but its not an easy task t move from the prjet designed t be objert oriented
+t something looking Ile spaghetti cod is not easy, and i'm sorry t..
+one mare time
+DM:
+
+you've just said something there I didn't know about, you said you created a number of digital tools
+t help you with this task, what is that
+
+MMS. really simple, when you're working with Terraform for example, when you wrote the 5224, so if
+you have a given so that VPC is within a folder
+
+DM.
+
+right
+
+MMS: when you're making some, if you happen to analyse the code and you see that the modification is
+needed at that point, when you make that modification and once you start testing so you run
+Terraform, if you haven't already done so, 52:47 so initialise the directory Ternraform to import the
+52.53 resources and then Terraform blank, when you're doing that, if it is not working if it is not
+working because I happen to work on the common line what most people will do is maybe open a
+second folder, and just try to list all the fles with LS 52.08, ok, removing whatever need to be
+removed, and start over again, that process was automated so when l'm writing Terraform plan,
+when it is failing the logs are stored somewhere and then all these files are deleted so that l can restart all over again, by doing that l was saving quite a lot of time. in terms of how these files are
+written, the first time I managed to write these 22 VPC's in such a record time, it is because Zoe
+and Claire can attest to that, l actually happen to have written some code that is able to generate
+some Terraform 5343 so the first time I tried was writing some python code, I could actually write
+the entire Terraform thing, it was too complex I didn't have enough time so I wrote something that
+is able to generate the code block by block, this is why these blocks are so robust and this is why all
+of them are working
+so all I'm trying to
+make you
+and the first time I even mentioned
+that idea in the team, I recall and she said so in very good faith, she's someone very nice, I have to
+insist on that, but Zoe told me, this is overkill, ok, understood the point so, I skip down the beat
+my ambitions but most of the task I have been doing the reason why none of this code is failing, it
+is robust, its working, its because I happen to have built while people were sleeping, some tools to
+actually get rid of all these little step of action you taking here and there and at the end of the day
+which will give you an hour or two, so what l'm trying to make you aware of is, in everything I've
+been doing, my first, myself maybe its likely to arrive at something but my first aim, was first of all
+not to be a disappointment to my manager first and secondly, having the company interest at
+heart. When I had some reserve about things I tried to speak a bit I was listened, I was told to do
+things that way, most likely hurtful to the interests of the company, I tried, I was not listened to so l
+complied, so I cannot be told I'm not complying you know pushing code, as often as the others, no,
+the end result is there you know and in terms of coding, someone coding is someone using his
+brain, my brain
+Maybe this is the case that my brain might not be that you want, the same as
+other people, maybe this is just the case, its not a crime, you should be looking at end result
+DM:
+
+you just created a tool though to spit out Terraform on a fly which is against the strategy of the
+business, we asked you to make yaml, you put it into a pipeline
+3 days work
+
+MMS: thank you very much, so this tool I told you about
+OM:
+
+rather than doing the took the team would have preferred you to actually finish the task
+
+.
+
+Page 15of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel 5angare - 20-06-23
+
+181
+
+MMS: ok and this is what I'm telling yu, as 4 wasjust saying, when t wasworiing during the day, during
+the day working fik everyone else, during the night and this is nut a crime one more time, Tm
+tying t work on this kind of digital tol, s again use t atally alerate my work that's all r'm
+trying t say here
+DM.
+
+we're not contestingthat, although I do worry working all day and all night on a regular basis is not
+good for you
+
+MMS: 1know, I know but.n this point you know what, 'm not going t even argue on that poit,
+you're rght but they are two things here, to be precise the first thing is and Claire is aware of that,
+early this year.LC.
+
+just take your time
+
+DM.
+
+we understand
+
+LC:
+
+if you need to take a moment, take a moment
+
+MMS.
+
+early this year, I happen to have lost one of my uncde.....----
+
+LC:
+
+do you want to take a couple of minutes are you alright
+
+MMS: no its ok
+LC:
+
+are you sure
+
+MMS:
+
+so, he was like a second father to me to be frank so since he passed away it has gotten sometimes
+I'm not able to sleep at night so instead of staying like, being alone, like just staring at the wall, I
+was just trying to be productive, working day and night and believe me its not a big issue to me like
+when 1 really like something I'm doing I just don't count the hours, so I know regular people maybe
+they need to change the code once and then think again but no I do have that strange ability to
+look at the code, try to make the modification in my head and then as soon as I write something it
+is working, it might sound unusual but this is me, also during the night as I say, since early this year I
+can't sleep at night most of the time, but its ok, even when things are ok I don't sleep much, 3-4
+hours a night since time and memorial so instead of just staring at the wall thinking about the
+relative I've lost I just try to make my time
+my time useful, where I am extremely frustrated
+about this interview we having right now, I'm being told I can't be using Github, the repository is
+there, you can use Github and see what happen, I'm being told you are not checking in code as
+often as the others, I am not the others but the thing is whatever I've been checking in, is working,
+I'm being told you're not complying, when for every single task I was given because of the
+education I have and also because of experience, I say maybe we shouldn't be doing that, that
+might hurt our interests
+.1 was not listened to, I was told do it in that way, which I did so in the
+end the question I'm asking is what am I being blamed for
+
+OM:
+
+so again we're not specifically calling out anything to do with the first task, we're calling out the
+VPC task, Its still not complete, even though the people in your team believe they could complete
+that task in 3 days, the rest of your team and Claire are concerned at the number of times they
+have to redirect your focus on to a task and its still isn't changing
+
+MMS:
+
+ok
+
+Pae 16 ot41-ST
+Laura C/June 2023/Continued Employment Meeting with Mory·Marcet Sangare - 20-06.23
+
+182
+
+DM.
+
+we're concerned that you fundamentally don't understand Girthub projets
+
+MMS. 1mean that nem about Grthub process I'm sorry but the thing l have is because when we're
+talking and in fe in general, when we're tailing about things we need to stik to fats, right so,
+someone unable t use Github will not be able to 0100:39 WIll naot be able t
+
+DOM:
+
+m
+
+thats not the accusation, that's not the nem that we have, that's not the thing that
+trying to
+get across to you, its not the diking on the button, it's the fundamental methodology of writing
+ode as part of a team
+
+MMS:. ok
+DM.
+
+as part of a group
+
+MMS: ok, as!said.
+DOM
+
+inaudible
+
+MMS.
+
+as l said, l'm very happy you actually saying that because as I've been repeating quite a few times,
+since we started.......we also need, we can't put the focus .... if we are thinking in good faith,
+which is something very important for everyone, we should be looking at the motivation of the
+person, the result obtained and so on, now as l've told you, 1'm sorry for thinking differently you
+know, maybe in my next life I'll try to be like everyone else that's one, and secondly what l'm trying
+to say concerning the telephone bit, if you go on a cloud rule on line, or even AWS documentation
+it is not recommended to use telephone to actually import these things and make sure whatever
+you're writing is identical to what you trying to do, to outline, when you're doing that as soon as
+someone would change something on line you need to do the same thing here, when I started,
+when I was given that task for AWS, the first thing I did was using the AWS 01.01:55 to query AWS,
+against attributes of the PVC's and we build them from scratch, Claire told me no this is not the
+right approach, use Terraform in codes, so as someone you know who care about the efficiency of
+what he's doing, every single VPC was treated as an individual project, every single of them is fully
+operational as well, when ! did that I was told no, all the files should be merged together which is
+this is what I'm insisting because it's a bit of a challenge because originally the way I designed the
+whole thing was to be modular, so moving from modules to fully integrated
+what you call
+spaghetti code its not
+as I've been insisting with
+with one error, one mistake something
+not done right I could have destroyed everything 01.02.59
+
+DM:
+
+ok so the challenge is rather than continue on a path that was wrong, why didn't you start again
+and complete it in the 3 days, why are you pushing a boulder up a hill when we don't want it
+
+MMS:
+
+ok, you cannot say 01:03:14 don't want, because when I started that, when I was told to write the
+configuration for the VPC's no-one told me that we shouldn't be using modular approach
+
+DM:
+
+but at the time that I'm suggesting you should have changed track, you did know, Claire told you
+that that was not right architecturally, so my challenge again is why were you spending weeks
+.
+
+M MS:
+
+because to me
+
+DM:
+
+something we don't want
+
+Page 17 of41- ST
+Laura C/June 2023/Continued Employment Meeting with Mory.Marcel Sargare - 20-06-23
+
+183
+
+MNS: no no its not doing somethmg yu don't want l will disagree with you one more time, because l had
+the des living in individ ual folders, so his de this configuration was designed t five in
+so as twas tasked t merge all of them, this is what twas doing but 1 was tying to mere
+them, and t insist on that without breaking everything on AW5, that's all I was trying t do and it
+takes time because you need to be careful, wouldn't you know, ifl
+today if! hadn't
+been careful, maybe we'd be here because of some sort of gross misconduct in the sense that I
+could have broken everything, would that have been better
+
+03
+3353
+
+DOM.
+
+sorry why would you have broken everything, you're not worang directly on five
+
+MMS: well, when t'mn trying to you understand is when you using...with the aunt the I think it was
+014-38 set up to work on AWS with that acount, with the account have and the permission t
+have, and taking into account I was using Terrafor import to work, one stupid mistake out of
+tiredness or so on could have broken the VPCs
+DM.
+
+if you had pushed the
+
+introduction?
+
+MMS:
+
+no no, because when you are....once you have the..ok, !see your point here, on Azure, what
+we have is we have, I think we have 3 different environments, we have staging, and test staging
+and introduction, . on AWS there is no such thing......so everything is there, actually before I
+joined, no-one was taking care of it and even Claire insisted on it, so the admin account, the
+account on which l am working, unfortunately with that account and without due care,
+unfortunately I could have broken something
+because what you see, when you take all the
+VPC's we have, most of them are live, live production stuff, you need to be a bit more careful, and
+regarding the VPC's I have to insist one more time, I happen to be a cloud solution architect, AWS is
+recommended to do it in a modular fashion, I was asked to do it like all integrated and I have to
+repeat myself like maybe the migration from module to all integrated, there were many problems
+with variables.....and so on an so, this is why last week when I had the meeting with Claire I
+showed her the result of the refactoring and its working better now, so last Thursday when we had
+that meeting, at no time, not on Thursday last week and at no time before that I was being told
+that what I'm doing is wrong or
+no, at no time that happen no, I was never invited to a
+meeting where I was told your work is rubbish or
+no, it never happen, during the meeting
+every day I was never told that
+so what I'm trying to make you understand
+.1 am insisting
+on that, at no point, during the past 7 months, I was told that your performing below parr, last
+Friday when they had that meeting, when I showed her the new strategy I was following which
+01:07:15 unfortunately to re-write absolutely everything from scratch again and then start to
+merge the pieces 2 by 2 up to we get to a single file, she was pretty satisfied with that and I recall
+the last thing she even said was ok this time, this approach seems to be producing the right result,
+so, you know I hope that in a few days in a week that will be fine that was I think Thursday morning
+and on Thursday afternoon I'm getting an email saying that I'm performing below parr so as you
+tend to insist on logic, can you explain me the logic of that
+
+DM:
+
+so are you saying we didn't have a formal sit down, where you're explicit with your team.....
+
+MMS:
+
+it never happen
+
+DM:
+
+but you have had messages from Claire explaining that the approach you're doing is wrong,
+explaining that you should
+.
+
+MMS:
+
+ok and the good thing is
+
+.
+
+Page 180f41-ST
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+184
+
+DM.
+
+just let me fnsh sorry,
+
+MMS. 1have the sreensho t of all our disusions what you're saying s not there, you're talking about
+something that doesn't exist
+LC:
+
+so you're disputing that there's been
+
+MMS. I'm very muh disputing that because I have a screenshot of all our work exchanges
+LC.
+
+and have you had kind of like explanations maybe one to one sessions
+
+MMS:. we've never had a one to one session, never
+LC.
+
+or with like other colleagues have you felt that they've had to raise concerns with the way that you
+work, anything like that
+
+MMS: you know, the colleagues as I said, the times we work together are.....we all talk together is
+during the day .....in our daily meeting of 3.30 or whenever I was maybe do something.....with Zoe,
+or when we need to do something together these were they only times but beyond that, l've never
+had a one to one session where I was told you are an absolute, you know what you're doing is an
+absolute catastrophe, you know and I insist Thursday last week when she saw the new approach I
+was following which was on Github, it was refactoring the whole thing because it was becoming to
+stressful to handle all these variable parts 01:09:24 and then starting to merge bit by bit, once she
+saw it she was satisfied that was on Thursday morning, there was no reprimand there was no
+complaint she was even laughing, I remember distinctly and on Thursday afternoon, I'm getting this
+letter, this is why I say it was a goddamn shock
+LC:
+
+and have you felt that you've received, you know repeated explanations on teams chats from the
+team and the team
+regarding the systems, how they should be used and how they should be
+used to allow the team to collaborate is that something you've experienced
+
+MMS: what is the definition of collaboration
+collaboration first of alt necessitates 2 things, first of all
+we need to be a minimum
+working week, which is the case except for the one person I
+mentioned who is very violent in his language, very often yeah but obviously at this point, we've
+spent more than an hour trying to ask me to think like other people when I'm not other people, but
+yeah obviously collaboration is having a minimum of respect for the people you're working with
+and not Claire, not Zoe, not even Jason and all the other, no-one is disrespectful its not.........
+LC:
+
+can I just quickly chip in Marcel so one of the points that was raised to myself was in relation to the
+current task where you're identifying all the AWS resources, so, it was raised that when you were
+doing this Zoe had to highlight issues with the structure, with the version being used and with the
+state file worked, is that something you can recall
+
+MMS:
+
+yeah, I remember distinctly that, so what happen is, when I started to write the .....configuration for
+AWS, what I did was in good faith using the latest version ofTerraform, so I was using
+1 used
+the latest version of Terraform to write configuration for all of them, and when I did that, and when
+I was done with it, I shared the work with Zoe for her to give me
+to say what she thinks about
+that and when I did so, she told me that its ok, obviously its working, but she said maybe it would
+be a better idea to use an older version and she recommended we use the version 1.3.7, so this is
+when I moved from the latest version and I had to actually rewrite the configuration on1.3.7 and
+
+Page 19of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+185
+
+this is one of the repasitry.
+but before that yes, J wrote everything using the latest version of
+iTenraform. Latest version of Tenraform whih t me makes sense
+C:
+
+ok
+
+DM:
+
+Sorry, why does that make sense, because this is an important part of how we've ended up here,
+why does that make sense
+
+MMS: ok, today as you say today when we take for example Python whih is a regular common
+programme in language, script and language, if you have to write some script today, unless you
+trying to refactor some old script that will read that way, written in the old days, when you go
+online it is recommended to use version 3, version 3 of python, not to use 2.7, so for Terrafor is
+the same, the version 13.7 when l was asked to write the configuration, I took the latest version
+which l think is 1.4. something, so in my mind there is 1.4. then there is some other version, 5 and
+6 and so on but l was using basically the 1.4 version so this is what l used, so when I said latest, it
+was not actually latest, latest it was 14
+it
+
+DM:
+
+the latest.01:13.11
+
+MMS:
+
+yeah
+
+DM:
+
+but my reaction and everyone else's reaction that works in this business, we do understand that
+you're not an individual you're not working for yourself, you're not working at a start up, its not a
+green field, of product, there's already Terraform and ansible in....state, you're...my challenge
+to you is your immediate question should have been what is the version for this team
+
+MMS:
+
+100%
+
+OM:
+
+why would you immediately go off and use a brand new version which might not be backwards
+compatible with what's in production
+
+MMS:
+
+no there was no backward compatibility left in the system because .....
+
+OM:
+
+it doesn't matter
+you weren't thinking
+as a team, you're thinking as an individual
+
+MMS:
+
+sorry, I'm just speaking like an intelligent person, sorry, because we have two clouds here, we have
+Azure and we have AWS, these are two separate entities, agree, its not the same product. Zoe has
+been working for a long time for Arnold Clark and she's using the version 1.3.7 and since that time
+they've been using version 1.3.7 and that version 1.3.7 what I know, there are even some
+vulnerabilities because of the age, it start to show its age, so I was asked to write
+.
+
+OM:
+
+these are standard things in every company, immediately you should be thinking how do I fit into
+the company, not
+
+MMS:
+
+this is what l did, I was asked ....on AWS there was zero configuration, zero there was nothing,
+when I came in there was absolutely nothing, it was there but there was zero configuration
+so
+when I was asked to write the configuration for the VPC's obviously instead of using an outdated
+version which is 1.3.7,1 just write
+it Just make sense to me to use a version that is at least a bit
+more recent, this is 0j14/55 no-one had patched the AWS before, no-one, so it was just living
+there that's all
+
+that's the way you're not thinking, you're not thinking
+
+Page 20of41-5T
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20.06-23
+
+186
+
+o. do
+
+DOM:
+
+but we have Tenaform
+
+MMS. no there was zero Tenrafor, ok,
+DM.
+
+there is Tenafonm in the business
+
+MMS:
+
+no no no l'mn talking about the AWS what l was asked to do
+
+DM.
+
+T'm talking about the Terraform in the company
+
+MMS:
+
+ok, me, Im talking about Tenraform for the doud I was asked to work on, there was nothing
+
+DM.
+
+ok, do you see a problem in having AWS on the latest version and some other tool on a different
+version, can you see how that adds to the workload that we're trying to avoid
+
+MMS.
+
+ok, to the risk of repeating myself again, Zoe and the others, they've been working because Arnold
+Clark is using primarily Azure, and they've been using Azure for a long time so obviously as they've
+been using ..... .when they started to work on Azure the version 13.7 was most likely the..one
+of the latest versions and they started to work on it, and obviously as they've started in the past,
+over time, if they were to change the version too suddenly, unfortunately as we said it would
+create some backward compatibility issues but when I came on AWS as I have said, there was
+absolutely nothing. I was just told write some Terraform configurations for AWS, so in my mind in
+my world, as AWS anyway, it's a separate cloud, separate company's, separate entity I thought to
+myself, ok lets use a version that it at least a bit recent, not using an ancient version, but when I did
+so, she understood the thinking, but when she asked me to rewrite using the old version, I did it but
+I don't see the problem in .......for a brand new cloud for a cloud about which maybe the expression
+is not right but you get the idea, for something no-one had patched before, I don't see also the
+sense in using an ancient version to deliver something that is starting now, that ancient version is
+presenting some vulnerabilities, so that's why l'm trying to have a balanced approach and use
+something in the middle so I went for the 1.4, that's what I did, there was nothing unexpected
+there was zero there was nothing
+
+OM:
+
+I really struggle to understand how someone with your experience who's worked in a number of
+different company's, who would think its ok to start having multiple versions in an estate and
+doesn't see the added complications and risks that brings to the department
+
+MMS:
+
+when we talking about.......-
+
+DM:
+
+any bank, any other technology company, any retail business would insist there is a specific version
+on any technology exclusively
+
+MMS:
+
+but now the question I'm gonna ask you is when I asked to work on the AWS, can you show me
+company policy or something that is specifically saying you shouldn't use any recent version, use
+only the ancient one, there's none. Was I
+when I started was I told that, these are two
+separate products, two separate companies and the sort of activities, we're doing on Azure, are not
+the same, the sort of activities we doing on AWS, did anyone came and said ok because we're using
+1.3.7 on one which is a version which as you're talking about risk management the 1.3.7 is coming
+in some vulnerabilities so I was asked to work on AWS, someone with my experience what do you
+do, as I say we'll try to balance the risk so its it a bad idea for a cloud that was completely
+untouched, is it a bad idea to try to use a version that is @1g.51 to avoid the same vulnerabilities
+
+Page 21 of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+187
+
+oming fram the very ancient version
+this s the
+fmn asting,
+said there was
+meeting where was speafially told no you shouldn't use the 14, there isno company polity
+saying that and lets keep in mind one thing, one factor that s very important,we're talking about
+the multimillion pound company that suffered a massive cyber breach in Deember that isputting
+its
+at risk, its business at risk, its reputation at risk, so in suh a situation you are asked to
+write some Terraform on the doui for doud provider -one
+no has touched before, what would
+common sense recommend, try to Limit the risk and this is precisely what I did again
+of13.7,
+
+question
+
+as
+
+l
+
+n
+
+ustamer
+
+DM:
+
+by going ahead and doing a thing without consulting or collaborating with anyone else
+
+MMS: nono
+DM:
+
+in my experience anyone in your level would immediately ask for what is the version that I should
+be using, what tools do we currently use, what is our working process, it feels like what you
+described was you decided what we should be doing
+
+MMS:
+
+no no l didn't decide anything
+
+DM:
+
+you decided well you just said you..--.
+
+MMS: when l started to work on AWS I was told and people in the team are very often joking about that
+_some people used to joke, they will basically say that no-one cares too much about 01:20:18 so
+as a stepping stone for you just go and sort of play with it all we need now is to make sure we have
+some Terraform that is working. and I don't see one more time and I have to challenge you on that
+too, I don't see one more time, what is the issue for something that was unchartered, unpatched,
+there is no company policy, there is no company,....-...... you're talking about banks, I used to work
+for NCR, at NCR there is a specific company policy telling you that as we are using ancient servers
+and ancient technologies try to limit the evolution of versions, so for such a thing, use that version,
+there is no such policy here, we just came out from a cyber breach so, in my mind as I said I was
+just told just make sure it works, that's the only instruction I was given
+LC:
+
+who gave you that instruction can you recall
+
+MMS:
+
+sorry
+
+LC:
+
+who gave you that instruction, can you recall
+
+MMS:
+
+no no, everything I've been doing it was Claire who told me, so Claire told me just write the
+configuration
+
+LC:
+
+So Claire kind of said like regardless of how you do it just write it
+
+MMS:
+
+yeah, no she just
+yes she told me write the configuration .......I wasn't told specifically use
+version 1...no, I wasn't told that and as l said you're talking about risks but when we're talking
+about risk we need to be very open minded, its very important, if the older version 1.3.7 it is
+opening a lot of vulnerability we just got hacked, so, don't you think it makes sense to sort of bring
+your balance in your approach and pick something in the middle of that, that's what I did, I was not
+given any other instruction
+
+LC:
+
+I think it terms of if you've got concerns with a version that we're using, that's your responsibility to
+approach management in relation to that rather than taking it upon yourself
+
+Page 22 of41-5T
+Laura C/Aune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+188
+
+MMS. nonlwasn't Awas
+A/have t msistyou know, when we had that meeting A have to insist
+you inow, she is the manager, you inow, Claire s the manager, t can't talk for her if you see what t
+mean, l wasjust told that one is unchartered territory no-one cares about it, so we have zero
+Terraform configurati ons, we want some configura tions as you mentioned someone with my
+experience will try t balance the risk, wll try t use something not very latest version beause this
+s also unchartered territo ry but using something to old is also not good for the company
+LC.
+
+Marcel do you mind if we just take a really small break, I've got a scheduled meeting at 3.30 just so
+1 can cancel it to continue s that alright, just rterally 5 minutes and Ill call you bak in
+
+Adjourned:
+
+Reconvened:
+LC:
+
+just sol don't have someone else coming in
+
+MMS. the other point l was trying to emphasise here was the fact that.when l joined .._actually the
+cyber attack on the company happened a few days after l join, in the first days unfortunately it's a
+very serious situation everyone was stressed it was hopeless, Claire 01:23:
+23 so as l wanted to help
+a bit, I came to Claire and I told her, I said ok as I do have some experience in 01:23:32 do you think
+it would be helpful for me to look at the sort of holes, digital holes our company might have left
+online that might be used at the moment to compromise more and more systems, herself and
+David Moffat they both say ok but just don't spend too much on it, lets.......just bring something you
+can bring in 2 hours.......I still have my work email here, if you want I can show you ......{ showed her
+all the systems that were exposed oniine, some of them had you know, some of them were very
+outdated and were exposed online, I gave them a list of more than 200 email addresses that were
+available by the user available online, people like will push email addresses online, without even
+realising, so what..........when I gave them that list we actually had a little talk about that they saw
+the list of emails these hackers could have compromised, we got the list of systems that were not
+supposed to be available online but that were, what that little experience did emphasise was the
+fact that unfortunately for
+to have a balanced cyber security approach there are three things
+you need, you need the people, Arnold Clark has the people, you need the processes and the
+technology, for the email addresses of regular employees or senior managers, or for critical
+systems to be available online and not behind the VPN but to be running outdated system what I
+want to emphasise to you is the fact that unfortunately in terms of processes there were some
+weaknesses and now when from the first day, as I said I help to notice things like that and I'm asked
+to write the configuration, for a cloud no-one has touched, you can understand maybe from my
+point of view the reason why I wouldn't go for the latest version because this is absolutely silly
+because we don't know the weaknesses of it but you wouldn't go for a very old version .....this is
+against the basic of professional is above and when you know a minimum about cyber security so I
+accept the fact that some company's might be using some old version to write software and there
+are reasons for that but unfortunately when you're using outdated version very old versions unless
+you are a bank and running some 01:26:14 somewhere behind a firewall, which we were not doing,
+you don't do that, so, based on all these bits and pieces, I have to apologise for this but once again
+you are talking to someone who happened to have an extensive knowledge of cyber security so
+that's why I was given
+1 was given zero requirement, the company has no policy in that regard
+so it was the best effort it would have necessitated to first of all think in terms of modules, which I
+did, and also try to evolve using something outdated to further expose the company, that's all I did,
+this was not, I didn't decide on no
+we were in a period of chaos
+it was complete chaos,
+Claire herself no matter what we might think, she's a human being after all, so she needed to take
+
+Page 23 of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+189
+
+are of herself and her family, she's taling care of us as a tam, she was attending all these meetings
+so, in the midst of this chaos, you can understand if {'ve and obviously the company have some
+weakness in some processes and technology lets fate rt at least.
+so there was no pofiy, I was
+asked to work somewhere no-one has worked before so someone with a very basicknowledge of
+cyber security would not go for an old version, you are exposing again, the company and thar's how
+l was thinking
+LC.
+
+ok and there was just a couple of questions I just wanted to ask in terms of the kind of main tools,
+so you've said like the focus of the arc ops team the main tols used are Terraform and ansible
+which are industry standard tools, so, how do you feel in general your performance is with those
+tools
+
+MMS: if you want to challenge the performance of someone on a given tool, we need to be actually
+seeing that.we need to see actually the result of that person using these tools, I started to work
+here since December and since December as I said I've been trying to, there are many
+pieces..there are many scripts of Terraform configurations I've pushed on Github, so, someone
+
+---so for all.so the gentleman here is insisting on the fact I should be pushing 5 times a day,
+no this is wrong you know because when we go, when we study IT for the people who study T, in
+IT we don't learn just about the technology, there is one part of IT we call you know human
+interaction direction the aim of human interaction direction is to study the interaction between the
+man and the machine but in order to study that interaction we also need to study the person itself
+and people are different you cannot expect all of them to react in the same fashion, its like and you
+are a programmer yourself .......the way you write code, your favourite language is yours, its not
+mine you see what I mean, so you cannot expect me to write code the same way you do, you
+cannot expect me to break down the problem the same way you do, you cannot expect me to write
+the same algorithm as you, but what we should be challenged on is the end result now the Github
+is there, I've been able to push code !'ve been able to retrieve code, the ansible the only time I was
+asked to work the ansible project I was first asked to work as I mention, you join a company, you
+happen to have a very heavy background in yber security, ok, and you're asked to rebuild the
+server in the midst of a cyber attack, what do you do
+
+DM:
+
+lets get back to the point in hand, how do you rate your Terraforming ansible skills, the challenge
+that we have is that Claire and the team think that you don't have a high level of knowledge on......
+
+MMS: I can't rate myself
+LC:
+
+.
+
+sorry to interrupt, you can't rate yourself if you have individuals saying that they feel that your skills
+with that isn't up to scratch, what would you say to that
+
+MMS: ok, as you said, it's a feeling, unfortunately
+
+unfortunately someone unskilled on Terraform,
+someone who understand absolutely nothing on Terraform will not be able to write Terraform
+configurations for 20 PVC's that is working, its not logical, its not possible so we need to search for
+a problem somewhere else and as I've killed myself trying to explain, when you design a system
+because
+I was given no requirement, what I was just trying to follow, maybe I need to show
+you that the solution architect
+1 got, was delivered on 6/5/23, but prior to that I was working on
+that you know, I work for Arnold Clark ok, maybe ........maybe after what happen in December
+maybe in my work I need to have the company interest at heart and I may need to follow the best
+known processes, AWS is the owner of their own cloud and a cloud guru is a massive company of
+0
+1:3135 all these people say don't use Terraform import yet we do it, its fine no problem, all these
+people say when you're writing Terraform for an infrastructure that is supposed to grow over time,
+this is another programme we are talking about, even though Arnold Clark is not using AWS
+
+Page 74of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 2006-23
+
+190
+
+massively the usage of it will grow over time, so as the ursage will grw over time, and for people
+Iike us who studied IT, at a minimum, whih kmd of structure would yu chose spaghetti cde
+or modular this is the question I'm asking, no T've been told that people in my team, some people
+and t don't know who, its not important are saying that 1 know nothing of eraform, its fine, if I
+know nothing..DM:
+
+Nobody's saying that
+
+LCc:
+
+1don't think that they're saying you know nothing, its just that the information that I got from your
+manager was that that feeling was that your competencies with these tools were limited
+
+MMS:
+
+ok
+
+LC:
+
+so, its just to get your perception of that
+
+MMS: as I've said.all I have to say is someone with a limited ability in that area, is someone who
+doesn't know it well, someone who doesn't know it well would be unable to produce a result, on
+Github you have the 22 folders with the 22 VPC's every single of them is working perfectly so what
+kind of incompetence is that
+DM:
+
+so, we're not talking about incompetence, we're talking about the level that you are at, versus the
+level that we believed you should be at. so, my question to you, to narrow it down to help us get
+helpful answers, is your experience of Terraform and Ansible more than just AWS training and
+01:33:24 training, do you have explicit commercial experience of extending what you learnt, the
+suspicion that the team have is that your knowledge is purely down to online Aline training
+
+MMS: ok so, the answer l'll give to you regarding that is, before coming to work at NCR, right before
+coming working here, I was working for 01:33:51 in France for about a year and before that l was
+working for NCR in Edinburgh, when I was asked to send a copy of my passport and everything l
+also sent a copy of my work certificate, you know, my manager at NCR is Donald 01:34:08 on the
+paper you have their number and their email address I worked there for 4 years, ok, and NCR is
+using both google cloud which I do have certification on and I was also working as .... .in that regard
+there and also using AWS, so that's cool, on the job. As we were working on infrastructure I need
+to insist on that, that is supposed to grow over time, you make it modular, and this is exactly what I
+did and this is
+these 22 VPC's are there, they are working so if they are working, we can at least
+assume the fact that the basic is there, now why did individual went that route, there was no
+requirement so he acted in what he thought was the best approach, and the best approach told on
+the job and in other places is making things modular, you said you're a programmer yourself, so I
+don't need to insist too much on that so this is what I think, I have to insist, Terraform import is a
+very dangerous tool, on AWS there is no staging on AWS for Arnold Clark, there is no staging, there
+is no
+staging production, its older and most of them are being active and need to be careful
+and this is why 1 was taking and merging files where some variables were repeated in more than
+one file or where some resources had the same name, you have 22 of them, every single of them
+has elaborate, maybe 20-30 variables plus resources, .... you do the math, and I needed to make
+sure all of that goes well together to avoid breaking things, that's what I did
+so if someone is
+telling me that he thinks or he feels that my performance is not right, I mean this is a matter of
+opinion, I can't judge but lets judge the result,
+LC:
+
+so would you dispute like if someone was saying that they feel that
+
+MMS:
+
+the facts are disputing it
+
+Page 25 0f41.5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+191
+
+C:
+
+what f'm saying, if someone is saying that they feel yur mpetnies with these tubs are limited,
+would you disagree with that
+
+MMS: don't need.
+Ihave to formately its recorded, so, 4 think you've listened to me for mre
+than an hour you already know my opinion, as l say l wouldn't tale anyone's feeling into account
+because I'm not saying that its not important no, for a matter related t techno logy lets stick
+to the facts, lets stick to what is there, and what is there is working, so whether t am the best
+Tenraform programmer in the worid or the worst, the approach l hose is the one recommended by
+the kind of study we took and also by the doud provider and it is working
+DM:
+
+so the position on that statement from Claire is that it wasn't working when she wrote that
+statement but you're now saying it is, so when did it start working
+
+MMS: no its all working, do you want to see it
+DM:
+
+no no so if it's a dispute it's a dispute l just want to understand there is a dispute, the position that
+we have is that it didn't work as of 2 days ago, and you're saying it does work
+
+MMS:
+
+can ! have a piece of paper please I'll draw a diagram, I think its important
+
+Paper passed to MMS
+
+MMS: ok so, maybe I can just take out my laptop too I think maybe its better I take........(gets laptop out
+bag- unzipping can be heard).......then I'll show you, so, on the ......if you want l can send it to you
+by email and what you've just say, maybe it does explain all the problems we're having in here, the
+first approach I did is, and when you go on the ............I'm going to open it and show it to you
+-....when I did it in the modular fashion, with 22 separate folders, in every single of these folders it
+is working perfectly and last week I have to insist on that, I did show that and the first time it
+started to work was back in March, I think way before May when I first
+all the problem we
+have is I did it in a modular fashion
+DM:
+
+but why modular when they're all inter-dependent
+
+MMS: sorry
+DM:
+
+they're inter-dependent, they have dependencies
+
+MMS:
+
+no no no these are
+we're talking about VPC's.......that we need not to get, let me switch on my
+computer and see that ·........VPC's are like AWS, you can
+they are like some sort of
+you
+know, lets call them villains, you know these are isolated
+networks and within these networks
+you can do all your magic or whatever and you can decide whether or not you want to expose this
+service to the rest of the world if you want, but these are isolated entities, within these entities you
+have many things, you have .......inside a VPC you have a gateway, sometime you have a
+router,
+you have some routing tables and all these things are they concern only this individual VPC, these
+are, ·.....VPC's are in the design of them they are isolated units and this is why, and interdependency is within it, so the routing table or internet gateway within the VPC are closely linked
+and that really bringing to mind an Interesting story, two of them these VPC's for some reason are
+massive, they are massive and I recall this time to Claire and the others laughing at me when twas
+complaining about how massive they are, these massive VPC's the level of inter-dependence was
+so high and the number of components was so great that regarding this one,
+.
+
+Page 26 of41-ST
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+192
+
+DM:
+
+so,tp keep going bad on track
+
+MMS: ok
+DOM:
+
+nobody on your team thinks that that design was logical, no
+one m your team thinks
+
+MMS: ok, no-one
+DM:.iswhat they would do
+MMS: ok
+DM:
+
+so why did you go there
+
+MMS: land for the 6 time since we started to talk I was given no requirement, so acted to the best of
+my knowledge and I come from a world, you said it yourself and its being recorded, you working as
+a programmer and programmers tend to do things in a modular fashion, that's all I did, so if they
+don't see that as logical, -OM:
+
+those individual components,
+
+MMS: those individual VP"s.......
+DM:
+
+they're going to be Terraformed and put through a pipeline they're inter-connected in some way
+are they not
+
+MMS:
+
+sorry l missed what...........
+
+DM:
+
+they have dependencies, so that it's a Terraformed pipeline process that we're putting in place
+
+MMS:
+
+uh huh
+
+DM:
+
+there is inter-dependencies........that's why we asked you to put it back together again
+
+MMS:
+
+and I was doing it but the wrong way
+
+OM:
+
+why did you put it back together why not just bin it all and start again and be done in 72 hours
+
+MMS:
+
+well, first of all, as I said its not
+the question I'm gonna ask you then because I'm going to
+reverse the question ......is it a professional mistake to have first of all followed the best approach,
+the recommended approach and then when you've been told that you need to merge all of them,
+is it a crime to try to use them and take these files and try to resolve the conflict and try to merger,
+is it, is it, because you need to tell me that clear, do you consider that completely stupid, a sign of
+incompetence because it is ok, please state it clearly because I don't see where you're going here
+
+DM:
+
+I don't understand the thought process
+
+MMS:
+
+the thought process is a modular approach
+
+Page 27of41-5T
+Laura C/Aune 2023/Continued Employment Meeting with Mory.Marcel Sangare - 20-06-23
+
+193
+
+DM:
+
+san engineer, .the only optin l an see in the senari yu were fad with was to start again
+and produe the right architerture that you were asked t do
+
+MM5: one more time.
+DM:
+
+this isn't an academic exercise but you were treating this as an academic exercise
+
+MMS: non1am
+DM:
+
+we were looking for a commercial production----
+
+MMS: I think you have the wrong appreciation of what academic and professional means because what
+you need to know, sir, is everything you're doing in the professional world, anything your
+programming your computer, anything you're doing in this word is directly coming from the
+academic world, the two are linked if you have a poor academic understanding unfortunately the
+technology the way you will use technology and what you will be doing will also be wrong so you
+can't disjoint these things, the academic world and the professional worid are linked, one is the
+consequence of the other you can't disjoint them, this is wrong, this is not the right way of thinking
+DM:
+
+we're again going down a route which suggests the problems we're having with you working in a
+team
+
+MMS: let me ask you a question here, why are you not saying anything about the fact I went for the
+modular approach in the first place, why don't you talk about that because you ..-OM:
+
+I am talking about that
+
+MMS:
+
+the story didn't start......I'm sorry the story didn't start when I tried to merge, the story start
+when I was told to do something proper about it and I followed the industry standard which is
+modular, why don't you comment on that, because the story didn't start when I started to merge
+
+DM:
+
+with the greatest of respect I've commented on it
+
+MMS:
+
+and to me, you're not..I'm sorry to say that sir, you are not acting in good faith, it seems to me
+you treat me like an idiot, this is how I feel now, and this is not right, you went to school just like
+me, you most likely have a degree, I mean for gods sake, what did you learn at university, when
+you're building your software project you do it in a modular fashion isn't that what you learned at
+school or not, that's one, secondly these are individual projects, ok if you want to put that within a
+continuous integration in the pipeline you know what, all you had to do, will be to write and
+individual configuration for ever single of them, which is not rocket science, so what are you talking
+about, are you trying to make me,
+are you telling to me, who is because, don't get me wrong, I
+am most likely older than you, I've been working for longer than you, are you telling to me, that
+when you're having a software project you shouldn't use a modular approach, because lets talk
+about that because I'm getting tired of ...if your aim is to make me look stupid, please state it
+clearly or if I was wrong to do it in a modular fashion state it clearly but you're going in cycle, what
+you doing right now, can you write it
+if you want write it on a piece of paper, Mr Sangare
+Mory-Marcel is an idiot because he treat me like one, sorry
+
+DM:
+
+no-one is suggesting that
+
+MMS:
+
+sorry,
+
+Page 28of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sanrare - 20-06-23
+
+194
+
+DM:
+
+no-one is suggesting that
+
+MM5S: 'mn talking, Mr Sangare Mory
+Marcel s an idiot, he doesn't ±now what he's ding, worst yet, when
+he's asked to do something without requirement, he dares using a modular approach, write it on a
+piece of paper and Sets go to urt, please write it on a piece of because Tm tired, Im sorry,
+I've been talking for 2 hours,
+LC.
+
+think David's just trying t understand the thought process as to why you've done that
+
+MMS: I've answered the question that will be the 8 time, since we started to talk, 've answered the
+question, so if Mr David here does not understand the modular approach in software engineering,
+then we have another problem. So all I'm saying is l'm tired to repeat that over and over again,
+someone who went to school and is at the minimum qualified when he's asked to deal with a
+software project he does it in the modular fashion, if I did it wrong, please write it on a piece of
+paper and lets go to court with that, within the court you will demonstrate the fat that I've not
+been following the right approach, that's all l'm saying.because I'm tired, you treat me like an
+idiot and you shouldn't be doing that, you are not the judge, you are not a solicitor you're just
+another engineer just like me but you treat me like an idiot, I'm not one, you treat me like an idiot,
+DM:
+
+no-one would .-----...
+
+MMS:
+
+now ifit is because you want to dismiss me, please do so, please do so, and lets meet again in
+court, because what you're doing here its an insult my intelligence, sorry, you went to school, you
+most likely have a degree, you are a handsome man, intelligent on top of that, you're way of talking
+shows it, why are you trying to make me look like an idiot, why are you doing that
+
+DM:
+
+I'm not trying to........
+
+MMS:
+
+this is what you're doing sir, when you're writing a software, when you're working on software
+project, sorry to repeat that to you again, I use the modular approach and that's what I did and in
+terms of the pipeline, don't worry, you will write an individual pipeline configuration for every
+single of them and you know why you want to do that because today we have 22 VPC's tomorrow
+we might have 100, then next day you might have 1000, and then when you keep them separated
+the individual programmes won't affect each other, let me tell you another thing, which is not clear
+to you because you work in software engineering, maybe your background networking is not good,
+I have to tell you this, when
+these are individual VPC's
+putting them in a single file is a risk,
+let me tell you why
+because with one mistake or one wrong doing you destroy all of Arnold
+Clark on AWS, the company suffered a cyber attack, we are barely recovered from that and you're
+asking me to go against the recommendation of Amazon to go against the basic of computer
+science and do things in a unified way, I was doing it and its not easy and while doing it I have to
+insist on that, I was trying not to mess up things so if I acted wrongly and I'm tired to repeat myself
+again, because as I told you l'm a human being, first of all you're trying to make me look like an
+idiot because you're telling me no, you should be thinking like others, no, I am not you, and I will
+never be lets be clear on that so you can't ask me to think like you and as a matter of fact, at first
+you thought I was an idiot, I've just demonstrated that I don't know who you are but I most likely
+have many more qualifications than you in many more areas, you want to bet
+
+DM.
+
+so again
+
+.
+
+Page 29 of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+195
+
+MMS: so, s, yu came t me, you first of all tell me nao, why you doing it inthe modular fashion, if you
+don't know that you nerd t gp bad to school, or f yu think its wrong you write it an a piece of
+paper and we go to court or lets make itsimple
+DM:
+
+an}help you, I would Eike to help you
+
+MMS: no, don't need your help thank you, or if it is about dismissing me for something I haven't done
+wrong, please lets go ahead but let me make it dear, at no point and the ode is there, the
+email is there, I have been trying to at against the interests of Amold Clark, and please stop
+playing with my mind that's what you doing and this is not right, you first of all you ask me to
+be you, !'m not you, and !don't want to be and I will never be.that's one, secondly, what ! did
+wrong, I chose...l didn't choose the latest version because this is a security risk for gods sake,
+l'm supposed to be a heavyweight in cyber security, I was given no requirement so I didn't want to
+use an old version, it's a security risk for Amold dark, we just come out from a yber breach, I
+wouldn't use the latest one because its too new, I did something in the middle. In all of the schools
+in the world, people are being told that, so, if what I heard if what I learnt at the university of Paris,
+or Harvard university or Oxford university is wrong please lets make it short, !'m tired. 1am
+stressed, you know, you treating me like an idiot which is ok but don't try to play me on that, and
+the statement you just made about the academic work and professional work be careful you might
+not know what you're talking about and for someone who just show you he's got7 degrees, there
+might be some things you don't know, you need to know that the shirt you're wearing, the badge
+you have, the glasses you have and all these things, even the vaccination you received as a child are
+a direct consequence of the academic work there's no disjoint between the two of them, so I'm just
+showing you here the basics of software engineering, and if you're telling me that this is wrong
+please fire me for that and lets meet in court and talk about it, because that's it, 8" time in a row
+you know, why you doing it in a modular fashion, you're a software engineer you should know
+DM:
+
+Again, l'm asking you specific questions about
+
+.
+
+MMS:
+
+and l gave you specific answers
+
+DM:
+
+no you actually............my assertion is you're giving me generic general answers .......-.
+
+MMS:
+
+this is your opinion,
+
+DM:
+
+its not my opinion,
+
+MMS: ok so write it on a piece of
+you know what because I've answered your question, you know,
+you are treating me here like a criminal, the way you started, the way you started, when you asked
+me to think like everyone else, who do you think you are to ask me to be like everyone else, I can't
+be everyone else
+DM:
+
+you continue to say that but that wasn't the assertion
+
+MMS:
+
+no this is precisely what
+
+DM:
+
+Iwas asking you to think in a certain way, l'm asking you to work as a team
+
+LC:
+
+work in a team
+
+.
+
+Page 30of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel 5angare - 20-06-23
+
+196
+
+MM5: 4workimn a tam that's wty we meeting every day, I work mna team, that's why when I'm stuk l'm
+talking to Zoe or to Claire herself and you inow what, the logs on teams, what do you think, do you
+think that since «join on 6/12/22 they were leavmg me alone, we're having a team meeting every
+single day, haw can you say I'rn not working with the team, l can take my Microsoft teams here and
+show you, I can show you right now, every day we talk, now Tm sorry for the past uple of weels I
+was heavily focused on getting this bnt done t move to something else and ! was very focused on
+my job, is it a rime or should 1 stp being focused on my job and start talking about offee or
+house or car, no, I have a job to do, you're talking about my role at Arnold Clark, Arnold Clark is
+paying me to work and when my work is not mplet I feel bad about it, so i was working for the
+past couple of weeks and heavly so, if it is a rime please write it on a piece of paper, lets go t
+court because you are not in our team, how can you even state or even imply that someone who is
+working remotely and who is having a daly meeting session with his team is not working in a team,
+how can you prove that, and you're going to try to make me an old man like me, make me think
+that this is right, this is wrong, where are you going with that
+LC:
+
+I think the concern is that by not following the processes
+
+MMS:
+
+I've been following the process. if twas not following the process
+
+LC:
+
+if you can just let me finish in terms of the processes that the other team are following then
+there's an impact on the ability for the team to work collaboratively, that's the concern
+
+MMS: ok this concer is wrong, let me tell you why, its wrong because first of all l'm the only one working
+on AWS, that's one, secondly the work l'm doing on AWS is in no way a dependency for anyone
+else's work, so thirdly, as I've repeated myself quite a few times, we have a daily session for 30
+minutes or more where we talk about our programmes, what we're doing and while we're doing
+some chit chat and in the meantime when I get stuck I have no hesitation annoying Claire or Zoe
+about it and Microsoft teams can attest to it so when you say that I don't work in a team what do
+you imply,
+OM:
+
+your submission there proves that you don't work as a team
+
+MMS:
+
+ok this is a statement and that what l'm saying if what you're saying is true, please write it on a
+piece of......because you know I'm getting frustrated here for 2 hours you've been treating me,
+actually lets get to the point, I'm going to get you one step back to prove that
+because
+......even the point from which you start to make your reasoning is wrong, for a programmer, its
+wrong, you should be starting from the start, if I was not working collaboratively why is it that I
+even managed to get to this level when I been working here for 8 months can you explain that, you
+can't, secondly, every day we have a team meeting
+
+OM:
+
+working in a team is more than turning up to meetings
+
+MMS:
+
+ok so can you write the details on a piece of paper so that I can talk in front of someone who is
+acting in good faith, or in front of the court, lets make it simple, because you don't know where
+you're going here
+
+OM:
+
+I don't understand how
+
+.
+
+MMS: no you don't, you don't and I think
+DM:
+
+I don't understand how you don't understand what a team is
+
+Page 31 of41-ST
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel 5anga re - 20-0 6-23
+
+197
+
+MMS: ok, no, yu don't inow what a tam and if you want l can explain to you but what ypu domg
+here isnot right, you are biased you are heavily biased first of all you trying t impress me by telling
+me that you started t de at 10, I did the same thing, and you want t inow something else, 1 can
+tell you something else, my mother used t work for NASA you see and.
+i
+s,
+
+DOM:
+
+none of these things are relevant
+
+MMS. no no because you were trying to impress me there
+DM:
+
+no-one was trying to impress you, I was trying to explain to you
+
+MMS.
+
+no, I see what you were trying to do
+
+DM.
+
+you put in your email HR professional I'm not an HR professional
+
+MMS.
+
+we have the same history
+
+DM.
+
+yes
+
+MMS: we have the same history, so congratulations I hear you started to work early
+LC:
+
+1think that was David's point when he was saying about the coding that he understands your
+background
+
+MMS: secondly when you are doing things lets start with that what is wrong with doing things in the
+modular fashion, you are an engineer, you're not answering the question and when I ask you that
+question you jump, no no you don't know what a team is,
+OM:
+
+no
+
+MMS:
+
+Madam, you know, I feel I've never had any one to one with my boss Claire where I was told that I
+was doing anything wrong
+
+LC:
+
+ok
+
+MMS:
+
+the last time we had a meeting she was pretty satisfied with the job I did and she even told me, ok
+now that we find that methodology is working lets get it done and move on, that was on Thursday
+morning, on Thursday afternoon l'm getting a letter saying l'm incompetent, while in fact every
+single step I've been taking was done in the interest of the company, so, I think its recorded here,
+you have my email I have been you know, I'm sorry the gentleman here is not a court prosecutor
+and he needs to understand one little thing which is not clear to him, instead of treating me like a
+criminal because this is where he started his argument from, you can tell from his body language
+and everything, he should have started to understand things from an objective point of view, this is
+not what he's doing, so, if
+.lets make it clear, I was never told that I'm doing anything wrong,
+l've got a screenshot of all the teams discussion with my boss, so, if the point is about telling me
+Marcel leave your laptop and your key, I have been answering your questions since Thursday, what
+you're doing here is harassment, I'm going to be clear about it
+
+LC:
+
+how is it harassment
+
+MMS:
+
+I'm being put in a corner for no good reason and I feel stressed about it, so,
+
+Page 320f41-5T
+Laura C/lune 223/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+198
+
+LC.
+
+i understand it's a stressful situation however the purpose of the meeting is for me t get your
+perception of our cancers
+
+MM5. you know it might, it might not be intentional, even that needs to be proven but honestly since !
+started to work, first of all I'm being told you don't know what ansible is, do you know what Github
+is, all the Github is there, you go and have a look, its all there, now, on Thursday morning ! had zero
+remarks from my manager, on Thursday aftemoon 1'mn being told that l'm being incompetent for 7
+months when the facts prove otherwise so, I've answered all your questions since Thursday, I'm
+extremely stressed, I'm extremely tired and you don't seem to realise that you know I'm just a
+regular person Ike you, I'm not superman
+LC.
+
+no,
+
+MMS: since Thursday, try you have my letter there, you have the fact, when you analyse all of this you
+can see there are gaps, I mean lets not play, this
+is
+--
+
+LC.
+
+of course and l acknowledge this is a stressful situation and the purpose of this meeting is to give
+yourself the opportunity to put...
+
+MMS:
+
+t'm sorry this gentleman here is heavily biased, I've never seen anything like it, he's heavily biased
+so whatever he's saying he should write it on a piece of paper, and lets go towards lets go and
+call someone who is you know who is less biased who want to analyse things for what they are. In
+software engineering one of the basic principals is to break down problems in modules this is what
+ldo,
+
+LC:.
+
+ok so you're saying in terms of that specific task
+
+MMS:
+
+and it is working and just now you were telling me that she said its not working, thankfully
+last.....everytime I have some screenshots to prove that ........l might even have recorded that on
+this laptop I don't know I will see, but the 22 /PC's are working, they've been working for 2
+months, was just trying to merge them and in terms of ........in terms of result or achievement
+...its working, I'm just trying to put all of them in a single file without breaking things because we
+have 01.59:12 what is not clear with that
+
+LC:
+
+so the concern that I obviously want to discuss with yourself in relation to that was because it was
+brought to my attention that this task should take 3 days and there's still not a result so are you
+disputing that, are you saying that there is a result and it is working
+
+MMS:
+
+the result as I say the result is there and it is working, and the aim
+when you're writing
+terraform, when you're writing some terraform configurations madam, maybe I need to explain to
+you what terraform is, so basically you know, whatever digital asset we have on the cloud, we use
+terraform to be in a position to rebuild this asset quickly that's all it is, so on AWS we have one class
+of assets which are private networks so the task was to write the terraform configuration for these
+private networks, I did it in the modular fashion, for every single of them, it is working and this is
+what l need to ........its not a matter of.....on an individual basis it was not working and when we
+merge them, its not working no, and on the other hand please you know since Thursday its too
+much pressure on me, I've got other problems in other areas, it has not affected my work, no-one
+has known, I have always acted to the best of my knowledge, my abilities, my qualifications and my
+experience and the gentleman here who was trying to ask me if
+what people do at NCR, NCR
+Edinburgh is ......you know as I said get in touch with them, you know, NCR is mostly hosting digital
+
+Page 33t41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+199
+
+services for banks mostly and in there, believe me nf you are being told t work on a software
+project and you don't get started with a modular approah you could get fired fr that, that would
+show that you are incompetent, full stop. And that's all {'ve been trying to do this is the basic of
+software engineering and if its not clear 1 don't know what to do here, same for the bash sriptI
+wrote would you believe it,the company suffered a massive cyber attack and to be frank let me tell
+you how l felt when that happened, I felt bad because I was thinking t myself oh my god l've just
+joined a group and that group is getting haded, I hope they not gonna dose down because of
+something like that so l tried to contribute the best l could, for someone who took his two direct
+bosses, Claire and David, to show them within 2 hours the email address that were most likely
+compromised, A have it on my teams here, the systems that are exposed on line that shouldn't have
+been, would you want someone Hike that someone I feel that first of all, he's showing you that
+he's got a rather advance knowledge of cyber security whether we like it or not, his qualifications
+are showing it, so a person like that is asked to build a server, is building a full blown system to
+generate password, automatically is being told its wrong and its my fault ._I'm being told to
+write the configuration, I have the proof of it, it is working, I did it in a modular fashion ..its wrong,
+what is expected, lets make is simple because we're getting lost in the details here and even to be
+frank, I'm the one being asked question in here but given the question you asked believe me there
+are some weaknesses in that, that's why l'm saying simple, write on a piece of paper please that
+doing things in the modular fashion is wrong therefore Mr Sangare Mory-Marcel has shown his
+incompetency and lets go to court with that and see what happens or are you asking me to push
+code every .2....5 times a day, I wish I could, my brain is not like other people unfortunately but
+the thing is you can tell me if you use the Github log you can see every single bit of code and Claire
+even said that herself once, the code Marcel is writing, people might say what they want but its
+working it is working so, someone is writing some code that is working, how would you rate his
+abilities, at the very least he knows what he's doing, at the very least, he might not be the best but
+he knows what he's doing, it is working and guess what he did it by keeping the interests of the
+company at heart, that's all
+LC:
+
+ok and !think in terms of.........can l just clarify this is the current task isn't it
+
+DM:
+
+yeah
+
+LC:
+
+yeah so, I think the concern is what we've said to you before, its not the end result that's
+specifically the concern, so, in terms of this process from the information from Claire, she said that
+there was an initial concern that arose when you first attempted to try and script the creation of
+the Terraform
+
+MMS: yeah
+LC:
+
+which you were course corrected is that right
+
+MMS:
+
+no as I said, you know, go to any software engineer, in software engineering there is something
+called code generator, so what is a code generator, it is something you use to generate some code
+to make it easy, you know in Terraform we writing, it's a configuration file and this configuration
+file it has some building blocks so for example in the Terraform configuration for a given VPC you're
+going to find an internet gateway, which is some sort of router, ok, the internet gateway we're
+talking about whether it is in this VPC, this one or any other the structure of it will most likely be
+the same so as the structure of it is most likely the same, therefore you can write the function that
+will do that work for you, by doing that you are limiting the possibility of errors, by doing that you
+are writing your code faster and maybe this is the reason why I've managed to write a 1000 lines of
+
+Page 34of41.ST
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.-23
+
+200
+
+de invery short time and its working, maybe this is the reasn why and its nt a crime think
+like that
+LC:
+
+so we've gt, in terms of when you've then done this, Claire's then said hat she explained t
+yourself that a VPC consisted of multiple parts that were finked and should exist and be managed
+within the same fle as we could not possibly recreate a VPC without destroying all the resources,
+do you disagree with that
+
+MMS: when l was initially.laire an attest to that, I've never dis used 02
+-0532 and as 1said when
+was given_the first time we spoke about it,what was asked to write, configuration fle for
+Tenraform and I did it to the best of my knowledge. The bit about having all of it on a single fle, I
+have to insist on that, it was never ..it was never dear to me and l would have never even
+imagine going into that direction because in software engineering, 02-5
+-1 in software
+engineering we do things in a modular fashion, also I wrote a script that is an aunting script, so
+what that script does is, when you run the script it will create a textile with the date and the time,
+the current date and time, so it will give to that file that name and inside it you will have all the
+VP's we currently have ......Claire herself can attest to that, the number of VP's that have been
+grown and will continue to grow, so when I was initially asked to work on that, for someone who
+studied a bit of IT, the 02:06:43 supposed to grow, Terraform import is a dangerous too! 02.06:49
+and I want to..........and when we first spoke about that, maybe she did imply to have everything in
+one file but this is not what I heard, there was no written requirement, me I was told write a
+configuration and I did it, following the industry best practices, lets keep that in mind and I did it
+following the best practices of software engineering so now, if someone is coming to me and telling
+me look, why ..........how have you managed to merge all of that in 3 days, this is an estimation, just
+go and take the same task and do it in 3 days and lets see, and if you manage to do it in 3 days,
+congratulations but again we're talking about you, am I you, no l am not, second point here, you
+know the argument that would start from that.........what you merge, this is wrong and this is not
+acting in good faith, when you acting on good faith you start from the get go, what's the
+requirement, zero, did you, in your actions, did you follow the best practices, yes I did, did it work,
+it is working so what am I .....what is it you wish
+LC:
+
+again, I don't think the concern is the end result, the concern in terms of this task is you were
+course corrected twice and then when you then done another attempt your colleague Zoe had to
+highlight issues with the structure, the version and the state file, and then you then had to speak
+with Claire, where she had to go over it with yourself and then she advised that she then had to go
+over again on a catch up. So I think the concern is like, the amount of times you're having to be
+kind of course corrected or given instruction
+
+MMS:
+
+ok, I can explain that too, the first time they complained because I was following the industry best
+practices, why is that we are not talking about that first for a company that just came out from a
+cyber breach, lets talk about that first why are we not mentioning that first, secondly the second
+time I was asked, the second time I had to rewrite things, the second attempt, it was when I
+unfortunately tried to use a balanced approach, not using an old version because of the security
+risk to the company itself, also not using something that is too new that is foolish, I choose the
+middle approach, no this is also a professional fault, ok no problem, when I rewrote it in 1.3.71
+have to say as the initial thing was done because the approach I've been following from the
+beginning and this is how I've always done Terraform, I have to apologise for that but I've always
+done it in the modular fashion, so when I was asked to rewrite using the new version, what ! did
+and Claire agreed with that, this is in our daily session, I told her ok ) cannot rewrite everything in
+one go, with these VPC's its suicide and we will never finish it, so what ! did was, writing the
+configuration individually for every VPC's first, so I did it separately and then I merge it bit by bit
+
+Page 35 of41.57
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+201
+
+until l get t one file, everyon e agreed with that, when l started t do that, unfortunate ly l as
+encuntering a lot of problems because these files are massive, you ta!ling about more than a
+3000 fines of code just for the configuration, we have the import files, I mean, all Tm tying t say
+here and where the minimum of fairness, is required, you're talking about the regular human being
+that is doing something that is pretty complex, and that he's trying whle doing it,not to break the
+entire company, this also needs to be taken into acount so when l was trying t merge it which is
+going against lets emphasise that, going against the industry best practices l was having
+difficulty because it's a very m plex matter, am I going to be punished because I deaided to first of
+all not start to write, to put everythi ng in one go because you run the risk of destroyin g everything
+so doing things, the second time around doing things in Kittie part and then trying to merge this
+part, a bit like the way we build a car, we build the engine separately, the wheels separately and so
+on and then afterward, we sort of assemble and this is.slowly, everyone was right with that, I
+have to admit it was not easy going that route, because the number of implications and so on was
+extremely high but last week, and this is one point where...last week, I have again I have
+managed to find a way to merge them, so acess....and it is right there on the repository, why is
+it we're not talking about that and as I said, I am sorry, you know, I come from a worid where
+you're working in a company, you know, your first thing is to not only do the things properly and I
+can prove that......... I was not daydreaming or sleeping, no, I was redoing the thing
+DM.
+
+no-one suggested anything else
+
+MM5S:
+
+and I cannot be condemned because the merging process which is mathematically extremely hard
+to do, I mean lets talk about....these are every file's got tens of variables and you need to merge
+them into one without breaking the entire infrastructure, we also need to account for that and you
+also talking about someone who got..........because you're talking about someone who while doing
+this, managed to get the solution architect of AWS, so, what l'm trying to emphasise here is you
+know, the proof I was doing everything I was
+.1 was not only trying to make it work, and it is
+working and also trying not to break things because AWS is not Azure, these are separate
+programmes, AW5 I used to work for Amazon, AWS is actually, what it is, it is a cluster of.......tt is a
+massive cluster of Linux version machines and they tend to behave like that so the.......... .another
+thing that is maybe missed by my boss is the behaviour of AWS is not the same as Azure, on AWS,
+you can destroy, you know, with one silly mistake on AWS, on these files, I could have destroyed
+the entire network for Arnold Clark everywhere on the planet, if Iwas doing.........so....one..........SO
+merging these files I needed to make sure it is working and secondly I needed to make sure I was
+not doing anything silly. Now some people might say ok, the way you wrote it is not right, it is
+working, when we take them individually it is working, so this is not the failure as such, it is the
+process of merging it, which is going against the logic of Amazon which is not easy but yet, last
+week after spending a lot of time trying to work on that I have managed to find ways to make it
+work and I did a demonstration in front of Claire, I can tell you she was very satisfied, she said ok so
+we should get the final result soon, it is on Github, I say yes very soon, and even the merging
+process we went from something like 22 files I have merged them 2 by2, we got to 11 now it will
+be down to 10 and this is what I did the demonstration with her, and the good thing is these files
+were now in the conception of these things I went for, not the modular approach but I changed the
+approach and now it is working so, I haven't done anything wrong, the first time I'm being told you
+shouldn't have used that version, we 02:1453 you can't go for an old version again and again and
+repeat the same mistake, this is wrong, I mean someone should be
+someone who works in
+IT and with my background, if I were to do that and maybe 1 should have got fired for that, this is
+what t learned at least in cyber security you know you've just come from a cyber attack, you know
+the consequences it has for the company and now you are given free reign to do something and
+you're going to again open some vulnerabilities, you don't do that
+
+Page 36 0f41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare- 20-06-23
+
+202
+
+DM:
+
+yDu were asked t do a task within an overall e system within a department
+
+MMS: there was no requirement it was a different system
+DM:
+
+my challenge to you was s if you understood how working in a large team works where we all
+move together as one
+
+MMS:
+
+well, as ! said and my answer to you is, you know we working remotely so we are therefore
+physically separated ok, how do we work in team, we work in team through the 02:15:51 so when
+someone is stock or when I'm stuck except from as l mentioned rom one of our colleague who is
+very abusive in his language and 1 tend to avoid him fortunately, but you can understand me for
+that, so except for him I have no problem..Claire will tell you or even Zoe.asking them
+when l'm really lost but once I know what l'm doing, I tend to start, you can check the logs, quite
+early and I try to get things working so, maybe...I don't know am I being,- isita reproach on
+the fat that you are too focused on your work, its not a crime, and anyway, we are anyway
+physically separated so specifically because we are separated we should be trying to be a bit
+serious about what we doing, so, when I am stuck yes, I'll go to Claire, when we have our meetings,
+I am there, beyond that excuse me if l'm trying to......beyond that.. once l know where l'm
+going, excuse me start to focus on my work, also you want me to check. so basically change the
+code 5 times a day, no, no I mean l understand what you trying to say but l'm trying to merge lets
+keep in mind I'm working in an environment where there is no dev environment this is kind of
+production a single mistake and I destroy everything......since I merging files, I need to be
+extremely focused and I need to make it work, this is what I was doing that's all, but whenever I
+was stuck I would talk to people, I used a version in the middle, to me its obvious you don't go for
+the latest one, you don't go for the old one, since you've just suffered a yber attack, and as l said
+.maybe someone also need to take into account the fact that maybe before l raised the case, we not
+expecting that, but at least in my team and I'm not being arrogant when l say so, in terms of cyber
+security l am most likely the heavy weight there, so you are the heavy weight and you happen to
+know the consequences of what you're doing so when you're not given requirements please you
+need at least to take into account the supreme interest of the company and that's what I did, I was
+not doing that
+tell me, choosing that version, do you think that was malicious
+
+OM:
+
+no, no-one has suggested it was malicious
+l'm asking questions about that was all
+
+.it gets to the matter of the competencies though,
+
+MMS: yeah but unfortunately you talking about competencies you've just been breached, precisely
+because our processes were weak should we carry on on the same path, no, that's why I chose
+something in the middle
+OM:
+
+but should we have developers doing their own thing, using
+
+.
+
+MMS:
+
+I was not doing my own thing.......
+
+LC:
+
+I think the concern is its not
+
+MMS:
+
+as !said I was not doing my own thing, where are the requirements, can someone show me
+
+LC:
+
+its not your responsibility to make executive decisions that are outwith the processes of the
+department
+
+.
+
+Page 37of41-5T
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel 5angare - 20-06-23
+
+203
+
+M1MIS: ok, its not my responsibility but when l started to work on that was l given requirements, no, J was
+tld we have nothing there just go and write the configuration, that's what was tld, 1 was not
+evenyou know and his is another thmng, in software engineering and 'mn not saying that to
+blame Claire or anything no, lets be dear, when i started t work on that the poor woman was not
+only dealing with our request as a tam but she was also and we could see that she was also taken
+into different meetings ail the time so obviously she came to me and she tld me write the
+configuration, there was no requirement so how do I understand that ok, do it to the best of your
+knowledge and that's precisely what I did
+DM:
+
+so as an experienced engineer the first thing would be to get the requirements and understand the
+problem
+
+MMS: ok but now you asking me to
+DM:
+
+you didn't do that
+
+MMS: you see how biased you are because now
+DM:
+
+I'm actually not biased
+
+MMS: excuse me, my boss comes to me and she tells me we have nothing there, do something about it,
+you know what it means, what it means is it's a work telling me we trust you, just make the right
+decision and this is precisely what I did, so you see... but what you are saying is my boss should
+come to me and say, do that and I say no Claire you don't........-........what do you want
+OM:
+
+no no
+
+MMS:
+
+but I did exactly what my boss told me, you need to take that into account, I mean Claire is not my
+friend, she's not my friend, she's my boss so when the boss comes to you and say we have nothing
+there, do it
+you do it to the best of your knowledge
+
+LC:
+
+and to your knowledge is there standard like processes at Arnold Clark and versions that Arnold
+Clark follow so in that moment did you make a decision to use something that you knew we didn't
+utilise
+
+MMS:
+
+ok Arnold Clark is selling cars right, ok, from all the cars they are selling you have Mercedes and you
+have Toyota, are the engines the same, can you expect Toyota and Mercedes or BMW to be the
+same
+
+LC:
+
+no but I'm just asking in terms of this
+
+MMS:
+
+this is what I'm saying, there was nothing
+
+LC:
+
+so I'm asking you like in terms of that specific situation did you know that there was a standard
+process that Arnold Clark used and you utilised another
+
+MMS:
+
+no, first of all and I have to insist on that there is no process there is no written process of
+procedure to say when you're working on AWS use necessary 1.3.7 no such thing there was zero,
+my boss comes to me and says there is nothing, do something about it and make it work, 1 went
+and did what my boss told me, am I being blamed for that too
+
+.
+
+Page 38 of41-5T
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06-23
+
+204
+
+t.
+
+okl think what we're best doing here Marcel s i know David's got childare and stuff that he needs
+t deal with so what we'ill do is we'll take a break for today, and then will tie bak in with you for
+the next uple of days and then we can come bak in and continue just I'm obviously conscious its
+getting to the end of the day, David has chaldare commitments he needs t get t, so I'il get in
+touch with yourself as soon as possible, we' come back and we'll continu e, is that alright, i
+appreciate its obviously quite stressful
+
+MMS.
+
+I think, l truly believe, it is my belief, I believe that you know in terms of process as
+the gentleman here seems to be very keen on process, in terms of process when you have
+someone who is not performing right, you know what you do, you get him into a one to one and
+tell him, its not working but you want to know wty this didn't happen, it didn't happen precisely
+because you know, she could most definitely see that l was not incompetent, if people say that
+merging these files will take 3 days, sir, you work in IT, you know at home, where I Iive, I've got a
+cluster, so inux duster with roughly 8 tenrabite of ram and dose to 500 02:23:10 you know as I've
+been doing these sort of things for a long time, for me to get the build of materials and assemble
+such a thing, I would do it in less than a day and I love doing it, I've been doing it before, but if I
+were to challenge anyone here do you think they would do so in less than a day, most people
+would spend weeks or even months all l'm saying here is in software engineering when you are
+given zero requirement I had no requirement, when you've just come out from a cyber breach,
+when you happen to have a background in yber security and when you are asked to do things to
+the best of your knowledge, the minimum you do is following industry best practice and this is
+what I did
+
+LC:
+
+ok, like I said Marcel we've obviously not finished discussing everything I'm just conscious of the
+
+MMS:
+
+now, I have to be
+this is just something I want to say you know, what is happening at least
+to me, and this is not entirely clear, this is what the hard facts are showing I think it is to me its very
+clear that you know, suddenly I be king of programmes and you need to get rid of me that's what I
+see and we've been talking an hour and a half now and thankfully it recorded, I don't know if it is
+because we still have so much to go about or if there are more
+but at no time, anyone
+mention anything around the behaviour programmes of Mr Jason White
+
+LC:
+
+I have to get to that, I have highlighted that so I will ask you that when we get to the other meeting
+but that is on my list to discuss with yourself
+
+MMS:
+
+ok, and me, quite honestly I have to insist on that, you know, the background of the individual
+needs to be taken into account, the way, the
+there was no written requirement and this
+and I have to insist, this is not a crime, we were in the middle of a crisis, I am even amazed and
+surprised Claire could manage to remain calm despite the pressure she was under I mean we could
+all see that so she comes to me and say, Marcel, we have nothing on AWS I even distinctly
+remember she even said if something is broken there we might need to rebuild it by hand which is
+not right, now, infrastructure on AWS tends to grow, when things tend to grow you go modular,
+now what I want to say is, and I said it in my email, you know, and I'm not saying that to be
+threatening or anything no, you see, it is my belief, life is too short, what l said here, is very clear, I
+am not really in the mood to fight, I don't want to fight and you have no idea, the impact of what is
+happening now, you know, let me tell you something on Thursday when we had the meeting, after
+I showed her that this new approach is working, she even showed me and I had to take some
+screenshot of that, not to be told again you haven't listened to what I say you haven't told me once
+the merging process is done, the next step for you will be to make some changes, and she was
+showing me on the terraform website what these changes would be so when you come out from a
+
+Page 39of41-ST
+Laura C/June 2023/Continued Employment Meeting with Mory-Marcel 5angare - 20.06-23
+
+205
+
+meeting file that you knw, t me it looks fl ]think the only thmg as l mention, we spoke
+about she said but, are you ta!ling t your cleagues, l said of curse t talk t them, everyo ne
+knows that for the past 2 weels, actually for the past 1 days l was telling her i was not only busy
+rewriting more than 1030 Ines a code and making it work, the cde rewrite i did it and its
+working and l was really busy trying t merge these things and getting done with that once and for
+all, because it was tiring even for me and l was, you see what i mean, so going from that and she
+started, I remember now, she started to ate names, do you talk to Zoe, 4said oh yeah Zoe is a very
+nice person you know, who would be afraid to speak to Zoe, Zoe is very nice and very open minded
+even though she doesn't talk a lot but she's very open minded, Greg, a wonderful personality and
+then when she cited Jason, I didn't say a word because as l said and I complain to her many times,
+l'm sure you can.. maybe t'm biased I don't know, but l come from a background where you
+don't overtalk your boss, or you don't interrupt your boss when he or she is talking or you're not
+being, you know when you talk to people there are two things to take into account, the content of
+the message and the way you say it,you know, when someone is talking every time you have the F
+word put somewhere and his favourite victims the cyber security teams, oh these people are a
+bunch of idiot, no they don't know what they're doing like, why all these procedures and stuff Ike
+that, you know, in cyber security you have people processing technology they are not idiots they
+just trying to put some processes in place and we're talking about competencies here
+LC:
+
+yeah so like l said Marcel we're not finished we will go into more detail but l'm just conscious
+David's got childcare commitments so we do just need to finish up for today and l appreciate it's a
+stressful situation, it continuing on but I will liaise with David and I will confirm with yourself as
+soon as I can when we'll come back in, I just want to make sure we're not rushing it and like I said I
+do have, I said to you at the start I'll go through the points that t have and then we'll go through
+your email so, I have highlighted the concerns that you raised, so we'll go through them when we
+come back in alright
+
+MMS: one thing I have to tell you madam, ok so is like, what is happening to me right now
+
+.
+
+LC:
+
+no nothing's happening
+
+.
+
+MMS:
+
+no, you have to let me
+
+please, what is happening to me right now is not easy to handle
+
+LC:
+
+no of course
+
+MMS:
+
+so like even today I tried to work but its not easy so and so please do I need to come back here
+tomorrow or do you want to have a phone conversation and the way its going, the way its going
+because lets be honest, with the way its going, what is the probability I'll be back in my team, its
+close to zero, lets face it
+
+LC:
+
+I've not made any decision like I said I want to discuss everything that you've put forward as well
+
+MMS:
+
+but my question is do I come back tomorrow
+
+LC:
+
+no, don't come back tomorrow just I know you work remotely so work remotely tomorrow and I'll
+be in touch tomorrow
+
+MMS:
+
+even and I'm not saying that
+to be lazy or anything please write it down because it seems to
+me everything l say is turned against me, but even right now, finding the concentration to work is
+very difficult
+
+Page 40 of41-57
+Laura C/lune 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-6-23
+
+206
+
+E;
+
+LC:
+
+mnof purse l understand
+
+MM5. so am! bemg so ifr'm being suspended or amythingyou know what an Ive my life
+C.
+
+n, you're not being srspended, what has happened just at the moment is, we've not finished
+discussing everything that we want to discuss, fke said you've put your ema forward, its just a
+time constraint at this point and ke I said, David's got childcare commitments, finishing up so I
+don't want t rush anything so what l was going to do is t schedule another meeting just for us to
+continue on just so you have the opportunity to go through our email in more detail and if there's
+anything further that you want to put forward then that's fine, so as it stands no decision has been
+made, you're still working as normal and I'll communicate with yourself.....-.
+
+MM5:
+
+not as normal, its very difficult
+
+LC:
+
+I do obviously appreciate that but l'm sure you'll appreciate from our side of things as well we want
+to have the opportunity to go through everything with yourself in detail and give you the
+opportunity to put forward your mitigation and just due to time constraints that's why I'm just
+adjourning it today and then we'll come back in and we'll continue alright, right ok doke
+
+MMS: and please before we go there's just one little thing l want to say before we go, I'm sorry this is
+really the last thing I'm saying if you can..........you know.....our company is using two approaches
+to handle digital assets, they have the cloud and we have our Datacentre, on our atacentre when
+you join the company you are being given an account to the 02:32.56 server and one you are on
+the 02:32:59 server then you use the route account to do whatever work you have to do, to be
+frank with you, this is a colossal security risk because the route account is extremely powerful you
+can do anything with that, now I know for a fact that whatever product using here as a VPN those
+products do have zero 02:33:28, it might not be clear to the management but they do so the simple
+fact that we don't have individual account on the servers, to our work it is
+1 mean it is
+something
+.1 never said a word about that because as you see I didn't want to be pointed at or
+something but this is a colossal security risk that needs to be sorted as soon as possible and I'm
+saying that honestly, no one does that, when you're working on Linux servers everyone is working
+from the route account, I mean as a linux admin, at least at NCR you'll get fired for less than that
+LC:
+
+ok
+
+MMS:
+
+this is what we're doing here every day now the question I want to ask and this is why l spoke
+about fairness, these sort of problems, no-one sees them but then when I'm trying to work
+modular it's a problem, you see this is not fair
+
+LC:
+
+ok, that's something we can discuss in more detail when we come back in alright
+
+MMS:
+
+so thank you very much
+
+LC:
+
+thank you very much I'll be in touch as soon as I can alright
+
+Adjourned:
+
+Page 41 of41-5T
+aura C/June 2023/Continued Employment Meeting with Mory-Marcel Sangare - 20-06.23
+
+207
+
+
