@@ -1,0 +1,558 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+ 
+
+Se epee rer
+
+From: Clare Thomson
+
+Sent: 21 Jume 2023 1621
+
+Toa: laura Cooper
+
+Subject: Re: Mory-Marcel Sangare
+Attachments: update.docx
+
+Hi Laura,
+
+I've not had a chance to talk to you today, but hopefully this will be helpful for you
+
+Thanks
+
+Claire
+
+From: Laura Cooper <Laure.Cooper@amoldciark.com>
+Sent: 20 June 2023 17:09
+
+To: Ciaire Thomson <Ctaire.Thomson@amolddark.com>
+Cc: David Middleton <David.Middleton@amoldclark.com>
+Subject: Mory-Marcel Sangare
+
+Hi Claire
+
+t will grve you a call tomorrow re the above however was just looking to see if you would be able to assist in
+answering the below questions. | had to adjourn the meeting due to time constraints and will reconvene back on
+Thursday afternoon.
+
+in terms of the current task - Marcel put forward that he was advised that there was no requirements, no process,
+wasn't specified to use a specific version etc and that is why he chose to do this in a modular fashion - is this the
+case?
+
+Regarding the current task - Marcel advised that this was up and running and was complete - is this the case?
+
+If no specific requirements are given - what is the expectation of engineers should they query requirements/is there
+standard requirements that they would always follow?
+
+Marcel advised that he has never had any conversation/comments regarding his performance from either yourself
+or concerns from his colleagues - is this the case?
+
+Marcel advised that following on from this point, he had a conversation with yourself last Thursday where you were
+satisfied with the work - is that the case?
+
+Kind regards
+Laura
+
+Laura Cooper
+
+People Advisor
+
+Arnold Clark Automobiles Ltd
+Tel: 0141 648 1390
+
+208
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+   
+
+7 sé
+
+At Armmold Gark we work flexibly. I'm sending this message now because it suits my working hours. However, !
+don't expect that you will read, respand to, ar action this message outside of your usual working hours.
+
+The content of ths email ts confidential and intended for the recipient specified in message only. it ts strictly forbidden to
+share any part of this message with any third party, without consent of the sender. if you received this message by
+mstake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not ocour in
+the future. If this email contains personal data it ts with the consent of the data subject. You may not disclose or share
+this persona! data unless you have or obtain the consent of the data subject to do so.
+
+209
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+In terms of the current task - Marcel put forward that he was advised that there was no
+requirements, no process, wasn't specified to use a specific version etc and that is why he chose to
+do this in a modular fashion - is this the case?
+
+We use Jira as our work management system, Marcel’s original task was to catalogue all the AWS
+components, so they were captured in terraform.
+
+Since we had to correct course early when | highlighted the objective was for terraform to create the
+infrastructure — not that a script should be run to capture manual changes, | decided the task was
+too open ended and choose to reduce the scope of this ticket to focus on the VPCs specifically, and
+to create a new one that was to just list everything we were trying to capture, so that could be split
+into separate resource tickets in the future
+
+As this ticket was split, the original description about which repo to use and that it should be the
+same as our AKS structure, was left on the first one.
+
+While the ticket did not specify the exact version to be used — Marcel had reviewed out current repo
+and it was expected given his experience that he would follow the structure and versioning that was
+consistent throughout (‘prior art’)
+
+na a lat ean as
+
+Identify all current AWS Resources
+
+Gg Attach r PVs (oR Meu lie merits e A ett eee oc Tate Dm cele | LO)
+
+Description
+
+We should make sure that all AWS resources are laC using terraform (or other ansible (scripts only when not possible)
+
+Work from a branch from the following repo
+
+https://github.com/arnoldclark/ac-iac-platform - Connect your Github account
+
+Create a new aws folder the same as we have for aks
+
+move any existing aws related code into this folder too - like elasticsearch
+
+There may be other pre-exisitng ansible code in other repos - if there is and it's still needed document in a readme
+within this repo so we know where all the bits are and how they hang together should we need to rebuild aws resources
+
+(I'm sure there are things like MaxScale somewhere - which will also need updated/patched)
+
+Acceptance Criteria
+
+Identify and list all AWS resources in all regions to be captured in terraform
+
+Notes
+
+Once list is produced a ticket will be created for each resource type so we can split into sepetate tickets for PRs
+
+ 
+
+218
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Terraform all AWS VPCs
+
+Gj Attach rt Add a child issue ea at ite dhe InVision for Jira nas
+
+Description
+
+Terraform all AV C instances identified in &
+
+eas) fear
+
+Notes
+
+Activity
+Show: All Ele] a Me) CELE | Oldest first T=
+
+ 
+
+As for the modular fashion, the first attempt had each resource separated, which as mentioned
+previously is not correct as you can’t remove a VPC for example without all the resources with it
+being affected.
+
+Resource map New CIDRs Flow logs Tags
+
+Resource map info
+
+ 
+
+VPC Show details Subnets (6) Route tables (4) Network connections (2)
+Yor WS virtual network Subnets within this VPC Route network traffic to resources Connections to other networks
+acdotcom-failover eu-west-2a acdotcom-failover-main-rt acdotcom-failover-igw
+
+acdotcom-failover-web-1a acdotcom-failover-db-rt acdotcom-failover-sync-nat-gw
+® ntrodiacnig the VPC resaurce mn? acdotcom-failover-db-1a acdotcom-failover-web-rt
+ee acdotcom-failover-sync acdotcom-failover-sync-rt
+
+Solid lines represent
+
+relationships between resources eu-west-2b
+in your VPC. Dotted lines
+represent network traffic to
+network functions.
+
+acdotcom-failover-web-1b
+
+acdotcom-failover-db-1b
+This feature is under
+development and may change. eu-west-2c
+
+Provide feedback acdotcom-failover-web-1c
+
+ 
+
+211
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Regarding the current task - Marcel advised that this was up and running and was complete - is this
+the case?
+
+At one point Marcel did have resources imported and plans running, but the structure did not meet
+what we were trying to achieve, there were no pipelines, there was no PR, and the branch was in no
+state to be merged.
+
+It did not meet the definition of done.
+
+212
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+If no specific requirements are given - what is the expectation of engineers should they query
+requirements/is there standard requirements that they would always follow?
+
+We do not give or engineers step by step guides on how to complete a task, there is ample
+opportunity to discuss our work.
+
+We do have daily catchups, group chat, calls to discuss if something is or isn’t working, we don’t just
+decide to change course without discussion about why.
+
+| do expect that we work on branches and commit our code — to facilitate discussions on the work
+and to make sure if there was any holidays/medical issues etc someone else would be able to pick up
+and continue.
+
+| do not expect to have to open a PR myself on someone else’s work after having asked repeated
+times for it to be done.
+
+| do expect that the sole work of 3 days is more than 3 lines changed.
+
+Merge remote-tracking branch ‘origin/master’ into INFRA-675/AWS
+a mmshill sete
+
+breaking down configs
+
+os PL
+
+adding vpc count for 30th may 2023
+
+a mmshill com
+
+modifying some parts of vpc-dc37dab5
+
+eat Ce nL
+
+Infra 675/aws
+
+ADI eg TEL}
+
+modifying some parts of vpc-de37dab5
+
+an
+
+a
+Rec oC eC Rad
+
+ 
+
+213
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+modifying some parts of vpc-dc37dab5 Creed
+
+(een
+
+breaking down configs change
+
+Cea
+
+Merge remote-tracking branch ‘origin/master’ into INFRA-675/AWS
+
+Cen
+
+Config modifications and merging of main.tf files
+
+Ca
+
+ee na
+
+Dee Cana eter
+
+Ney
+
+em
+
+aot
+Ce Ce ess Cg
+
+Sree tas el
+
+ote tt aT La "cidr_block_vpc”
+Uret SSC leak ead E "The CIDR block for the VPC"
+
+ 
+
+214
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Marcel advised that he has never had any conversation/comments regarding his performance from
+either yourself or concerns from his colleagues - is this the case?
+
+While | did not have a formal 1-2-1 to discuss performance, | did on numerous occasions point out
+that things were not being committed or were not as expected leading to course corrections
+throughout the task.
+
+Colleagues may not have mentioned anything to Marcel in person, but concerns were raised to me
+that certain discussions that took place previously had to be repeated as they had not been taken on
+board.
+
+remember to push your work to your branch &
+
+Ley
+Please remember to push your local commits to git it's good practice to push at a minimum at the end of the day, if you
+were off sick for example someone could pick up where you left off
+
+Marcel Sangare 19/05 11:0
+Good morning Claire.Sorry you are absolutely right.It is just me and my silly habit of pushing only what appears to be the
+best...bad habits die hard but something | do need to rectify indeed. i was trying t make the comments as consistent as
+possible. | am just finishing the vpc_accounting script that will be pushed today as well
+
+so on the branch “INFRA-675/AWS", under “aws”, there will be a folder “vpc_terraform_version_1.3.7" with the update to the
+terraform config for all the vpc using version 1.3.7.
+
+9/05 11:33
+why? this should all be in one folder, it’s all still in separate folders?
+It should be along these lines as discussed
+AWS
+-- main.tf (contains providers, versions, datablocks, locals)
+-- vpc-1.tf
+-- vpc-2.tf
+-- variables.tf
+-- output.tf
+
+it should be “= 1.3.7"
+fs ee
+and please don't feel like anything has to be absolutely right ©
+
+push frequently, get feedback when you need, it ask questions - I'm forever making commits that just say “Typo” ©
+
+Marcel Sangare 19/05 11:45
+
+yes indeed.So i first rewrote all the individual terraform configs using 1.3.7, tested them thoroughly .
+
+the organization you mentioned above was mentioned by Zoe.i will do that next ..
+
+iam on it now as well as the vpc accounting
+
+Thanks! makes it so much easier to read, then we should be pretty close to that PR and getting VPCs out the way and on to
+the next resource @
+
+ 
+
+215
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Ege BSc
+
+Hello Claire.
+
+Please can you have a look at the structure below for the vpc-0232b16b ; It is just os that you have an idea before i push this
+afternoon.
+
+so what i am doing at the moment is pretty much the same for all vpc. So i am breaking them down, each of them in their
+individual folder such as below before then move on to merge them into a single folder as requested by you last week:
+
+The reason why | initially opted for a single root project per vpc is because vpc on aws are considered isolated units so the
+idea was to isolate them in into their own individual project for scalability and strict isolation from each other.
+
+so there should only be one variables file and one outputs file - these are going to be the same inputs and outputs across all
+VPCs - this is why pushing to git helps - then | can pull the branch and look at the code and discuss it rather than looking at
+
+some file names on a screenshot
+
+UY ETc BS re-set crea)
+
+yes indeed...it will be as you mentioned below:
+
+-- main.tf (contains providers, versions, datablocks, locals)
+-- vpc-1.tf
+
+-- vpc-2.tf
+
+-- variables.tf
+
+-- output.tf
+
+so there will be a single main.tf a single variables.tf and a single output.tf
+
+But in order to make this easier, i am breaking the individual configs along these lines before merging into a single folder
+
+ie Pee
+
+most of the variables will be in your files to start with anyway as it's not a module so it's defined in the code
+
+we don't need things isolated, | get the original idea - but we want to be able to run a pipeline across them all - check for
+changes etc - no manual running of anything
+
+23/05 15:28
+
+yeah I'm guessing you'll have no outputs or variables, so you'll only need the main.tf and the file with the VPC and all it's
+settings
+
+it'll be much tider and easier to understand
+
+once that's done and everything is imported and there's no changes in the plans, it will be easier to make a module and pass
+Tamme)
+
+ro ® 8 @
+
+Marcel Sangare 23/05 15:29
+yes this is why i am breaking it down for each of them and theen use the broken down files to bukid a single configuration
+
+OK r just keep remembering to commit - doesn't matter if it's not working or not ‘beautiful’ © | was so used to working
+alone that | had that habit too ©} now | do tiny changes and push all day &
+
+Marcel Sangare 23/05 15:3
+
+i swear....i Il push the “broken down” configs every day
+
+if not i must dmaned and not allowed to use linux anymore
+
+P-)
+
+ 
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Can you also remember in addition to pushing changes to git - you also need to pull changes from master into your branch to
+keep it up to date please &
+
+you will be OK as no one else ts working in the area you are at moment - but if we don't do it elsewhere we would get really
+bad merge conflicts to resolve.
+
+Marcel Sangare 30/05 13
+
+Sorry Claire...believe me when i say that i was thinking about this this morning. OK i just wrote a little script of 10 lines that
+will take care of that so that i cannot forget no matter what...i now completed the incorporation of the changes from master
+Tacoma -Mele-lireg)
+
+ 
+
+217
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+Marcel advised that following on from this point, he had a conversation with yourself last Thursday
+where you were satisfied with the work - is that the case?
+
+Again after Marcel had not followed what was asked and discussed — we followed up with another
+call
+
+@ RO Elcom
+J
+
+| think i did misinterpret this comment from you the last time we had a chat about the terraform for the vpc:
+
+SD Calle
+
+CeO eee
+This si why i was going that route
+but what is finally asked is pretty straightforward
+
+and will be done by tomorrow i think...i am already on it
+
+No worries, | did follow that up on a catchup and actually make the changes to show you and said we had no variables or
+outputs at this time, | dragged a dropped the file into the folder, | thought you realised that the variables and outputs would
+just be empty or even non existent. As long as we're on the right page now 4
+
+That's why draft PRs are good and we can discuss what's happening c-)
+
+@ yes indeed we are and this way is even easier ®
+
+ 
+
+(This referred to my initial “along these lines” structure, which was discussed on a call after and then
+again on the 23 about not requiring the outputs/variables at this point as we wanted to ‘keep it
+simple’.)
+
+218
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 23.exchange_between_hr_and_claire_after_1st_hr_meeting.pdf
+
+HI Claire.1 was wondering for what time tomorrow you would like to book some time to review what we spoke about today ?
+am just about to upload that version too on git and send you the link in advance
+
+many thanks in advance
+
+branch dedicated to AWS, we have the following :
+
+-The path to the version with all the terraform configs under one folder
+
+https://github.com/arnoldclark/ac-iac-platform/tree/INFRA-675/AWS/aws/vpc terraform version 1.3.7/all-configs-in-one
+
+-The path to the version with all the terraform configs using modules (work in progress)
+
+https://github.com/arnoldclark/ac-iac-platform/tree/INFRA-675/AWS/aws/vpc terraform version 1.3.7/all-vpc-terraform
+
+Was looking into the random VPC that were in places that we didn't know about, they are default ones (says yes under default
+in the UI ) they are managed differently with terraform
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/default vpc
+
+we can look through all this tmw
+
+@ Claire Thomson
+
+we can look through all this tmw
+
+eee eee Um ee ele
+
+I've popped half an hour in tmw morning, got a few things on my calendar, so can start there and catch up again later if we
+need
+
+@ Good morning Claire.Can i call you now ?
+
+ 
+
+And at this point | was satisfied that the changes Marcel was making to his previous work were going
+in the correct direction now. The folder structure still did have to change as did the VPC resources to
+Default VPC resources, but we were still a long way from being done.
+
+219
+
