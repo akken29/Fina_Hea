@@ -1,0 +1,2714 @@
+Workspaces
+
+Applications
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+: we're here butt
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thal Greg
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.com/arnol...
+
+Q Search
+
+4% Greg Dolan
+
+ean...
+
+12/05
+12/05
+
+28/04
+
+20/04
+
+q7/
+
+7/02
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+Chat Files 3morev +
+
+16/02
+
+Workspaces Applications
+
+Chat ~ = G&
+
+JasOn: KUTININg Over LITe In ang...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good mo i
+
+Planning
+Claire: we're here but things be...
+
+Team Update 12/05
+
+5 ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@ © & © OG «
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+@ *
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:47 # © 6 G@& ai & GO 100
+
+Q Search oo
+
+Greg Dolan Chat Files 3 more ~
+
+ote aw &
+
+DILLPS./ / SY ILZOPLaALU aU LUL LeU
+
+https://s000137pLaco.arnoldclark.com/
+
+'"@¥v 086
+
+ly ? OR have i missed something ?
+
+Have you encountered something similar |
+
+Greg Dolan 09/03 10:53
+
+hmm no it's working for me?
+on the same VPN
+
+é4v08
+
+| get a cerificate error but once | go past that it's fine
+
+certificate
+
+09/03 10:58
+
+This is really strange...none of these url work for me.i know the usual certificate issue but this is not
+what i am getting.Well i have to research that issue i suppose..may be a rebopot of my windows
+machine will help....lool.
+
+many thanks Greg !
+
+Workspaces
+
+Applications
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+ean...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+12/05
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+12/05
+
+Frank McDade
+
+28/04
+no worries - thanks you too r
+
+20/04
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+09/03
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+16/02
+
+al vial
+
+Keith and Zoe
+
+20Jun 12:47 «
+
+Q Search
+
+*% Greg Dolan Chat files 3morey +
+
+but for some reasons, i cannot ssh into a new built VM
+asked about a password that i dont seem to have
+
+Greg Dolan 27/02 15:20
+
+Where was the server built?
+
+Yo
+
+Greg Dolan 27/02 15:44
+* How did you create the VM? XD
+°o
+
+vsphere?
+
+OG Wai & G 100%
+
+It is very simple...i am on the jumpserver (rdp03)
+
+...may be something i am doing wrong but i get
+
+27/02 15:31
+
+Greg Dolan 27/02/2023, 15:20
+Where was the server built?
+
+i have no idea ...all i know is that it is rdp03
+
+Workspaces Applications 20Jun 12:47 @ = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~ = G&
+
+Greg Dolan Chat files 3morey + a & &
+
+JasOn: KUTININg Over LITe In ang...
+& Honestly i might follow your lead... @®
+PR Reviews
+Claire: just jumped
+
+i lL look at which workstation i can modify for some processing power boost !
+
+AWS VPCs 13/06
+
+You: ah ok no problem 27 February
+
+, 7/02 13:53
+Claire Thomson 13/06
+ire.Can iC... Hello Gre.
+
+Can we have a quick call this afternoon ?
+
+12/05 It is very simple...i am on the jumpserver (rdp03)
+
+but for some reasons, i cannot ssh into a new built VM...may be something i am doing wrong but i get
+
+205 Mar Rey tis asked about a password that i dont seem to have
+
+You: No problem @
+
+Frank McDade 28/04 Greg Dolan 27/02 15:20
+no worries - thanks you too Mar...
+
+@ © € © OG «
+
+A Where was the server built?
+
+Ops Catchup 20/04
+Jason: http mpl.com/ 27/02 15:31
+
+Greg Dolan 09/03
+
+You: many thanks Greg ! a
+Greg Dolan 27/02/2023, 15:20
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:47 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Greg Dolan Chat files 3morey + a & &
+
+--— ---- HS
+
+18/01 09:44
+
+Yes who is charging you like a brit would do
+but if you take a polish contractor from Poland, even with his flight toicket, you wont get there believe
+me
+
+Greg Dolan 18/01 09:45
+
+% And if the job goes wrong what would be my legal route to ff Nit? No chance bank would agree to that
+haha
+
+18/01 09:45
+
+Greg Dolan 18/01/2023, 09:45
+And if the job goes wrong what would be my legal route to fix it? No
+chance bank would agree to that haha
+
+Yes indeed...you are totally right on this point. @
+
+Greg Dolan 18/01 09:46
+
+* I'm more worried about it being built right than the cost
+oe
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search oo =
+2 @
+
+20Jun 12:47 7 8 6 G& Wai @ B100%
+
+Greg Dolan Chat files 3morey + a & &
+
+Aaaah so when you need to create a vm, what process do you follow ?
+
+Greg Dolan 13/01 14:34
+
+5
+
+% Well now it's all done via terraform
+but I've yet to do it, the first time I'll do it will be these squid boxes
+
+13/01 14:35
+
+Aaaah ok...so once you know how to activate it, would you mind sharing with the newbie (my first
+
+name @)
+
+oni nazyvayut menya novym po-russki
+OHM Ha3bIlBaloT MHA HOBbIM NO-pycckH
+
+18 January
+18/01 09:42
+
+Hello Greg.
+
+Greg Dolan 18/01 09:43
+
+5
+
+% Lo
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:47 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Greg Dolan Chat files 3morey + a & &
+
+50 rignt now | Nave access only to the jump servers and the ftp external
+
+but beyond that i dont have access to the list of servers on ansible against whcih you gonna be running
+the script
+
+So please when you have a minute, can you add me on them please
+
+13/01 09:06
+
+Good morning Greg.| hope my message findg you well.Just to let you know that if you were to need an
+assistant for some of the work you will be d on premises, please do feel free to let me know.Also
+happy friday ! (even though the popular supeStition would like us all to be careful on a Friday the 13th
+
+)
+
+Greg Dolan 13/01 09:09
+
+aap
+
+% Will do! Let's hope for a chill non emergency Friday
+
+Fingers crossed!
+
+13/01 14:31
+
+Hey Greg, a quick one...next week when you have a second, can we quickly review the automated
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+Team Update 12/05
+
+5 ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:47 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Greg Dolan Chat files 3morey + a & &
+
+22/12/22 15:54
+Sorry Greg...i was meant to send it to Jason
+Hey Greg...one question...why is it that we dont have OpenLdap set up for the authentication of the
+
+Linux servers we have on Premises ? Is it because there is a different strategy in store ? i am just
+curious
+
+Greg Dolan 22/12/22 16:30
+
+yA I'm not sure, | don't think we trust the ad servers enough, it ple enough to manage via ansible
+
+22/12/22 16:34
+
+Aaah alright ! ok so we are nearing the end of the day and i wont be in tomorrow.So allow me to wish
+you a Merry Christmas for you and your family...
+
+many thanks Greg and speak to you later !
+
+29 December 2022
+
+29/12/22 13
+
+@
+g
+Co
+
+"ye
+
+Workspaces Applications
+
+Chat ~
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+\O9 OG OOGE
+_
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+@*@eo
+
+Keith and Zoe
+
+al vial
+
+thub.com/
+
+ny
+II!
+
+ean...
+
+Canic
+
+arnoL..
+
+16/02
+
+20 Jun 12:47
+
+Q Search
+
+*% Greg Dolan Chat Files 3 more ~
+
+Greg Dolan 22/12/22 15:27
+
+% This is one of them ; https://s000126pLaco.arnoldclark.com/
+
+and the other https://s000137pLaco.arnoldclark.com/
+
+= © & OG @ai & B 100%
+
+Can i please have the URL for vsphere ?
+
+22/12/22 15:28
+
+Sorry Greg..do i have an account set up there at all ?
+
+the last time we checked i remember you did enter a username that is similar to the one we use to
+
+connect to the vpn...you know the oen starting with e00
+
+Greg Dolan 22/12/22 15:31
+
+% yeah vsphere is linked to AD iirc
+
+Mine is 20075078
+
+Aaah please leave it...it works...i used my vpn login details and went through
+
+Workspaces Applications
+
+Chat ~
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+\O9 OG OOGE
+_
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+@*@eo
+
+Keith and Zoe
+
+al vial
+
+thub.cor
+
+ny
+II!
+
+ean...
+
+Canic
+
+m/arnol...
+
+16/02
+
+20Jun 12:47 # © 6 DG Wai gd
+
+Q Search oo
+
+*% Greg Dolan Chat files 3morey +
+
+And Amen if this is the only kind of issues encountered !
+
+12/22 16:12
+
+Nah its just sometimes a node will get kicked out and a couple of times the whole cluster has just
+fallen over and needed standing up again, it's not a massive issue as we fail over to aws it's just
+annoying.
+
+On the whole the infrastructure is solid
+
+19/12/22 16:12 Edited
+Ah this is good to hear.many thanks !
+22 December 2022
+
+22/12/22 14:
+
+ite]
+
+5
+
+Hello Greg
+i have a question
+
+so iam trying to access the sftp servers
+
+hut it daa nat canm ta ha uinrling at all
+
+G 100%
+
+Workspaces
+
+Applications
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.cor
+
+ean...
+
+12/05
+12/05
+
+28/04
+
+20/04
+
+09/03
+
+07/03
+
+q7/
+
+7/02
+
+m/arnol...
+
+16/02
+
+Q Search oo =
+2 @
+
+*% Greg Dolan Chat files 3morey +
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+ak &
+
+OP PULGUUTE 19 1h Gu SIUULU Eco SUppUsT UI Le PCLOVaIIL GppuULauUlT 13 nuoLcU UIT une
+
+Aaaa : vw
+
+cloud ?
+
+Greg Dolan
+
+=
+
+12/22 08:16
+
+I'm not sure, probably not, it's likely just a script which runs on a windows box somewhere
+
+(12/22 08:17
+
+Aaaah this is not the best situation | must admit.
+
+Greg Dolan 12/22 08:18
+
+% Nah, I'm not sure they fully understand it all either, that's h gacy systems roll gx
+
+19/12/22 16:05
+
+Hi Greg.| would have a question please.So since you have been with Arnold clark, do you have an idea
+of the most common incident we have to deal with in production environments ?
+
+Also allow me to say that it is still time to get into a Choir or something alike. This singing talent cannot
+be left to chance ...just saying
+
+Workspaces
+
+Files
+
+Applications
+
+Chat ~ = G&
+
+\@9O& OOG Fe
+
+@*@eo
+
+JasOrl. Kull nang...
+
+PR Reviews
+just jumped
+
+ean...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+: we're here butt
+
+Digital Team Update
+
+Recording is ready
+
+12/05
+
+Zoe MacKay
+You: No problem @
+
+12/05
+
+Frank McDade
+
+28/04
+no worries - thanks you too r
+
+Ops Catchup 20/04
+Jason: https://jimplcom/
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:47 « -# Be & Wai a
+
+Q Search
+
+Files 3morev +
+
+4K Greg Dolan chat
+
+Greg Dolan 12/12/22 11:15
+
+Ready to chat if you are
+
+Yo
+
+12/12/22 11:16
+
+yes iam
+
+Greg Dolan 12/12/22 17
+
+httos://arnoldclark.atlassian.net/jira/software/c/projects/IMHPS/boards/202
+
+Log in with Atlassian account
+Log in to Jira, Confluence, and all other Atlassian Cloud
+products here. Not an Atlassian user? Sign up for free.
+
+arnoldclark.atlassian.net
+
+Greg Dolan 12/12/22 11:31
+
+https://arnoldclark.atlassian.net/ jira/software/projects/INFRA/boards/261
+
+12/12/22 14:28
+
+Hey Greg...sorry one question about working hours...is it from 9-12pm and them 1pm till 5:30 pm...right
+
+>
+
+G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+Team Update 12/05
+
+5 ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search oo =
+2 @
+
+20Jun 12:47 7 8 6 G& Wai @ B100%
+
+Greg Dolan Chat files 3morey + a & &
+
+Greg Dolan
+
+yA No problem, how you settling in?
+
+12/12/22 10:39
+Things are ok so farYou now i am still at the stage of exploring the environment and the assignments
+of our team.And actually, if you have some time, can we set up a meeting when you are free this week
+to explore a bit more what we do and our daily processes ?
+
+Greg Dolan 12/12/22 10:52
+
+5
+
+*. Sure, gimme half an hour to light a fire and get some coffee
+
+12/12/22 10:53
+
+ok no problem at all!
+
+Greg Dolan 12/12/22 11:15
+
+% Ready to chat if you are
+
+12/12/22 11:16
+
+yesiam
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+\O9 OG OOGE
+
+@*@eo
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.cor
+
+ny
+II!
+
+ean...
+
+Canic
+
+m/arnol...
+
+16/02
+
+Q Search oo
+
+*% Greg Dolan Chat files 3morey +
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+in and Claire needs to approve it &
+
+19 December 2022
+19/12/22 08:13
+
+Good morning Greg
+You mentioned something broken for a team
+May | know what it is ?
+
+g Dolan 19/12/22 08:14
+
+5
+
+% Yeah some report which ran against stockdb
+They were hardcoded to the old ip
+
+19/12/22 08:16
+
+Aaaah ! Which application is it and should | here suppose that the relevant application is hosted on the
+cloud ?
+
+2/22 08:16
+
+yA I'm not sure, probably not, it's likely just a script which runs on a windows box somewhere
+
+Workspaces Applications
+
+JasOrl. Kull
+
+PR Reviews 13/06
+just jumped ean...
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Recording is ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too tice
+
+Ops Catchup 20/04
+Jason: http i
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+al vial
+
+Keith and Zoe 16/02
+
+20Jun 12:47 «
+
+Q Search
+
+*% Greg Dolan Chat files 3morey +
+
+OG Wai & G 100%
+
+12/12/22 10:39
+
+Things are ok so farYou now i am still at the stage of exploring the environment and the assignments
+of our team.And actually, if you have some time, can we set up a meeting when you are free this week
+
+to explore a bit more what we do and our daily processes ?
+
+Greg Dolan 12/12/22 10:52
+
+% Sure, gimme half an hour to light a fire and get some coffee
+
+Greg Dolan 12/12/22 11:15
+
+=
+
+% Ready to chat if you are
+
+Greg Dolan 12/12/22 11:21
+
+ad https://arnoldclark.atlassian.net/ jira/software/c/projects/ RCHPS/boards/202
+
+12/12/22 10:53
+
+ok no problem at all!
+
+Workspaces Applications
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+Reco
+
+& Zoe MacKay
+© You: No problem @
+EN
+
+i)
+
+ng is ready
+
+Files
+
+Frank McDade
+
+Ops Catchup
+Jason: https:/|
+
+% Greg Dolan
+© You: many thanks Greg!
+
+Digital Team Update
+
+@ Ansible Chat
+
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+no worries - thanks you too
+
+impLcom/
+
+= |G
+
+Tl ang...
+
+ean...
+
+12/05
+
+07/03
+
+17/02
+
+thub.com/arnol...
+
+16/02
+
+Q Search oo =
+2 @
+
+*% Greg Dolan Chat files 3morey +
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+Greg Dolan 12/12/22 11:21
+
+% https://arnoldclark.atlassian.net/jira/software/c/projects/RCHPS/boards/202
+
+Log in with Atlassian account
+Log in to Jira, Confluence, and all other Atlassian Cloud
+products here. Not an Atlassian user? Sign up for free.
+
+(2)
+
+arnoldclark.atlassian.net
+
+Greg Dolan 12/12/22 11:31
+
+[boards /261
+
+% https://arnoldclark.atlassian.net/ jira/software/projects/IN
+
+12/12/22 14:28
+
+Hey Greg...sorry one question about working hours...is it from 9-12pm and them 1pm till 5:30 pm...right
+=
+
+Greg Dolan 12/12/22 14:39
+
+Those are the core hours, basically you can start from 8-9.30am I think and take lunch between 12 and
+2 but the caveat is that you need to be clocked back in by 2pm otherwise it'll be flagged as a late clock
+in and Claire needs to approve it &
+
+19 December 2022
+
+Workspaces
+
+Applications
+
+JasOrl. Kull
+
+PR Reviews 13/06
+just jumped ean...
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update 12/05
+
+Recording is ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade
+
+28/04
+no worries - thanks you too r
+
+20/04
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+09/03
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+al vial
+
+Keith and Zoe 16/02
+
+Q Search oo
+
+*% Greg Dolan Chat files 3morey +
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+in and Claire needs to approve it &
+
+19 December 2022
+19/12/22 08:13
+
+Good morning Greg
+You mentioned something broken for a team
+May | know what it is ?
+
+Greg Dolan 19/12/22 08:14
+
+% Yeah some report which ran against stockdb
+They were hardcoded to the old ip
+
+19/12/22 08:16
+Aaaah ! Which application is it and should | here suppose that the relevant application is hosted on the
+cloud ?
+Greg Dolan 19/12/22 08:16
+
+% I'm not sure, probably not, it's likely just a script which runs on a windows box somewhere
+
+Workspaces
+
+Chat ~
+
+\O9 OG OOGE
+
+@*@eo
+
+Applications
+
+ny
+II!
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good mor a
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Recording is ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade
+no worries - thanks you too
+
+Ops Catchup 20/04
+Jason: http i
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search oo
+
+*% Greg Dolan Chat Files 3 more ~
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+a ak &
+
+Greg Dolan 19/12/22 08:16
+
+5
+
+% I'm not sure, probably not, it's likely just a script which runs on a windows box somewhere
+
+(12/22 08:17
+
+Aaaah this is not the best situation | must admit.
+
+Greg Dolan 12/22 08:18
+
+% Nah, I'm not sure they fully understand it all either, that's how legacy systems roll Ss
+
+19/12/22 16:05
+
+Hi Greg.| would have a question please.So since you have been with Arnold clark, do you have an idea
+of the most common incident we have to deal with in production environments ?
+
+Also allow me to say that it is still time to get into a Choir or something alike. This singing talent cannot
+be left to chance ...just saying
+
+Workspaces
+
+Chat ~
+
+@ @ &
+
+@eoGct ®@
+
+Ye
+
+Applications
+
+= &
+JASON. KRUTIMINS OVer LIME IM ann...
+
+PR Reviews 13/06
+Claire: just jumped in in case an...
+
+AWS VPCs 13/06
+
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good mo clai
+
+Planning 08/06
+Claire: we're here but things be...
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 7/02
+Jason: https://github.com/
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Searc
+
+Yo
+
+20Jun 12:47 «
+
+h
+
+Greg Dolan Chat files 3morey +
+
+Greg Dolan 19/12/22 16:07
+
+Oo Wai & B100%
+
+“Everythi
+
+gonna
+
+| mean, the most common issue has been galera cluster issues
+
+Otherwise there's been no real issues at all
+
+19/12/22 16:08
+
+And what sor tof issues were taking place on the galera cluster ?
+performance issues ? or others ?
+
+And Amen if this is the only kind of issues encountered !
+
+Workspaces
+
+Applications
+
+Chat ~
+
+\O9 OG OOGE
+
+@*@eo
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.com/
+
+ny
+II!
+
+ean...
+
+Canic
+
+arnoL..
+
+16/02
+
+Q Search
+
+*% Greg Dolan Chat files 3morey + a & &
+
+Yo
+
+20Jun 12:47 = © & OG @ai & B 100%
+
+And Amen if this is the only kind of issues encountered !
+
+12/22 16:12
+
+Nah its just sometimes a node will get kicked out and a couple of times the whole cluster has just
+fallen over and needed standing up again, it's not a massive issue as we fail over to aws it's just
+annoying.
+
+On the whole the infrastructure is solid
+
+19/12/22 16:12 Edited
+
+Ah this is good to hear.many thanks !
+
+22 December 2022
+22/12/22 14:55
+
+Hello Greg
+i have a question
+so iam trying to access the sftp servers
+
+but it doe not seem to be working at all.
+
+Workspaces
+
+Applications
+
+Chat ~
+
+\O9 OG OOGE
+
+@*@eo
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.com/
+
+ny
+II!
+
+ean...
+
+Canic
+
+arnoL..
+
+16/02
+
+Q Search
+
+*% Greg Dolan Chat files 3morey +
+
+Greg Dolan 22/12/22 15:09
+
+‘K Yeah lemme try
+C)
+
+Greg Dolan 22/12/22 15:19
+
+‘*¥. | see you exist
+°e
+
+are you on the VPN?
+
+20Jun 12:47 © 2 BS
+
+OG Wai & G 100%
+
+ak &
+
+soi am trying to access the sftp servers
+
+but it doe not seem to be working at all.
+
+So i first got into the jump server: devops-rdp01.arnoldclark.com
+
+and then from there i tried to ssh into the external sftp with ip address of : 10.150.253.17
+but to no avail.
+
+Would you mind tryign on your sif¢ and tell me if you can ssh into the ip above (10.150.253.17)
+
+22/12/22 15:09
+
+thank you Greg
+
+YGoaEe rR COB - a
+
+Workspaces Applications 20Jun 12:47 @ = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+JasOrl. Kull
+
+ny
+II!
+
+*% Greg Dolan Chat files 3morey + a & &
+
+and then trom there | tried to ssh into the external sttp with ip address ot : 10.150.253.17
+
+PR Reviews 13/06
+
+Just Jumped ean... é ¥ ® 9g
+
+AWS VPCs 13/06 Would you mind tryign on your side and tell me if you can ssh into the ip above (10.150.253.17)
+
+You: ah ok no problem
+
+Greg Dolan 22/12/22 15:09
+
+Claire Thomson 13/06
+You: Good mor claire.can ic... ‘K Yeah lemme try
+°o
+
+Planning 08/06
+re here butt
+
+22/12/22 15:09
+
+. thank you Greg
+Digital Team Update 12/05
+
+Recording is ready
+
+Greg Dolan 22/12/22 15:19
+
+vA
+You: No problem @ CJ
+
+are you on the VPN?
+
+\O9 OG OOGE
+_
+
+Frank McDade
+
+no worries - thanks you too
+
+10.130.252.65
+
+Ops Catchup 20/04
+Jason: http i
+
+22/12/22 15:19
+Greg Dolan 09/03 yes iam on the VPN
+You: many thanks Greg !
+
+an carand i canfirm thic
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Workspaces Applications
+
+Chat ~
+
+JasOrl. Kull
+
+ny
+II!
+
+PR Reviews 13/06
+just jumped ean...
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good mor ‘laire.can ic
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Recording is ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+\O9 OG OOGE
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup 20/04
+Jason: http i
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+20 Jun 12:47
+
+Q Search
+
+*% Greg Dolan Chat files 3morey +
+
+fo ---y-- 2 ==
+are you on the VPN?
+
+10.130.252.65
+
+Greg Dolan 22/12/22 15:19
+
+% Yeah that should work, try the IP | gave?
+
+aaacsh i easliead that fume aleandier
+
+= © & OG @ai & B 100%
+
+22/12/22 15:19
+
+yes iam on the VPN
+on second i confirm this
+
+iam currently on technical tunnel
+
+22/12/22 15:20
+
+ok i try right now
+Yep Greg...the ip you gave is working...how come ?
+
+Where do i get DNS information for the datacenter please ?
+
+cannactad ta the ieee ain shen thie te the haemn corsa
+
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+JasOrl. Kull
+
+ny
+II!
+
+*% Greg Dolan Chat files 3morey + a & &
+
+Where do i get DNS information for the datacenter please ?
+PR Reviews 13/06
+just jumped ean...
+
+aaaah i realised that i was already connected to the ip you gave above...this is the jump server
+
+AWS VPCs 13/06
+You: ah ok no problem as you can see below ij am connected twice now:
+
+Claire Thomson 13/06 Greg Dolan 22/12/22 15:23
+You: Good mor cla Canic
+
+VA The SFTP server has 2 IPs, one for internal traffic and one for external
+Planning 08/06 °
+re here butt
+
+Sometimes best to check vsphere in cases like this
+
+Digital Team Update 12/05
+
+Recording is ready 22/12/22 15:24
+
+Zoe MacKay 12/05 yes you right
+
+You: No problem @
+Can i please have the URL for vsphere ?
+
+\O9 OG OOGE
+_
+
+Frank McDade
+
+no worries - thanks you too
+
+Greg Dolan 22/12/22 15:27
+
+Ops Catchup 20/04 vA This is one of them ; https://s000126pLaco.arnoldclark.com/
+Jason: http i e
+
+and the other https://s000137pLaco.arnoldclark.com/
+
+Greg Dolan 09/03
+
+You: many thanks Greg ! ;
+22/12/22 15:28
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Workspaces
+
+Applications
+
+i
+II!
+>
+_
+©
+
+=
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+ean...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+12/05
+
+Zoe MacKay
+You: No problem @
+
+12/05
+
+Frank McDade
+
+28/04
+no worries - thanks you too r
+
+20/04
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+09/03
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https thub.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:48 «© a BB & G ev qi
+
+Q Search oo
+
+*% Greg Dolan Chat files 3morey +
+
+a ee) epee wr
+
+Hello greg...are you done yet with scanning the linux hosts ? Would you mind , if you can, me joining
+you (remotely) to understand what is going on with that ?
+
+Greg Dolan 29/12/22 13:51
+
+% Yeah can do, will be back at it in 15-20 mins
+
+29/12/22 13:59
+
+ok no problem.
+
+Greg Dolan 29/12/22 14:22
+
+% You ok for a call now?
+
+Just 5 little minutes Greg...i have the bank on the phone
+yes ia ready now
+
+Greg Dolan 29/12/22 14:38
+
+http://gocd.arnoldclark.com/go/ pipelines
+
+Yo
+
+Greg Dolan 29/12/22 15:1
+
+YGoaEe rR COB - a
+
+& 9 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+JasOn: KUTININg Over LITe In ang...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@ © € © OG «
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+@ *
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search oo =
+2 @
+
+20Jun 12:48 7 8 6 G& Wai @ B100%
+
+Greg Dolan Chat files 3morey + a & &
+
+% http://gocd.arnoldclark.com/go/ pipelines
+
+Greg Dolan 29/12/22 15:13
+
+% You got a list of the servers you have access to
+
+29/12/22 17716
+
+Hello Greg
+So right now i have access only to the jump servers and the ftp external
+
+but beyond that i dont have access to the li
+the script
+
+servers on ansible against whcih you gonna be running
+
+So please when you have a minute, can you add me on them please
+
+13 Janua
+13/01 09:06
+Good morning Greg.| hope my message finds you well.Just to let you know that if you were to need an
+
+assistant for some of the work you will be doing on premises, please do feel free to let me know.Also
+happy friday ! (even though the popular superstition would like us all to be careful on a Friday the 13th
+
+)
+
+Workspaces
+
+Applications
+
+Chat ~
+
+\O9 OG OOGE
+
+@*@eo
+
+JasOrl. Kull
+
+PR Reviews
+just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good mor
+
+Planning
+
+re here but t
+
+Digital Team Update
+
+Recording is ready
+
+Zoe MacKay
+You: No problem @
+
+Frank McDade
+
+no worries - thanks you too
+
+Ops Catchup
+Jason: http i
+
+Greg Dolan
+You: many thanks Greg !
+
+Digital Team Update
+
+Ansible Chat
+Jason: https
+
+Keith and Zoe
+
+al vial
+
+thub.com/
+
+ny
+II!
+
+ean...
+
+Canic
+
+arnoL..
+
+16/02
+
+Q Search oo
+
+*% Greg Dolan Chat files 3morey +
+
+20Jun 12:48 = © & OG @ai & B 100%
+
+some ee eer pee veneer ee pe eee
+
+Greg Dolan 13/01 14:34
+
+% Well now it's all done via terraform
+
+but I've yet to do it, the first time I'll do it will be these squid boxes
+
+4v9@cGa ~
+
+Aaaah ok...so once you know how to activate it, would you mind sharing with the newbie (my first
+
+name @)
+oni nazyvayut menya novym po-russki
+OHM Ha3bIBalOT MeHA HOBbIM NO-pyccKn
+
+18 January
+18/01 09:42
+
+Hello Greg.
+
+Greg Dolan 18/0
+
+S
+
+%, Lo
+
+9:43
+
+oa
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+
+Team Update 12/05
+
+5 ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+20Jun 12:48 « s+ BS GG Oa gv
+
+Q Search oo
+
+Greg Dolan Chat files 3morey +
+
+18/01 09:43
+
+have you thought about contracting some established company in Poland for the work that will cost
+you 110k ?
+
+Of course doing this will be undermining British workers a bit but providing only you does it, no one
+will get hurt overall
+
+Greg Dolan 18/01 09:43
+
+gC
+
+yA The quote is from a polish builder in Glasgow? @
+
+18/01 09:44
+
+Yes who is charging you like a brit would do
+but if you take a polish contractor from Poland, even with his flight toicket, you wont get there believe
+me
+
+Greg Dolan 18/01 09:45
+
+And if the job goes wrong what would be my legal route to fix it? No chance bank would agree to that
+
+9 haha
+
+G 100%
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@@6&@0Gé
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search
+
+Greg Dolan Chat
+
+Greg Dolan 18/01 09:45
+
+20Jun 12:48 7 8 6 G& Wai @ B100%
+
+Files 3more ~
+
+a ak &
+
+% And if the job goes wrong what would be my legal route to fix it? No chance bank would agree to that
+
+haha
+
+Greg Dolan 18/01 09:46
+
+4¥v¥02086
+
+Greg Dolan 18/01/2023, 09:45
+And if the job goes wrong what would be my legal route to fix it? No
+chance bank would agree to that haha
+
+Yes indeed.. are totally right on this point. @
+
+‘* I'm more worried about it being built right than the cost
+°
+
+20 February
+20/02 12:10
+
+Hello Greg
+how are you ?
+
+what is this monster of processing power you will soon get ?
+
+Workspaces Applications
+
+Chat ~ = G&
+
+JasOn: KUTININg Over LITe In ang...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@ © € © OG «
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search oo =
+2 @
+
+20Jun 12:48 7 8 6 G& Wai @ B100%
+
+Greg Dolan Chat files 3morey + a & &
+
+what is this monster of processing power you will soon get ?
+
+This is unlimited processing power indeed..
+
+i hope you will spare some cpu cycles for the rest of us... can i run some of my command centers on i
+
+Honest é ¥ g 2
+
+27/02 13:53
+
+Hello Gre.
+Can we have a quick call this afternoon ?
+It is very simple...i am on the jumpserver (rdp03)
+
+but for some reasons, i cannot ssh into a new built VM...may be something i am doing wrong but i get
+asked about a password that i dont seem to have
+
+Greg Dolan 27/02 15:20
+
+we Where was the server built?
+
+Workspaces Applications
+
+Chat ~ = G&
+jason: KUTT, Over LIMe In and...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+12/05
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@ © € © OG «
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+@ *
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe 16/02
+
+al vial
+
+2 Search
+
+Greg Dolan 27/02 15:49
+
+% Oh, I'd speak to jason about it, I'm not sure with the pipelines &
+
+20 Jun 12:48
+
+Greg Dolan Chat Files
+
+» G Pai & B 100%
+
+Do the building mode influence how the boxes are accessed ?
+
+09/03 10:05
+
+Good moring Greg.
+
+| have a quick question
+
+so iam trying to access Vsphere to get the ip addresses of the current internal and external sftp
+
+servers
+
+@
+g
+Co
+
+"yp
+
+https://s000126pLa
+
+but the URL below dont seem to be working on the VPN:
+
+https://s000137plL.aco.arnoldclark.com/
+
+jam currently logged on 1801F Dev
+
+Workspaces Applications
+
+Chat ~ = G&
+
+JasOn: KUTININg Over LITe In ang...
+
+PR Reviews
+Claire: just jumped
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+
+Team Update 12/05
+
+5 ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+@ © € © OG «
+
+Ops Catchup 20/04
+Jason: http mpl.com/
+
+Greg Dolan 09/03
+You: many thanks Greg !
+
+Digital Team Update 07/03
+
+Ansible Chat 17/02
+Jason: https://github.com/arnol...
+
+@*@eo
+
+Keith and Zoe 16/02
+
+al vial
+
+Q Search
+
+Yo
+
+20Jun 12:48 ©
+
+Greg Dolan Chat files 3morey +
+
+7 8 6 G& Wai @ B100%
+
+ak &
+
+DILLPS./ / SU ZO LaALU AUC Le LU
+
+https://s000137pLaco.arnoldclark.com/
+
+iam currently logged on 1801F Dev
+
+Have you encountered something similar lately ? OR have i missed something ?
+
+Greg Dolan 09/03 10:53
+
+hmm no it's working for me?
+on the same VPN
+| get a cerificate error but once | go past that it's fine
+
+certificate
+
+09/03 10:58
+
+This is really strange...none of these url work for me.i know the usual certificate issue but this is not
+what i am getting.Well i have to research that issue i suppose..may be a rebopot of my windows
+
+machine will help....lool.
+
+many thanks Greg !
+
