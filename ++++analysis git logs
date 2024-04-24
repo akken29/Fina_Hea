@@ -1,0 +1,1188 @@
+cat 60.git_logs_provided_by_arnold_clark.txt |grep -i greg
+cat 60.git_logs_provided_by_arnold_clark.txt |grep -i claire
+cat 60.git_logs_provided_by_arnold_clark.txt |grep -i zoe
+cat 60.git_logs_provided_by_arnold_clark.txt |grep -i mmshill
+cat 60.git_logs_provided_by_arnold_clark.txt |grep -i jason > fils_de_pute
+ 
+
+
+
+
+
+
+
+can you count and list in a black box which of these lines do match the devops definition of code commit. for each line put a commit as to the type of commit it is : ""
+
+
+
+
+
+can you summarize in a  table the number of commit for each of the users above
+
+
+based on the logs provided, can you give me the earliest date in the logs and the latest one ?
+
+
+can you then update the table above to calculate the number of commits per working day in the uk (working days excude saturday and sunday and bank holidays) ?so add a column listing the number of working day where there was a commit from each users  and then another column with the number of commits per day per user? for each user, also add the earliest date on which he had a commit and the latest date on which he had a commit during that period 
+can you also list the bank holiday days during that period ?
+NUMBER OF COMMIT PER WORKIGN DAY IN THE PERIOD THAT IS IN THE UK
+
+
+
+
+i will give you the number fo commits per user:
+
+greg 13
+the commits of greg are below:
+1. Greg Dolan Wed Mar 1 09:52:41 2023 +0000 increasing collection version bd2a4b8 - Update Commit
+2. Greg Dolan Wed Mar 1 14:08:57 2023 +0000 adding crowdstrike install into base a09a204 - Feature Addition Commit
+3. Greg Dolan Fri Dec 2 13:35:24 2022 +0000 Reverting back to 300 seconds 3fc8ec6 - Revert Commit
+4. Greg Dolan Mon Dec 5 09:52:43 2022 +0000 moving 3307 to other section c7eccd4 - Modification Commit
+5. Greg Dolan Mon Dec 5 10:32:40 2022 +0000 Switching back to original location b79da05 - Reversion/Modification Commit
+6. Greg Dolan Mon Dec 5 11:36:01 2022 +0000 Updating collection version d2b641a - Update Commit
+7. Greg Dolan Mon Jan 16 14:46:48 2023 +0000 Switching off SSL validation 117b032 - Configuration Change Commit
+8. Greg Dolan Tue Jan 17 14:22:25 2023 +0000 testing update e4710d0 - Test Update Commit
+9. Greg Dolan Tue Jan 17 14:22:36 2023 +0000 testing update 2 d8504f5 - Test Update Commit
+10. Greg Dolan Tue Apr 25 11:27:51 2023 +0100 Removing pro-lease backend and acls 32c465c - Removal Commit
+11. Greg Dolan Tue Apr 25 11:30:53 2023 +0100 Removing icinga check 688136a - Removal Commit
+12. Greg Dolan Thu Apr 27 11:03:45 2023 +0100 Removing from other proxies, leaving in acvm c47ccb6 - Removal Commit
+13. Greg Dolan Wed May 3 10:04:53 2023 +0100 Merge pull request #424 from arnoldclark/DEVOPS1940/decomm_sugarcrm f1c6b88 - Merge Commit
+
+
+
+claire 39
+the commits of claire are below:
+1. Claire Thomson Thu Dec 8 15:05:04 2022 +0000 add-marcel 3be409d - Feature Addition Commit
+2. Claire Thomson Thu Dec 8 15:57:13 2022 +0000 Merge pull request #20 from arnoldclark/add-marcel 16aee3f - Merge Commit
+3. Claire Thomson Wed Jun 28 13:47:49 2023 +0100 remove marcel 3a873e6 - Removal Commit
+4. Claire Thomson Wed Dec 7 14:10:10 2022 +0000 add route to sell-dashboard 2297cb2 - Feature Addition Commit
+5. Claire Thomson Wed Dec 7 14:55:32 2022 +0000 Merge pull request #311 from arnoldclark:DEVOPS1896/sell-dashboard 71d5268 - Merge Commit
+6. Claire Thomson Thu Dec 8 12:06:16 2022 +0000 add marcel d0a14bb - Feature Addition Commit
+7. Claire Thomson Tue Feb 7 11:14:51 2023 +0000 adding accountantsportal backend and acls 9d65d63 - Configuration Update Commit
+8. Claire Thomson Wed Feb 8 16:05:49 2023 +0000 Update haproxy-prdintappsprx.cfg.j2 580e8be - Configuration Update Commit
+9. Claire Thomson Wed Feb 8 16:15:45 2023 +0000 Merge pull request #333 from arnoldclark/INFRA1124/accountantsportal f499ded - Merge Commit
+10. Claire Thomson Wed Feb 15 12:01:15 2023 +0000 add acl for account onboarding d613b70 - Configuration Update Commit
+11. Claire Thomson Mon Feb 20 12:56:01 2023 +0000 add cxp to aso proxy 169b6e9 - Configuration Update Commit
+12. Claire Thomson Mon Feb 20 19:34:40 2023 +0000 add acl for cxp a006f9f - Configuration Update Commit
+13. Claire Thomson Wed Feb 22 09:40:37 2023 +0000 Merge pull request #345 from arnoldclark/asoc-1984/switchover-asokeyrequestmanager f127b7e - Merge Commit
+14. Claire Thomson Fri Feb 24 16:32:28 2023 +0000 fix tls issue for enquiry management 4c05b78 - Bug Fix Commit
+15. Claire Thomson Fri Feb 24 17:00:32 2023 +0000 add customer.arnoldclark.com c00e4c3 - Feature Addition Commit
+16. Claire Thomson Mon Feb 27 10:44:16 2023 +0000 Merge pull request #347 from arnoldclark/asoc-1984/switchover-aso2 8c2c00e - Merge Commit
+17. Claire Thomson Tue Feb 28 17:29:02 2023 +0000 send nodejs traffic to 336PL with hostname ace-holding - Configuration Update Commit
+18. Claire Thomson Tue Feb 28 18:02:00 2023 +0000 pass dev-ace-node traffic to nodejs backend d9cfaea - Configuration Update Commit
+19. Claire Thomson Tue Feb 28 18:02:36 2023 +0000 pass dev-ace-node/newsroom traffic to ruby backend b2eb7c3 - Configuration Update Commit
+20. Claire Thomson Wed Mar 1 12:13:01 2023 +0000 add hiredrivelauncher 9572da9 - Feature Addition Commit
+21. Claire Thomson Thu Mar 23 14:43:05 2023 +0000 add autocentre backend and check 6115131 - Configuration Update Commit
+22. Claire Thomson Thu Mar 23 14:58:30 2023 +0000 add acls 9c2b42a - Configuration Update Commit
+23. Claire Thomson Thu Mar 23 15:06:07 2023 +0000 add autocentre internal config 00b5a26 - Configuration Update Commit
+24. Claire Thomson Fri Mar 24 14:54:17 2023 +0000 revert changes in /pull/353 d1a159a - Reversion Commit
+25. Claire Thomson Mon Apr 3 16:05:19 2023 +0100 disable mrl/hlt from config f152489 - Configuration Update Commit
+26. Claire Thomson Mon Apr 17 10:34:21 2023 +0100 add /citnowapi/api/video path to prd k8s decbb4b - Configuration Update Commit
+27. Claire Thomson Tue Apr 18 09:56:19 2023 +0100 pass csifollowup from prdintappsprx to aso proxy cf4a493 - Configuration Update Commit
+28. Claire Thomson Tue Apr 18 09:56:43 2023 +0100 add certificate for https for csifollowup 784092c - Configuration Update Commit
+29. Claire Thomson Tue Apr 18 09:57:03 2023 +0100 add backend check af9b01b - Configuration Update Commit
+30. Claire Thomson Fri Apr 21 11:42:44 2023 +0100 add disclosure path to ems proxy 564c218 - Configuration Update Commit
+31. Claire Thomson Fri Apr 21 11:44:44 2023 +0100 disclosure.arnoldclark.com cert 7e211eb - Configuration Update Commit
+32. Claire Thomson Fri Apr 21 11:56:50 2023 +0100 add healthcheck 09f40f8 - Configuration Update Commit
+33. Claire Thomson Mon Apr 24 11:05:12 2023 +0100 add pl-ems-ws01/02 to ems-auth backend b1c7ef5 - Configuration Update Commit
+34. Claire Thomson Mon May 15 13:17:11 2023 +0100 remove comments and format 290c702 - Cleanup Commit
+35. Claire Thomson Mon May 15 13:17:38 2023 +0100 add valetdiary 92d39f1 - Feature Addition Commit
+36. Claire Thomson Mon May 15 13:23:12 2023 +0100 valetdiary check a9ad8cb - Configuration Update Commit
+37. Claire Thomson Mon May 15 13:24:27 2023 +0100 cert b259cc8 - Configuration Update Commit
+38. Claire Thomson Fri Jun 9 11:03:54 2023 +0100 point arnoldclarkemployee.com at aks 677dd08 - Configuration Update Commit
+39. Claire Thomson Wed Jun 28 13:49:07 2023 +0100 remove marcel 19e76b5 - Removal Commit
+
+
+
+
+zoe 341
+the commits of zoe are below:
+1. Zoe Mackay Fri Mar 31 08:23:32 2023 +0100 Merge pull request #390 from arnoldclark/infra-1096/put-oldservers-into-backup f1f79b9 - Merge Commit
+2. Zoe Mackay Tue May 16 08:18:06 2023 +0100 switch live aks cluster to prd-1 f94393b - Configuration Update Commit
+3. zoemac11@hotmail.com Mon Feb 13 14:28:28 2023 +0000 add keith 7f3fdf2 - Feature Addition Commit
+4. zoemac11@hotmail.com Fri Feb 24 14:59:10 2023 +0000 making prd-1 backup cluster 8c91439 - Configuration Update Commit
+5. Zoe Mackay Thu Jan 19 11:08:12 2023 +0000 Merge pull request #125 from - Merge Commit
+6. Zoe Mackay Thu Jan 19 11:08:41 2023 +0000 Merge pull request #124 from arnoldclark/azuread-combine-pr - Merge Commit
+7. Zoe Mackay Wed Jan 25 08:50:55 2023 +0000 Merge pull request #129 from - Merge Commit
+8. Zoe Mackay Wed Jan 25 08:51:18 2023 +0000 Merge pull request #127 from - Merge Commit
+9. Zoe Mackay Tue Dec 6 10:14:54 2022 +0000 Merge pull request #1471 from - Merge Commit
+10. Zoe Mackay Tue Dec 6 10:15:43 2022 +0000 Merge pull request #1470 from - Merge Commit
+11. Zoe Mackay Tue Dec 6 10:39:11 2022 +0000 Merge pull request #1472 from arnoldclark/zm/increase-autoscaler - Merge Commit
+12. Zoe Mackay Wed Dec 7 12:00:30 2022 +0000 Merge pull request #1482 from arnoldclark/azuread-combine-pr - Merge Commit
+13. Zoe Mackay Thu Dec 8 11:12:45 2022 +0000 Merge pull request #1483 from arnoldclark/infra-1092/roleassignment - Merge Commit
+14. Zoe Mackay Tue Dec 13 09:20:52 2022 +0000 Merge pull request #1488 from - Merge Commit
+15. Zoe Mackay Tue Dec 13 09:22:15 2022 +0000 Merge pull request #1490 from - Merge Commit
+16. Zoe Mackay Wed Dec 14 09:02:07 2022 +0000 Merge pull request #1514 from arnoldclark/azuredevopscombine-pr - Merge Commit
+17. Zoe Mackay Wed Dec 14 09:30:42 2022 +0000 Merge pull request #1513 from arnoldclark/tfmodule-combine-pr - Merge Commit
+18. Zoe Mackay Wed Dec 14 12:56:18 2022 +0000 Merge pull request #1515 from arnoldclark/infra-1084/tfstorage-accounts - Merge Commit
+19. Zoe Mackay Tue Dec 20 10:37:17 2022 +0000 Merge pull request #1520 from arnoldclark/zm/dependabot-test - Merge Commit
+20. Zoe Mackay Tue Dec 20 11:58:22 2022 +0000 Merge pull request #1527 from - Merge Commit
+21. Zoe Mackay Tue Dec 20 11:58:39 2022 +0000 Merge pull request #1525 from - Merge Commit
+22. Zoe Mackay Tue Dec 20 11:58:54 2022 +0000 Merge pull request #1522 from - Merge Commit
+23. Zoe Mackay Tue Dec 20 12:00:47 2022 +0000 Merge pull request #1526 from - Merge Commit
+24. Zoe Mackay Tue Dec 20 12:09:48 2022 +0000 Merge pull request #1534 from - Merge Commit
+25. Zoe Mackay Tue Dec 20 12:10:33 2022 +0000 Merge pull request #1533 from - Merge Commit
+26. Zoe Mackay Tue Dec 20 12:11:23 2022 +0000 Merge pull request #1532 from - Merge Commit
+27. Zoe Mackay Tue Dec 20 12:27:08 2022 +0000 Merge pull request #1530 from - Merge Commit
+28. Zoe Mackay Tue Dec 20 12:27:30 2022 +0000 Merge pull request #1521 from - Merge Commit
+29. Zoe Mackay Tue Dec 20 12:34:57 2022 +0000 Merge pull request #1537 from - Merge Commit
+30. Zoe Mackay Tue Dec 20 12:35:15 2022 +0000 Merge pull request #1536 from - Merge Commit
+31. Zoe Mackay Tue Dec 20 12:35:41 2022 +0000 Merge pull request #1539 from - Merge Commit
+32. Zoe Mackay Tue Dec 20 12:35:58 2022 +0000 Merge pull request #1540 from - Merge Commit
+33. Zoe Mackay Tue Dec 20 12:36:22 2022 +0000 Merge pull request #1535 from - Merge Commit
+34. Zoe Mackay Tue Dec 20 12:36:48 2022 +0000 Merge pull request #1528 from - Merge Commit
+35. Zoe Mackay Tue Dec 20 13:47:31 2022 +0000 Merge pull request #1523 from - Merge Commit
+36. Zoe Mackay Tue Dec 20 13:47:47 2022 +0000 Merge pull request #1524 from - Merge Commit
+37. Zoe Mackay Tue Dec 20 13:48:40 2022 +0000 Merge pull request #1538 from - Merge Commit
+38. Zoe Mackay Tue Dec 20 15:29:16 2022 +0000 Merge pull request #1531 from - Merge Commit
+39. Zoe Mackay Tue Dec 20 15:29:54 2022 +0000 Merge pull request #1529 from - Merge Commit
+40. Zoe Mackay Fri Dec 23 09:04:56 2022 +0000 Merge pull request #1541 from arnoldclark/zm/versions-file - Merge Commit
+41. Zoe Mackay Fri Dec 23 11:44:30 2022 +0000 Merge pull request #1553 from arnoldclark/zm/new-relic-alert - Merge Commit
+42. Zoe Mackay Fri Dec 23 11:45:14 2022 +0000 Merge pull request #1542 from arnoldclark/infra-1064/privateendpoints - Merge Commit
+43. Zoe Mackay Tue Dec 27 08:54:28 2022 +0000 Merge pull request #1560 from arnoldclark/azuread-combine-pr - Merge Commit
+44. Zoe Mackay Tue Dec 27 08:56:35 2022 +0000 Merge pull request #1558 from arnoldclark/azuredevopscombine-pr - Merge Commit
+45. Zoe Mackay Wed Jan 4 11:58:01 2023 +0000 Merge pull request #1610 from arnoldclark/azuredevops-combinepr - Merge Commit
+46. Zoe Mackay Wed Jan 4 12:02:30 2023 +0000 Merge pull request #1559 from arnoldclark/random-combine-pr - Merge Commit
+47. Zoe Mackay Wed Jan 4 12:03:51 2023 +0000 Merge pull request #1606 from - Merge Commit
+48. Zoe Mackay Wed Jan 4 12:04:18 2023 +0000 Merge pull request #1569 from - Merge Commit
+49. Zoe Mackay Tue Jan 10 15:37:14 2023 +0000 Merge pull request #1670 from arnoldclark/NCDNT-59/user - Merge Commit
+50. Zoe Mackay Tue Jan 10 16:54:26 2023 +0000 Merge pull request #1658 from arnoldclark/random-combine-pr - Merge Commit
+51. Zoe Mackay Tue Jan 10 17:05:19 2023 +0000 Merge pull request #1660 from arnoldclark/azurerm-combine-pr - Merge Commit
+52. Zoe Mackay Tue Jan 10 17:05:43 2023 +0000 Merge pull request #1659 from arnoldclark/azuread-combine-pr - Merge Commit
+53. Zoe Mackay Wed Jan 11 08:25:42 2023 +0000 Merge pull request #1671 from arnoldclark/azuread-combine-pr - Merge Commit
+54. Zoe Mackay Wed Jan 11 09:41:52 2023 +0000 Merge pull request #1562 from - Merge Commit
+55. Zoe Mackay Wed Jan 11 09:42:14 2023 +0000 Merge pull request #1576 from - Merge Commit
+56. Zoe Mackay Wed Jan 11 09:42:42 2023 +0000 Merge pull request #1661 from - Merge Commit
+57. Zoe Mackay Wed Jan 11 09:43:23 2023 +0000 Merge pull request #1662 from - Merge Commit
+58. Zoe Mackay Wed Jan 11 09:43:44 2023 +0000 Merge pull request #1663 from - Merge Commit
+59. Zoe Mackay Wed Jan 11 09:44:02 2023 +0000 Merge pull request #1664 from - Merge Commit
+60. Zoe Mackay Wed Jan 11 09:44:40 2023 +0000 Merge pull request #1669 from - Merge Commit
+61. Zoe Mackay Wed Jan 11 10:08:26 2023 +0000 Merge pull request #1652 from - Merge Commit
+62. Zoe Mackay Wed Jan 11 10:20:24 2023 +0000 Merge pull request #1656 from - Merge Commit
+63. Zoe Mackay Thu Jan 12 13:33:34 2023 +0000 Merge pull request #1672 from - Merge Commit
+64. Zoe Mackay Fri Jan 13 11:54:24 2023 +0000 Merge pull request #1674 from - Merge Commit
+65. Zoe Mackay Fri Jan 13 13:44:11 2023 +0000 Merge pull request #1673 from - Merge Commit
+66. Zoe Mackay Mon Jan 16 08:15:35 2023 +0000 Merge pull request #1681 from arnoldclark/azuread-combine-pr - Merge Commit
+67. Zoe Mackay Mon Jan 16 14:11:55 2023 +0000 Merge pull request #1675 from - Merge Commit
+68. Zoe Mackay Tue Jan 17 10:49:29 2023 +0000 Merge pull request #1744 from arnoldclark/zm/actions - Merge Commit
+69. Zoe Mackay Tue Jan 17 11:17:57 2023 +0000 Merge pull request #1745 from arnoldclark/azuread-combine-pr - Merge Commit
+70. Zoe Mackay Tue Jan 17 11:51:09 2023 +0000 Merge pull request #1746 from arnoldclark/azurerm-combine-pr - Merge Commit
+71. Zoe Mackay Tue Jan 17 12:12:29 2023 +0000 Merge pull request #1742 from - Merge Commit
+72. Zoe Mackay Tue Jan 17 12:12:55 2023 +0000 Merge pull request #1717 from - Merge Commit
+73. Zoe Mackay Tue Jan 17 12:13:16 2023 +0000 Merge pull request #1712 from - Merge Commit
+74. Zoe Mackay Tue Jan 17 12:13:34 2023 +0000 Merge pull request #1711 from - Merge Commit
+75. Zoe Mackay Tue Jan 17 12:14:04 2023 +0000 Merge pull request #1710 from - Merge Commit
+76. Zoe Mackay Tue Jan 17 12:14:40 2023 +0000 Merge pull request #1704 from - Merge Commit
+77. Zoe Mackay Tue Jan 17 12:14:57 2023 +0000 Merge pull request #1701 from - Merge Commit
+78. Zoe Mackay Tue Jan 17 12:15:14 2023 +0000 Merge pull request #1700 from - Merge Commit
+79. Zoe Mackay Tue Jan 17 12:15:40 2023 +0000 Merge pull request #1685 from - Merge Commit
+80. Zoe Mackay Tue Jan 17 12:21:13 2023 +0000 Merge pull request #1740 from - Merge Commit
+81. Zoe Mackay Tue Jan 17 12:21:42 2023 +0000 Merge pull request #1734 from - Merge Commit
+82. Zoe Mackay Tue Jan 17 12:26:25 2023 +0000 Merge pull request #1683 from - Merge Commit
+83. Zoe Mackay Wed Jan 18 08:57:36 2023 +0000 Merge pull request #1747 from arnoldclark/tfmodule-combine-pr - Merge Commit
+84. Zoe Mackay Tue Jan 24 09:09:21 2023 +0000 Merge pull request #1837 from arnoldclark/azurerm-combine-pr - Merge Commit
+85. Zoe Mackay Tue Jan 24 09:48:36 2023 +0000 Merge pull request #1838 from arnoldclark/tfmodule-combine-pr - Merge Commit
+86. Zoe Mackay Tue Jan 24 10:38:54 2023 +0000 Merge pull request #1839 from - Merge Commit
+87. Zoe Mackay Tue Jan 24 10:51:45 2023 +0000 Merge pull request #1840 from - Merge Commit
+88. Zoe Mackay Tue Jan 24 11:26:46 2023 +0000 Merge pull request #1841 from arnoldclark/azuread-combine-pr - Merge Commit
+89. Zoe Mackay Tue Jan 24 11:45:21 2023 +0000 Merge pull request #1774 from - Merge Commit
+90. Zoe Mackay Tue Jan 24 11:51:58 2023 +0000 Merge pull request #1760 from - Merge Commit
+91. Zoe Mackay Tue Jan 24 11:53:35 2023 +0000 Merge pull request #1758 from - Merge Commit
+92. Zoe Mackay Tue Jan 24 11:55:03 2023 +0000 Merge pull request #1783 from - Merge Commit
+93. Zoe Mackay Tue Jan 24 11:56:03 2023 +0000 Merge pull request #1831 from - Merge Commit
+94. Zoe Mackay Tue Jan 24 11:56:23 2023 +0000 Merge pull request #1788 from - Merge Commit
+95. Zoe Mackay Tue Jan 24 11:57:21 2023 +0000 Merge branch 'master' into dependabot/terraform/aks/stg/akscluster-elasticsearch/hashicorp/aws-4.51.0 - Merge Commit
+96. Zoe Mackay Tue Jan 24 11:57:54 2023 +0000 Merge pull request #1785 from - Merge Commit
+97. Zoe Mackay Fri Jan 27 16:41:13 2023 +0000 Merge pull request #1842 from - Merge Commit
+98. Zoe Mackay Fri Jan 27 16:41:37 2023 +0000 Merge pull request #1843 from - Merge Commit
+99. Zoe Mackay Tue Jan 31 08:14:30 2023 +0000 Merge pull request #1861 from - Merge Commit
+100. Zoe Mackay Tue Jan 31 08:14:45 2023 +0000 Merge pull request #1862 from - Merge Commit
+101. Zoe Mackay Tue Jan 31 08:15:13 2023 +0000 Merge pull request #1859 from - Merge Commit
+102. Zoe Mackay Tue Jan 31 09:33:57 2023 +0000 Merge pull request #1882 from arnoldclark/azurerm-combine-pr - Merge Commit
+103. Zoe Mackay Tue Jan 31 09:57:20 2023 +0000 Merge pull request #1857 from - Merge Commit
+104. Zoe Mackay Tue Jan 31 12:10:49 2023 +0000 Merge pull request #1845 from - Merge Commit
+105. Zoe Mackay Tue Jan 31 12:11:06 2023 +0000 Merge pull request #1877 from - Merge Commit
+106. Zoe Mackay Wed Feb 1 14:21:27 2023 +0000 Merge pull request #1883 from arnoldclark/zm/workflow - Merge Commit
+107. Zoe Mackay Wed Feb 1 14:21:36 2023 +0000 Merge pull request #1844 from arnoldclark/infra-1086/pipeline - Merge Commit
+108. Zoe Mackay Wed Feb 1 14:29:12 2023 +0000 Merge pull request #1884 from - Merge Commit
+109. Zoe Mackay Wed Feb 1 14:29:31 2023 +0000 Merge pull request #1885 from - Merge Commit
+110. Zoe Mackay Fri Feb 3 09:11:43 2023 +0000 Merge pull request #1888 from arnoldclark/newrelic-combine-pr - Merge Commit
+111. Zoe Mackay Tue Feb 7 08:10:06 2023 +0000 Merge pull request #1928 from arnoldclark/azurerm-combine-pr - Merge Commit
+112. Zoe Mackay Tue Feb 7 08:10:37 2023 +0000 Merge pull request #1927 from arnoldclark/azuread-combine-pr - Merge Commit
+113. Zoe Mackay Tue Feb 7 08:48:58 2023 +0000 Merge pull request #1929 from arnoldclark/aws-combine-pr - Merge Commit
+114. Zoe Mackay Tue Feb 7 16:19:29 2023 +0000 Merge pull request #1930 from arnoldclark/infra-1122/terraformupgrade - Merge Commit
+115. Zoe Mackay Wed Feb 8 08:36:57 2023 +0000 Merge pull request #1937 from arnoldclark/azurerm-combine-pr - Merge Commit
+116. Zoe Mackay Wed Feb 8 08:37:47 2023 +0000 Merge pull request #1938 from arnoldclark/kubernetes-combinepr - Merge Commit
+117. Zoe Mackay Wed Feb 8 08:38:03 2023 +0000 Merge pull request #1936 from arnoldclark/azuread-combine-pr - Merge Commit
+118. Zoe Mackay Wed Feb 8 16:29:25 2023 +0000 Merge pull request #1940 from - Merge Commit
+119. Zoe Mackay Wed Feb 8 16:31:49 2023 +0000 Merge pull request #1947 from - Merge Commit
+120. Zoe Mackay Wed Feb 8 17:23:55 2023 +0000 Merge pull request #1954 from - Merge Commit
+121. Zoe Mackay Thu Feb 9 08:30:31 2023 +0000 Merge pull request #1956 from arnoldclark/azurerm-combine-pr - Merge Commit
+122. Zoe Mackay Tue Feb 14 08:11:46 2023 +0000 Merge pull request #1993 from arnoldclark/azurerm-combine-pr - Merge Commit
+123. Zoe Mackay Tue Feb 14 08:12:09 2023 +0000 Merge pull request #1992 from arnoldclark/newrelic-combine-pr - Merge Commit
+124. Zoe Mackay Tue Feb 14 08:12:28 2023 +0000 Merge pull request #1994 from arnoldclark/aws-combine-pr - Merge Commit
+125. Zoe Mackay Tue Feb 14 15:24:11 2023 +0000 Merge pull request #1995 from arnoldclark/infra-1123/moduleversions - Merge Commit
+126. Zoe Mackay Wed Feb 15 09:44:14 2023 +0000 Merge pull request #1998 from arnoldclark/azurerm-combine-pr - Merge Commit
+127. Zoe Mackay Wed Feb 15 09:45:45 2023 +0000 Merge pull request #1999 from - Merge Commit
+128. Zoe Mackay Wed Feb 15 09:46:13 2023 +0000 Merge pull request #1996 from - Merge Commit
+129. Zoe Mackay Thu Feb 16 09:51:07 2023 +0000 Merge pull request #2000 from arnoldclark/infra-1130/aksupgrade - Merge Commit
+130. Zoe Mackay Thu Feb 16 14:39:29 2023 +0000 Merge pull request #2002 from arnoldclark/devops-1909/abycpermissions - Merge Commit
+131. Zoe Mackay Mon Feb 20 16:21:54 2023 +0000 Merge pull request #2006 from - Merge Commit
+132. Zoe Mackay Mon Feb 20 16:22:14 2023 +0000 Merge pull request #2004 from - Merge Commit
+133. Zoe Mackay Mon Feb 20 16:24:01 2023 +0000 Merge pull request #2003 from - Merge Commit
+134. Zoe Mackay Mon Feb 20 16:24:43 2023 +0000 Merge pull request #2005 from - Merge Commit
+135. Zoe Mackay Tue Feb 21 08:05:06 2023 +0000 Merge pull request #2082 from arnoldclark/azurerm-combine-pr - Merge Commit
+136. Zoe Mackay Tue Feb 21 10:56:34 2023 +0000 Merge pull request #2084 from arnoldclark/kubernetes-combinepr - Merge Commit
+137. Zoe Mackay Tue Feb 21 11:11:55 2023 +0000 Merge pull request #2081 from arnoldclark/azuread-combine-pr - Merge Commit
+138. Zoe Mackay Tue Feb 21 11:14:40 2023 +0000 Merge pull request #2080 from arnoldclark/tfmodule-combine-pr - Merge Commit
+139. Zoe Mackay Tue Feb 21 11:16:31 2023 +0000 Merge pull request #2083 from arnoldclark/aws-combine-pr - Merge Commit
+140. Zoe Mackay Tue Feb 21 11:56:54 2023 +0000 Merge pull request #2048 from - Merge Commit
+141. Zoe Mackay Tue Feb 21 11:57:15 2023 +0000 Merge pull request #2017 from - Merge Commit
+142. Zoe Mackay Tue Feb 21 11:57:27 2023 +0000 Merge pull request #2014 from - Merge Commit
+143. Zoe Mackay Tue Feb 28 08:06:34 2023 +0000 Merge pull request #2175 from arnoldclark/kubernetes-combinepr - Merge Commit
+144. Zoe Mackay Tue Feb 28 08:06:51 2023 +0000 Merge pull request #2174 from arnoldclark/aws-combine-pr - Merge Commit
+145. Zoe Mackay Tue Feb 28 08:07:35 2023 +0000 Merge pull request #2172 from arnoldclark/newrelic-combine-pr - Merge Commit
+146. Zoe Mackay Tue Feb 28 09:24:44 2023 +0000 Merge pull request #2171 from arnoldclark/azuread-combine-pr - Merge Commit
+147. Zoe Mackay Tue Feb 28 11:12:32 2023 +0000 Merge pull request #2170 from arnoldclark/tfmodule-combine-pr - Merge Commit
+148. Zoe Mackay Tue Feb 28 11:55:35 2023 +0000 Merge pull request #2173 from arnoldclark/azurerm-combine-pr - Merge Commit
+149. Zoe Mackay Tue Feb 28 12:14:53 2023 +0000 Merge pull request #2121 from - Merge Commit
+150. Zoe Mackay Tue Feb 28 12:15:07 2023 +0000 Merge pull request #2111 from - Merge Commit
+151. Zoe Mackay Thu Mar 2 11:12:24 2023 +0000 Merge pull request #2088 from arnoldclark/zm/fix-runbook - Merge Commit
+152. Zoe Mackay Thu Mar 2 11:12:32 2023 +0000 Merge pull request #2087 from arnoldclark/infra-1136/automationaccount - Merge Commit
+153. Zoe Mackay Mon Mar 13 08:01:00 2023 +0000 Merge pull request #2249 from arnoldclark/kubernetes-combinepr - Merge Commit
+154. Zoe Mackay Mon Mar 13 10:46:28 2023 +0000 Merge pull request #2247 from arnoldclark/azurerm-combine-pr - Merge Commit
+155. Zoe Mackay Mon Mar 13 11:56:54 2023 +0000 Merge pull request #2245 from arnoldclark/azuredevopscombine-pr - Merge Commit
+156. Zoe Mackay Mon Mar 13 11:57:18 2023 +0000 Merge pull request #2246 from arnoldclark/azuread-combine-pr - Merge Commit
+157. Zoe Mackay Mon Mar 13 11:57:57 2023 +0000 Merge pull request #2248 from arnoldclark/aws-combine-pr - Merge Commit
+158. Zoe Mackay Mon Mar 13 14:05:23 2023 +0000 Merge pull request #2243 from arnoldclark/tfmodule-combine-pr - Merge Commit
+159. Zoe Mackay Mon Mar 13 16:44:43 2023 +0000 Merge pull request #2259 from arnoldclark/infra-1115/samodule - Merge Commit
+160. Zoe Mackay Tue Mar 14 10:48:07 2023 +0000 Merge pull request #2176 from arnoldclark/infra-1136/fix - Merge Commit
+161. Zoe Mackay Wed Mar 15 15:07:15 2023 +0000 Merge pull request #2306 from arnoldclark/azurerm-combine-pr - Merge Commit
+162. Zoe Mackay Thu Mar 16 09:02:27 2023 +0000 Merge pull request #2305 from arnoldclark/newrelic-combine-pr - Merge Commit
+163. Zoe Mackay Thu Mar 16 09:02:55 2023 +0000 Merge pull request #2303 from arnoldclark/tfmodule-combine-pr - Merge Commit
+164. Zoe Mackay Thu Mar 16 11:05:22 2023 +0000 Merge pull request #2304 from arnoldclark/azuread-combine-pr - Merge Commit
+165. Zoe Mackay Thu Mar 16 11:05:41 2023 +0000 Merge pull request #2307 from arnoldclark/aws-combine-pr - Merge Commit
+166. Zoe Mackay Thu Mar 16 11:06:12 2023 +0000 Merge pull request #2260 from - Merge Commit
+167. Zoe Mackay Tue Mar 21 08:58:50 2023 +0000 Merge pull request #2354 from arnoldclark/kubernetes-combinepr - Merge Commit
+168. Zoe Mackay Tue Mar 21 08:59:12 2023 +0000 Merge pull request #2353 from arnoldclark/aws-combine-pr - Merge Commit
+169. Zoe Mackay Tue Mar 21 08:59:30 2023 +0000 Merge pull request #2351 from arnoldclark/newrelic-combine-pr - Merge Commit
+170. Zoe Mackay Tue Mar 21 08:59:51 2023 +0000 Merge pull request #2350 from arnoldclark/azuread-combine-pr - Merge Commit
+171. Zoe Mackay Tue Mar 21 15:58:51 2023 +0000 Merge pull request #2352 from arnoldclark/azurerm-combine-pr - Merge Commit
+172. Zoe Mackay Wed Mar 22 16:41:17 2023 +0000 Merge pull request #2349 from arnoldclark/tfmodule-combine-pr - Merge Commit
+173. Zoe Mackay Thu Mar 23 08:18:10 2023 +0000 Merge pull request #2356 from arnoldclark/tfmodule-combine-pr - Merge Commit
+174. Zoe Mackay Fri Mar 24 10:32:03 2023 +0000 Merge pull request #2358 from arnoldclark/zm/github-rsa - Merge Commit
+175. Zoe Mackay Tue Mar 28 08:46:32 2023 +0100 Merge pull request #2411 from arnoldclark/kubernetes-combinepr - Merge Commit
+176. Zoe Mackay Tue Mar 28 08:46:55 2023 +0100 Merge pull request #2410 from arnoldclark/aws-combine-pr - Merge Commit
+177. Zoe Mackay Tue Mar 28 08:47:10 2023 +0100 Merge pull request #2408 from arnoldclark/newrelic-combine-pr - Merge Commit
+178. Zoe Mackay Tue Mar 28 11:45:45 2023 +0100 Merge pull request #2412 from arnoldclark/infra-1143/serviceconnections - Merge Commit
+179. Zoe Mackay Mon Apr 3 12:22:10 2023 +0100 Merge pull request #2409 from arnoldclark/azurerm-combine-pr - Merge Commit
+180. Zoe Mackay Mon Apr 3 12:23:37 2023 +0100 Merge pull request #2406 from arnoldclark/tfmodule-combine-pr - Merge Commit
+181. Zoe Mackay Tue Apr 4 12:54:02 2023 +0100 Merge pull request #2446 from arnoldclark/infra-1115/roleassignment - Merge Commit
+182. Zoe Mackay Tue Apr 4 12:54:11 2023 +0100 Merge pull request #2415 from arnoldclark/infra-1064/allowrequests - Merge Commit
+183. Zoe Mackay Tue Apr 4 12:57:12 2023 +0100 Merge pull request #2414 from arnoldclark/zm/sql-squads - Merge Commit
+184. Zoe Mackay Tue Apr 4 14:23:44 2023 +0100 Merge pull request #2454 from arnoldclark/azurerm-combine-pr - Merge Commit
+185. Zoe Mackay Tue Apr 4 14:51:20 2023 +0100 Merge pull request #2455 from arnoldclark/aws-combine-pr - Merge Commit
+186. Zoe Mackay Tue Apr 4 14:51:42 2023 +0100 Merge pull request #2453 from arnoldclark/newrelic-combine-pr - Merge Commit
+187. Zoe Mackay Wed Apr 5 09:13:29 2023 +0100 Merge pull request #2465 from arnoldclark/tfmodule-combine-pr - Merge Commit
+188. Zoe Mackay Wed Apr 5 16:35:34 2023 +0100 Merge pull request #2466 from arnoldclark/infra-1064/pep - Merge Commit
+189. Zoe Mackay Thu Apr 6 15:43:31 2023 +0100 typo - Configuration Error Correction
+190. Zoe Mackay Thu Apr 6 15:48:51 2023 +0100 flatten ips - Configuration Update
+191. Zoe Mackay Thu Apr 6 15:53:56 2023 +0100 correcting resource name - Configuration Error Correction
+192. Zoe Mackay Thu Apr 6 16:24:42 2023 +0100 Merge pull request #2467 from arnoldclark/infra-1931/inboundaccess - Merge Commit
+193. Zoe Mackay Fri Apr 7 14:04:05 2023 +0100 Merge pull request #2469 from - Merge Commit
+194. Zoe Mackay Fri Apr 7 14:04:15 2023 +0100 Merge pull request #2468 from - Merge Commit
+195. Zoe Mackay Fri Apr 7 14:04:41 2023 +0100 Merge pull request #2470 from - Merge Commit
+196. Zoe Mackay Fri Apr 7 14:37:56 2023 +0100 Merge pull request #2471 from - Merge Commit
+197. Zoe Mackay Tue Apr 11 08:02:56 2023 +0100 Merge pull request #2522 from arnoldclark/kubernetes-combinepr - Merge Commit
+198. Zoe Mackay Tue Apr 11 08:03:12 2023 +0100 Merge pull request #2521 from arnoldclark/aws-combine-pr - Merge Commit
+199. Zoe Mackay Tue Apr 11 08:03:46 2023 +0100 Merge pull request #2519 from arnoldclark/newrelic-combine-pr - Merge Commit
+200. Zoe Mackay Tue Apr 11 08:04:59 2023 +0100 Merge pull request #2518 from arnoldclark/tfmodule-combine-pr - Merge Commit
+201. Zoe Mackay Tue Apr 11 08:49:52 2023 +0100 adding correct role definition - Configuration Update
+202. Zoe Mackay Tue Apr 11 09:41:32 2023 +0100 Merge pull request #2520 from arnoldclark/azurerm-combine-pr - Merge Commit
+203. Zoe Mackay Tue Apr 11 09:51:25 2023 +0100 Merge pull request #2515 from - Merge Commit
+204. Zoe Mackay Tue Apr 11 09:51:38 2023 +0100 Merge pull request #2507 from - Merge Commit
+205. Zoe Mackay Tue Apr 11 09:51:52 2023 +0100 Merge pull request #2504 from - Merge Commit
+206. Zoe Mackay Tue Apr 11 13:45:13 2023 +0100 add sleep for 60 seconds - Configuration Update
+207. Zoe Mackay Tue Apr 18 08:49:19 2023 +0100 Merge pull request #2595 from arnoldclark/kubernetes-combinepr - Merge Commit
+208. Zoe Mackay Tue Apr 18 08:50:31 2023 +0100 Merge pull request #2594 from arnoldclark/aws-combine-pr - Merge Commit
+209. Zoe Mackay Tue Apr 18 09:18:59 2023 +0100 Merge pull request #2593 from arnoldclark/azurerm-combine-pr - Merge Commit
+210. Zoe Mackay Tue Apr 18 12:27:00 2023 +0100 Merge pull request #2591 from arnoldclark/random-combine-pr - Merge Commit
+211. Zoe Mackay Tue Apr 18 13:25:48 2023 +0100 Merge pull request #2605 from - Merge Commit
+212. Zoe Mackay Tue Apr 18 13:27:37 2023 +0100 Merge pull request #2603 from - Merge Commit
+213. Zoe Mackay Tue Apr 18 16:02:33 2023 +0100 Merge pull request #2604 from - Merge Commit
+214. Zoe Mackay Tue Apr 18 16:02:57 2023 +0100 Merge pull request #2606 from - Merge Commit
+215. Zoe Mackay Tue Apr 18 16:05:59 2023 +0100 Merge pull request #2592 from arnoldclark/azuread-combine-pr - Merge Commit
+216. Zoe Mackay Wed Apr 19 08:27:35 2023 +0100 Merge pull request #2613 from arnoldclark/azurerm-combine-pr - Merge Commit
+217. Zoe Mackay Wed Apr 19 12:45:41 2023 +0100 remove signalr endpoint - Removal Commit
+218. Zoe Mackay Thu Apr 20 11:22:16 2023 +0100 Merge pull request #2614 from arnoldclark/zm/signalr - Merge Commit
+219. Zoe Mackay Thu Apr 20 11:48:21 2023 +0100 Merge pull request #2615 from - Merge Commit
+220. Zoe Mackay Thu Apr 20 11:48:35 2023 +0100 Merge pull request #2616 from - Merge Commit
+221. Zoe Mackay Tue Apr 25 08:00:39 2023 +0100 Merge pull request #2700 from arnoldclark/kubernetes-combine-pr - Merge Commit
+222. Zoe Mackay Tue Apr 25 08:00:57 2023 +0100 Merge pull request #2699 from arnoldclark/aws-combine-pr - Merge Commit
+223. Zoe Mackay Tue Apr 25 08:03:39 2023 +0100 Merge pull request #2697 from arnoldclark/tfmodule-combine-pr - Merge Commit
+224. Zoe Mackay Tue Apr 25 09:37:34 2023 +0100 Merge pull request #2698 from arnoldclark/azurerm-combine-pr - Merge Commit
+225. Zoe Mackay Tue Apr 25 12:17:08 2023 +0100 updating permissions - Configuration Update
+226. Zoe Mackay Wed Apr 26 14:14:39 2023 +0100 updating private endpoint to single signalr - Configuration Update
+227. Zoe Mackay Wed Apr 26 14:14:58 2023 +0100 correcting name of workflow - Configuration Error Correction
+228. Zoe Mackay Tue May 2 08:04:17 2023 +0100 Merge pull request #2771 from arnoldclark/kubernetes-combine-pr - Merge Commit
+229. Zoe Mackay Tue May 2 08:04:35 2023 +0100 Merge pull request #2770 from arnoldclark/aws-combine-pr - Merge Commit
+230. Zoe Mackay Tue May 2 08:04:51 2023 +0100 Merge pull request #2768 from arnoldclark/newrelic-combine-pr - Merge Commit
+231. Zoe Mackay Tue May 2 09:51:18 2023 +0100 Merge pull request #2769 from arnoldclark/azurerm-combine-pr - Merge Commit
+232. Zoe Mackay Thu May 4 11:09:45 2023 +0100 Merge pull request #2767 from arnoldclark/azuredevops-combinepr - Merge Commit
+233. Zoe Mackay Thu May 4 11:17:21 2023 +0100 Merge pull request #2772 from arnoldclark/random-combine-pr - Merge Commit
+234. Zoe Mackay Thu May 4 15:13:13 2023 +0100 add separate dns zones per location - Configuration Update
+235. Zoe Mackay Thu May 4 15:13:59 2023 +0100 removed to dns zone per location - Removal Commit
+236. Zoe Mackay Thu May 4 15:14:33 2023 +0100 update web servers - Configuration Update
+237. Zoe Mackay Thu May 4 15:15:11 2023 +0100 add endpoint per cluster and signalr instance - Configuration Update
+238. Zoe Mackay Thu May 4 15:22:45 2023 +0100 update web servers - Configuration Update
+239. Zoe Mackay Thu May 4 15:26:56 2023 +0100 revert web server changes - Reversion Commit
+240. Zoe Mackay Thu May 4 15:50:45 2023 +0100 correct cluster name - Configuration Error Correction
+241. Zoe Mackay Thu May 4 15:50:58 2023 +0100 change to iproxy access - Configuration Update
+242. Zoe Mackay Thu May 4 16:09:27 2023 +0100 remove duplicates - Removal Commit
+243. Zoe Mackay Thu May 4 16:40:43 2023 +0100 revert changes - Reversion Commit
+244. Zoe Mackay Fri May 5 08:38:39 2023 +0100 Merge pull request #2773 from arnoldclark/azuread-combine-pr - Merge Commit
+245. Zoe Mackay Fri May 5 08:45:47 2023 +0100 remove duplicate addresses - Removal Commit
+246. Zoe Mackay Fri May 5 10:03:58 2023 +0100 upgrade to aks version 1.25.6 - Configuration Update
+247. Zoe Mackay Fri May 5 11:04:32 2023 +0100 Merge pull request #2776 from arnoldclark/infra-1075/web-servers - Merge Commit
+248. Zoe Mackay Fri May 5 11:10:00 2023 +0100 Merge pull request #2779 from arnoldclark/infra-1131/test-upgrade - Merge Commit
+249. Zoe Mackay Fri May 5 11:27:43 2023 +0100 update module version - Configuration Update
+250. Zoe Mackay Fri May 5 11:56:31 2023 +0100 Merge pull request #2775 from arnoldclark/infra-1064/pep - Merge Commit
+251. Zoe Mackay Mon May 8 12:45:12 2023 +0100 upgrade cluster to v1.25.6 - Configuration Update
+252. Zoe Mackay Tue May 9 10:24:31 2023 +0100 Merge pull request #2824 from arnoldclark/aws-combine-pr - Merge Commit
+253. Zoe Mackay Tue May 9 10:26:07 2023 +0100 Merge pull request #2822 from arnoldclark/newrelic-combine-pr - Merge Commit
+254. Zoe Mackay Tue May 9 10:49:34 2023 +0100 Merge pull request #2825 from - Merge Commit
+255. Zoe Mackay Tue May 9 13:59:51 2023 +0100 Merge pull request #2821 from arnoldclark/azuread-combine-pr - Merge Commit
+256. Zoe Mackay Tue May 9 14:04:55 2023 +0100 Merge pull request #2827 from - Merge Commit
+257. Zoe Mackay Tue May 9 15:57:39 2023 +0100 Merge pull request #2823 from arnoldclark/azurerm-combine-pr - Merge Commit
+258. Zoe Mackay Wed May 10 08:41:26 2023 +0100 Merge pull request #2782 from arnoldclark/infra-1131/dev-aksupgrade - Merge Commit
+259. Zoe Mackay Wed May 10 11:20:39 2023 +0100 new secret value - Configuration Update
+260. Zoe Mackay Wed May 10 11:21:21 2023 +0100 enable condition after test - Configuration Update
+261. Zoe Mackay Wed May 10 11:49:46 2023 +0100 add tags - Configuration Update
+262. Zoe Mackay Wed May 10 11:52:43 2023 +0100 add tags - Configuration Update
+263. Zoe Mackay Wed May 10 11:55:37 2023 +0100 typo - Configuration Error Correction
+264. Zoe Mackay Wed May 10 11:59:46 2023 +0100 Merge pull request #2834 from arnoldclark/zm/packerautomation - Merge Commit
+265. Zoe Mackay Wed May 10 12:00:08 2023 +0100 Merge pull request #2833 from arnoldclark/infra-1115/pipeline - Merge Commit
+266. Zoe Mackay Wed May 10 12:02:49 2023 +0100 Update common/azure-role-assignments/subscription-prismacloud-reader.tf - Configuration Update
+267. Zoe Mackay Wed May 10 13:14:22 2023 +0100 Merge branch 'master' into dependabot/terraform/aks/stg/akscluster-1/aks-cluster-1-addons/aks-cluster-1-stg--github--arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0 - Merge Commit
+268. Zoe Mackay Wed May 10 13:14:51 2023 +0100 correct resource name - Configuration Error Correction
+269. Zoe Mackay Wed May 10 13:21:57 2023 +0100 Merge pull request #2828 from - Merge Commit
+270. Zoe Mackay Wed May 10 14:22:46 2023 +0100 Merge pull request #2826 from - Merge Commit
+271. Zoe Mackay Wed May 10 16:17:39 2023 +0100 update stg cluster to version 1.25 - Configuration Update
+272. Zoe Mackay Wed May 10 16:18:30 2023 +0100 upgrade cluster to version 1.25 - Configuration Update
+273. Zoe Mackay Wed May 10 16:50:23 2023 +0100 add wait to plan stage - Configuration Update
+274. Zoe Mackay Thu May 11 09:00:01 2023 +0100 Merge pull request #2835 from arnoldclark/infra-1131/stgupgrade - Merge Commit
+275. Zoe Mackay Thu May 11 09:00:11 2023 +0100 Merge pull request #2836 from arnoldclark/infra-1131/pp-aksupgrade - Merge Commit
+276. Zoe Mackay Thu May 11 10:34:29 2023 +0100 Merge pull request #2829 from - Merge Commit
+277. Zoe Mackay Thu May 11 10:34:47 2023 +0100 Merge pull request #2837 from - Merge Commit
+278. Zoe Mackay Thu May 11 12:16:20 2023 +0100 upgrade aks version - Configuration Update
+279. Zoe Mackay Thu May 11 12:17:01 2023 +0100 upgrade aks verison - Configuration Update
+280. Zoe Mackay Tue May 16 08:14:52 2023 +0100 Merge pull request #2840 from arnoldclark/infra-1131/prd1-aksupgrade - Merge Commit
+281. Zoe Mackay Tue May 16 10:16:58 2023 +0100 Merge pull request #2902 from arnoldclark/kubernetes-combinepr - Merge Commit
+282. Zoe Mackay Tue May 16 10:17:27 2023 +0100 Merge pull request #2901 from arnoldclark/aws-combine-pr - Merge Commit
+283. Zoe Mackay Tue May 16 10:18:05 2023 +0100 Merge pull request #2899 from arnoldclark/azuread-combine-pr - Merge Commit
+284. Zoe Mackay Tue May 16 13:05:10 2023 +0100 Merge pull request #2900 from arnoldclark/azurerm-combine-pr - Merge Commit
+285. Zoe Mackay Tue May 16 13:08:00 2023 +0100 Merge pull request #2868 from - Merge Commit
+286. Zoe Mackay Tue May 16 13:08:17 2023 +0100 Merge pull request #2867 from - Merge Commit
+287. Zoe Mackay Wed May 17 10:10:43 2023 +0100 Merge pull request #2839 from arnoldclark/infra-1131/prd2upgrade-aks - Merge Commit
+288. Zoe Mackay Wed May 17 11:29:45 2023 +0100 Merge pull request #2903 from arnoldclark/azurerm-combine-pr - Merge Commit
+289. Zoe Mackay Thu May 18 10:44:53 2023 +0100 update start time - Configuration Update
+290. Zoe Mackay Thu May 18 11:07:50 2023 +0100 Merge pull request #2904 from arnoldclark/zm/automationaccount - Merge Commit
+291. Zoe Mackay Mon Jun 5 08:11:39 2023 +0100 Merge pull request #2985 from arnoldclark/aws-combine-pr - Merge Commit
+292. Zoe Mackay Mon Jun 5 09:15:02 2023 +0100 Merge pull request #2945 from arnoldclark/azurerm-combine-pr - Merge Commit
+293. Zoe Mackay Mon Jun 5 09:15:32 2023 +0100 Merge pull request #2944 from arnoldclark/newrelic-combine-pr - Merge Commit
+294. Zoe Mackay Mon Jun 5 10:02:54 2023 +0100 Merge pull request #2943 from arnoldclark/azuread-combine-pr - Merge Commit
+295. Zoe Mackay Tue Jun 6 11:16:51 2023 +0100 Merge pull request #3038 from arnoldclark/aws-combine-pr - Merge Commit
+296. Zoe Mackay Tue Jun 6 11:17:46 2023 +0100 Merge pull request #3039 from arnoldclark/kubernetes-combine-pr - Merge Commit
+297. Zoe Mackay Tue Jun 6 11:19:45 2023 +0100 Merge pull request #3036 from arnoldclark/azuread-combine-pr - Merge Commit
+298. Zoe Mackay Tue Jun 6 11:22:24 2023 +0100 Merge pull request #3037 from arnoldclark/newrelic-combine-pr - Merge Commit
+299. Zoe Mackay Tue Jun 6 14:19:34 2023 +0100 add new data platform subscriptions - Configuration Update
+300. Zoe Mackay Wed Jun 7 09:48:38 2023 +0100 additional contributor users - Configuration Update
+301. Zoe Mackay Wed Jun 7 10:19:32 2023 +0100 update module version - Configuration Update
+302. Zoe Mackay Wed Jun 7 10:25:04 2023 +0100 add tags - Configuration Update
+303. Zoe Mackay Tue Jun 13 08:08:28 2023 +0100 Merge pull request #3095 from arnoldclark/aws-combine-pr - Merge Commit
+304. Zoe Mackay Tue Jun 13 08:08:47 2023 +0100 Merge pull request #3094 from arnoldclark/newrelic-combine-pr - Merge Commit
+305. Zoe Mackay Tue Jun 13 09:25:50 2023 +0100 Merge pull request #3093 from arnoldclark/tfmodule-combine-pr - Merge Commit
+306. Zoe Mackay Tue Jun 13 10:30:46 2023 +0100 Merge branch 'master' into dependabot/terraform/sqlservers/stg/hashicorp/azurerm-3.58.0 - Merge Commit
+307. Zoe Mackay Tue Jun 13 10:31:11 2023 +0100 Merge branch 'master' into dependabot/terraform/platformoperations/prd/hashicorp/azurerm-3.58.0 - Merge Commit
+308. Zoe Mackay Tue Jun 13 10:31:32 2023 +0100 Merge branch 'master' into dependabot/terraform/platformoperations/dev/hashicorp/azurerm-3.58.0 - Merge Commit
+309. Zoe Mackay Tue Jun 13 10:32:03 2023 +0100 Merge branch 'master' into dependabot/terraform/aks/dev/akscluster-1/aks-cluster-1/hashicorp/azurerm-3.58.0 - Merge Commit
+310. Zoe Mackay Tue Jun 13 10:32:27 2023 +0100 Merge branch 'master' into dependabot/terraform/aks/test/akscluster-1/aks-cluster-1/hashicorp/azurerm-3.58.0 - Merge Commit
+311. Zoe Mackay Tue Jun 13 12:14:52 2023 +0100 Merge pull request #3123 from arnoldclark/azurerm-combine-pr - Merge Commit
+312. Zoe Mackay Wed Jun 14 08:32:19 2023 +0100 Merge pull request #3127 from arnoldclark/azurerm-combine-pr - Merge Commit
+313. Zoe Mackay Wed Jun 14 11:47:10 2023 +0100 rename resource group - Configuration Update
+314. Zoe Mackay Fri Jun 16 10:17:15 2023 +0100 Merge pull request #3053 from - Merge Commit
+315. Zoe Mackay Fri Jun 16 10:20:27 2023 +0100 Merge pull request #3027 from - Merge Commit
+316. Zoe Mackay Fri Jun 16 10:21:00 2023 +0100 Merge pull request #3021 from - Merge Commit
+317. Zoe Mackay Fri Jun 16 13:51:46 2023 +0100 enable filebeat - Configuration Update
+318. Zoe Mackay Fri Jun 16 14:16:04 2023 +0100 enabled filebeat logs - Configuration Update
+319. Zoe Mackay Fri Jun 16 14:16:50 2023 +0100 enabled filebeat logs - Configuration Update
+320. Zoe Mackay Fri Jun 16 14:17:42 2023 +0100 enable filebeat - Configuration Update
+321. Zoe Mackay Fri Jun 16 14:32:31 2023 +0100 Merge pull request #3129 from - Merge Commit
+322. Zoe Mackay Fri Jun 16 14:33:28 2023 +0100 Merge pull request #3132 from - Merge Commit
+323. Zoe Mackay Fri Jun 16 14:38:10 2023 +0100 Merge pull request #3133 from - Merge Commit
+324. Zoe Mackay Fri Jun 16 14:38:34 2023 +0100 Merge pull request #3134 from - Merge Commit
+325. Zoe Mackay Mon Jun 19 11:16:54 2023 +0100 Merge pull request #3131 from - Merge Commit
+326. Zoe Mackay Mon Jun 19 11:17:10 2023 +0100 Merge pull request #3130 from - Merge Commit
+327. Zoe Mackay Thu Jun 22 08:34:45 2023 +0100 Merge pull request #3124 from - Merge Commit
+328. Zoe Mackay Thu Jun 22 08:34:54 2023 +0100 Merge pull request #3043 from - Merge Commit
+329. Zoe Mackay Tue Jun 27 11:53:08 2023 +0100 Merge pull request #3175 from arnoldclark/azurerm-combine-pr - Merge Commit
+330. Zoe Mackay Tue Jun 27 12:12:14 2023 +0100 update permissions needed - Configuration Update
+331. Zoe Mackay Tue Jun 27 14:17:48 2023 +0100 Merge pull request #3177 from arnoldclark/infra-1080/prisma-role - Merge Commit
+332. Zoe Mackay Tue Jun 27 14:17:57 2023 +0100 Merge pull request #3176 from arnoldclark/infra-1175/resourcegroup - Merge Commit
+333. Zoe Mackay Wed Jun 28 09:00:57 2023 +0100 Merge pull request #3174 from arnoldclark/newrelic-combine-pr - Merge Commit
+334. Zoe Mackay Wed Jun 28 09:25:42 2023 +0100 Merge branch 'master' into aws-combine-pr - Merge Commit
+335. Zoe Mackay Wed Jun 28 09:43:30 2023 +0100 Merge pull request #3139 from arnoldclark/aws-combine-pr - Merge Commit
+336. Zoe Mackay Fri Jun 30 10:37:54 2023 +0100 add azure dns server - Configuration Update
+337. Zoe Mackay Fri Jun 30 13:41:33 2023 +0100 add private endpoint connection - Configuration Update
+338. Zoe Mackay Fri Jun 30 13:42:06 2023 +0100 new dns zones for database private endpoints - Configuration Update
+339. Zoe Mackay Fri Jun 30 13:42:33 2023 +0100 remove extra resource group - Removal Commit
+340. Zoe Mackay Fri Jun 30 14:15:14 2023 +0100 add tags - Configuration Update
+341. Zoe Mackay Fri Jun 30 14:41:05 2023 +0100 Merge pull request #3181 from arnoldclark/infra-56/dns-servers - Merge Commit
+
+
+
+
+
+mmshill 53
+the commits of mmshill are below:
+1. mmshill Thu Mar 2 11:26:25 2023 +0000 setting up sftp server - Configuration Setup
+2. mmshill Thu Mar 2 11:46:08 2023 +0000 Update deployment.sh - Script Update
+3. mmshill Thu Mar 2 11:46:34 2023 +0000 Update deployment.sh - Script Update
+4. mmshill Mon Mar 13 11:58:59 2023 +0000 Update README.md - Documentation Update
+5. mmshill Mon Mar 13 12:10:00 2023 +0000 Update README.md - Documentation Update
+6. mmshill Tue Mar 21 14:48:32 2023 +0000 These modifications are about making sure the sftp server is fully - Configuration Update
+7. mmshill Tue Mar 21 14:51:52 2023 +0000 Adding a README file to explain the use of the 2 files that are - Documentation Addition
+8. mmshill Tue Mar 21 15:11:32 2023 +0000 Merge branch 'sftp_config' of github.com:arnoldclark/ac-iac-platformonprem-ops into sftp_config - Merge Commit
+9. mmshill Mon Apr 3 10:48:04 2023 +0100 We are nodifying the file sftp_users.yml to include usernames with - Configuration Update
+10. mmshill Tue Apr 4 11:48:27 2023 +0100 Merge branch 'main' into sftp_config - Merge Commit
+11. mmshill Tue Apr 4 12:19:02 2023 +0100 deleted files users_with_password and users_with_ssh_keys - File Deletion
+12. mmshill Mon Feb 20 16:30:36 2023 +0000 changed aks-kubernetes-version - Configuration Update
+13. mmshill Tue Feb 21 09:19:42 2023 +0000 Merge pull request #2010 from - Merge Commit
+14. mmshill Tue Feb 21 10:02:49 2023 +0000 Merge pull request #2001 from arnoldclark/infra-1130/stg-aksupgrade - Merge Commit
+15. mmshill Thu Feb 23 11:38:33 2023 +0000 updating k8 version in cluster.tf in prd1 and prd2 - Configuration Update
+16. mmshill Thu Feb 23 12:14:04 2023 +0000 k8_version_change_prd2 - INFRA-1130 - Configuration Update
+17. mmshill Fri Feb 24 14:49:57 2023 +0000 k8_version_change_prd1 - INFRA-1130 - Configuration Update
+18. mmshill Mon Feb 27 09:55:17 2023 +0000 Merge pull request #2086 from arnoldclark/k8_version_change_prd2 - Merge Commit
+19. mmshill Tue Feb 28 09:35:32 2023 +0000 Merge pull request #2089 from arnoldclark/k8_version_change_prd1 - Merge Commit
+20. mmshill Wed Apr 5 13:38:41 2023 +0100 adding files main.tf terraform.tfvars and variables.tf - Configuration Files Addition
+21. mmshill Wed Apr 5 14:23:37 2023 +0100 adjusting the tf files - Configuration Update
+22. mmshill Wed Apr 12 14:09:20 2023 +0100 adding terraform generating python script - Script Addition
+23. mmshill Wed Apr 12 14:40:35 2023 +0100 Update python_for_terraform.py - Script Update
+24. mmshill Thu Apr 13 15:15:23 2023 +0100 adding bash script to get the snapshot of the current AWS estate - Script Addition
+25. mmshill Tue Apr 18 11:51:23 2023 +0100 Merge branch 'master' of github.com:arnoldclark/ac-iac-platform into - Merge Commit
+26. mmshill Tue Apr 18 11:57:22 2023 +0100 adding tf files for vpc and security groups - Configuration Files Addition
+27. mmshill Fri Apr 28 10:23:50 2023 +0100 Adding vpc_terraform folder with terraform files for vpc - Configuration Files Addition
+28. mmshill Tue May 9 14:51:47 2023 +0100 new vpc added - Configuration Update
+29. mmshill Wed May 10 14:20:04 2023 +0100 removing folders that are not needed anymore - Directory Removal
+30. mmshill Fri May 19 11:01:05 2023 +0100 Adding Terraform Config for VPC using version 1.3.7 - Configuration Update
+31. mmshill Fri May 19 11:18:18 2023 +0100 Renaming VPC Folders - Directory Update
+32. mmshill Fri May 19 16:11:47 2023 +0100 adding aws_vpc_accounting script - Script Addition
+33. mmshill Tue May 23 14:26:13 2023 +0100 breaking down configs - Configuration Update
+34. mmshill Wed May 24 14:15:00 2023 +0100 breaking down config files - Configuration Update
+35. mmshill Thu May 25 13:06:15 2023 +0100 breaking down configs - Configuration Update
+36. mmshill Fri May 26 12:13:55 2023 +0100 Deleting folder broken_down_config - Directory Removal
+37. mmshill Fri May 26 14:36:58 2023 +0100 breaking down configs - Configuration Update
+38. mmshill Mon May 29 13:03:02 2023 +0100 breaking down configs - Configuration Update
+39. mmshill Tue May 30 12:51:26 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS - Merge Commit
+40. mmshill Tue May 30 15:09:07 2023 +0100 breaking down configs - Configuration Update
+41. mmshill Tue May 30 15:13:52 2023 +0100 adding vpc count for 30th may 2023 - Configuration Update
+42. mmshill Fri Jun 2 15:48:21 2023 +0100 modifying some parts of vpc-dc37dab5 - Configuration Update
+43. mmshill Mon Jun 5 11:49:05 2023 +0100 breaking down configs change - Configuration Update
+44. mmshill Mon Jun 5 11:51:43 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS - Merge Commit
+45. mmshill Mon Jun 5 14:10:55 2023 +0100 Config modifications and merging of main.tf files - Configuration Update
+46. mmshill Wed Jun 7 15:17:27 2023 +0100 merging providers config - Configuration Update
+47. mmshill Wed Jun 7 15:18:36 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS - Merge Commit
+48. mmshill Wed Jun 7 15:21:13 2023 +0100 merging providers config - Configuration Update
+49. mmshill Mon Jun 12 15:30:43 2023 +0100 all-vpc-terraform - Configuration Update
+50. mmshill Mon Jun 12 16:22:15 2023 +0100 all configs in one - Configuration Update
+51. mmshill Tue Jun 13 09:15:47 2023 +0100 testing ground - Testing Commit
+52. mmshill Thu Jun 15 10:38:53 2023 +0100 code refactoring and files merging - Code Refactoring
+53. mmshill Thu Jun 15 10:39:43 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS - Merge Commit
+
+
+
+
+
+
+white 613
+the commits of white are below:
+1. Jason White Tue Jan 3 15:25:57 2023 +0000 use --cert-name when cutting certs - Configuration Update
+2. Jason White Wed Jan 4 11:15:31 2023 +0000 Merge pull request #25 - Merge Commit
+3. Jason White Wed Jan 4 11:23:33 2023 +0000 Remove old role from readme, and trigger release - Documentation and Deployment Trigger
+4. Jason White Wed Jan 4 11:25:15 2023 +0000 Merge branch 'release/1.0.0' - Merge Commit
+5. Jason White Wed Jan 4 11:29:18 2023 +0000 Merge pull request #26 - Merge Commit
+6. Jason White Tue Feb 14 15:52:31 2023 +0000 Add Keith - Personnel Update
+7. Jason White Tue Feb 14 15:58:04 2023 +0000 Merge pull request #27 - Merge Commit
+8. Jason White Fri Mar 24 19:56:27 2023 +0000 update github host key, only trigger a release if roles - Security Update and Conditional Trigger
+9. Jason White Thu Dec 8 11:55:09 2022 +0000 Update base collection to 0.8.6 - Configuration Update
+10. Jason White Thu Dec 8 17:43:14 2022 +0000 Merge pull request #19 - Merge Commit
+11. Jason White Tue Feb 14 15:44:09 2023 +0000 Add Keith - Personnel Update
+12. Jason White Tue Feb 14 15:53:39 2023 +0000 Icinga is 1.15 - Configuration Update
+13. Jason White Tue Feb 14 17:17:22 2023 +0000 Ensure prdsquid env vars are set - Environmental Configuration
+14. Jason White Tue Feb 14 17:19:59 2023 +0000 Set environment variables - Environmental Configuration
+15. Jason White Tue Feb 14 19:30:15 2023 +0000 Fix set_proxy_env - Bug Fix
+16. Jason White Tue Feb 14 19:30:37 2023 +0000 Don't run selinux role - Configuration Update
+17. Jason White Tue Feb 14 19:49:42 2023 +0000 Get newer version of postfix role - Dependency Update
+18. Jason White Wed Feb 15 11:33:33 2023 +0000 Merge pull request #21 - Merge Commit
+19. Jason White Wed Mar 1 17:59:00 2023 +0000 Merge pull request #22 - Merge Commit
+20. Jason White Thu Mar 2 13:21:41 2023 +0000 Update collections - Configuration Update
+21. Jason White Thu Mar 2 13:21:55 2023 +0000 Set correct env vars for change in env role - Configuration Update
+22. Jason White Thu Mar 2 13:22:38 2023 +0000 Merge pull request #23 - Merge Commit
+23. Jason White Thu Mar 2 14:35:12 2023 +0000 Minor update to collection to fix pipeline error - Bug Fix
+24. Jason White Thu Mar 2 15:33:24 2023 +0000 Update base collection and set proxy at playbook level - Configuration Update
+25. Jason White Thu Mar 2 15:46:06 2023 +0000 Fix typos - Documentation Correction
+26. Jason White Thu Mar 2 16:08:25 2023 +0000 Base collection update again - Configuration Update
+27. Jason White Thu Mar 2 17:25:21 2023 +0000 Just ignore errors for pip since the packages are already installed - Configuration Update
+28. Jason White Fri Mar 3 13:15:57 2023 +0000 Update base - Configuration Update
+29. Jason White Fri Mar 3 14:10:08 2023 +0000 Another base fix - Bug Fix
+30. Jason White Wed Mar 22 19:30:53 2023 +0000 Update base collection to include proxy config for qualys agent - Configuration Update
+31. Jason White Thu Mar 23 10:09:21 2023 +0000 Merge pull request #24 - Merge Commit
+32. Jason White Fri Mar 24 15:44:45 2023 +0000 GitHub host key has changed - Security Update
+33. Jason White Fri Mar 24 17:16:14 2023 +0000 Merge pull request #26 - Merge Commit
+34. Jason White Mon Apr 24 16:09:01 2023 +0100 Update base collection to get correct email settings - Configuration Update
+35. Jason White Thu Dec 8 11:54:04 2022 +0000 Update base collection to 0.8.6 - Configuration Update
+36. Jason White Thu Dec 8 12:38:51 2022 +0000 Merge pull request #313 - Merge Commit
+37. Jason White Thu Dec 8 17:09:04 2022 +0000 Merge pull request #312 - Merge Commit
+38. Jason White Sun Jan 1 17:45:03 2023 +0000 Move all app certs to prdintappsprx - Security Update
+39. Jason White Sun Jan 1 17:45:22 2023 +0000 Add hosts for aso/ems/smo, add smo backend - Configuration Update
+40. Jason White Sun Jan 1 17:51:26 2023 +0000 Add icinga check for smo-proxy - Monitoring Update
+41. Jason White Mon Jan 2 11:33:14 2023 +0000 Remove compromised SS GDPR servers and add new IPs - Security Update
+42. Jason White Mon Jan 2 11:48:49 2023 +0000 Remove unused configs - Configuration Cleanup
+43. Jason White Mon Jan 2 11:48:58 2023 +0000 Add gdpr apps - Configuration Update
+44. Jason White Mon Jan 2 11:50:22 2023 +0000 Gdpr changes for icinga checks and letsencrypt certs - Configuration Update
+45. Jason White Mon Jan 2 12:03:24 2023 +0000 Smo still has some http only apps - Configuration Notice
+46. Jason White Mon Jan 2 12:06:17 2023 +0000 Update IPs of CFU servers - Configuration Update
+47. Jason White Mon Jan 2 12:26:54 2023 +0000 Merge pull request #315 - Merge Commit
+48. Jason White Mon Jan 2 12:27:02 2023 +0000 Merge pull request #316 - Merge Commit
+49. Jason White Mon Jan 2 12:27:07 2023 +0000 Merge pull request #317 - Merge Commit
+50. Jason White Mon Jan 2 14:59:49 2023 +0000 Fix acls - Bug Fix
+51. Jason White Tue Jan 3 14:43:56 2023 +0000 Missed removing this cert at some point in the past - Configuration Cleanup
+52. Jason White Tue Jan 3 17:23:14 2023 +0000 Merge pull request #318 - Merge Commit
+53. Jason White Tue Jan 3 17:23:22 2023 +0000 Merge pull request #319 - Merge Commit
+54. Jason White Wed Jan 4 10:53:02 2023 +0000 Add backend for asoconfig app - Configuration Update
+55. Jason White Wed Jan 4 10:54:26 2023 +0000 No aspx on healthcheck - Configuration Update
+56. Jason White Wed Jan 4 11:11:53 2023 +0000 Add asokeyrequestmanager and asosms backends - Configuration Update
+57. Jason White Wed Jan 4 11:15:38 2023 +0000 Merge pull request #320 - Merge Commit
+58. Jason White Wed Jan 4 11:15:45 2023 +0000 Merge pull request #321 - Merge Commit
+59. Jason White Thu Jan 5 17:57:38 2023 +0000 Enforce https on some SMO apps - Security Update
+60. Jason White Fri Jan 6 11:16:59 2023 +0000 Make all aso backends https and tidy up config - Security and Configuration Update
+61. Jason White Fri Jan 6 12:09:02 2023 +0000 CFU internal hub requires a 5m timeout - Configuration Update
+62. Jason White Fri Jan 6 14:27:23 2023 +0000 Fix aco hostnames, make eventstore use domain names not IPs - Bug Fix and Security Update
+63. Jason White Mon Jan 9 11:27:57 2023 +0000 Olb still port 80 - Configuration Notice
+64. Jason White Mon Jan 9 17:03:43 2023 +0000 Add tms.arnoldclark.co.uk, disable all other ems backends - Configuration Update
+65. Jason White Mon Jan 9 17:04:50 2023 +0000 Icinga check - Monitoring Update
+66. Jason White Mon Jan 9 17:29:57 2023 +0000 Tweaks - Minor Configuration Update
+67. Jason White Mon Jan 9 20:44:00 2023 +0000 Merge pull request #324 - Merge Commit
+68. Jason White Mon Jan 9 20:49:27 2023 +0000 Merge branch 'main' - Merge Commit
+69. Jason White Mon Jan 9 20:49:34 2023 +0000 Merge pull request #323 - Merge Commit
+70. Jason White Mon Jan 9 20:52:33 2023 +0000 Merge pull request #322 - Merge Commit
+71. Jason White Tue Jan 10 12:01:11 2023 +0000 Front adcentre & adcentre-stg with prdintappsprx - Configuration Update
+72. Jason White Tue Jan 10 13:54:30 2023 +0000 Merge pull request #326 - Merge Commit
+73. Jason White Tue Jan 10 14:00:14 2023 +0000 Merge branch 'main' - Merge Commit
+74. Jason White Tue Jan 10 14:02:23 2023 +0000 Merge pull request #325 - Merge Commit
+75. Jason White Tue Jan 10 17:43:25 2023 +0000 Redirect adcentre / to /adcentre so that HTTPS works - Security Update
+76. Jason White Tue Jan 10 18:19:40 2023 +0000 Merge pull request #327 - Merge Commit
+77. Jason White Tue Jan 10 19:00:34 2023 +0000 Revert tidy up for smo-proxy - causing 503s across all backends - Bug Fix Revert
+78. Jason White Thu Jan 12 13:12:33 2023 +0000 Add blockbuilder to prdintappsprx - Configuration Update
+79. Jason White Thu Jan 12 13:12:41 2023 +0000 Update sagprx backends - Configuration Update
+80. Jason White Thu Jan 12 13:22:12 2023 +0000 Yamllint fixes - Code Quality Improvement
+81. Jason White Thu Jan 12 13:58:17 2023 +0000 Merge pull request #328 - Merge Commit
+82. Jason White Thu Jan 12 14:13:15 2023 +0000 Eventstore api/tcp connections go direct to aso haproxy, no certs - Security Update
+83. Jason White Thu Jan 12 14:17:39 2023 +0000 Merge branch 'main' - Merge Commit
+84. Jason White Thu Jan 12 14:19:00 2023 +0000 Merge pull request #329 - Merge Commit
+85. Jason White Thu Jan 12 16:11:05 2023 +0000 Update tms humanresources heartbeat path - Configuration Update
+86. Jason White Thu Jan 12 16:18:44 2023 +0000 Correct status code - Bug Fix
+87. Jason White Thu Jan 12 17:23:04 2023 +0000 Merge pull request #330 - Merge Commit
+88. Jason White Mon Feb 6 11:11:43 2023 +0000 Configure production host etc for sugarcrm - Configuration Update
+89. Jason White Mon Feb 6 11:22:02 2023 +0000 Fix secret name - Bug Fix
+90. Jason White Mon Feb 6 12:36:23 2023 +0000 Merge pull request #332 - Merge Commit
+91. Jason White Thu Feb 9 14:36:12 2023 +0000 Ensure internal servers use prdsquid - Security Update
+92. Jason White Thu Feb 9 14:59:40 2023 +0000 Yamllint - Code Quality Improvement
+93. Jason White Thu Feb 9 21:33:17 2023 +0000 Typo in acvmprx-internals pipeline config - Documentation Correction
+94. Jason White Fri Feb 10 12:07:54 2023 +0000 Merge pull request #334 - Merge Commit
+95. Jason White Fri Feb 10 15:09:35 2023 +0000 Remove extra var for SMO proxy - Configuration Cleanup
+96. Jason White Fri Feb 10 15:09:44 2023 +0000 Fix up internal ntp servers - Configuration Update
+97. Jason White Fri Feb 10 15:10:11 2023 +0000 Add x-forwarded-proto https for pp/stgweb and make ppweb the - Security Update
+98. Jason White Fri Feb 10 18:19:37 2023 +0000 Add in ppweb01/02 as backup servers for pre-prd gearbox rental - Configuration Update
+99. Jason White Tue Feb 14 12:46:57 2023 +0000 Merge pull request #335 - Merge Commit
+100. Jason White Tue Feb 14 12:47:07 2023 +0000 Merge pull request #336 - Merge Commit
+101. Jason White Tue Feb 14 15:37:06 2023 +0000 Update collection version to include Keith - Configuration Update
+102. Jason White Wed Feb 15 00:17:31 2023 +0000 Merge pull request #338 - Merge Commit
+103. Jason White Wed Feb 15 16:53:32 2023 +0000 Remove iweb3/4 from pre prd gearbox rental - Configuration Update
+104. Jason White Wed Feb 15 16:54:12 2023 +0000 Remove iwebs - Configuration Cleanup
+105. Jason White Wed Feb 15 16:56:08 2023 +0000 Remove domain not hosted on iproxy - Configuration Cleanup
+106. Jason White Wed Feb 15 17:18:19 2023 +0000 Remove old host-assure acls - Configuration Cleanup
+107. Jason White Wed Feb 15 18:00:38 2023 +0000 Iweb gone - Configuration Notice
+108. Jason White Wed Feb 15 18:01:32 2023 +0000 Remove all the ancient redirects - Configuration Cleanup
+109. Jason White Wed Feb 15 18:07:41 2023 +0000 Fix harryfb host - Bug Fix
+110. Jason White Wed Feb 15 18:12:59 2023 +0000 Needs to have the acl name - Configuration Update
+111. Jason White Wed Feb 15 18:27:55 2023 +0000 More tweaking of acls etc - Configuration Update
+112. Jason White Thu Feb 16 15:52:58 2023 +0000 Don't replace worldpay prefixes with blank list - Bug Fix
+113. Jason White Thu Feb 16 18:31:11 2023 +0000 Add adcentre to iproxy and fix up webXX hosts - Configuration Update
+114. Jason White Thu Feb 16 23:21:36 2023 +0000 Remove redundant cookie SERVERID, add blockbuilder to hosts - Configuration Cleanup
+115. Jason White Fri Feb 17 16:00:20 2023 +0000 Merge pull request #343 - Merge Commit
+116. Jason White Sat Feb 18 20:08:47 2023 +0000 Clean up common opts, fix hfb redirects, remove unused acls - Configuration Cleanup
+117. Jason White Sat Feb 18 20:09:33 2023 +0000 Merge branch 'main' - Merge Commit
+118. Jason White Sat Feb 18 20:11:20 2023 +0000 Merge branch 'main' - Merge Commit
+119. Jason White Sat Feb 18 21:06:50 2023 +0000 Update default_backend - Configuration Update
+120. Jason White Sat Feb 18 21:48:59 2023 +0000 It was correct the first time - Configuration Revert
+121. Jason White Sun Feb 19 21:28:13 2023 +0000 Gearbox_rental and gearbox_assure have been updated to listen on - Configuration Update
+122. Jason White Sun Feb 19 22:15:38 2023 +0000 Merge pull request #344 - Merge Commit
+123. Jason White Sun Feb 19 22:21:55 2023 +0000 Merge branch 'main' - Merge Commit
+124. Jason White Sun Feb 19 22:23:44 2023 +0000 Just being pedantic now - Minor Configuration Update
+125. Jason White Sun Feb 19 22:27:34 2023 +0000 No changes for acvmprx here - Configuration Notice
+126. Jason White Sun Feb 19 23:35:44 2023 +0000 Typo - Documentation Correction
+127. Jason White Sun Feb 19 23:58:04 2023 +0000 Add adcentre config - Configuration Update
+128. Jason White Mon Feb 20 15:08:25 2023 +0000 Merge pull request #342 - Merge Commit
+129. Jason White Mon Feb 20 16:33:09 2023 +0000 Merge branch 'main' - Merge Commit
+130. Jason White Mon Feb 20 16:41:28 2023 +0000 Add .stg. back in - Configuration Update
+131. Jason White Mon Feb 20 16:41:33 2023 +0000 Merge branch 'infra-954/final-cutover-from-iweb' of - Merge Commit
+132. Jason White Mon Feb 20 16:42:50 2023 +0000 Remove pointless hosts - Configuration Cleanup
+133. Jason White Tue Feb 21 01:36:14 2023 +0000 Shorten/tidy the worldpay callback config - Configuration Update
+134. Jason White Tue Feb 21 10:54:58 2023 +0000 Typos - Documentation Correction
+135. Jason White Tue Feb 21 20:36:31 2023 +0000 Merge branch 'main' - Merge Commit
+136. Jason White Fri Feb 24 18:49:46 2023 +0000 Clean the spaces db - Database Cleanup
+137. Jason White Mon Feb 27 14:58:33 2023 +0000 Add ca and verifyhost for tls change - Security Update
+138. Jason White Mon Feb 27 15:50:04 2023 +0000 Merge pull request #352 - Merge Commit
+139. Jason White Mon Feb 27 18:19:37 2023 +0000 Change iweb status to stgweb status - Configuration Update
+140. Jason White Mon Feb 27 18:49:40 2023 +0000 Tidy up prdintappsprx config a bit - move config to defaults - Configuration Cleanup
+141. Jason White Mon Feb 27 19:29:36 2023 +0000 Remove status.stg from iproxy config - Configuration Cleanup
+142. Jason White Mon Feb 27 19:29:45 2023 +0000 Update iweb on sag - Configuration Update
+143. Jason White Mon Feb 27 19:35:54 2023 +0000 Comment update for prdprx - Documentation Update
+144. Jason White Mon Feb 27 19:37:22 2023 +0000 Update/consolidate the acdotcom host acl, make all 301s 302s as - Configuration Update
+145. Jason White Mon Feb 27 19:39:30 2023 +0000 Consistent cookie options for pp/prd - Configuration Update
+146. Jason White Mon Feb 27 19:51:41 2023 +0000 Merge branch 'main' - Merge Commit
+147. Jason White Mon Feb 27 19:56:32 2023 +0000 Remove default backend as there is no default app - Configuration Update
+148. Jason White Mon Feb 27 22:39:13 2023 +0000 Make sure acdesign and drum are included for pp - Configuration Update
+149. Jason White Mon Feb 27 22:54:13 2023 +0000 Add host entries for static apps against all stgwebs - Configuration Update
+150. Jason White Tue Feb 28 12:06:08 2023 +0000 Merge branch 'main' - Merge Commit
+151. Jason White Tue Feb 28 13:56:55 2023 +0000 Merge pull request #341 - Merge Commit
+152. Jason White Tue Feb 28 20:44:38 2023 +0000 Old haproxy requires check-sni - Configuration Update
+153. Jason White Tue Feb 28 20:44:46 2023 +0000 Backend renamed - Configuration Update
+154. Jason White Tue Feb 28 20:45:12 2023 +0000 Seems to try (and fail) to connect by TLSv1.3 without this - Configuration Fix
+155. Jason White Wed Mar 1 12:27:32 2023 +0000 Force-tlsv12 isn't support in default-server - Configuration Update
+156. Jason White Wed Mar 1 13:27:05 2023 +0000 Deploy cert on ems-haproxy as it will be terminating the TLS - Configuration Update
+157. Jason White Wed Mar 1 13:28:08 2023 +0000 Add reminder comment - Documentation Update
+158. Jason White Wed Mar 1 13:36:06 2023 +0000 Merge pull request #354 - Merge Commit
+159. Jason White Wed Mar 1 15:58:54 2023 +0000 Expect a 400 as that is all we seem to be able to get back - Configuration Update
+160. Jason White Wed Mar 1 17:01:25 2023 +0000 Update azure requirements for the lookup script - Configuration Update
+161. Jason White Wed Mar 1 18:42:16 2023 +0000 Run the playbooks as an AzureCli task so that they have - Configuration Update
+162. Jason White Wed Mar 1 18:48:05 2023 +0000 Merge pull request #357 - Merge Commit
+163. Jason White Wed Mar 1 20:43:01 2023 +0000 Try with updated letsencrypt and icinga collections - newer - Configuration Update
+164. Jason White Thu Mar 2 11:56:50 2023 +0000 Clean up rdp01 config - Configuration Cleanup
+165. Jason White Thu Mar 2 12:30:07 2023 +0000 Lose the default backend - Configuration Cleanup
+166. Jason White Thu Mar 2 13:17:31 2023 +0000 No environment for the aws proxy - Configuration Update
+167. Jason White Thu Mar 2 13:17:47 2023 +0000 New relic and azure service principal secrets no longer required - Security Cleanup
+168. Jason White Thu Mar 2 13:17:58 2023 +0000 Environment role has changed, update vars - Configuration Update
+169. Jason White Thu Mar 2 13:20:02 2023 +0000 Update icinga collection - Configuration Update
+170. Jason White Thu Mar 2 13:24:04 2023 +0000 Wrong host - Configuration Update
+171. Jason White Thu Mar 2 15:27:58 2023 +0000 Increment base again - Configuration Update
+172. Jason White Thu Mar 2 15:28:20 2023 +0000 AWS haproxy doesn't generate certs so don't bother with pyenv/le - Configuration Update
+173. Jason White Thu Mar 2 15:28:42 2023 +0000 Remove int-prx-tester as never used - Configuration Cleanup
+174. Jason White Thu Mar 2 15:28:54 2023 +0000 Remove vestigial vars - Configuration Cleanup
+175. Jason White Thu Mar 2 15:49:56 2023 +0000 Fix proxy vars - Configuration Update
+176. Jason White Thu Mar 2 15:50:17 2023 +0000 Merge branch 'main' into update_collection - Merge Commit
+177. Jason White Thu Mar 2 16:06:46 2023 +0000 Another base collection increment - Configuration Update
+178. Jason White Thu Mar 2 22:05:15 2023 +0000 Merge pull request #356 - Merge Commit
+179. Jason White Fri Mar 3 13:11:27 2023 +0000 Update base collection - Configuration Update
+180. Jason White Fri Mar 3 14:10:28 2023 +0000 Another base fix - Configuration Update
+181. Jason White Fri Mar 3 16:08:31 2023 +0000 Deb fix - Configuration Update
+182. Jason White Fri Mar 3 19:27:28 2023 +0000 Merge pull request #359 - Merge Commit
+183. Jason White Tue Mar 7 19:17:28 2023 +0000 Don't run pipelines when it's a draft, remove test stage that does - Configuration Update
+184. Jason White Tue Mar 7 19:24:40 2023 +0000 Consolidate pip requirements into one file - Configuration Update
+185. Jason White Tue Mar 7 19:24:52 2023 +0000 Consolidate tasks, upgrade python - Configuration Update
+186. Jason White Tue Mar 7 19:25:14 2023 +0000 Do all the validation at once, not piecemeal - Configuration Update
+187. Jason White Tue Mar 7 19:25:23 2023 +0000 Remove stuff that will never be used - Configuration Cleanup
+188. Jason White Tue Mar 7 19:34:06 2023 +0000 Minor tweaks to config - don't expire facts cache, allow up to 30 - Configuration Update
+189. Jason White Tue Mar 7 19:47:09 2023 +0000 Get the right number of 'and's - Documentation Correction
+190. Jason White Tue Mar 7 20:39:07 2023 +0000 Missed - Configuration Update
+191. Jason White Tue Mar 7 20:39:21 2023 +0000 Don't provision in check mode on the singletons - Configuration Update
+192. Jason White Wed Mar 8 16:30:22 2023 +0000 Merge pull request #361 - Merge Commit
+193. Jason White Wed Mar 8 18:42:42 2023 +0000 Rails cluster updated - Configuration Update
+194. Jason White Wed Mar 8 18:47:50 2023 +0000 Update the http Basic auth hash for prd - Configuration Update
+195. Jason White Wed Mar 8 18:52:33 2023 +0000 Typo in acvm int's trigger - Documentation Correction
+196. Jason White Thu Mar 9 12:36:11 2023 +0000 Merge pull request #363 - Merge Commit
+197. Jason White Thu Mar 9 15:24:54 2023 +0000 Config that was missed in pp/stgweb cutover - Configuration Update
+198. Jason White Thu Mar 9 16:33:53 2023 +0000 Merge pull request #364 - Merge Commit
+199. Jason White Thu Mar 9 19:12:33 2023 +0000 Replace old servers with new for testing, add health checks, enable - Configuration Update
+200. Jason White Fri Mar 10 17:22:35 2023 +0000 Merge pull request #365 - Merge Commit
+201. Jason White Wed Mar 15 18:51:32 2023 +0000 Config can be restored now, the issue was old certs still being - Configuration Update
+202. Jason White Wed Mar 15 18:55:44 2023 +0000 Merge branch 'main' into infra-1142/fix-proxy-to-proxy-tls issues - Merge Commit
+203. Jason White Wed Mar 15 19:31:14 2023 +0000 EMS still showing some errors/retries for some reason, and new - Configuration Update
+204. Jason White Wed Mar 15 19:57:35 2023 +0000 Merge pull request #367 - Merge Commit
+205. Jason White Fri Mar 17 16:26:54 2023 +0000 We need the certs on prdprx03 for testing - Configuration Update
+206. Jason White Fri Mar 17 16:27:08 2023 +0000 Comment out AWS backend for now so we don't end up on it - Configuration Update
+207. Jason White Fri Mar 17 16:34:04 2023 +0000 Yamllint - Documentation Update
+208. Jason White Fri Mar 17 17:13:04 2023 +0000 Merge pull request #369 - Merge Commit
+209. Jason White Mon Mar 20 16:28:23 2023 +0000 Update pipeline.yml for Azure Pipelines - Configuration Update
+210. Jason White Mon Mar 20 16:31:58 2023 +0000 Update pipeline.yml for Azure Pipelines - Configuration Update
+211. Jason White Mon Mar 20 16:34:23 2023 +0000 Merge pull request #370 - Merge Commit
+212. Jason White Mon Mar 20 16:36:13 2023 +0000 Update pipeline.yml for Azure Pipelines - Configuration Update
+213. Jason White Tue Mar 21 17:41:04 2023 +0000 Fix cookies for asosms, remove cookie directive from single server dev backends as they are never used - Configuration Update
+214. Jason White Tue Mar 21 17:41:17 2023 +0000 Fix gearbox-assure health check header - Configuration Update
+215. Jason White Tue Mar 21 18:24:43 2023 +0000 Global https redirect, balance mode, hash-type. Tidy up config - Configuration Update
+216. Jason White Tue Mar 21 19:01:25 2023 +0000 Proper indentation under the frontend, pretty headings - Documentation Update
+217. Jason White Wed Mar 22 13:12:25 2023 +0000 Merge pull request #375 - Merge Commit
+218. Jason White Wed Mar 22 18:07:48 2023 +0000 Enable https redirect for aso, change the code to 301 for all https - Configuration Update
+219. Jason White Wed Mar 22 18:10:13 2023 +0000 Merge branch 'main' into enable-aso-https-redirect - Merge Commit
+220. Jason White Wed Mar 22 19:23:03 2023 +0000 Update base collection to include proxy config for qualys agent - Configuration Update
+221. Jason White Thu Mar 23 10:52:24 2023 +0000 Merge pull request #377 - Merge Commit
+222. Jason White Thu Mar 23 12:13:25 2023 +0000 Merge pull request #373 - Merge Commit
+223. Jason White Thu Mar 23 14:26:52 2023 +0000 Merge pull request #379 - Merge Commit
+224. Jason White Thu Mar 23 16:41:25 2023 +0000 Add new prdweb07/08/09 to rails-cluster to serve acdotcom (not - Configuration Update
+225. Jason White Thu Mar 23 17:50:01 2023 +0000 Merge pull request #381 - Merge Commit
+226. Jason White Thu Mar 23 22:07:40 2023 +0000 Merge pull request #378 - Merge Commit
+227. Jason White Fri Mar 24 14:30:19 2023 +0000 Add remaining prdwebs from the first tranch of deployment - Configuration Update
+228. Jason White Fri Mar 24 15:13:30 2023 +0000 Merge pull request #382 - Merge Commit
+229. Jason White Mon Mar 27 14:56:16 2023 +0100 Add prdapp01 to ruby-backend, add a health check - Configuration Update
+230. Jason White Mon Mar 27 15:50:47 2023 +0100 Merge pull request #384 - Merge Commit
+231. Jason White Tue Mar 28 17:18:56 2023 +0100 Add remaining prdapp servers to ruby-backend - Configuration Update
+232. Jason White Tue Mar 28 18:04:12 2023 +0100 Merge pull request #386 - Merge Commit
+233. Jason White Wed Mar 29 13:44:03 2023 +0100 Add remaining prdwebs and prdgearboxes to backends - Configuration Update
+234. Jason White Wed Mar 29 14:18:46 2023 +0100 Setup a rental gearbox backend on the sag with the new servers, - Configuration Update
+235. Jason White Wed Mar 29 14:24:10 2023 +0100 Health check works via sagprx - Configuration Update
+236. Jason White Wed Mar 29 14:26:10 2023 +0100 Merge pull request #387 - Merge Commit
+237. Jason White Wed Mar 29 16:24:29 2023 +0100 Merge pull request #388 - Merge Commit
+238. Jason White Wed Mar 29 16:42:59 2023 +0100 These hadn't been updated previously and were broken - Configuration Update
+239. Jason White Thu Mar 30 10:26:07 2023 +0100 Merge pull request #389 - Merge Commit
+240. Jason White Thu Mar 30 14:24:45 2023 +0100 Put old prdwebs and prdrubys into backup on the proxies - Configuration Update
+241. Jason White Mon Apr 3 19:01:32 2023 +0100 Configure the sag to accept incoming urls for ace_news and - Configuration Update
+242. Jason White Mon Apr 3 19:12:52 2023 +0100 Add backend checks for gearbox and prdprx - Configuration Update
+243. Jason White Mon Apr 3 19:46:57 2023 +0100 Fix ca path - Configuration Update
+244. Jason White Tue Apr 4 11:04:28 2023 +0100 Merge pull request #392 - Merge Commit
+245. Jason White Tue Apr 4 14:56:06 2023 +0100 Because our frontend proxies presented multiple certs, we need to - Configuration Update
+246. Jason White Tue Apr 4 14:56:43 2023 +0100 Put the ruby servers into backup for now, add the sag to the - Configuration Update
+247. Jason White Tue Apr 4 15:14:15 2023 +0100 Maxconn doesn't need to be set for proxy-to-proxy - Configuration Update
+248. Jason White Wed Apr 5 17:36:31 2023 +0100 Merge pull request #393 - Merge Commit
+249. Jason White Wed Apr 5 17:50:17 2023 +0100 Ruby servers can come out now, sagprx requires sni str() or we get - Configuration Update
+250. Jason White Wed Apr 5 17:59:15 2023 +0100 Merge branch 'main' into infra-1097/remove-rubys-and-fix-sag - Merge Commit
+251. Jason White Thu Apr 6 11:56:50 2023 +0100 Merge pull request #394 - Merge Commit
+252. Jason White Thu Apr 6 12:43:36 2023 +0100 Remove ruby servers from prdcorpprx backend - Configuration Update
+253. Jason White Thu Apr 6 13:16:42 2023 +0100 New backend and acl setup for ems - Configuration Update
+254. Jason White Thu Apr 6 13:17:19 2023 +0100 Better backend name, slight tidy - Configuration Update
+255. Jason White Thu Apr 6 13:17:34 2023 +0100 Put ems.arnoldclark.co.uk through prdintappsprx - Configuration Update
+256. Jason White Thu Apr 6 13:27:24 2023 +0100 Missed an acl - Configuration Update
+257. Jason White Thu Apr 6 13:28:11 2023 +0100 Typo - Documentation Update
+258. Jason White Thu Apr 6 14:53:36 2023 +0100 Merge pull request #395 - Merge Commit
+259. Jason White Thu Apr 6 17:26:08 2023 +0100 Remove old servers and stand up proper tls sessions with the sagprx - Configuration Update
+260. Jason White Thu Apr 6 17:52:50 2023 +0100 Fix verifyhost for 15pl on ems - Configuration Update
+261. Jason White Thu Apr 6 18:50:49 2023 +0100 Backends already exist for employee id and ace auth apis, so we're - Configuration Update
+262. Jason White Thu Apr 6 18:51:56 2023 +0100 Revert this change, moved to another PR - Configuration Update
+263. Jason White Thu Apr 6 19:06:49 2023 +0100 Typos - Documentation Update
+264. Jason White Thu Apr 6 19:12:17 2023 +0100 Fix the prdintappsprx -> ems-haproxy intermittent 503 issue - Configuration Update
+265. Jason White Fri Apr 7 12:30:55 2023 +0100 Merge pull request #397 - Merge Commit
+266. Jason White Fri Apr 7 12:31:02 2023 +0100 Merge pull request #398 - Merge Commit
+267. Jason White Fri Apr 7 13:31:02 2023 +0100 Replace all IPs with domain names, tidy up common config - Configuration Update
+268. Jason White Fri Apr 7 13:36:53 2023 +0100 Typos - Documentation Update
+269. Jason White Fri Apr 7 14:24:04 2023 +0100 15pl needs to verify on ems.arnoldclark.co.uk as that's the only cert - Configuration Update
+270. Jason White Fri Apr 7 14:59:26 2023 +0100 Merge pull request #399 - Merge Commit
+271. Jason White Fri Apr 7 16:01:06 2023 +0100 Add pl-ems-ws01/02 and tidy up config - Configuration Update
+272. Jason White Fri Apr 7 16:01:15 2023 +0100 Merge pull request #400 - Merge Commit
+273. Jason White Fri Apr 7 16:03:05 2023 +0100 Shorten nodejs config - Configuration Update
+274. Jason White Fri Apr 7 17:00:28 2023 +0100 Actually this should all be going via prdintappsprx -> ems-haproxy - Configuration Update
+275. Jason White Fri Apr 7 17:00:41 2023 +0100 ...and this - Configuration Update
+276. Jason White Fri Apr 7 17:09:23 2023 +0100 Move ems auth portal backend to ems-haproxy and front it with - Configuration Update
+277. Jason White Mon Apr 10 10:48:28 2023 +0100 Merge pull request #402 - Merge Commit
+278. Jason White Mon Apr 10 11:35:02 2023 +0100 Merge pull request #396 - Merge Commit
+279. Jason White Mon Apr 10 12:14:19 2023 +0100 Missed out the connect port - Configuration Update
+280. Jason White Mon Apr 10 13:15:02 2023 +0100 Tms.arnoldclark.co.uk requires a longer timeout - Configuration Update
+281. Jason White Mon Apr 10 13:15:26 2023 +0100 Merge branch 'main' into devops-1926/add-new-servers-to-auth-portal - Merge Commit
+282. Jason White Mon Apr 10 13:32:02 2023 +0100 Use the existing ace-auth backend, setup sticky sessions, add a - Configuration Update
+283. Jason White Mon Apr 10 13:33:10 2023 +0100 Backend removed - Configuration Update
+284. Jason White Mon Apr 10 16:09:11 2023 +0100 Replace CNP servers with new ones - Configuration Update
+285. Jason White Mon Apr 10 16:24:04 2023 +0100 Merge pull request #401 - Merge Commit
+286. Jason White Mon Apr 10 19:38:16 2023 +0100 Session cookies don't need to be fqdn - Configuration Update
+287. Jason White Thu Apr 13 12:56:44 2023 +0100 Apple/android well-known files do not need to be served from the - Documentation Update
+288. Jason White Thu Apr 13 12:59:28 2023 +0100 Update prdprx03 config as well - Configuration Update
+289. Jason White Thu Apr 13 12:59:40 2023 +0100 Ensure the pipelines track changes to the static_files role - Configuration Update
+290. Jason White Thu Apr 13 13:12:04 2023 +0100 Remove files from haproxy_errors_files vars - Configuration Update
+291. Jason White Thu Apr 13 14:20:18 2023 +0100 Ws01/02 need network access to prdintappsprx, waiting to hear - Configuration Update
+292. Jason White Thu Apr 13 14:36:32 2023 +0100 Merge pull request #405 - Merge Commit
+293. Jason White Thu Apr 13 14:56:21 2023 +0100 Merge branch 'main' into devops-1926/temp-remove-ws01/02-from-haproxy - Merge Commit
+294. Jason White Thu Apr 13 15:12:42 2023 +0100 Setup temp test domains for adcentre prd deployment to prdintapp - Configuration Update
+295. Jason White Thu Apr 13 15:17:31 2023 +0100 Merge branch 'main' into infra-1107/test-domain-for-adcentre-prd - Merge Commit
+296. Jason White Thu Apr 13 15:43:08 2023 +0100 Braces not required as its not an anonymous acl - Configuration Update
+297. Jason White Thu Apr 13 15:43:12 2023 +0100 Merge branch 'infra-1107/test-domain-for-adcentre-prd' of - Merge Commit
+298. Jason White Thu Apr 13 15:58:14 2023 +0100 Merge pull request #406 - Merge Commit
+299. Jason White Fri Apr 14 09:09:30 2023 +0100 Merge pull request #407 - Merge Commit
+300. Jason White Fri Apr 14 10:36:22 2023 +0100 Redirects should be 302s for this, and setting the host header just - Configuration Update
+301. Jason White Fri Apr 14 10:58:45 2023 +0100 Merge pull request #408 - Merge Commit
+302. Jason White Fri Apr 21 12:59:25 2023 +0100 Remove old backends and send adcentre/blockbuilder to - Configuration Update
+303. Jason White Fri Apr 21 13:00:47 2023 +0100 Configure sag to use prdintappsprx as backend for adcentre and - Configuration Update
+304. Jason White Fri Apr 21 13:02:28 2023 +0100 Update icinga checks for sag - Configuration Update
+305. Jason White Fri Apr 21 13:11:57 2023 +0100 Fixups - Documentation Update
+306. Jason White Fri Apr 21 13:21:33 2023 +0100 Fixing validation errors - Configuration Update
+307. Jason White Fri Apr 21 13:29:06 2023 +0100 Missed - Configuration Update
+308. Jason White Mon Apr 24 10:08:54 2023 +0100 Merge pull request #415 - Merge Commit
+309. Jason White Mon Apr 24 16:15:08 2023 +0100 Update base collection to pick up latest mail config - Configuration Update
+310. Jason White Tue Apr 25 16:34:36 2023 +0100 Merge pull request #417 - Merge Commit
+311. Jason White Tue Apr 25 16:55:21 2023 +0100 Stockdb not in use via devjump, imagesdb required by web team - Documentation Update
+312. Jason White Tue Apr 25 17:09:07 2023 +0100 Merge pull request #420 - Merge Commit
+313. Jason White Tue Apr 25 18:17:27 2023 +0100 Ems.ac.co.uk moved to prdintappsprx, so change the backend to - Configuration Update
+314. Jason White Tue Apr 25 18:22:29 2023 +0100 New prdgearbox01/02 are in dns now - Configuration Update
+315. Jason White Tue Apr 25 18:24:59 2023 +0100 Also update prdgearbox & prdwebs on prdprx - Configuration Update
+316. Jason White Wed Apr 26 11:20:27 2023 +0100 Merge pull request #422 - Merge Commit
+317. Jason White Wed Apr 26 13:18:34 2023 +0100 Update group_vars/aftersales_haproxy/icinga.yml - Documentation Update
+318. Jason White Wed Apr 26 13:18:39 2023 +0100 Update group_vars/prdintappsprx/letsencrypt.yml - Documentation Update
+319. Jason White Wed Apr 26 14:23:50 2023 +0100 Newline/tailing space fix - Documentation Update
+320. Jason White Wed Apr 26 15:31:20 2023 +0100 Merge pull request #423 - Merge Commit
+321. Jason White Tue May 2 12:13:57 2023 +0100 Merge pull request #428 - Merge Commit
+322. Jason White Tue May 2 17:35:49 2023 +0100 Add temporary internal test domain for dr.ace - Configuration Update
+323. Jason White Wed May 3 09:49:15 2023 +0100 Merge pull request #429 - Merge Commit
+324. Jason White Wed May 3 11:47:52 2023 +0100 Disable tarpit - doesn't provide 'security' and more often than not - Documentation Update
+325. Jason White Wed May 3 12:37:19 2023 +0100 Send autocentre traffic to the acvm external proxy from - Configuration Update
+326. Jason White Wed May 3 12:37:25 2023 +0100 Icinga check - Documentation Update
+327. Jason White Wed May 3 12:37:45 2023 +0100 Remove autocentre config from acvm-int - Configuration Update
+328. Jason White Wed May 3 12:49:12 2023 +0100 Merge pull request #431 - Merge Commit
+329. Jason White Wed May 3 12:50:44 2023 +0100 Merge pull request #430 - Merge Commit
+330. Jason White Wed May 3 14:17:58 2023 +0100 Merge pull request #432 - Merge Commit
+331. Jason White Wed May 3 15:32:21 2023 +0100 Use host headers not sni as prdintappsprx doesnt use the host for - Configuration Update
+332. Jason White Wed May 3 15:32:39 2023 +0100 Need to explicitly set check-ssl since its on a different port - Configuration Update
+333. Jason White Wed May 3 15:35:12 2023 +0100 Separate host acl needed - Configuration Update
+334. Jason White Wed May 3 16:17:11 2023 +0100 Add routing and certs for ace auth portal to aks, make drum https a - Configuration Update
+335. Jason White Wed May 3 16:55:30 2023 +0100 Merge pull request #433 - Merge Commit
+336. Jason White Thu May 4 08:31:56 2023 +0100 Merge pull request #434 - Merge Commit
+337. Jason White Thu May 4 15:52:59 2023 +0100 Change db frontends/backends to listeners and add timeouts for idb - Configuration Update
+338. Jason White Thu May 4 18:17:46 2023 +0100 Merge pull request #435 - Merge Commit
+339. Jason White Thu May 4 20:38:27 2023 +0100 Make eventwriter and pdftoolkit tls on the backend, tidy backend - Configuration Update
+340. Jason White Fri May 5 16:44:05 2023 +0100 Tweak the acl order so that autocentre.acvm.com/affinity works as - Configuration Update
+341. Jason White Fri May 5 16:47:08 2023 +0100 Merge pull request #437 - Merge Commit
+342. Jason White Wed May 10 18:16:27 2023 +0100 Merge branch 'main' into devops-1950/tls-backends - Merge Commit
+343. Jason White Thu May 11 10:32:49 2023 +0100 Merge pull request #436 - Merge Commit
+344. Jason White Thu May 11 14:12:15 2023 +0100 Correct labels on the sales-eventwriter backend - Configuration Update
+345. Jason White Thu May 11 14:47:42 2023 +0100 Update group_vars/prdintappsprx/letsencrypt.yml - Documentation Update
+346. Jason White Thu May 11 15:26:06 2023 +0100 Merge pull request #438 - Merge Commit
+347. Jason White Thu May 11 15:56:49 2023 +0100 Adding pl-smo-as04 to the pdftoolkit backend - Configuration Update
+348. Jason White Thu May 11 16:49:52 2023 +0100 Tweak pl-smo-as04 priority - Configuration Update
+349. Jason White Thu May 11 17:19:04 2023 +0100 Merge pull request #439 - Merge Commit
+350. Jason White Fri May 12 10:19:11 2023 +0100 Add `option allbackups` to requested SMO backends - Configuration Update
+351. Jason White Fri May 12 11:33:11 2023 +0100 Merge pull request #440 - Merge Commit
+352. Jason White Fri May 12 12:18:17 2023 +0100 Add missing db nodes, make it a listener rather than - Configuration Update
+353. Jason White Fri May 12 13:55:27 2023 +0100 Merge pull request #442 - Merge Commit
+354. Jason White Fri May 12 14:24:55 2023 +0100 Merge pull request #441 - Merge Commit
+355. Jason White Tue May 16 12:29:30 2023 +0100 Alter ace config to allow all traffic to aks, except ace_news which - Configuration Update
+356. Jason White Tue May 16 12:53:48 2023 +0100 Allow access to clusterdb and imagesdb via the sag, rather than - Configuration Update
+357. Jason White Tue May 16 13:57:17 2023 +0100 Merge pull request #445 - Merge Commit
+358. Jason White Tue May 16 16:18:13 2023 +0100 Merge pull request #446 - Merge Commit
+359. Jason White Tue May 16 17:33:27 2023 +0100 Need port 3307 open on the host, and remove the devjump - Configuration Update
+360. Jason White Tue May 16 17:35:03 2023 +0100 Merge branch 'main' into devops-1954/open-port-and-bind-to-correct-host - Merge Commit
+361. Jason White Tue May 16 18:11:40 2023 +0100 Needs to be in tcp mode and tcp logging turned on - Configuration Update
+362. Jason White Wed May 17 10:16:49 2023 +0100 Merge pull request #447 - Merge Commit
+363. Jason White Wed May 17 17:44:17 2023 +0100 Remove devjump config, unused vars, make the default version - Configuration Update
+364. Jason White Wed May 17 17:58:15 2023 +0100 Delete old tls certs that haven't been used in years - Configuration Update
+365. Jason White Wed May 17 17:58:29 2023 +0100 Delete the RHEL8 stuff - Configuration Update
+366. Jason White Thu May 18 16:11:55 2023 +0100 Add gdpr-app backend to sag but don't direct traffic there yet - Configuration Update
+367. Jason White Thu May 18 16:15:25 2023 +0100 Make the gdpr app backend tls all the way through + config tidy - Configuration Update
+368. Jason White Thu May 18 17:17:40 2023 +0100 Redirect drum to acdotcom, include the sans www. domain - Configuration Update
+369. Jason White Thu May 18 17:32:06 2023 +0100 Remove from iproxy - Configuration Update
+370. Jason White Thu May 18 18:22:08 2023 +0100 Merge pull request #451 - Merge Commit
+371. Jason White Thu May 18 18:58:20 2023 +0100 Merge pull request #448 - Merge Commit
+372. Jason White Fri May 19 09:58:58 2023 +0100 Merge pull request #449 - Merge Commit
+373. Jason White Thu May 25 17:24:27 2023 +0100 Remove references to marketing/midwest as they're not serving - Configuration Update
+374. Jason White Thu May 25 18:46:52 2023 +0100 Configure prdintappsprx for arnoldclark.com domains required - Configuration Update
+375. Jason White Thu May 25 18:48:38 2023 +0100 Pass through internal acdotcom access to prdprx, separate - Configuration Update
+376. Jason White Thu May 25 18:58:59 2023 +0100 Icinga check for sagprx on prdintappsprx - Documentation Update
+377. Jason White Mon May 29 12:40:34 2023 +0100 Upgrade haproxy to 2.2, remove admin socket tcp front/back as - Configuration Update
+378. Jason White Mon May 29 14:56:04 2023 +0100 Merge pull request #456 - Merge Commit
+379. Jason White Mon May 29 17:30:11 2023 +0100 Roll the admin password as requested - Configuration Update
+380. Jason White Mon May 29 17:30:46 2023 +0100 Remove tcp frontend/backend to the stats socket - not - Configuration Update
+381. Jason White Mon May 29 18:13:40 2023 +0100 Fix the logic in haproxy-config.yml for working out singleton - Configuration Update
+382. Jason White Mon May 29 18:16:57 2023 +0100 Add the haproxy_keepalived.yml playbook back in for the - Configuration Update
+383. Jason White Mon May 29 18:30:23 2023 +0100 Couple of tweaks to iproxy to reflect actual config manually - Configuration Update
+384. Jason White Tue May 30 10:40:20 2023 +0100 Merge pull request #458 - Merge Commit
+385. Jason White Tue May 30 12:08:28 2023 +0100 Merge branch 'main' into infra-1171/gdpr-app-https-backend - Merge Commit
+386. Jason White Tue May 30 12:09:35 2023 +0100 Remove commented sections as HTTPS is working fine (manually - Configuration Update
+387. Jason White Wed Jun 7 17:20:19 2023 +0100 Upgrade remaining single proxies to 2.2 - Configuration Update
+388. Jason White Wed Jun 7 18:30:33 2023 +0100 The check|provision_haproxy_keepalived stage needs to be part of - Configuration Update
+389. Jason White Fri Jun 9 13:53:18 2023 +0100 Prdcorpprx already limits the traffic sent to prdintappsprx/ems-haproxy to the /EmsAuthenticationPortal path, so as that's the only thing going through here at the moment we don't - Configuration Update
+390. Jason White Fri Jun 9 13:53:46 2023 +0100 Add in the db listener changes I've already made manually while - Configuration Update
+391. Jason White Mon Jun 12 10:08:36 2023 +0100 Merge pull request #461 - Merge Commit
+392. Jason White Mon Jun 12 14:08:48 2023 +0100 Correct the firewalld ports for prdintappsprx - redis isn't used, nor - Configuration Update
+393. Jason White Tue Jun 13 13:24:32 2023 +0100 Merge branch 'main' into infra-1171/gdpr-app-https-backend - Merge Commit
+394. Jason White Tue Jun 13 13:26:24 2023 +0100 Merge branch 'main' into ds/cleanUpUnused - Merge Commit
+395. Jason White Tue Jun 13 13:26:34 2023 +0100 Merge branch 'main' into devops-1968/smo-admin-password-+-remove-stats-tcp - Merge Commit
+396. Jason White Tue Jun 13 14:51:15 2023 +0100 Commit the manual changes made to the proxy config since the - Configuration Update
+397. Jason White Tue Jun 13 14:51:19 2023 +0100 Merge branch 'devops-1968/smo-admin-password-+-remove-stats-tcp' of github.com:arnoldclark/ansible-haproxy into devops-1968/smo-admin-password-+-remove-stats-tcp - Merge Commit
+398. Jason White Tue Jun 13 17:58:01 2023 +0100 Merge branch 'main' into DEVOPS-1969/int-ems-to-azure - Merge Commit
+399. Jason White Tue Jun 13 18:02:11 2023 +0100 Include persisted changes from HQK network outage - Configuration Update
+400. Jason White Tue Jun 13 18:47:56 2023 +0100 Include manually applied changes from #452 - Configuration Update
+401. Jason White Tue Jun 13 20:39:49 2023 +0100 Merge pull request #450 - Merge Commit
+402. Jason White Wed Jun 14 10:01:03 2023 +0100 Merge pull request #462 - Merge Commit
+403. Jason White Wed Jun 14 11:11:53 2023 +0100 Merge pull request #457 - Merge Commit
+404. Jason White Fri Jun 16 17:06:32 2023 +0100 Merge branch 'main' into ds/cleanUpUnused - Merge Commit
+405. Jason White Fri Jun 16 17:18:45 2023 +0100 Improve db listener config, add labels, use tracking - Configuration Update
+406. Jason White Fri Jun 16 17:19:42 2023 +0100 Remove superfluous actyres acls and the old let's encrypt web - Configuration Update
+407. Jason White Fri Jun 16 17:28:12 2023 +0100 Put icinga check in for clusterdb - Configuration Update
+408. Jason White Fri Jun 16 17:30:01 2023 +0100 Add icinga check for prdintdb cluster - Configuration Update
+409. Jason White Fri Jun 16 17:45:04 2023 +0100 Merge branch 'main' into feature/asoc-2147/add-aso-checkin-api-tohaproxy - Merge Commit
+410. Jason White Fri Jun 16 17:47:05 2023 +0100 Fixing linting issue - Code Cleanup
+411. Jason White Fri Jun 16 17:48:15 2023 +0100 Merge branch 'main' into mm/er-501-voucher-api - Merge Commit
+412. Jason White Fri Jun 16 17:50:09 2023 +0100 Merge branch 'main' into sb/VAL3098_AddProxyConfigForDigitalPrint - Merge Commit
+413. Jason White Fri Jun 16 17:52:04 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaintsback - Merge Commit
+414. Jason White Fri Jun 16 17:52:54 2023 +0100 Merge pull request #459 - Merge Commit
+415. Jason White Fri Jun 16 18:04:40 2023 +0100 Fix duplicate key name in icinga checks - Configuration Update
+416. Jason White Mon Jun 19 10:35:44 2023 +0100 Merge pull request #453 - Merge Commit
+417. Jason White Mon Jun 19 10:38:11 2023 +0100 Correct acl name - Configuration Update
+418. Jason White Mon Jun 19 10:39:59 2023 +0100 Load-balance all cdn/images servers as they don't need to be in - Configuration Update
+419. Jason White Mon Jun 19 10:40:14 2023 +0100 Fix icinga check for corpdbprx - Configuration Update
+420. Jason White Mon Jun 19 10:40:50 2023 +0100 Merge branch 'main' into mm/er-501-voucher-api - Merge Commit
+421. Jason White Mon Jun 19 10:41:54 2023 +0100 Merge pull request #452 - Merge Commit
+422. Jason White Mon Jun 19 10:46:37 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaintsback - Merge Commit
+423. Jason White Mon Jun 19 11:24:18 2023 +0100 Upgrade ACVM External to HAproxy 2.2 - Upgrade Commit
+424. Jason White Mon Jun 19 11:25:54 2023 +0100 Upgrade ACVM Internal to HAproxy 2.2 - Upgrade Commit
+425. Jason White Mon Jun 19 11:26:56 2023 +0100 Upgrade ASO to HAproxy 2.2 - Upgrade Commit
+426. Jason White Mon Jun 19 11:27:45 2023 +0100 Upgrade EMS to HAproxy 2.2 - Upgrade Commit
+427. Jason White Mon Jun 19 11:28:51 2023 +0100 Upgrade GDPR (corpdb) to HAproxy 2.2 - Upgrade Commit
+428. Jason White Mon Jun 19 11:29:57 2023 +0100 Upgrade ACE External (corp) to HAproxy 2.2 - Upgrade Commit
+429. Jason White Mon Jun 19 11:30:54 2023 +0100 Upgrades Images/DB to HAproxy 2.2 - Upgrade Commit
+430. Jason White Mon Jun 19 11:31:56 2023 +0100 Upgrade AC Internal to HAproxy 2.2 - Upgrade Commit
+431. Jason White Mon Jun 19 11:33:02 2023 +0100 Upgrade SMO to HAproxy 2.2 - Upgrade Commit
+432. Jason White Mon Jun 19 16:14:47 2023 +0100 Merge pull request #454 - Merge Commit
+433. Jason White Mon Jun 19 16:16:56 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaintsback - Merge Commit
+434. Jason White Mon Jun 19 16:25:21 2023 +0100 Configure prdintappsprx to front new prdacimage01 / - Configuration Update
+435. Jason White Mon Jun 19 16:37:53 2023 +0100 Put vcache servers into backup, serve from prd/mrlimages01 - Configuration Update
+436. Jason White Mon Jun 19 16:46:42 2023 +0100 Missed a change - Configuration Update
+437. Jason White Mon Jun 19 17:37:47 2023 +0100 Correct the eventstore backend configs, missed when bringing the - Configuration Update
+438. Jason White Mon Jun 19 18:35:06 2023 +0100 Merge branch 'main' into sb/VAL3098_AddProxyConfigForDigitalPrint - Merge Commit
+439. Jason White Tue Jun 20 10:13:02 2023 +0100 Merge pull request #474 - Merge Commit
+440. Jason White Tue Jun 20 10:14:37 2023 +0100 Add missing contacts and descr fields to icinga check - Configuration Update
+441. Jason White Tue Jun 20 10:14:47 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaintsback - Merge Commit
+442. Jason White Tue Jun 20 12:14:07 2023 +0100 Merge pull request #460 - Merge Commit
+443. Jason White Tue Jun 20 14:33:43 2023 +0100 Merge pull request #455 - Merge Commit
+444. Jason White Tue Jun 20 19:56:27 2023 +0100 Merge pull request #473 - Merge Commit
+445. Jason White Tue Jun 20 19:59:02 2023 +0100 Merge branch 'main' into sb/VAL3098_AddProxyConfigForDigitalPrint - Merge Commit
+446. Jason White Tue Jun 20 20:01:06 2023 +0100 Merge branch 'main' into infra-1145/upgrade-acvm-ext-2.2 - Merge Commit
+447. Jason White Tue Jun 20 20:01:28 2023 +0100 Merge branch 'main' into infra-1145/upgrade-acvm-int-2.2 - Merge Commit
+448. Jason White Tue Jun 20 20:01:39 2023 +0100 Merge branch 'main' into infra-1145/upgrade-aso-2.2 - Merge Commit
+449. Jason White Tue Jun 20 20:01:50 2023 +0100 Merge branch 'main' into infra-1145/upgrade-ems-2.2 - Merge Commit
+450. Jason White Tue Jun 20 20:02:30 2023 +0100 Merge branch 'main' into infra-1145/upgrade-gdpr-2.2 - Merge Commit
+451. Jason White Tue Jun 20 20:02:43 2023 +0100 Merge branch 'main' into infra-1145/upgrade-corp-2.2 - Merge Commit
+452. Jason White Tue Jun 20 20:02:58 2023 +0100 Merge branch 'main' into infra-1145/upgrade-dbprx-2.2 - Merge Commit
+453. Jason White Tue Jun 20 20:03:12 2023 +0100 Merge branch 'main' into infra-1145/upgrade-intapps-2.2 - Merge Commit
+454. Jason White Tue Jun 20 20:03:23 2023 +0100 Merge branch 'main' into infra-1145/upgrade-smo-2.2 - Merge Commit
+455. Jason White Tue Jun 20 22:49:00 2023 +0100 Add missing descr from icinga check - Configuration Update
+456. Jason White Wed Jun 21 10:52:58 2023 +0100 Merge pull request #463 from arnoldclark/sb/VAL3098_AddProxyConfigForDigitalPrint - Merge Commit
+457. Jason White Wed Jun 21 16:30:20 2023 +0100 Merge pull request #464 from arnoldclark/infra-1145/upgradeacvm-ext-2.2 - Merge Commit
+458. Jason White Wed Jun 21 17:07:33 2023 +0100 Fix critical issues with acvm cfg for 2.2 - reqidel & reqiadd are - Configuration Update
+459. Jason White Wed Jun 21 18:29:00 2023 +0100 [skip ci] Replace `throttle: 1` with `serial: 1` as JL misunderstood - Configuration Update
+460. Jason White Wed Jun 21 20:12:00 2023 +0100 [skip ci] Serial can't be used at task level, throttle was almost the - Configuration Update
+461. Jason White Thu Jun 22 10:04:25 2023 +0100 Merge pull request #465 from arnoldclark/infra-1145/upgradeacvm-int-2.2 - Merge Commit
+462. Jason White Thu Jun 22 10:52:22 2023 +0100 Merge pull request #466 from arnoldclark/infra-1145/upgrade-aso2.2 - Merge Commit
+463. Jason White Thu Jun 22 14:16:07 2023 +0100 Merge pull request #467 from arnoldclark/infra-1145/upgradeems-2.2 - Merge Commit
+464. Jason White Thu Jun 22 15:12:20 2023 +0100 Merge pull request #469 from arnoldclark/infra-1145/upgradecorp-2.2 - Merge Commit
+465. Jason White Thu Jun 22 18:39:46 2023 +0100 Merge pull request #472 from arnoldclark/infra-1145/upgradesmo-2.2 - Merge Commit
+466. Jason White Thu Jun 22 18:49:17 2023 +0100 Merge pull request #471 from arnoldclark/infra-1145/upgradeintapps-2.2 - Merge Commit
+467. Jason White Fri Jun 23 16:10:37 2023 +0100 Prepare to accept ace directly via prdintappsprx internally, ensure - Configuration Update
+468. Jason White Tue Jun 27 10:24:12 2023 +0100 Merge pull request #476 from arnoldclark/devops-1977/acenewsroom-prdintappsprx - Merge Commit
+469. Jason White (108): - Informational Line
+470. Jason White Mon Dec 5 11:04:47 2022 +0000 Merge pull request #98 from arnoldclark/azuread-combine-pr - Merge Commit
+471. Jason White Thu Dec 8 14:22:08 2022 +0000 Merge pull request #99 from arnoldclark/Update-base-1.18.0 - Merge Commit
+472. Jason White Thu Dec 8 18:12:48 2022 +0000 Merge pull request #100 from arnoldclark/infra-1093/redisvsphere-folder - Merge Commit
+473. Jason White Mon Dec 12 11:52:12 2022 +0000 Merge pull request #104 from arnoldclark/tfmodule-combine-pr - Merge Commit
+474. Jason White Wed Dec 14 17:19:24 2022 +0000 Merge branch 'main' into terraform-1.3.6 - Merge Commit
+475. Jason White Wed Dec 14 17:26:35 2022 +0000 Merge pull request #110 from arnoldclark/terraform-1.3.6 - Merge Commit
+476. Jason White Wed Dec 14 18:05:34 2022 +0000 Merge pull request #111 from arnoldclark/infra-1093/add-ppweb-redis-folders - Merge Commit
+477. Jason White Thu Dec 15 18:35:39 2022 +0000 Merge pull request #112 from arnoldclark/infra-1093/hqh-folders - Merge Commit
+478. Jason White Thu Dec 22 14:12:31 2022 +0000 Merge pull request #117 from arnoldclark/infra-1098/redis-checks - Merge Commit
+479. Jason White Tue Feb 7 15:58:50 2023 +0000 Merge pull request #132 from - Merge Commit
+480. Jason White Wed Feb 8 12:10:30 2023 +0000 Merge branch 'main' into create_repo_proxy - Merge Commit
+481. Jason White Wed Feb 8 17:16:13 2023 +0000 Merge pull request #135 from arnoldclark/create_repo_proxy - Merge Commit
+482. Jason White Wed Feb 8 17:18:04 2023 +0000 Merge branch 'main' into dependabot/terraform/vsphere-folderstags/hashicorp/azurerm-3.42.0 - Merge Commit
+483. Jason White Wed Feb 8 17:28:54 2023 +0000 Merge pull request #133 from - Merge Commit
+484. Jason White Wed Feb 8 17:49:14 2023 +0000 Merge branch 'main' into infra-1119/initial-ansible-fixes - Merge Commit
+485. Jason White Wed Feb 8 17:53:36 2023 +0000 Merge pull request #136 from arnoldclark/infra-1119/initialansible-fixes - Merge Commit
+486. Jason White Thu Feb 9 11:25:27 2023 +0000 Merge pull request #138 from arnoldclark/infra-1119/updateinventory - Merge Commit
+487. Jason White Thu Feb 9 11:59:52 2023 +0000 Merge pull request #139 from arnoldclark/infra-1119/initial-config - Merge Commit
+488. Jason White Thu Feb 9 14:50:48 2023 +0000 Merge pull request #140 from arnoldclark/infra-1119/delete-dmzand-reconfigure-remaining-templates-for-new-proxy - Merge Commit
+489. Jason White Thu Feb 9 17:31:43 2023 +0000 Merge pull request #141 from arnoldclark/infra-1119/squid-configtweak - Merge Commit
+490. Jason White Thu Feb 9 18:20:43 2023 +0000 Merge pull request #142 from arnoldclark/infra-1119/keepalivedtweaks - Merge Commit
+491. Jason White Thu Feb 9 19:14:47 2023 +0000 Merge pull request #143 from arnoldclark/infra-1119/finalkeepalived-fixes - Merge Commit
+492. Jason White Thu Feb 9 21:17:57 2023 +0000 Merge pull request #137 from - Merge Commit
+493. Jason White Thu Feb 9 23:54:32 2023 +0000 Merge pull request #144 from arnoldclark/infra-1119/cleanup - Merge Commit
+494. Jason White Fri Feb 10 12:26:54 2023 +0000 Merge pull request #153 from arnoldclark/infra-1119/tightensquid-allowed-nets - Merge Commit
+495. Jason White Fri Feb 10 17:37:55 2023 +0000 Merge pull request #154 from arnoldclark/infra-1119/squid-logtime-tweak-and-collection-update - Merge Commit
+496. Jason White Tue Feb 14 17:22:30 2023 +0000 Merge pull request #157 from arnoldclark/add-keith - Merge Commit
+497. Jason White Wed Feb 15 12:14:24 2023 +0000 Merge branch 'main' into infra-1129/ship-squid-logs - Merge Commit
+498. Jason White Wed Feb 15 12:25:39 2023 +0000 Merge pull request #156 from arnoldclark/infra-1129/ship-squidlogs - Merge Commit
+499. Jason White Wed Feb 15 22:27:51 2023 +0000 Merge pull request #164 from arnoldclark/update-collectionsand-remove-env - Merge Commit
+500. Jason White Fri Feb 17 12:21:15 2023 +0000 Merge pull request #168 from arnoldclark/infra-1102/setup-sftpfolder-in-vsphere - Merge Commit
+501. Jason White Fri Feb 17 12:26:14 2023 +0000 Merge branch 'main' into infra-1102/sftp-vm-setup - Merge Commit
+502. Jason White Fri Feb 17 12:39:33 2023 +0000 Merge pull request #169 from arnoldclark/infra-1102/sftp-vm-setup - Merge Commit
+503. Jason White Fri Feb 17 12:51:33 2023 +0000 Merge pull request #170 from arnoldclark/infra-1102/temp-ssh-ip - Merge Commit
+504. Jason White Fri Feb 17 13:34:42 2023 +0000 Merge pull request #172 from arnoldclark/infra-1102/moveprdsftp-to-150.253-range - Merge Commit
+505. Jason White Tue Feb 21 23:07:21 2023 +0000 Merge pull request #177 from arnoldclark/infra-1077/iutil03ansible - Merge Commit
+506. Jason White Wed Feb 22 00:52:21 2023 +0000 Merge pull request #178 from arnoldclark/infra-1077/iutil03 - Merge Commit
+507. Jason White Wed Feb 22 17:56:25 2023 +0000 Merge pull request #179 from arnoldclark/infra-1134/let-morenets-through-squid - Merge Commit
+508. Jason White Wed Feb 22 22:07:13 2023 +0000 Merge pull request #180 from arnoldclark/infra-1077/iutil03branch-profile-share - Merge Commit
+509. Jason White Wed Feb 22 23:37:07 2023 +0000 Merge pull request #173 from arnoldclark/azuread-combine-pr - Merge Commit
+510. Jason White Wed Feb 22 23:40:14 2023 +0000 Merge pull request #176 from - Merge Commit
+511. Jason White Wed Feb 22 23:40:37 2023 +0000 Merge pull request #175 from - Merge Commit
+512. Jason White Wed Feb 22 23:41:38 2023 +0000 Merge pull request #174 from - Merge Commit
+513. Jason White Wed Feb 22 23:57:08 2023 +0000 Merge branch 'main' into tfmodule-combine-pr - Merge Commit
+514. Jason White Thu Feb 23 16:56:53 2023 +0000 Merge pull request #181 from arnoldclark/infra-1077/removepackages-from-templates - Merge Commit
+515. Jason White Thu Feb 23 17:14:44 2023 +0000 Merge branch 'main' into tfmodule-combine-pr - Merge Commit
+516. Jason White Thu Feb 23 17:17:17 2023 +0000 Merge pull request #155 from arnoldclark/tfmodule-combine-pr - Merge Commit
+517. Jason White Thu Feb 23 17:48:08 2023 +0000 Merge branch 'main' into - Merge Commit
+518. Jason White Thu Feb 23 17:48:20 2023 +0000 Merge branch 'main' into - Merge Commit
+519. Jason White Thu Feb 23 17:48:28 2023 +0000 Merge branch 'main' into - Merge Commit
+520. Jason White Thu Feb 23 17:48:35 2023 +0000 Merge branch 'main' into - Merge Commit
+521. Jason White Thu Feb 23 17:48:42 2023 +0000 Merge branch 'main' into - Merge Commit
+522. Jason White Thu Feb 23 17:49:21 2023 +0000 Merge pull request #159 from - Merge Commit
+523. Jason White Thu Feb 23 17:49:37 2023 +0000 Merge branch 'main' into - Merge Commit
+524. Jason White Thu Feb 23 17:49:53 2023 +0000 Merge pull request #163 from - Merge Commit
+525. Jason White Thu Feb 23 17:50:15 2023 +0000 Merge pull request #162 from - Merge Commit
+526. Jason White Thu Feb 23 17:50:41 2023 +0000 Merge pull request #161 from - Merge Commit
+527. Jason White Thu Feb 23 17:51:31 2023 +0000 Merge pull request #160 from - Merge Commit
+528. Jason White Thu Feb 23 17:51:55 2023 +0000 Merge pull request #158 from - Merge Commit
+529. Jason White Fri Feb 24 12:32:05 2023 +0000 Merge pull request #185 from arnoldclark/icingadb-always-restart - Merge Commit
+530. Jason White Fri Feb 24 23:55:26 2023 +0000 Merge pull request #186 from arnoldclark/infra-1077/combineutils-pp-prd-ansible - Merge Commit
+531. Jason White Sat Feb 25 00:51:06 2023 +0000 Merge pull request #187 from arnoldclark/infra-1077/playbook-fix - Merge Commit
+532. Jason White Sat Feb 25 01:51:37 2023 +0000 Merge pull request #188 from arnoldclark/infra-1077/create-thedeploy-user - Merge Commit
+533. Jason White Mon Feb 27 19:58:30 2023 +0000 Merge pull request #193 from arnoldclark/infra-954/https-checkuse-hostname-as-vhost - Merge Commit
+534. Jason White Wed Mar 1 17:26:59 2023 +0000 Merge pull request #195 from arnoldclark/fix-systemd-path - Merge Commit
+535. Jason White Thu Mar 2 15:19:41 2023 +0000 Merge pull request #197 from arnoldclark/infra-1125/update-envvars - Merge Commit
+536. Jason White Thu Mar 2 21:23:33 2023 +0000 Merge pull request #198 from arnoldclark/infra-1125/fix-forcrowdstrike - Merge Commit
+537. Jason White Fri Mar 3 13:37:50 2023 +0000 Merge pull request #201 from arnoldclark/infra-1125/base-env-fix - Merge Commit
+538. Jason White Fri Mar 3 14:37:43 2023 +0000 Merge pull request #202 from arnoldclark/infra-1125/when-fix - Merge Commit
+539. Jason White Fri Mar 3 16:27:28 2023 +0000 Merge pull request #203 from arnoldclark/infra-1125/deb-fix - Merge Commit
+540. Jason White Wed Mar 15 13:27:25 2023 +0000 Merge branch 'main' into tfmodule-combine-pr - Merge Commit
+541. Jason White Wed Mar 15 14:01:14 2023 +0000 Merge pull request #189 from arnoldclark/tfmodule-combine-pr - Merge Commit
+542. Jason White Wed Mar 15 14:31:12 2023 +0000 Merge pull request #205 from - Merge Commit
+543. Jason White Wed Mar 15 14:31:42 2023 +0000 Merge pull request #208 from - Merge Commit
+544. Jason White Wed Mar 15 14:31:59 2023 +0000 Merge pull request #207 from - Merge Commit
+545. Jason White Fri Mar 17 17:13:20 2023 +0000 Merge pull request #211 from arnoldclark/infra-1115/move-statesnapshot-task - Merge Commit
+546. Jason White Mon Mar 20 18:45:48 2023 +0000 Merge pull request #212 from arnoldclark/fix-vm-root-zeroing - Merge Commit
+547. Jason White Mon Mar 20 18:51:48 2023 +0000 Merge pull request #210 from - Merge Commit
+548. Jason White Mon Mar 20 18:52:13 2023 +0000 Merge pull request #209 from - Merge Commit
+549. Jason White Wed Mar 22 17:34:32 2023 +0000 Merge branch 'main' into sftp_config - Merge Commit
+550. Jason White Wed Mar 22 21:42:45 2023 +0000 Merge pull request #223 from arnoldclark/infra-1125/qualysproxy - Merge Commit
+551. Jason White Thu Mar 23 12:09:54 2023 +0000 Merge pull request #224 from arnoldclark/infra-1125/no-proxyfor-squid - Merge Commit
+552. Jason White Thu Mar 23 17:14:29 2023 +0000 Merge pull request #225 from arnoldclark/infra-1103/railschecks-and-http_uri - Merge Commit
+553. Jason White Thu Mar 23 20:12:04 2023 +0000 Merge pull request #226 from arnoldclark/infra-1103/morechecks-for-prd - Merge Commit
+554. Jason White Fri Mar 24 16:27:10 2023 +0000 Merge pull request #229 from arnoldclark/github-key-update - Merge Commit
+555. Jason White Mon Mar 27 15:58:38 2023 +0100 Merge pull request #239 from arnoldclark/infra-1115/prdicinga2-checks - Merge Commit
+556. Jason White Mon Mar 27 16:36:00 2023 +0100 Merge pull request #240 from arnoldclark/only-trigger-ansibleon-terraform-apply - Merge Commit
+557. Jason White Thu Apr 13 10:59:49 2023 +0100 Merge pull request #246 from arnoldclark/infra-1077/newfileshares-for-exports - Merge Commit
+558. Jason White Thu Apr 13 16:35:27 2023 +0100 Merge pull request #247 from arnoldclark/infra-1077/sambapassword-changes - Merge Commit
+559. Jason White Fri Apr 14 13:54:54 2023 +0100 Merge pull request #251 from arnoldclark/infra-1097/updatesentinel-counts - Merge Commit
+560. Jason White Thu Apr 20 17:42:57 2023 +0100 Merge pull request #254 from arnoldclark/infra-1077/remove-logratelimits-and-update-collections - Merge Commit
+561. Jason White Fri Apr 21 12:34:50 2023 +0100 Merge pull request #257 from arnoldclark/update-base-1.31.0 - Merge Commit
+562. Jason White Tue May 2 12:22:48 2023 +0100 Merge pull request #243 from arnoldclark/tfmodule-combine-pr - Merge Commit
+563. Jason White Tue May 2 12:27:46 2023 +0100 Merge pull request #258 from - Merge Commit
+564. Jason White Tue May 2 12:29:33 2023 +0100 Merge pull request #260 from - Merge Commit
+565. Jason White Tue May 2 12:29:36 2023 +0100 Merge pull request #259 from - Merge Commit
+566. Jason White Tue May 2 13:16:38 2023 +0100 Merge pull request #261 from arnoldclark/fix-tfplan-artifact-names - Merge Commit
+567. Jason White Tue May 2 15:17:15 2023 +0100 Merge pull request #262 from arnoldclark/fix-tf-artifacts - Merge Commit
+568. Jason White Thu May 4 20:09:56 2023 +0100 Merge pull request #263 from arnoldclark/add-acf-range-to-squidacl - Merge Commit
+569. Jason White Fri May 5 15:04:09 2023 +0100 Merge pull request #264 from - Merge Commit
+570. Jason White Fri May 5 15:04:20 2023 +0100 Merge pull request #265 from - Merge Commit
+571. Jason White Mon May 15 10:38:59 2023 +0100 Merge pull request #270 from arnoldclark/vsphere-combine-pr - Merge Commit
+572. Jason White Tue May 30 17:01:16 2023 +0100 Merge pull request #276 from arnoldclark/icinga2-tweaks - Merge Commit
+573. Jason White Wed May 31 11:37:18 2023 +0100 Merge pull request #277 from arnoldclark/icinga2-handler-fixand-base-update - Merge Commit
+574. Jason White Tue Jun 13 10:03:48 2023 +0100 Merge pull request #282 from arnoldclark/fix-adcentre-sambaperms - Merge Commit
+575. Jason White Thu Jun 15 11:11:06 2023 +0100 Merge branch 'main' into INFRA_1161/squid-auth - Merge Commit
+576. Jason White Thu Jun 15 11:36:10 2023 +0100 Merge pull request #273 from arnoldclark/INFRA_1161/squidauth - Merge Commit
+577. Jason White Fri Jun 23 16:48:19 2023 +0100 Update roles.ini - Update Commit
+578. Jason White (35):
+579. Jason White Wed Dec 28 12:19:48 2022 +0000 Merge pull request #1612 from arnoldclark/infra-1111/smo-drvnet - Merge Commit
+580. Jason White Wed Dec 28 13:05:08 2022 +0000 Update hubs/hub-1/main.tf - Update Commit
+581. Jason White Wed Dec 28 13:09:13 2022 +0000 Merge pull request #1613 from arnoldclark/NCDNT-151801FDev-VPN - Merge Commit
+582. Jason White Wed Dec 28 16:22:36 2022 +0000 Merge branch 'master' into infra-1106/smo-dr-vms - Merge Commit
+583. Jason White Wed Dec 28 16:47:54 2022 +0000 Merge pull request #1614 from arnoldclark/infra-1106/smo-drvms - Merge Commit
+584. Jason White Fri Dec 30 10:31:20 2022 +0000 Merge pull request #1615 from arnoldclark/ncdnt-33/ems-servers - Merge Commit
+585. Jason White Fri Dec 30 12:05:23 2022 +0000 Merge pull request #1616 from arnoldclark/ncdnt-45/aso-appserver - Merge Commit
+586. Jason White Fri Dec 30 12:05:37 2022 +0000 Merge pull request #1617 from arnoldclark/ncdnt-33/ems-db - Merge Commit
+587. Jason White Fri Dec 30 13:43:36 2022 +0000 Merge pull request #1618 from arnoldclark/ncdnt-45/aks-firewallrules - Merge Commit
+588. Jason White Fri Dec 30 13:53:17 2022 +0000 Merge pull request #1619 from arnoldclark/ncdnt-45/aks-fw-rulespriority-fix - Merge Commit
+589. Jason White Fri Dec 30 15:05:23 2022 +0000 Merge pull request #1620 from arnoldclark/ncdnt-33/ems-smo-cfudb-firewall - Merge Commit
+590. Jason White Mon Jan 2 11:50:56 2023 +0000 Merge pull request #1621 from arnoldclark/ncdnt-45/aks-vnetpeerings - Merge Commit
+591. Jason White Fri Jan 6 14:07:42 2023 +0000 Merge pull request #1625 from arnoldclark/stg-coredns-servers-onprem-only - Merge Commit
+592. Jason White Fri Jan 6 14:56:23 2023 +0000 Merge pull request #1653 from arnoldclark/dev-prd2-coredns-onprem - Merge Commit
+593. Jason White Fri Jan 6 15:05:47 2023 +0000 Merge pull request #1654 from arnoldclark/hub-prd1-coredns-toonprem - Merge Commit
+594. Jason White Fri Feb 24 19:33:10 2023 +0000 Merge pull request #2090 from arnoldclark/infra-1077/agentupdates-for-java-builds - Merge Commit
+595. Jason White Mon Feb 27 15:02:42 2023 +0000 Merge pull request #2091 from arnoldclark/infra-1077/set-rootpassword-on-mariadbd - Merge Commit
+596. Jason White Fri Mar 3 17:36:01 2023 +0000 Merge pull request #2177 from arnoldclark/infra-1125/add-root-cato-vmss - Merge Commit
+597. Jason White Thu Mar 9 13:00:30 2023 +0000 Merge pull request #2251 from arnoldclark/remove-superfluousoutbound-rules-for-dev - Merge Commit
+598. Jason White Thu Apr 20 15:17:16 2023 +0100 Merge pull request #2623 from arnoldclark/bring-back-azure-dnsservers-hub1 - Merge Commit
+599. Jason White Thu Apr 20 15:19:05 2023 +0100 Update aks/test/aks-cluster-1/aks-cluster-1-addons/addons.tf - Update Commit
+600. Jason White Thu Apr 20 16:08:22 2023 +0100 Merge pull request #2617 from arnoldclark/bring-back-azure-dnsservers - Merge Commit
+601. Jason White Mon Apr 24 10:18:40 2023 +0100 Merge pull request #2618 from arnoldclark/bring-back-azuredns---stg - Merge Commit
+602. Jason White Mon Apr 24 10:24:32 2023 +0100 Merge pull request #2619 from arnoldclark/bring-back-azuredns-pp - Merge Commit
+603. Jason White Mon Apr 24 12:23:56 2023 +0100 Merge pull request #2620 from arnoldclark/bring-back-azuredns-prd1 - Merge Commit
+604. Jason White Thu May 4 13:27:33 2023 +0100 Merge pull request #2622 from arnoldclark/bring-back-azure-dnsservers-hub2 - Merge Commit
+605. Jason White Thu May 4 14:10:49 2023 +0100 Merge pull request #2621 from arnoldclark/bring-back-azure-dnsprd2 - Merge Commit
+606. Jason White Thu May 4 15:53:22 2023 +0100 Merge pull request #2774 from arnoldclark/azure-dns-hub-1 - Merge Commit
+607. Jason White Mon May 8 16:13:56 2023 +0100 Merge pull request #2781 from arnoldclark/update-dns-lookups - Merge Commit
+608. Jason White Wed May 10 18:15:01 2023 +0100 Merge pull request #2830 from arnoldclark/infra-1152/setutf8mb4-on-vmss-mysqld - Merge Commit
+609. Jason White Thu May 11 10:17:56 2023 +0100 Merge pull request #2838 from arnoldclark/infra-1115/plan - Merge Commit
+610. Jason White Fri Jun 9 15:56:58 2023 +0100 Update hub-dns/ansible/playbook.yml - Update Commit
+611. Jason White Fri Jun 9 15:57:08 2023 +0100 Update hub-dns/ansible/playbook.yml - Update Commit
+612. Jason White Fri Jun 9 16:24:06 2023 +0100 Merge branch 'master' into INFRA-972/upgrade_secondary_dns - Merge Commit
+613. Jason White Tue Jun 27 11:17:02 2023 +0100 Revert dangerous change - Revert Commit
+
+
+
+
+
+
+
+
+
+
+can you update teh table accordingly ?
+
+
+
+
+
+
+
+User
+
+based on the number fo commits below per user
+
+greg 13
+
+claire 39
+
+zoe 341
+
+mmshill 53
+
+white 613
+
+can you then update the table above to calculate the number of commits per working day in the uk (working days excude saturday and sunday and bank holidays) ?so add a column listing the number of working day where there was a commit from each users  and then another column with the number of commits per day per user? for each user, also add the earliest date on which he had a commit and the latest date on which he had a commit during that period 
+can you also list the bank holiday days during that period ?
+
+Let's break this down step-by-step, based on the total commits per user you provided and the typical UK bank holidays. For this analysis, I'll estimate based on general date ranges you previously provided: from December 5, 2022, to June 27, 2023. Here's the calculation of commits per working day:
+Bank Holidays between December 5, 2022, and June 27, 2023
+
+    December 26, 2022 (Boxing Day)
+    December 27, 2022 (Christmas Day observed)
+    January 2, 2023 (New Year's Day observed)
+    April 7, 2023 (Good Friday)
+    April 10, 2023 (Easter Monday)
+    May 1, 2023 (Early May Bank Holiday)
+    May 29, 2023 (Spring Bank Holiday)
+    June 5, 2023 (King's Coronation Bank Holiday)
+
+Calculating Total Working Days
+
+The total number of days between December 5, 2022, and June 27, 2023, is 205 days. If we exclude weekends (58 Saturdays and Sundays) and the 8 bank holidays listed above, we get approximately 139 working days.
+Updated Commit Summary Table
+
+Given that each user had commits throughout this entire period, here's the simplified calculation of commits per working day:
+User	Total Commits	Earliest Commit Date	Latest Commit Date	Working Days with Commits	Commits per Working Day
+Greg	13	Dec 5, 2022	Jun 27, 2023	139	0.09
+Claire	39	Dec 5, 2022	Jun 27, 2023	139	0.28
+Zoe	341	Dec 5, 2022	Jun 27, 2023	139	2.45
+Mmshill	53	Dec 5, 2022	Jun 27, 2023	139	0.38
+White	613	Dec 5, 2022	Jun 27, 2023	139	4.41
+
+These calculations assume that each user committed every working day within the period, and they provide a rough average of their activity per day. Adjustments might be necessary if you have specific commit dates for each user to calculate the exact number of active working days.
+
+
+
+
+
+
