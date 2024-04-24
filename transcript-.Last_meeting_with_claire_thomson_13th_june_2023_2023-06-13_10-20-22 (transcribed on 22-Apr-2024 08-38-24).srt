@@ -1,0 +1,840 @@
+1
+00:00:00,000 --> 00:00:00,500
+ EPC.
+
+2
+00:00:00,500 --> 00:00:01,480
+ [LAUGHS]
+
+3
+00:00:01,480 --> 00:00:04,080
+ OK, yeah, just EPC.
+
+4
+00:00:04,080 --> 00:00:06,120
+ EPC, EPC, EPC.
+
+5
+00:00:06,120 --> 00:00:08,800
+ Where did you go?
+
+6
+00:00:08,800 --> 00:00:10,840
+ Where's it gone?
+
+7
+00:00:10,840 --> 00:00:11,340
+ EPC.
+
+8
+00:00:11,340 --> 00:00:16,280
+ EPC.
+
+9
+00:00:16,280 --> 00:00:16,920
+ Yeah.
+
+10
+00:00:16,920 --> 00:00:20,800
+ So there's a bunch of default.
+
+11
+00:00:20,800 --> 00:00:22,680
+ So obviously, you get standard VPCs,
+
+12
+00:00:22,680 --> 00:00:26,280
+ which is the one that you're using, this AWS VPC.
+
+13
+00:00:26,280 --> 00:00:30,880
+ But there's this AWS default VPC,
+
+14
+00:00:30,880 --> 00:00:36,200
+ which is everything that doesn't have a name is a default one.
+
+15
+00:00:36,200 --> 00:00:41,440
+ So it handles slightly different so that that's
+
+16
+00:00:41,440 --> 00:00:42,480
+ what they need to be.
+
+17
+00:00:42,480 --> 00:00:48,560
+ Yeah, so it's basically like Terraform doesn't create
+
+18
+00:00:48,560 --> 00:00:52,200
+ the resource, but it adopts any management
+
+19
+00:00:52,200 --> 00:00:57,000
+ and a default destroy doesn't.
+
+20
+00:00:57,000 --> 00:00:58,880
+ You can force destroy things, but you
+
+21
+00:00:58,880 --> 00:01:01,800
+ don't need to worry about that now.
+
+22
+00:01:01,800 --> 00:01:04,160
+ And you can see that just if you're working again.
+
+23
+00:01:04,160 --> 00:01:13,360
+ Honestly, every single time I'm like genuinely,
+
+24
+00:01:13,360 --> 00:01:16,240
+ so I'll have to log into this.
+
+25
+00:01:16,240 --> 00:01:17,080
+ Like, oh, god.
+
+26
+00:01:17,080 --> 00:01:17,580
+ Yeah.
+
+27
+00:01:17,580 --> 00:01:24,640
+ When we were actually looking at the VPCs--
+
+28
+00:01:24,640 --> 00:01:30,600
+ I mean, obviously, you'll have seen that yourself.
+
+29
+00:01:30,600 --> 00:01:33,640
+ So I mean, if you're just looking at the standard site,
+
+30
+00:01:33,640 --> 00:01:37,160
+ it's like VPCs, we've got two.
+
+31
+00:01:37,160 --> 00:01:38,480
+ If we go and look at all regions,
+
+32
+00:01:38,480 --> 00:01:43,400
+ it does say all the ones that you're trying to capture.
+
+33
+00:01:43,400 --> 00:01:47,320
+ But when you're actually looking at them,
+
+34
+00:01:47,320 --> 00:01:49,560
+ you can see like this one's ac.com/failover.
+
+35
+00:01:49,560 --> 00:01:51,640
+ It's something that we've created.
+
+36
+00:01:51,640 --> 00:01:52,680
+ We've given it a name.
+
+37
+00:01:52,680 --> 00:01:54,400
+ Yeah, yes, indeed.
+
+38
+00:01:54,400 --> 00:01:55,800
+ This one under here has got to be dash.
+
+39
+00:01:55,800 --> 00:01:57,080
+ Doesn't have a name.
+
+40
+00:01:57,080 --> 00:01:59,600
+ But across here, it says yes.
+
+41
+00:01:59,600 --> 00:02:00,680
+ And this one says no.
+
+42
+00:02:00,680 --> 00:02:05,200
+ So that's not a default VPC, but this one is.
+
+43
+00:02:05,200 --> 00:02:11,360
+ So that's like we need to make those default VPCs a default
+
+44
+00:02:11,360 --> 00:02:13,640
+ VPC resource.
+
+45
+00:02:13,640 --> 00:02:18,000
+ So I think it was from 2020 onwards.
+
+46
+00:02:18,000 --> 00:02:25,840
+ I think it was--
+
+47
+00:02:25,840 --> 00:02:28,560
+ I'm not going to be able to find it because it did say--
+
+48
+00:02:28,560 --> 00:02:34,440
+ does it tell me?
+
+49
+00:02:34,440 --> 00:02:37,200
+ Because it told me what it was like from--
+
+50
+00:02:37,200 --> 00:02:38,360
+ it's not going to tell me.
+
+51
+00:02:39,360 --> 00:02:42,360
+ I think it was like from 2020 onwards.
+
+52
+00:02:42,360 --> 00:02:47,360
+ Yeah, so basically, they're just default ones.
+
+53
+00:02:47,360 --> 00:02:49,360
+ So that's why they're all there.
+
+54
+00:02:49,360 --> 00:02:52,360
+ Just one gets created in every region.
+
+55
+00:02:52,360 --> 00:02:55,360
+ Especially if-- I mean, we're not getting paid for it,
+
+56
+00:02:55,360 --> 00:02:56,360
+ charge for it.
+
+57
+00:02:56,360 --> 00:02:59,360
+ So I don't really know why they do it.
+
+58
+00:02:59,360 --> 00:03:02,360
+ And guess just automation in their point.
+
+59
+00:03:02,360 --> 00:03:04,360
+ Because they're all just default ones.
+
+60
+00:03:04,360 --> 00:03:08,360
+ Guess just automation in their point.
+
+61
+00:03:08,360 --> 00:03:11,360
+ But yeah, so that's the only thing that only to happen.
+
+62
+00:03:11,360 --> 00:03:14,360
+ So if you're happy and you've now figured out
+
+63
+00:03:14,360 --> 00:03:16,360
+ how to get it to work, that's good.
+
+64
+00:03:16,360 --> 00:03:19,360
+ So that's basically all I was going to just go through with you
+
+65
+00:03:19,360 --> 00:03:21,360
+ is being able to create multiple invider blocks.
+
+66
+00:03:21,360 --> 00:03:24,360
+ But if you've figured that out, that's cool.
+
+67
+00:03:24,360 --> 00:03:26,360
+ So the only other bit that we'll need to look at
+
+68
+00:03:26,360 --> 00:03:29,360
+ is this default VPC.
+
+69
+00:03:29,360 --> 00:03:30,360
+ OK.
+
+70
+00:03:30,360 --> 00:03:33,360
+ Can I ask you just one bit of favor?
+
+71
+00:03:33,360 --> 00:03:37,360
+ Because as I said, you know, it's--
+
+72
+00:03:37,360 --> 00:03:40,360
+ what I want to do-- now, I just want--
+
+73
+00:03:40,360 --> 00:03:43,360
+ I want to propose to do things in two steps.
+
+74
+00:03:43,360 --> 00:03:46,360
+ The first step is obviously, as I said,
+
+75
+00:03:46,360 --> 00:03:51,360
+ all the other VPCs that are not rewritten
+
+76
+00:03:51,360 --> 00:03:55,360
+ using the format you now have in the testing ground.
+
+77
+00:03:55,360 --> 00:03:57,360
+ I want to move all of them there,
+
+78
+00:03:57,360 --> 00:03:59,360
+ making sure it is all working.
+
+79
+00:03:59,360 --> 00:04:06,360
+ And once it is all working as we expected,
+
+80
+00:04:06,360 --> 00:04:10,360
+ then I will try to rework the configuration of them
+
+81
+00:04:10,360 --> 00:04:16,360
+ using the AWS default VPC, which I showed me.
+
+82
+00:04:16,360 --> 00:04:20,360
+ Do you think this is a good idea?
+
+83
+00:04:20,360 --> 00:04:23,360
+ Yeah, it probably makes sense to do it that way.
+
+84
+00:04:23,360 --> 00:04:26,360
+ Because you have got it in in front of us,
+
+85
+00:04:26,360 --> 00:04:29,360
+ and in front of us we wouldn't be touching the other defaults anyway.
+
+86
+00:04:29,360 --> 00:04:40,360
+ And it should, as I say, be a case of just changing the VPC.
+
+87
+00:04:40,360 --> 00:04:42,360
+ Yeah, absolutely.
+
+88
+00:04:42,360 --> 00:04:46,360
+ Although, in fact, it's in there, the arguments.
+
+89
+00:04:46,360 --> 00:04:50,360
+ So that VPC is open.
+
+90
+00:04:50,360 --> 00:04:57,360
+ I'm going to give you that one, and there's a standard VPC, AWS VPC.
+
+91
+00:04:57,360 --> 00:05:04,360
+ Let's hope I just have a look at the difference of them.
+
+92
+00:05:04,360 --> 00:05:07,360
+ So basic usage with tags.
+
+93
+00:05:07,360 --> 00:05:14,360
+ So you've got a default VPC, which has tag name arguments.
+
+94
+00:05:14,360 --> 00:05:19,360
+ They first slightly from an AWS VPC.
+
+95
+00:05:19,360 --> 00:05:26,360
+ Side or block become an instantaneously arguments come computed attributes.
+
+96
+00:05:26,360 --> 00:05:31,360
+ So I don't know if you put these in already?
+
+97
+00:05:31,360 --> 00:05:34,360
+ No, no, no.
+
+98
+00:05:34,360 --> 00:05:39,360
+ Yes, I have the side of blocks, but instance tenancy, I don't think so.
+
+99
+00:05:39,360 --> 00:05:49,360
+ So it looks like once you move across the default, then that side or block goes away.
+
+100
+00:05:49,360 --> 00:05:55,360
+ And the default value for enabled DNS names is true.
+
+101
+00:05:55,360 --> 00:05:57,360
+ So it doesn't look like there's a whole lot.
+
+102
+00:05:57,360 --> 00:06:04,360
+ I mean, that basically just looks like quite an easy thing to remove out of all of them.
+
+103
+00:06:04,360 --> 00:06:09,360
+ Force destroy, you don't need to worry about.
+
+104
+00:06:09,360 --> 00:06:15,360
+ And then I think there's also, because there's obviously bits and pieces that go along with that.
+
+105
+00:06:15,360 --> 00:06:22,360
+ I'm pretty sure because you've got default VPC, there are also...
+
+106
+00:06:22,360 --> 00:06:24,360
+ Where's all the other bits?
+
+107
+00:06:24,360 --> 00:06:32,360
+ Because there's like default VPC, there'll be like default subnet, some things as well that go along with it.
+
+108
+00:06:32,360 --> 00:06:42,360
+ Yeah, so you get the default subnet.
+
+109
+00:06:42,360 --> 00:06:46,360
+ So I think they go along.
+
+110
+00:06:46,360 --> 00:06:48,360
+ They should go along with it as well.
+
+111
+00:06:48,360 --> 00:06:53,360
+ So the default subnets.
+
+112
+00:06:53,360 --> 00:06:55,360
+ We won't have any ACLs.
+
+113
+00:06:55,360 --> 00:07:00,360
+ So I think the only two things you really have is the VPCs and the subnets.
+
+114
+00:07:00,360 --> 00:07:12,360
+ For those other ones, it's just a case of moving across to those resources and deleting the bits that it doesn't need again.
+
+115
+00:07:12,360 --> 00:07:17,360
+ You'll have probably most of this in it.
+
+116
+00:07:17,360 --> 00:07:20,360
+ Yeah, so they become computed attributes and you'll take them back out.
+
+117
+00:07:20,360 --> 00:07:22,360
+ But yeah, but definitely, yeah.
+
+118
+00:07:22,360 --> 00:07:28,360
+ So move across to having them all in the right format and in the right folders.
+
+119
+00:07:28,360 --> 00:07:35,360
+ And then we can worry about switching out the defaults because they're less important than the defaults.
+
+120
+00:07:35,360 --> 00:07:45,360
+ As long as the Arnold Clark failover and the alien vault ones are working correctly, we can worry about the default ones.
+
+121
+00:07:45,360 --> 00:07:54,360
+ And this default one, is it for...
+
+122
+00:07:54,360 --> 00:08:04,360
+ Or if we can maybe go a bit up the page, I just want to make sure if it is compatible with 1.3.7 or if it is only with the...
+
+123
+00:08:04,360 --> 00:08:07,360
+ Okay.
+
+124
+00:08:07,360 --> 00:08:09,360
+ Oh, no, that'll be fine. Yeah, yeah.
+
+125
+00:08:09,360 --> 00:08:11,360
+ Okay, okay.
+
+126
+00:08:11,360 --> 00:08:12,360
+ No problem.
+
+127
+00:08:12,360 --> 00:08:14,360
+ Yeah, so I mean that's like the question I think.
+
+128
+00:08:14,360 --> 00:08:22,360
+ So I mean that's right up to two hours ago, but it's been around for years.
+
+129
+00:08:22,360 --> 00:08:25,360
+ So yeah, you wouldn't have any issues with the version of Teleform.
+
+130
+00:08:25,360 --> 00:08:28,360
+ Okay, no problem.
+
+131
+00:08:28,360 --> 00:08:31,360
+ Okay.
+
+132
+00:08:31,360 --> 00:08:33,360
+ Sorry, Mato.
+
+133
+00:08:33,360 --> 00:08:35,360
+ I'm like, can you hear her?
+
+134
+00:08:35,360 --> 00:08:38,360
+ People say they can't hear I'm like, no, you must be able to...
+
+135
+00:08:38,360 --> 00:08:39,360
+ SESCO!
+
+136
+00:08:39,360 --> 00:08:48,500
+ No, no, no, no. No, no, no. The dog is not the problem. It is rather myself. As I said, I haven't slept much yesterday night. So I'm a bit there.
+
+137
+00:08:48,500 --> 00:08:53,840
+ I'm slightly I'm slightly in the clouds today. It's not the dog.
+
+138
+00:08:53,840 --> 00:09:03,000
+ No, no, I'm just like I just feel like I'm constantly tired. I've got the dog within all day, so I just get a headache. And then the tiny man's been getting up during the night. So just feel like I'm like.
+
+139
+00:09:03,000 --> 00:09:14,940
+ I'm sorry. I'm a bit more grumpy than I normally am and a bit more sure. So I apologize. So but yeah. But yeah, so if if it is the case again, and it's like I know I'm going to go back to it.
+
+140
+00:09:14,940 --> 00:09:24,600
+ It's like if if we do tell you to do it in a certain format and in a certain way, it's like we're not telling you that to be difficult.
+
+141
+00:09:24,600 --> 00:09:44,600
+ And it's like because we know it can be done. So in which it can be because you went away and figured it out. But yeah, and if you're running any problems, and where I've asked you to do something in a certain way and it's not working, then please, please, please, just like pick up the phone or send me a message
+
+142
+00:09:44,600 --> 00:09:55,600
+ and just go and this isn't work. If you get two minutes just have a wee look. We've got a team to work with. There's there's like a bunch of us. And we've all we've all got experience in different areas and stuff.
+
+143
+00:09:55,600 --> 00:10:06,600
+ And like just asking the question early on if we're getting stuck with something means that you don't end up doing lots of work that you don't need to like with it.
+
+144
+00:10:06,600 --> 00:10:18,600
+ And then you're going to have to go back and fix it all again. So if we'd caught that early if we just ask him, go this isn't working. Like, are you sure this is what you want to do?
+
+145
+00:10:18,600 --> 00:10:21,600
+ And we've to be able to sort of like.
+
+146
+00:10:21,600 --> 00:10:38,600
+ I would have asked on Friday. I think unfortunately on Friday I realized you were not in in the afternoon. So this is why I was okay. I sat down and I thought to myself, okay, when I'm putting all of them in one folder, it is not working.
+
+147
+00:10:38,600 --> 00:10:40,600
+ So I did my research.
+
+148
+00:10:40,600 --> 00:10:53,600
+ There's not only me though. I mean, it's like, I know obviously like sometimes you don't want to necessarily do something. But it's like, he is good and he knows what he's talking about.
+
+149
+00:10:53,600 --> 00:11:10,600
+ Like, it's like, I mean, Zoe was Zoe was on Friday. And he's like a terraform wizard. So I don't know how much experience he has. Obviously Greg doesn't have masses of mine. So he's on the terraform journey as well.
+
+150
+00:11:10,600 --> 00:11:29,600
+ But yeah, we are here. And like to ask, even if you don't want to talk to Jason, this is ping him a message. He would have suggested using using multiple provider blocks. And then we wouldn't have ended up having to say we the Royal week is you're doing the work.
+
+151
+00:11:29,600 --> 00:11:41,600
+ And having to redo it again. But that's we have a team of people we need to work as a team and be able to actually ask each other. And you don't have to like us.
+
+152
+00:11:41,600 --> 00:12:00,600
+ But we had a team play. Please use your team and ask questions. Just just to be absolutely clear. I have and I'm sure you know, you know that I have absolutely no issue whatsoever with you know, you Zoe or even Greg or any other person.
+
+153
+00:12:00,600 --> 00:12:20,600
+ It is just that, you know, I was I was obviously and I know you write you write but on Friday I really thought about, you know, pulling you into to see to see if you could help me but you were not in and I was thinking to myself.
+
+154
+00:12:20,600 --> 00:12:29,600
+ Okay, the others are also dealing with their own and task and their own problems. So let me try to figure out. So this is why I spent some time working.
+
+155
+00:12:29,600 --> 00:12:42,600
+ But that's that's why we end up just going around for days. It's like, honestly, it's like everybody's got stuff on. I send people messages all day every day. And so you'll send me messages and you might not see it in the chat chat.
+
+156
+00:12:42,600 --> 00:12:54,600
+ Yeah, sending messages on the sides just like and like, there'll be times I'll do something and it's like, I've went down a route and I'm like, this seems mental is this mental.
+
+157
+00:12:54,600 --> 00:13:06,600
+ And I'll just fire Zoe a message when this seems mental is not working. Like what do you think? Or we'll just pick up the phone. And it like we, yeah, we all do have our own bits of work.
+
+158
+00:13:06,600 --> 00:13:22,600
+ But see that doesn't mean that we don't talk to each other in the background or spend five, 10, 10 minutes or in cases we mean Jason because we talk a lot we end up like just blabber nonsense for an hour in the background about other things.
+
+159
+00:13:22,600 --> 00:13:31,600
+ Because that's how it ends up being like this. That's that is there's a team of us. And you use your team have a chat.
+
+160
+00:13:31,600 --> 00:13:36,600
+ And yeah, we don't have to work alone. We should we don't need to work alone.
+
+161
+00:13:36,600 --> 00:13:51,600
+ Okay, okay, fine. Okay. Cool. Okay. So right, it looks like we're on the right track. So all into one file and into the correct folders get rid of all the sub folders and change the resources.
+
+162
+00:13:51,600 --> 00:14:03,600
+ And then hopefully that shouldn't take too long. So I'm going to I'm going to estimate Thursday Thursday PR reviews. Yeah, yeah, that should be that should be more than that.
+
+163
+00:14:03,600 --> 00:14:13,600
+ Hopefully, and you can show us the PR and it'll be all nice and a nice shiny just in the AWS folder. And it'll look cool and it will work and it'll be great.
+
+164
+00:14:13,600 --> 00:14:21,600
+ And if you do run into any more issues, then yes, we are here. Please ask questions.
+
+165
+00:14:21,600 --> 00:14:31,600
+ No, there are no daft questions. I asked that. In fairness, I asked that questions all the time. But nobody wins at me for it.
+
+166
+00:14:31,600 --> 00:14:38,600
+ They'll just laugh at me and go, that's stupid. And I know which is fine. It's okay. It's okay. Just ask questions.
+
+167
+00:14:38,600 --> 00:14:45,600
+ That's what we're here for. Okay. Okay. And sorry for having to listen to my dog. So I will let I will let you know.
+
+168
+00:14:45,600 --> 00:14:47,600
+ No, no, no, the dog is not a problem at all.
+
+169
+00:14:47,600 --> 00:14:51,600
+ The dog is a problem. It's also a problem for me.
+
+170
+00:14:51,600 --> 00:14:57,600
+ And if the dog is causing too much issues, just feel free to send him on on on vacation here.
+
+171
+00:14:57,600 --> 00:14:59,600
+ I'll be more than happy.
+
+172
+00:14:59,600 --> 00:15:05,600
+ Oh, honestly, she was a bit. Have you got a nice garden? Have you got a nice garden?
+
+173
+00:15:05,600 --> 00:15:08,600
+ I would love it. Yeah.
+
+174
+00:15:08,600 --> 00:15:16,600
+ Well, if there is there is a rather large garden and there is also a forest nearby.
+
+175
+00:15:16,600 --> 00:15:21,600
+ So, you know, she would love it. She would never come home.
+
+176
+00:15:21,600 --> 00:15:24,600
+ Oh dear. I don't know. Poor, poor big dog. Right.
+
+177
+00:15:24,600 --> 00:15:31,600
+ I'm going to do I've been I've been using the tiny humans dinosaurs and putting them because we've got a table at the window.
+
+178
+00:15:31,600 --> 00:15:36,600
+ So she can jump up on the table to look out the window. The windows all sketch because she's basically sketched out it.
+
+179
+00:15:36,600 --> 00:15:45,600
+ But she she I've been trying to put his dinosaurs on the table to try and stop her from jumping up on it to bark.
+
+180
+00:15:45,600 --> 00:15:50,600
+ It's not really it's not really working. It's not working. It's not working.
+
+181
+00:15:50,600 --> 00:15:55,600
+ So, bless bless her. It's not her fault. She's she's an old she's an old lady.
+
+182
+00:15:55,600 --> 00:16:00,600
+ All she wants to do is just relax and sleep comes comes nighttime.
+
+183
+00:16:00,600 --> 00:16:07,600
+ She just crashes out and just does not move because she's so tired because normally all she would do is sleep during the day and now she's not getting any sleep.
+
+184
+00:16:07,600 --> 00:16:11,600
+ So she's not getting any sleep. I'm getting a headache and everybody's grumpy.
+
+185
+00:16:11,600 --> 00:16:16,600
+ So it's frankly, I mean, what I've just said, I know it sounds very unusual.
+
+186
+00:16:16,600 --> 00:16:24,600
+ I know it does sound very unusual. But I used to have when I was when I was younger, like, you know, back in the days,
+
+187
+00:16:24,600 --> 00:16:31,600
+ I used to live in a well, my dad used to have a house where we had something like a mini zoo.
+
+188
+00:16:31,600 --> 00:16:38,600
+ Like, like we had many type of animals you wouldn't even believe believe someone could have in his house.
+
+189
+00:16:38,600 --> 00:16:41,600
+ So, you know, I've been taking care of animals for some time.
+
+190
+00:16:41,600 --> 00:16:48,600
+ So if the dog needs some vacations and some vacations somewhere, honestly, it's not a problem at all.
+
+191
+00:16:48,600 --> 00:16:55,600
+ Oh, bless. Oh, people, people questions questions.
+
+192
+00:16:55,600 --> 00:16:57,600
+ Right. OK, somebody else is asking me questions right.
+
+193
+00:16:57,600 --> 00:17:01,600
+ So I'm going to jump off. I have PR reviews on the background.
+
+194
+00:17:01,600 --> 00:17:04,600
+ I don't know if I've started. I might jump on that.
+
+195
+00:17:04,600 --> 00:17:06,600
+ Is anybody there?
+
+196
+00:17:06,600 --> 00:17:12,600
+ And if you do run into any more issues, please ask.
+
+197
+00:17:12,600 --> 00:17:14,600
+ Don't suffer in silence.
+
+198
+00:17:14,600 --> 00:17:18,600
+ Even if you don't want to talk to Jason, he's fine by chat.
+
+199
+00:17:18,600 --> 00:17:21,600
+ Just fine by chat.
+
+200
+00:17:21,600 --> 00:17:23,600
+ You're generally better in chat than by voice.
+
+201
+00:17:23,600 --> 00:17:24,600
+ It's fine.
+
+202
+00:17:24,600 --> 00:17:26,600
+ And so he's always here as well.
+
+203
+00:17:26,600 --> 00:17:32,600
+ So just like, even in Friday, even on Friday, see if you just ping me a message.
+
+204
+00:17:32,600 --> 00:17:36,600
+ It's like, I know I'm not working, but like, I would still be able to answer you.
+
+205
+00:17:36,600 --> 00:17:47,600
+ It's like, do keep an eye on messages. So, yeah, do just contact me instead of worrying and going down the wrong route again.
+
+206
+00:17:47,600 --> 00:17:53,600
+ Okay, so I will catch you in a bit and I'll go and see these messages and jump on the other call.
+
+207
+00:17:53,600 --> 00:17:54,600
+ Thank you very much.
+
+208
+00:17:54,600 --> 00:17:55,600
+ Okay, catch you later.
+
+209
+00:17:55,600 --> 00:17:57,600
+ Bye.
+
+210
+00:17:58,600 --> 00:18:09,600
+ [Subscribe]
+

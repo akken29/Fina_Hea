@@ -1,0 +1,19 @@
+
+ArchOps Chat
+Chat Files 1 more ✓
++
+CO
+B
+8
+Mory Marcel Sangare
+-some users want to stick to passwords at all cost (even though ssh keys are prefered): so these users will have their account and secure passwords generated for them
+-some others that are making use of ssh keys do take for ever to generate them so those interested wont have to stress about this anymore.
+For example, when you take Amazon EC2 instances, both private and public keys are generated for the users so none of them has to stress about generating anything.It is all about streamlining things here and easing things for end users. However, if some users want to generate their own set of keys, no problem but you can be sure that most of them will be happy having the heavy lifting done on their behalf.
+JW
+O
+
+Jason White 13:28
+I'm not sure where that information came from, maybe there's been some crossed wires - we don't need to generate passwords in the code as we'll just supply those as vaulted vars in the ansible. We would never generate keys for people as the private key should realistically never leave the machine it is generate on. So we do need the users to generate their own keys as it is the public part they need to send to us.
+What amazon do when setting up EC2 instances is an exceptional case, and I know you can supply your own public key rather than have them generate one
+Happy to get on a call and explain/get you started on the ansible
+Juno a new moccano

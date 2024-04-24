@@ -1,0 +1,242 @@
+Workspaces Applications 20Jun 11:47 « = Bs G&G Oa & G99%
+
+marcel_git_logs (~/ac-iac-platform/aws) - Pluma - ©
+File Edit View Search Tools Documents Help
+B 4 open ~ $ Sve & Htrndo C KX HB AK
+
+B *Unsaved Document1 & B& marcel_git_logs @
+
+1 commit 8d07ef2cd79113118b87dde0545eb83098463321
+
+2Merge: O5ea891lc 3dc7e896
+
+3 Author: mmshill <mory-marcel.sangare@arnoldcLark. com>
+
+4 Date: Thu Jun 15 10:39:43 2023 +0100
+
+5
+
+6 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS
+7
+
+8 commit 05ea891c32aebd6d9a736ac2da65178c5f3fb389b
+
+9 Author: mmshill <mory-marcel.sangare@arnoldcLark. com>
+
+19 Date: Thu Jun 15 10:38:53 2023 +0100
+
+11
+
+12 code refactoring and files merging
+
+13
+
+14 commit 3dc7e896c9lafaefe9b6c3d98b1870b82cfo3e05
+
+15 Merge: f02a99d6 c5230225
+
+16 Author: Zoe Mackay <41298038+zoemacll@users.noreply.github. com>
+17 Date: Wed Jun 14 08:32:19 2023 +0100
+
+18
+
+19 Merge pull request #3127 from arnoldclark/azurerm-combine-pr
+20
+21 Combined azurerm PR
+22
+
+23 commit ¢52302252d4702e0c4f464bbaf25a36fe5898652
+
+24Merge: 01020ce0 acld&dfe
+
+25 Author: github-actions <github-actions@github. com>
+
+26 Date: Wed Jun 14 03:05:08 2023 +0000 I
+
+27
+28 Merge branches ‘dependabot/terraform/aks/stg/aks-cluster-1/aks-cluster-1-addons/hashicorp/azurerm-3.61.0' and ‘dependabot/
+
+Loading file '/home/mm/ac-iac-platform/aws/marcel_git_logs’... PlainText+ Tab Width: 4 Ln 1, Col1 INS
+
+Workspaces Applications 20Jun 11:47 « as ff Go @a & 699%
+marcel_git_logs (~/ac-iac-platform/aws) - Pluma - ©
+File Edit View Search Tools Documents Help
+
+B 4 open ~ #F Save = +
+
+ec x Oe AK
+B *Unsaved Document1 & B marcel_git_logs @
+
+commit 9babl1a991c268ea7803012f8e4f3b304d7baze6b
+
+Merge: 78e7c215 713e99a0 2e256b4b 29f76572 OO0d56f3e 7e2b4196 ealc92ba 5bf528e9 3586e965 5ac2853f dc6efcda 9c2191e8 7ab85595
+393409f3 5b453a85 3c67002a 30ffb98e 7hObO84d 0147d700 52573d09 174f3cf7 9e02657f 8O0d9e0bb 417ce7ab 910479da 9d8d3613 959f2457
+c0242ae8 4ee48a25 cd023798 ec5552bb ladcde5a 777c5f05 eb4ba832 4bf93ee2 619a6ec7 8Obe3c4e
+
+Author: github-actions <github-actions@github. com>
+
+Date: Tue Jun 13 09:33:14 2023 +0000
+
+Merge branches 'dependabot/terraform/common/log-analytics/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-
+locks/aks/pp/hashicorp/azurerm-3.61.0', "dependabot/terraform/hubs/hub-1/hashicorp/azurerm-3.61.0', 'dependabot/terraform/hubs/
+hub-1-dns/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/resource-groups/hashicorp/azurerm-3.61.0', ‘dependabot/
+terraform/hubs/hub-2/hashicorp/azurerm-3.61.0', 'dependabot/terraform/common/new-relic/prd/hashicorp/azurerm-3.61.0',
+‘dependabot/terraform/common/new-reLic/devstg/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-service-health/
+hashicorp/azurerm-3.61.0', 'dependabot/terraform/hubs/hub-2-dns/hashicorp/azurerm-3.61.0', 'dependabot/terraform/common/
+container-registry/hashicorp/azurerm-3.61.0', ‘'dependabot/terraform/er-circuits/hashicorp/azurerm-3.61.0', ‘'dependabot/
+terraform/common/azure-locks/er-ciruits/hashicorp/azurerm-3.61.0', '‘dependabot/terraform/common/public-ips/hashicorp/
+azurerm-3.61.0', ‘dependabot/terraform/common/storage-accounts/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-
+Llocks/hubs/hub-1/hashicorp/azurerm-3.61.0', 'dependabot/terraform/common/azure-automation/hashicorp/azurerm-3.61.0',
+‘dependabot/terraform/common/azure-Locks/hubs/hub-2/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-locks/aks/
+dev/hashicorp/azurerm-3.61.0', 'dependabot/terraform/common/azure-lLocks/aks/test/hashicorp/azurerm-3.61.0', 'dependabot/
+terraform/common/azure-vmss/hashicorp/azurerm-3.61.0', 'dependabot/terraform/common/azure-policy/hashicorp/azurerm-3.61.0',
+*dependabot/terraform/common/azure-Locks/aks/stg/hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-lLocks/aks/prd/
+hashicorp/azurerm-3.61.0', ‘dependabot/terraform/common/azure-role-assignments/hashicorp/azurerm-3.61.0', 'dependabot/
+terraform/common/azure-roles/hashicorp/azurerm-3.61.0', 'dependabot/terraform/azure-devops/service-connections/hashicorp/
+azurerm-3.61.0', ‘'dependabot/terraform/aks/dev/aks-cluster-1/aks-cluster-1-addons/hashicorp/azurerm-3.60.0', ‘dependabot/
+terraform/aks/stg/aks-cluster-1/aks-cluster-1-addons/hashicorp/azurerm-3.60.0', 'dependabot/terraform/aks/prd/aks-cluster-1/
+aks-cluster-1-addons/hashicorp/azurerm-3.60.0 ‘dependabot/terraform/aks/test/aks -cLuster-1/aks-cluster-1-addons/hashicorp/
+azurerm-3.59.0', The yee ae Oe cluster-2/aks-cluster-2-addons/hashicorp/azurerm-3.59.0', '‘dependabot/
+terraform/sql-serv ers/stg/hashicorp/azurerm- -3.58.0', ‘dependabot/terraform/pLatform-operations/prd/hashicorp/azurerm-3.58.0',
+
+eee oe ee ee ae a a Se ee ee Seen Oe a ae a Ce a ee rn a oe coe a, Pan See koa el ee
+
+Plain Text + Tab Width: 4 + Ln 253, Col INS
+
+Workspaces Applications 20Jun 11:47 e #-¥ Bs G& Oa & G99%
+
+marcel_git_logs (~/ac-iac-platform/aws) - Pluma - ©
+
+File Edit View Search Tools Documents Help
+
++s
+
+open ~ $5 @ oud ¢ XHB AK
+
+B *Unsaved Document1 & B marcel_git_logs @
+
+747
+748
+749
+750
+751
+752
+753
+754
+
+updated -dependencies:
+
+- dependency-name: newrelic/newrelic
+dependency-type: direct:production
+update-type: version-update:semver-patch
+
+Signed-off-by: dependabot[bot] <support@github. com>
+
+755 commit 122529ec494cd1118e404f17e018200c6f56428f
+756 Author: dependabot[bot] <49699333+dependabot [bot]@users.norepLy.github. com>
+757 Date: Mon Jun 12 21:59:08 2023 +0000
+
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+
+Bump hashicorp/aws from 5.1.0 to 5.2.0 in /elasticsearch
+
+Bumps [hashicorp/aws] (https://github.com/hashicorp/terraform-provider-aws) from 5.1.0 to 5.2.0.
+- [Release notes] (https: //github. com/hashicorp/terraform-provider -aws/releases )
+
+- [Changelog] (https: //github. com/hashicorp/terraform- provider -aws/blob/main/CHANGELOG. md)
+
+- [Commits] (https: //github.com/hashicorp/terraform-provider-aws/compare/v5.1.0...v5.2.0)
+
+updated-dependencies:
+
+- dependency-name: hashicorp/aws
+dependency-type: direct:production
+update-type: version-update: semver-minor
+
+Signed-off-by: dependabot[bot] ered kama
+
+Plain Text + Tab Width: 4 + Ln 1031, Col 1 INS
+
+Workspaces Applications 20Jun 11:47 e #-¥ Bs G& Oa & G99%
+marcel_git_logs (~/ac-iac-platform/aws) - Pluma - ©
+
+File Edit View Search Tools Documents Help
+
+B # Opn ~ 4s = +4 Undo C x H EB 0 KR
+
+B *Unsaved Document1 & B marcel_git_logs @
+
+LM UT ss se Ce ee ee ey ee
+
+er a)
+
+1620
+
+1621 ---
+
+1622 updated-dependencies:
+
+1623 - dependency-name: hashicorp/azuread
+
+1624 dependency-type: direct:production
+
+1625 update-type: version-update:semver-minor
+
+1626 O.00
+
+1627
+
+1628 Signed-off-by: dependabot[bot] <support@github. com>
+
+1629
+
+1630 commit 1d49fbed96bc37788726d21df98c8f65ldf4e3fc
+
+1631 Merge: 578a463b 4a6d2d38
+
+1632 Author: Zoe Mackay <41298038+zoemacll@users.norep1ly.github. com>
+1633 Date: Mon Jun 5 09:15:02 2023 +0100
+
+1634
+
+1635 Merge pull request #2945 from arnoldclark/azurerm-combine-pr
+1636
+
+1637 Combined azurerm PR
+
+1638
+
+1639 commit 578a463ba69bad777 fOcb71fdd4adbe951f6édfb9
+
+1640Merge: 4f450ad8 88ee2106
+
+1641 Author: Zoe Mackay <41298038+zoemacll@users.norepLly.github. com>
+1642 Date: Mon Jun 5 08:11:39 2023 +0100
+
+1643
+
+1644 Merge pull request #2985 from arnoldclark/aws-combine-pr
+1645
+
+1646 Combined aws PR
+
+1647
+
+Plain Text + Tab Width: 4 + Ln 1828, Col1 INS
+

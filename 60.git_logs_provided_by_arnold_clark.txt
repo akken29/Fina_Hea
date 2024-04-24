@@ -1,0 +1,3565 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White (8):
+Jason White Tue Jan 3 15:25:57 2023 +0000 use --cert-name when cutting certs edclaa4
+Jason White Wed Jan 4 11:15:31 2023 +0000 Merge pull request #25 from arnoldclark/use-cert-name 6485e51
+Jason White Wed Jan 4 11:23:33 2023 +0000 Remove old role from readme, and trigger release from previous
+PR 290cb6a
+Jason White Wed Jan 4 11:25:15 2023 +0000 Merge branch 'release/1.0.0' into update-release 09260b7
+Jason White Wed Jan 4 11:29:18 2023 +0000 Merge pull request #26 from arnoldclark/update-release 4d87ab4
+Jason White Tue Feb 14 15:52:31 2023 +0000 Add Keith be2de94
+Jason White Tue Feb 14 15:58:04 2023 +0000 Merge pull request #27 from arnoldclark/add-keith be7ff64
+Jason White Fri Mar 24 19:56:27 2023 +0000 update github host key, only trigger a release if the roles are
+upated, nothing else d4e04a8
+
+ac-ci (2):
+
+ac-ci Wed Jan 4 11:36:25 2023 +0000 CI: add galaxy.yml with updated version for collection release 35109d2
+ac-ci Tue Feb 14 15:59:35 2023 +0000 CI: add galaxy.yml with updated version for collection release f02dc70
+
+1174
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson (5):
+Claire Thomson Thu Dec 8 15:05:04 2022 +0000 add-marcel 3be409d
+Claire Thomson Thu Dec 8 15:57:13 2022 +0000 Merge pull request #20 from arnoldclark/add-marcel | 6aee3f
+Claire Thomson Wed Apr 5 13:44:45 2023 +0100 SA_OneOrder_ Feed has been renamed to
+SA Mobile OneOrder 220e894
+Claire Thomson Thu Apr 6 13:10:27 2023 +0100 Merge pull request #27 from arnoldclark/DEV OPS-1928/es-
+mobile-alerts bdf8255
+Claire Thomson Wed Jun 28 13:47:49 2023 +0100 remove marcel 3a873e6
+
+Greg Dolan (2):
+Greg Dolan Wed Mar 1 09:52:41 2023 +0000 increasing collection version bd2a4b8
+Greg Dolan Wed Mar 1 14:08:57 2023 +0000 adding crowdstrike install into base a09a204
+
+Jason White (26):
+
+Jason White Thu Dec 8 11:55:09 2022 +0000 Update base collection to 0.8.6 dlea74b
+
+Jason White Thu Dec 8 17:43:14 2022 +0000 Merge pull request #19 from arnoldclark/Update-base-0.8.6
+bb7f7d0
+
+Jason White Tue Feb 14 15:44:09 2023 +0000 Add Keith c6c84ed
+
+Jason White Tue Feb 14 15:53:39 2023 +0000 Icinga is 1.15 873ebda
+
+Jason White Tue Feb 14 17:17:22 2023 +0000 Ensure prdsquid env vars are set 584fa31
+
+Jason White Tue Feb 14 17:19:59 2023 +0000 env 6d32d43
+
+Jason White Tue Feb 14 19:30:15 2023 +0000 fix set_proxy_env 39bcd68
+
+Jason White Tue Feb 14 19:30:37 2023 +0000 don't run selinux role - its not set to enforcing and I don't want that
+being changed accidentally b85955f
+
+Jason White Tue Feb 14 19:49:42 2023 +0000 get newer version of postfix role so hostnames are templated
+correctly 271 c8ff
+
+Jason White Wed Feb 15 11:33:33 2023 +0000 Merge pull request #21 from arnoldclark/add-keith 1a57542
+
+Jason White Wed Mar 1 17:59:00 2023 +0000 Merge pull request #22 from arnoldclark/update_collection
+62ebda0
+
+Jason White Thu Mar 2 13:21:41 2023 +0000 update collections cdlce31
+
+Jason White Thu Mar 2 13:21:55 2023 +0000 set correct env vars for change in env role 3151de0
+
+Jason White Thu Mar 2 13:22:38 2023 +0000 Merge pull request #23 from arnoldclark/infra-1125/update-
+environment-vars 81celc3
+
+Jason White Thu Mar 2 14:35:12 2023 +0000 minor update to collection to fix pipeline error with crowdstrike
+bf6d9aa
+
+Jason White Thu Mar 2 15:33:24 2023 +0000 update base collection and set proxy at playbook level 1a27c24
+
+Jason White Thu Mar 2 15:46:06 2023 +0000 typos 9197b68
+
+Jason White Thu Mar 2 16:08:25 2023 +0000 base collection update again 60f640f
+
+Jason White Thu Mar 2 17:25:21 2023 +0000 just ignore errors for pip since the packages are already installed
+anyway c8b0217
+
+Jason White Fri Mar 3 13:15:57 2023 +0000 update base 1220ff9
+
+Jason White Fri Mar 3 14:10:08 2023 +0000 another base fix 0a0e4be
+
+Jason White Wed Mar 22 19:30:53 2023 +0000 update base collection to include proxy config for qualys agent
+95d96cf
+
+Jason White Thu Mar 23 10:09:21 2023 +0000 Merge pull request #24 from arnoldclark/infra-1125/qualys-proxy
+5d63eb2
+
+Jason White Fri Mar 24 15:44:45 2023 +0000 github host key has changed 93ea801
+
+Jason White Fri Mar 24 17:16:14 2023 +0000 Merge pull request #26 from arnoldclark/update-github-host-key
+477b3f1
+
+Jason White Mon Apr 24 16:09:01 2023 +0100 update base collection to get correct email settings 7ec983b
+
+1175
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+ansible-haproxy
+ansible-vsphere-templates
+ansible-collection-letsencrypt
+ansible-collection-languages
+ac-iac-platform-onprem-eventstore
+
+1176
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+ac-iac-azure-devops
+ac-iac-azure-subscriptions
+ac-iac-data-exchange
+ac-iac-data-platform
+ac-iac-data-platform-dev
+ac-iac-data-platform-oem-feeds
+ac-iac-digitalworkspace
+ac-iac-network-team
+
+ac-iac-platform
+
+ac-iac-platform-dev
+ac-iac-platform-ingress
+ac-iac-platform-onprem-acdotcom
+ac-iac-platform-onprem-dataarchive
+ac-iac-platform-onprem-datacleanse
+ac-iac-platform-onprem-datahub
+ac-iac-platform-onprem-dscresources
+ac-iac-platform-onprem-eventstore
+ac-iac-platform-onprem-ops
+ac-iac-platform-onprem-sales
+ac-iac-renovate-config
+ac-iac-renovate-test
+ac-iac-shared-infrastructure
+ac-iac-tfmodule-aks-addons
+ac-iac-tfmodule-aks-cluster
+ac-iac-tfmodule-aks-key-vault
+ac-iac-tfmodule-aks-namespace
+ac-iac-tfmodule-azure-data-factory
+ac-iac-tfmodule-azure-keyvault
+ac-iac-tfmodule-azure-monitor-diagnostics
+ac-iac-tfmodule-azure-mssql
+ac-iac-tfmodule-azure-resource-group
+ac-iac-tfmodule-azure-servicebus
+ac-iac-tfmodule-azure-signalr
+ac-iac-tfmodule-azure-sql-db
+ac-iac-tfmodule-azure-storage-account
+ac-iac-tfmodule-azure-subscription
+ac-iac-tfmodule-keyvault-service-connection
+ac-iac-tfmodule-mssql-user
+ac-iac-tfmodule-newrelic-golden-signals
+ac-iac-tfmodule-onprem-vm
+ac-iac-tfmodule-onprem-vm-win
+ansible
+
+ansible-acdotcom
+ansible-acdotcom-utils
+ansible-acf-base
+ansible-collection-base
+ansible-collection-dns
+ansible-collection-icinga
+ansible-collection-letsencrypt
+ansible-collection-repo-template
+ansible-keyvault-certs
+
+1177
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Andrew Murray (12):
+Andrew Murray Fri Feb 17 10:40:15 2023 +0000 Update set up for asoconfig only 0f23d55
+Andrew Murray Tue Feb 21 15:16:14 2023 +0000 Add new servers into ASO KRM backend 1a3c924
+Andrew Murray Tue Feb 21 16:45:24 2023 +0000 Add new servers into all backend except ASO2 fa2497f
+Andrew Murray Wed Feb 22 14:36:31 2023 +0000 Keep AsoKConnect on 569PL for the time being 4ec2a9a
+Andrew Murray Wed Feb 22 14:37:34 2023 +0000 Merge branch ‘main’ into asoc-1984/switch-remaining-apps-
+except-aso2 b597a99
+Andrew Murray Wed Feb 22 16:41:48 2023 +0000 Add new servers into ASO2 backend 9804b89
+Andrew Murray Thu Feb 23 11:50:16 2023 +0000 Add sticky session cookie to ASOSMS 02b4373
+Andrew Murray Fri Feb 24 14:16:20 2023 +0000 Merge branch 'main' into asoc-1984/switch-over-aso2 a77423c
+Andrew Murray Mon Feb 27 12:27:49 2023 +0000 Switch ports to app servers from 80 to 443 6de0c57
+Andrew Murray Mon Feb 27 12:32:15 2023 +0000 Don't forget the event storage API b17ba2f
+Andrew Murray Mon Feb 27 15:17:15 2023 +0000 Add backup back in for eventqueue 1f4e9a9
+Andrew Murray Fri Apr 28 16:19:49 2023 +0100 Some small tidy ups/corrections 9784343
+
+Claire Thomson (113):
+
+Claire Thomson Wed Dec 7 14:10:10 2022 +0000 add route to sell-dashboard 2297cb2
+
+Claire Thomson Wed Dec 7 14:55:32 2022 +0000 Merge pull request #311 from arnoldclark: DEVOPS-
+1896/sell-dashboard 71d5268
+
+Claire Thomson Thu Dec 8 12:06:16 2022 +0000 add marcel d0al4bb
+
+Claire Thomson Tue Feb 7 11:14:51 2023 +0000 adding accountantsportal backend and acls 9d65d63
+
+Claire Thomson Wed Feb 8 16:05:49 2023 +0000 Update haproxy-prdintappsprx.cfg.j2 580e8be
+
+Claire Thomson Wed Feb 8 16:15:45 2023 +0000 Merge pull request #333 from arnoldclark/INFRA-
+1124/accountantsportal f499ded
+
+Claire Thomson Tue Feb 14 10:49:23 2023 +0000 Merge pull request #337 from arnoldclark/zm/add-keith
+7984197
+
+Claire Thomson Wed Feb 15 12:01:15 2023 +0000 add acl for account onboarding d613b70
+
+Claire Thomson Thu Feb 16 10:57:03 2023 +0000 Merge pull request #339 from arnoldclark/DEVOPS-
+1908/account-onboard 98769e4
+
+Claire Thomson Mon Feb 20 12:56:01 2023 +0000 add cxp to aso proxy 169b6e9
+
+Claire Thomson Mon Feb 20 19:34:40 2023 +0000 add acl for cxp a006f9f
+
+Claire Thomson Wed Feb 22 09:40:37 2023 +0000 Merge pull request #345 from arnoldclark/asoc-1984/switch-
+over-asokeyrequestmanager f127b7e
+
+Claire Thomson Wed Feb 22 16:17:28 2023 +0000 Merge pull request #346 from arnoldclark/asoc-1984/switch-
+remaining-apps-except-aso2 91bd509
+
+Claire Thomson Thu Feb 23 13:36:10 2023 +0000 Merge pull request #348 from arnoldclark/asoc-1984/switch-
+asosms-to-sticky-session 08e9af5
+
+Claire Thomson Fri Feb 24 16:32:28 2023 +0000 fix tls issue for enquiry management 4c05b78
+
+Claire Thomson Fri Feb 24 16:45:05 2023 +0000 this should not be included here a7bb495
+
+Claire Thomson Fri Feb 24 16:45:41 2023 +0000 whitespace 0223e0¢e
+
+Claire Thomson Fri Feb 24 16:46:36 2023 +0000 Update haproxy-smo.cfg.j2 683470a
+
+Claire Thomson Fri Feb 24 17:00:32 2023 +0000 add customer.arnoldclark.com c00e4c3
+
+Claire Thomson Fri Feb 24 17:09:32 2023 +0000 I've no idea what's different? windows formatting? 6298368
+
+Claire Thomson Fri Feb 24 17:09:48 2023 +0000 Merge branch 'em-fix-tls' of github.com:arnoldclark/ansible-
+haproxy into em-fix-tls d98fd34
+
+Claire Thomson Fri Feb 24 17:10:16 2023 +0000 formatting 733d243
+
+Claire Thomson Fri Feb 24 18:28:18 2023 +0000 what's going on with these spaces? 275427
+
+Claire Thomson Fri Feb 24 18:29:44 2023 +0000 redispatch e383db7
+
+Claire Thomson Fri Feb 24 18:30:25 2023 +0000 headers 2452dbc
+
+Claire Thomson Fri Feb 24 18:32:39 2023 +0000 change redirect order 446447d
+
+Claire Thomson Fri Feb 24 18:52:30 2023 +0000 spaces were odd 166bee8
+
+Claire Thomson Fri Feb 24 18:52:53 2023 +0000 Merge branch 'em-fix-tls' of github.com:arnoldclark/ansible-
+haproxy into em-fix-tls a7fSfac
+
+Claire Thomson Fri Feb 24 19:32:33 2023 +0000 Merge pull request #350 from arnoldclark/em-fix-tls e93bef7
+
+Claire Thomson Mon Feb 27 10:44:16 2023 +0000 Merge pull request #347 from arnoldclark/asoc-1984/switch-
+over-aso2 8c2c00e
+
+1178
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson Mon Feb 27 15:33:39 2023 +0000 Merge pull request #351 from arnoldclark/DEVOPS-
+1913/customer-checker cce28dd
+
+Claire Thomson Tue Feb 28 17:29:02 2023 +0000 send nodejs traffic to 336PL with hostname ace-holding
+2dc7dcc
+
+Claire Thomson Tue Feb 28 18:02:00 2023 +0000 pass dev-ace-node traffic to nodejs backend d9cfaea
+
+Claire Thomson Tue Feb 28 18:02:36 2023 +0000 pass dev-ace-node/newsroom traffic to ruby backend b2eb7c3
+
+Claire Thomson Wed Mar 1 12:13:01 2023 +0000 add hiredrivelauncher 9572da9
+
+Claire Thomson Wed Mar 1 12:57:20 2023 +0000 new-line-at-end-of-file 7892080
+
+Claire Thomson Wed Mar 1 13:14:13 2023 +0000 remove spaces 87b5d38
+
+Claire Thomson Mon Mar 6 16:11:07 2023 +0000 Merge pull request #353 from arnoldclark/DEVOPS-
+1914/ace-testing 7bac53e
+
+Claire Thomson Mon Mar 6 16:37:11 2023 +0000 Merge pull request #355 from arnoldclark/INFRA-
+1137/hiredrivelauncher 2e5786e
+
+Claire Thomson Mon Mar 6 17:30:38 2023 +0000 fix holding page c903eb5
+
+Claire Thomson Tue Mar 7 12:04:00 2023 +0000 Merge pull request #360 from arnoldclark/DEVOPS-1914/fix-
+holding 180fb95
+
+Claire Thomson Wed Mar 15 11:22:14 2023 +0000 add accounts.arnoldclark.com d5d2042
+
+Claire Thomson Wed Mar 15 13:16:08 2023 +0000 Update roles/haproxy_config/templates/haproxy-
+prdintappsprx.cfg.j2 5940e6c
+
+Claire Thomson Wed Mar 15 15:55:33 2023 +0000 Merge pull request #366 from arnoldclark/INFRA-1144/add-
+accounts e6f898 1
+
+Claire Thomson Wed Mar 22 15:38:42 2023 +0000 Merge pull request #376 from arnoldclark/VAL-288 1-
+purchases 1bd37d3
+
+Claire Thomson Thu Mar 23 14:43:05 2023 +0000 add autocentre backend and check 6115131
+
+Claire Thomson Thu Mar 23 14:58:30 2023 +0000 add acls 9c2b42a
+
+Claire Thomson Thu Mar 23 15:06:07 2023 +0000 add autocentre internal config 00b5a26
+
+Claire Thomson Thu Mar 23 15:23:46 2023 +0000 formatting d481a0f
+
+Claire Thomson Thu Mar 23 16:19:51 2023 +0000 Merge pull request #380 from arnoldclark/INFRA-
+1146/autocentre-backend b28b4b6
+
+Claire Thomson Fri Mar 24 14:54:17 2023 +0000 revert changes in /pull/353 dlal159a
+
+Claire Thomson Mon Mar 27 17:32:22 2023 +0100 Merge pull request #383 from arnoldclark/DEVOPS-
+1921/ems-revert-testing 604badb
+
+Claire Thomson Mon Apr 3 16:05:19 2023 +0100 disable mrl/hlt from config 152489
+
+Claire Thomson Mon Apr 3 20:09:04 2023 +0100 Merge pull request #391 from arnoldclark/bau/eventstore-mrl-
+hit-disable cl 8ce50
+
+Claire Thomson Thu Apr 6 16:18:56 2023 +0100 PL-CSI-AS01/02 replace 412PL/582PL for customer services
+6d496a0
+
+Claire Thomson Thu Apr 6 17:20:18 2023 +0100 Update roles/haproxy_config/templates/haproxy-sag.cfg.j2
+201018c
+
+Claire Thomson Thu Apr 6 17:20:24 2023 +0100 Update roles/haproxy_config/templates/haproxy-sag.cfg.j2
+76cd9d6
+
+Claire Thomson Thu Apr 6 17:20:30 2023 +0100 Update roles/haproxy_config/templates/haproxy-sag.cfg.j2
+flaa621
+
+Claire Thomson Thu Apr 6 17:20:35 2023 +0100 Update roles/haproxy_config/templates/haproxy-sag.cfg.j2
+7c¢10d80
+
+Claire Thomson Thu Apr 6 17:20:43 2023 +0100 Update roles/haproxy_config/templates/haproxy-sag.cfg.j2
+317079
+
+Claire Thomson Tue Apr 11 10:14:06 2023 +0100 Merge pull request #403 from arnoldclark/devops-
+1934/update-cnp-servers c939f84
+
+Claire Thomson Mon Apr 17 10:34:21 2023 +0100 add /citnowapi/api/video path to prd k8s decbb4b
+
+Claire Thomson Mon Apr 17 11:29:48 2023 +0100 Merge pull request #409 from arnoldclark/DEVOPS-1938
+427ddd8
+
+Claire Thomson Tue Apr 18 09:56:19 2023 +0100 pass csifollowup from prdintappsprx to aso proxy cf4a493
+
+Claire Thomson Tue Apr 18 09:56:43 2023 +0100 add certificate for https for csifollowup 784092c
+
+Claire Thomson Tue Apr 18 09:57:03 2023 +0100 add backend check af9b01b
+
+Claire Thomson Tue Apr 18 11:39:12 2023 +0100 Merge branch 'main' into feature/asoc-
+2129 csi followup go live d097abb
+
+1179
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson Tue Apr 18 12:02:27 2023 +0100 remove spaces cc9bd66
+
+Claire Thomson Tue Apr 18 12:12:42 2023 +0100 add communications-sms-api/callbacks 135073d
+
+Claire Thomson Tue Apr 18 13:08:49 2023 +0100 Merge pull request #404 from arnoldclark/feature/asoc-
+2129 csi followup go live 5564127
+
+Claire Thomson Tue Apr 18 14:15:18 2023 +0100 Merge pull request #410 from arnoldclark/DEVOPS-
+1939/comms-sms 229414d
+
+Claire Thomson Fri Apr 21 11:42:44 2023 +0100 add disclosure path to ems proxy 564c218
+
+Claire Thomson Fri Apr 21 11:44:44 2023 +0100 disclosure.arnoldclark.com cert 7e211eb
+
+Claire Thomson Fri Apr 21 11:56:50 2023 +0100 add healthcheck 09f40f8
+
+Claire Thomson Mon Apr 24 11:05:12 2023 +0100 add pl-ems-ws01/02 to ems-auth backend b1c7ef5
+
+Claire Thomson Mon Apr 24 17:13:38 2023 +0100 Merge pull request #416 from arnoldclark/DEVOPS-
+1926/auth-backends dcea003
+
+Claire Thomson Mon Apr 24 18:38:05 2023 +0100 add redirect arnoldclark.digital to medium 9a86ea9
+
+Claire Thomson Tue Apr 25 13:44:00 2023 +0100 udpate arnoldclark.digital redirect cl5a0da
+
+Claire Thomson Tue Apr 25 13:47:51 2023 +0100 remove bits not needed 552efa9
+
+Claire Thomson Tue Apr 25 13:48:27 2023 +0100 Update roles/haproxy_config/templates/haproxy-prdprx.cfg.j2
+2b5d08d
+
+Claire Thomson Tue Apr 25 14:28:16 2023 +0100 Update roles/haproxy_config/templates/haproxy-ems.cfg.j2
+ee831le
+
+Claire Thomson Tue Apr 25 14:30:16 2023 +0100 Merge branch 'main' into DEVOPS-1941/disclosure-acdotcom
+7c31b11
+
+Claire Thomson Tue Apr 25 14:30:22 2023 +0100 Merge branch 'DEVOPS-1941/disclosure-acdotcom' of
+github.com:arnoldclark/ansible-haproxy into DEVOPS-1941/disclosure-acdotcom 30930d3
+
+Claire Thomson Tue Apr 25 14:32:50 2023 +0100 removed 3315cal
+
+Claire Thomson Tue Apr 25 14:33:20 2023 +0100 formatting 2e61206
+
+Claire Thomson Tue Apr 25 14:33:38 2023 +0100 formatting 7de9806
+
+Claire Thomson Tue Apr 25 16:17:47 2023 +0100 add certs 429c3f6
+
+Claire Thomson Tue Apr 25 16:18:08 2023 +0100 Merge branch 'DEVOPS-1943/arnoldclark.digital' of
+github.com:arnoldclark/ansible-haproxy into DEVOPS-1943/arnoldclark.digital ebb8744
+
+Claire Thomson Tue Apr 25 16:22:34 2023 +0100 Merge pull request #414 from arnoldclark/DEVOPS-
+1941/disclosure-acdotcom 66fe94b
+
+Claire Thomson Tue Apr 25 16:37:35 2023 +0100 add dev.cfu 2b8fal2
+
+Claire Thomson Tue Apr 25 16:40:53 2023 +0100 add icinga check 692c86c
+
+Claire Thomson Tue Apr 25 17:25:24 2023 +0100 Merge pull request #418 from arnoldclark/DEVOPS-
+1943/arnoldclark.digital 3c2315f
+
+Claire Thomson Wed Apr 26 11:27:59 2023 +0100 Merge branch 'main' into DEVOPS-1944/dev-cfu 46a4472
+
+Claire Thomson Wed Apr 26 11:46:35 2023 +0100 update healthcheck bf5b25e
+
+Claire Thomson Wed Apr 26 12:30:18 2023 +0100 Merge branch 'main' into feature/asoc-
+2086/add_ica_ auth to haproxy 7cbd38f
+
+Claire Thomson Wed Apr 26 12:31:55 2023 +0100 Merge branch 'main' into feature/asoc-
+2106/add_add_worksheet_to_ haproxy f6d19ad
+
+Claire Thomson Wed Apr 26 12:33:15 2023 +0100 Merge branch 'main' into feature/asoc-
+2150/add_ vehicle history to _haproxy 0298782
+
+Claire Thomson Thu Apr 27 09:57:41 2023 +0100 add disclosure api 2dd19f2
+
+Claire Thomson Thu Apr 27 11:11:07 2023 +0100 Merge pull request #426 from arnoldclark/DEVOPS-
+1946/disclosure-api 5567d86
+
+Claire Thomson Thu Apr 27 13:54:58 2023 +0100 Merge pull request #425 from
+armoldclark/fix_new_app_healthcheck_ endpoints c713bad
+
+Claire Thomson Fri Apr 28 12:11:45 2023 +0100 Merge pull request #419 from arnoldclark/DEVOPS-1944/dev-
+cfu 837c27c
+
+Claire Thomson Fri Apr 28 14:34:37 2023 +0100 Merge pull request #427 from arnoldclark/add-missing-acl-
+sections 586074d
+
+Claire Thomson Mon May 15 13:17:11 2023 +0100 remove comments and format 290c702
+
+Claire Thomson Mon May 15 13:17:38 2023 +0100 add valetdiary 92d39f1
+
+Claire Thomson Mon May 15 13:23:12 2023 +0100 valetdiary check a9ad8cb
+
+Claire Thomson Mon May 15 13:24:27 2023 +0100 cert b259cc8
+
+Claire Thomson Mon May 15 14:22:08 2023 +0100 Update group_vars/smo_proxy/icinga.yml 6034af6
+
+1188
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson Mon May 15 15:21:39 2023 +0100 typo 8120cef
+
+Claire Thomson Tue May 16 12:57:49 2023 +0100 Merge pull request #443 from arnoldclark/DEVOPS-
+1956/valet-diary la2d5bc
+
+Claire Thomson Fri Jun 9 11:03:54 2023 +0100 point arnoldclarkemployee.com at aks 677dd08
+
+Claire Thomson Fri Jun 9 11:11:34 2023 +0100 only point arnoldclarkemployee.com/EmsAuthenticationPortal at
+aks d37057b
+
+Claire Thomson Fri Jun 9 11:16:09 2023 +0100 remove spaces 3eaa6ab
+
+Claire Thomson Wed Jun 28 13:49:07 2023 +0100 remove marcel 19e76b5
+
+Craig McDowall (24):
+Craig McDowall Tue Mar 21 15:49:43 2023 +0000 remove 569pl 1c7baSf
+Craig McDowall Thu Mar 23 10:29:50 2023 +0000 set pl-aso-as03 as primary kconnect server a7273d7
+Craig McDowall Thu Mar 23 10:31:05 2023 +0000 Merge branch 'main' into feature/asoc-2051 remove _569pl
+ccOef2f
+Craig McDowall Wed Apr 12 09:31:13 2023 +0100 add csi followups to aftersales ha proxy b3202b9
+Craig McDowall Wed Apr 12 09:31:37 2023 +0100 Merge branch ‘main’ into feature/asoc-
+2129 csi followup go live 55c62ae
+Craig McDowall Wed Apr 12 15:19:26 2023 +0100 fix folder name cbec131
+Craig McDowall Thu Apr 13 10:39:48 2023 +0100 fix healthcheck endpoint url 73117ef
+Craig McDowall Thu Apr 20 15:03:11 2023 +0100 add ica auth to aftersales ha proxy 9746166
+Craig McDowall Thu Apr 20 15:09:27 2023 +0100 fix tabbing 73f1753
+Craig McDowall Thu Apr 20 15:37:10 2023 +0100 add aso add worksheet to haproxy 540750d
+Craig McDowall Thu Apr 20 15:55:39 2023 +0100 add vehicle stock history api to haproxy d9dc17d
+Craig McDowall Fri Apr 21 09:05:09 2023 +0100 match names across system a67883d
+Craig McDowall Fri Apr 21 09:06:04 2023 +0100 match name across system 1392b82
+Craig McDowall Fri Apr 21 14:51:17 2023 +0100 fix folder path in URL 52194a7
+Craig McDowall Wed Apr 26 12:51:53 2023 +0100 add all 3 new apps in one pr ab03f64
+Craig McDowall Wed Apr 26 13:55:51 2023 +0100 match names in icinga to haproxy-aso 95a33e5
+Craig McDowall Thu Apr 27 09:27:25 2023 +0100 update health check for new apps ae3dee4
+Craig McDowall Fri Apr 28 12:38:36 2023 +0100 add missing acl sections to haproxy setup 5a3b885
+Craig McDowall Fri Apr 28 13:15:03 2023 +0100 remove duplciate vehicle stock history entries e9c8eab
+Craig McDowall Wed May 24 12:44:00 2023 +0100 update resend checkin ha proxy setup 29550b5
+Craig McDowall Wed May 24 15:01:17 2023 +0100 add aso priority checkin api to haproxy 0686e4f
+Craig McDowall Thu May 25 12:12:22 2023 +0100 remove sticky session b374b0f
+Craig McDowall Thu May 25 16:29:27 2023 +0100 fix typo 9018c4c
+Craig McDowall Fri Jun 2 15:34:00 2023 +0100 add aso complaints to aftersales ha proxy 691ce17
+
+Diomidis Anadiotis (1):
+Diomidis Anadiotis Thu Jun 22 14:31:30 2023 +0100 Added in new haproxy config for ASO2 training 3e8cclc
+
+Greg Dolan (15):
+Greg Dolan Fri Dec 2 13:35:24 2022 +0000 Reverting back to 300 seconds 3fc8ec6
+Greg Dolan Mon Dec 5 09:52:43 2022 +0000 moving 3307 to other section c7eccd4
+Greg Dolan Mon Dec 5 10:32:40 2022 +0000 Switching back to orginal location b79da05
+Greg Dolan Mon Dec 5 11:36:01 2022 +0000 Updating collection version d2b641la
+Greg Dolan Tue Dec 6 10:11:39 2022 +0000 Merge pull request #310 from
+arnoldclark/Stockdb migration fw change 77d768d
+Greg Dolan Mon Jan 16 14:46:48 2023 +0000 Switching off SSL validation 117b032
+Greg Dolan Tue Jan 17 14:22:25 2023 +0000 testing update e4710d0
+Greg Dolan Tue Jan 17 14:22:36 2023 +0000 testing update 2 d8504f5
+Greg Dolan Wed Jan 18 11:18:49 2023 +0000 Merge pull request #331 from arnoldclark/fix_tms 0a3ea8e
+Greg Dolan Wed Mar 1 14:13:32 2023 +0000 adding crowdstrike install into base and updating collection
+£584237
+Greg Dolan Tue Apr 25 11:27:51 2023 +0100 Removing pro-lease backend and acls 32c¢465c
+Greg Dolan Tue Apr 25 11:30:53 2023 +0100 Removing icinga check 688136a
+Greg Dolan Thu Apr 27 11:03:45 2023 +0100 Removing from other proxies, leaving in acvm c47ccb6
+
+1181
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Greg Dolan Thu Apr 27 11:05:19 2023 +0100 Merge branch 'main' into DEVOPS-1940/decomm_sugarerm
+3afld40
+
+Greg Dolan Wed May 3 10:04:53 2023 +0100 Merge pull request #424 from arnoldclark/DEVOPS-
+1940/decomm_sugarcrm f1c6b88
+
+Jason White (436):
+
+Jason White Thu Dec 8 11:54:04 2022 +0000 Update base collection to 0.8.6 25clc2e
+
+Jason White Thu Dec 8 12:38:51 2022 +0000 Merge pull request #313 from arnoldclark/add-marcel 5ceb353
+
+Jason White Thu Dec 8 17:09:04 2022 +0000 Merge pull request #312 from arnoldclark/Update-base-0.8.6
+4c21a30
+
+Jason White Sun Jan 1 17:45:03 2023 +0000 Move all app certs to prdintappsprx 916f4cd
+
+Jason White Sun Jan 1 17:45:22 2023 +0000 Add hosts for aso/ems/smo, add smo backend 11ff275
+
+Jason White Sun Jan 1 17:51:26 2023 +0000 add icinga check for smo-proxy a94aef3
+
+Jason White Mon Jan 2 11:33:14 2023 +0000 Remove compromised SS GDPR servers and add new IPs 61a021e
+
+Jason White Mon Jan 2 11:48:49 2023 +0000 remove unused configs ff9c342
+
+Jason White Mon Jan 2 11:48:58 2023 +0000 add gdpr apps c6b395b
+
+Jason White Mon Jan 2 11:50:22 2023 +0000 gdpr changes for icinga checks and letsencrypt certs 547400f
+
+Jason White Mon Jan 2 12:03:24 2023 +0000 smo still has some http only apps 33b25f5
+
+Jason White Mon Jan 2 12:06:17 2023 +0000 update IPs of CFU servers 16aa8e6
+
+Jason White Mon Jan 2 12:26:54 2023 +0000 Merge pull request #315 from arnoldclark/ncdnt-30/front-smo-aso-
+ems-proxies-with-prdintappsprx d260cd5
+
+Jason White Mon Jan 2 12:27:02 2023 +0000 Merge pull request #316 from arnoldclark/incdnt-52/remove-ss-
+gdpr-servers b2d45e3
+
+Jason White Mon Jan 2 12:27:07 2023 +0000 Merge pull request #317 from arnoldclark/ncdnt-30/cfu-ip-updates
+57c28ef
+
+Jason White Mon Jan 2 14:59:49 2023 +0000 fix acls f63f2d5
+
+Jason White Tue Jan 3 14:43:56 2023 +0000 Missed removing this cert at some point in the past 8ffSaaa
+
+Jason White Tue Jan 3 17:23:14 2023 +0000 Merge pull request #318 from arnoldclark/ncdnt-30/prdintappsprx-
+fix 3495e18
+
+Jason White Tue Jan 3 17:23:22 2023 +0000 Merge pull request #319 from arnoldclark/remove-deacweb-cert
+44e70fd
+
+Jason White Wed Jan 4 10:53:02 2023 +0000 Add backend for asoconfig app ce752a3
+
+Jason White Wed Jan 4 10:54:26 2023 +0000 no aspx on healthcheck 3fce545
+
+Jason White Wed Jan 4 11:11:53 2023 +0000 Add asokeyrequestmanager and asosms backends 5a8356e
+
+Jason White Wed Jan 4 11:15:38 2023 +0000 Merge pull request #320 from arnoldclark/ncdnt-55/asoconfig
+£47b213
+
+Jason White Wed Jan 4 11:15:45 2023 +0000 Merge pull request #321 from arnoldclark/ncdnt-56/asokeyrequest-
+asosms 75c59a2
+
+Jason White Thu Jan 5 17:57:38 2023 +0000 Enforce https on some SMO apps 4890c07
+
+Jason White Fri Jan 6 11:16:59 2023 +0000 make all aso backends https and tidy up config 3118bad
+
+Jason White Fri Jan 6 12:09:02 2023 +0000 cfu internal hub requires a 5m timeout (their app handles individual
+timeouts per finance company) 67d3e57
+
+Jason White Fri Jan 6 14:27:23 2023 +0000 fix aco hostnames, make eventstore use domain names not IPs
+IccScf3
+
+Jason White Mon Jan 9 11:27:57 2023 +0000 olb still port 80 04a7baa
+
+Jason White Mon Jan 9 17:03:43 2023 +0000 add tms.arnoldclark.co.uk, disable all other ems backends £34c555
+
+Jason White Mon Jan 9 17:04:50 2023 +0000 icinga check b3b85db
+
+Jason White Mon Jan 9 17:29:57 2023 +0000 tweaks ae7d979
+
+Jason White Mon Jan 9 20:44:00 2023 +0000 Merge pull request #324 from arnoldclark/cfu-timeout f2336ea
+
+Jason White Mon Jan 9 20:49:27 2023 +0000 Merge branch 'main' into aso-https 2fc9db4
+
+Jason White Mon Jan 9 20:49:34 2023 +0000 Merge pull request #323 from arnoldclark/aso-https aae6220
+
+Jason White Mon Jan 9 20:52:33 2023 +0000 Merge pull request #322 from arnoldclark/ncdnt-30/enforce-https-
+smo d2af925
+
+Jason White Tue Jan 10 12:01:11 2023 +0000 front adcentre & adcentre-stg with prdintappsprx 943154f
+
+Jason White Tue Jan 10 13:54:30 2023 +0000 Merge pull request #326 from arnoldclark/ncdnt/adcentre bb86427
+
+Jason White Tue Jan 10 14:00:14 2023 +0000 Merge branch 'main' into ncdnt/tms 2b723eb
+
+Jason White Tue Jan 10 14:02:23 2023 +0000 Merge pull request #325 from arnoldclark/ncdnt/tms ef58399
+
+1182
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Tue Jan 10 17:43:25 2023 +0000 Redirect adcentre / to /adcentre so that HTTPS works d405c8e
+
+Jason White Tue Jan 10 18:19:40 2023 +0000 Merge pull request #327 from arnoldclark/ncdnt/adcentre-https-
+redirect-tweak fad25c6
+
+Jason White Tue Jan 10 19:00:34 2023 +0000 revert tidy up for smo-proxy - causing 503s across all backends
+8eebb2b
+
+Jason White Thu Jan 12 13:12:33 2023 +0000 add blockbuilder to prdintappsprx 12aecel
+
+Jason White Thu Jan 12 13:12:41 2023 +0000 update sagprx backends 859a9a1
+
+Jason White Thu Jan 12 13:22:12 2023 +0000 yamllint fixes 832cea9
+
+Jason White Thu Jan 12 13:58:17 2023 +0000 Merge pull request #328 from arnoldclark/ncdnt/blockbuilder
+87403ad
+
+Jason White Thu Jan 12 14:13:15 2023 +0000 eventstore api/tcp connections go direct to aso haproxy, no certs
+for those connections b422532
+
+Jason White Thu Jan 12 14:17:39 2023 +0000 Merge branch 'main' into ncdnt/aso-eventstore-tweaks c580ble
+
+Jason White Thu Jan 12 14:19:00 2023 +0000 Merge pull request #329 from arnoldclark/ncdnt/aso-eventstore-
+tweaks c38fbcb
+
+Jason White Thu Jan 12 16:11:05 2023 +0000 update tms humanresources heartbeat path {065158
+
+Jason White Thu Jan 12 16:18:44 2023 +0000 correct status code c28ee5a
+
+Jason White Thu Jan 12 17:23:04 2023 +0000 Merge pull request #330 from arnoldclark/ncdnt/tms-heartbeat
+a3e10ac
+
+Jason White Mon Feb 6 11:11:43 2023 +0000 configure production host etc for sugarcrm 7b5c244
+
+Jason White Mon Feb 6 11:22:02 2023 +0000 fix secret name 95aaed1
+
+Jason White Mon Feb 6 12:36:23 2023 +0000 Merge pull request #332 from arnoldclark/devops-1900/prd-
+sugarcrm-pasoe 58afa33
+
+Jason White Thu Feb 9 14:36:12 2023 +0000 ensure internal servers use prdsquid 78fa950
+
+Jason White Thu Feb 9 14:59:40 2023 +0000 yamlint 74bd153
+
+Jason White Thu Feb 9 21:33:17 2023 +0000 typo in acvmprx-internals pipeline config 829df67
+
+Jason White Fri Feb 10 12:07:54 2023 +0000 Merge pull request #334 from arnoldclark/infra-1119/update-
+internal-servers-to-use-prdsquid 59ele13
+
+Jason White Fri Feb 10 15:09:35 2023 +0000 remove extra var for SMO proxy 1334eb9
+
+Jason White Fri Feb 10 15:09:44 2023 +0000 fix up internal ntp servers 6925714
+
+Jason White Fri Feb 10 15:10:11 2023 +0000 add x-forwarded-proto https for pp/stgweb and make ppweb the
+reservations callback in stg c25d09e
+
+Jason White Fri Feb 10 18:19:37 2023 +0000 add in ppweb01/02 as backup servers for pre-prd gearbox rental
+8717917
+
+Jason White Tue Feb 14 12:46:57 2023 +0000 Merge pull request #335 from arnoldclark/infra-1119/fixes-and-
+iproxy-tweaks 2abec24
+
+Jason White Tue Feb 14 12:47:07 2023 +0000 Merge pull request #336 from arnoldclark/infra-954/add-ppweb-
+to-pre-prd-gearbox-rental-backend c5a0b1 1
+
+Jason White Tue Feb 14 15:37:06 2023 +0000 Update collection version to include Keith b9b2d57
+
+Jason White Wed Feb 15 00:17:31 2023 +0000 Merge pull request #338 from arnoldclark/add-keith-ansible
+c92e916
+
+Jason White Wed Feb 15 16:53:32 2023 +0000 remove iweb3/4 from pre prd gearbox rental a42e978
+
+Jason White Wed Feb 15 16:54:12 2023 +0000 remove iwebs fdal8ba
+
+Jason White Wed Feb 15 16:56:08 2023 +0000 remove domain not hosted on iproxy 89126ed
+
+Jason White Wed Feb 15 17:18:19 2023 +0000 remove old host-assure acls 41clcdc
+
+Jason White Wed Feb 15 18:00:38 2023 +0000 iweb gone 8540823
+
+Jason White Wed Feb 15 18:01:32 2023 +0000 remove all the ancient redirects 0018bcd
+
+Jason White Wed Feb 15 18:07:41 2023 +0000 fix harryfb host b6eede2
+
+Jason White Wed Feb 15 18:12:59 2023 +0000 needs to have the acl name.... 5e6057c
+
+Jason White Wed Feb 15 18:27:55 2023 +0000 more tweaking of acls etc 0d57ce7
+
+Jason White Thu Feb 16 15:52:58 2023 +0000 Don't replace worldpay prefixes with blank list 77a78c4
+
+Jason White Thu Feb 16 18:31:11 2023 +0000 add adcentre to iproxy and fix up webXX hosts 9183f44
+
+Jason White Thu Feb 16 23:21:36 2023 +0000 remove redundant cookie SERVERID, add blockbuilder to hosts
+633afda
+
+Jason White Fri Feb 17 16:00:20 2023 +0000 Merge pull request #343 from arnoldclark/asoc-1984/switch-over-
+asoconfig-initially 8c28873
+
+1183
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Sat Feb 18 20:08:47 2023 +0000 clean up common opts, fix hfb redirects, remove unused acls,
+reorder backends 545408
+
+Jason White Sat Feb 18 20:09:33 2023 +0000 Merge branch ‘main’ into infra-954/final-cutover-from-iweb
+876dlde
+
+Jason White Sat Feb 18 20:11:20 2023 +0000 Merge branch 'main' into dont-replace-worldpay-prefix-with-
+empty-list 84a21f2
+
+Jason White Sat Feb 18 21:06:50 2023 +0000 update default_backend 85b696b
+
+Jason White Sat Feb 18 21:48:59 2023 +0000 it was correct the first time... 70d0973
+
+Jason White Sun Feb 19 21:28:13 2023 +0000 gearbox_rental and gearbox_assure have been updated to listen on
+port 443 instead of separate ports ffd2584
+
+Jason White Sun Feb 19 22:15:38 2023 +0000 Merge pull request #344 from arnoldclark/infra-954/update-
+gearbox-instances-to-use-443 b4e3148
+
+Jason White Sun Feb 19 22:21:55 2023 +0000 Merge branch ‘main’ into infra-954/final-cutover-from-iweb
+4d4593c
+
+Jason White Sun Feb 19 22:23:44 2023 +0000 just being pedantic now 12df4ba
+
+Jason White Sun Feb 19 22:27:34 2023 +0000 no changes for acvmprx here c4ad58f
+
+Jason White Sun Feb 19 23:35:44 2023 +0000 typo 1a73937
+
+Jason White Sun Feb 19 23:58:04 2023 +0000 add adcentre config 9ad48d3
+
+Jason White Mon Feb 20 15:08:25 2023 +0000 Merge pull request #342 from arnoldclark/dont-replace-
+worldpay-prefix-with-empty-list e891e0a
+
+Jason White Mon Feb 20 16:33:09 2023 +0000 Merge branch 'main' into infra-954/final-cutover-from-iweb
+edbS5e11
+
+Jason White Mon Feb 20 16:41:28 2023 +0000 add .stg. back in 15cladf
+
+Jason White Mon Feb 20 16:41:33 2023 +0000 Merge branch 'infra-954/final-cutover-from-iweb' of
+github.com:arnoldclark/ansible-haproxy into infra-954/final-cutover-from-iweb 193ead0
+
+Jason White Mon Feb 20 16:42:50 2023 +0000 remove pointless hosts bed4c5f
+
+Jason White Tue Feb 21 01:36:14 2023 +0000 shorten/tidy the worldpay callback config 5a44b99
+
+Jason White Tue Feb 21 10:54:58 2023 +0000 typos 03256a4
+
+Jason White Tue Feb 21 20:36:31 2023 +0000 Merge branch ‘main’ into infra-954/final-cutover-from-iweb
+e152534
+
+Jason White Fri Feb 24 18:49:46 2023 +0000 clean the spaces dbbcb5d
+
+Jason White Mon Feb 27 14:58:33 2023 +0000 add ca and verifyhost for tls change b9f7b9f
+
+Jason White Mon Feb 27 15:50:04 2023 +0000 Merge pull request #352 from arnoldclark/asoc-1927/update-olb-
+backends-for-https 34a54f5
+
+Jason White Mon Feb 27 18:19:37 2023 +0000 change iweb status to stgweb status 75ed727
+
+Jason White Mon Feb 27 18:49:40 2023 +0000 tidy up prdintappsprx config a bit - move config to defaults
+c04cc69
+
+Jason White Mon Feb 27 19:29:36 2023 +0000 remove status.stg from iproxy config ef1b34d
+
+Jason White Mon Feb 27 19:29:45 2023 +0000 update iweb on sag a47a2fa
+
+Jason White Mon Feb 27 19:35:54 2023 +0000 comment update for prdprx fa09bf3
+
+Jason White Mon Feb 27 19:37:22 2023 +0000 update/consolidate the acdotcom host acl, make all 301s 302s as
+its stg, sticky sessions on ppweb for adcentre 83254b8
+
+Jason White Mon Feb 27 19:39:30 2023 +0000 consistent cookie options for pp/prd 380b614
+
+Jason White Mon Feb 27 19:51:41 2023 +0000 Merge branch 'main' into infra-954/final-cutover-from-iweb
+c4b644e
+
+Jason White Mon Feb 27 19:56:32 2023 +0000 remove default backend as there is no default app bcSede2
+
+Jason White Mon Feb 27 22:39:13 2023 +0000 make sure acdesign and drum are included for pp 938b9a6
+
+Jason White Mon Feb 27 22:54:13 2023 +0000 add host entries for static apps against all stgwebs 8e39d5e
+
+Jason White Tue Feb 28 12:06:08 2023 +0000 Merge branch ‘main’ into infra-954/final-cutover-from-iweb
+8dleae3
+
+Jason White Tue Feb 28 13:56:55 2023 +0000 Merge pull request #341 from arnoldclark/infra-954/final-cutover-
+from-iweb 595f5b4
+
+Jason White Tue Feb 28 20:44:38 2023 +0000 old haproxy requires check-sni 8772be9
+
+Jason White Tue Feb 28 20:44:46 2023 +0000 backend renamed b47667b
+
+Jason White Tue Feb 28 20:45:12 2023 +0000 seems to try (and fail) to connect by TLSv1.3 without this 23b0fa8
+
+Jason White Wed Mar 1 12:27:32 2023 +0000 force-tlsv12 isn't support in default-server 52aabc5
+
+1184
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Wed Mar 1 13:27:05 2023 +0000 deploy cert on ems-haproxy as it will be terminating the TLS
+connectino 5e4a7e8
+
+Jason White Wed Mar 1 13:28:08 2023 +0000 add reminder comment 3fb7e0f
+
+Jason White Wed Mar 1 13:36:06 2023 +0000 Merge pull request #354 from arnoldclark/sag-and-aso-fixes
+bal17db
+
+Jason White Wed Mar 1 15:58:54 2023 +0000 expect a 400 as that is all we seem to be able to get back 0c4cde7
+
+Jason White Wed Mar 1 17:01:25 2023 +0000 update azure requirements for the lookup script le6a5dd
+
+Jason White Wed Mar 1 18:42:16 2023 +0000 Run the playbooks as an AzureCli task so that they have
+credentials available to the lookup plugin 0f695eb
+
+Jason White Wed Mar 1 18:48:05 2023 +0000 Merge pull request #357 from arnoldclark/fix-prdintapp-
+healthcheck 04e3efd
+
+Jason White Wed Mar 1 20:43:01 2023 +0000 try with updated letsencrypt and icinga collections - newer
+letsencrypt doesn't use the outdated azure preview collection 39d393f
+
+Jason White Thu Mar 2 11:56:50 2023 +0000 clean up rdp01 config 4b72f7e
+
+Jason White Thu Mar 2 12:30:07 2023 +0000 lose the default backend e72b6a9
+
+Jason White Thu Mar 2 13:17:31 2023 +0000 no environment for the aws proxy f53dd6e
+
+Jason White Thu Mar 2 13:17:47 2023 +0000 new relic and azure service principal secrets no longer required
+44ea73d
+
+Jason White Thu Mar 2 13:17:58 2023 +0000 environment role has changed, update vars 46a48af
+
+Jason White Thu Mar 2 13:20:02 2023 +0000 update icinga collection 98b5208
+
+Jason White Thu Mar 2 13:24:04 2023 +0000 wrong host 6c9d5ee
+
+Jason White Thu Mar 2 15:27:58 2023 +0000 increment base again 7d3529a
+
+Jason White Thu Mar 2 15:28:20 2023 +0000 aws haproxy doesn't generate certs so dont bother with pyenv/le
+roles 70707a7
+
+Jason White Thu Mar 2 15:28:42 2023 +0000 remove int-prx-tester as never used baf5c99
+
+Jason White Thu Mar 2 15:28:54 2023 +0000 remove vestigial vars f79256e
+
+Jason White Thu Mar 2 15:49:56 2023 +0000 fix proxy vars 152758¢e
+
+Jason White Thu Mar 2 15:50:17 2023 +0000 Merge branch 'main' into update collection e14f266
+
+Jason White Thu Mar 2 16:06:46 2023 +0000 another base collection increment 4f2958b
+
+Jason White Thu Mar 2 22:05:15 2023 +0000 Merge pull request #356 from arnoldclark/update_ collection
+dc9bb0c
+
+Jason White Fri Mar 3 13:11:27 2023 +0000 update base collection Od3bd5f
+
+Jason White Fri Mar 3 14:10:28 2023 +0000 another base fix 060bbaa
+
+Jason White Fri Mar 3 16:08:31 2023 +0000 deb fix 5638a21
+
+Jason White Fri Mar 3 19:27:28 2023 +0000 Merge pull request #359 from arnoldclark/infra-1125/base-env-fix
+46255ed
+
+Jason White Tue Mar 7 19:17:28 2023 +0000 dont run pipelines when its a draft, remove test stage that does
+nothing 13aea5c
+
+Jason White Tue Mar 7 19:24:40 2023 +0000 consolidate pip requirements into one file b49e6b0
+
+Jason White Tue Mar 7 19:24:52 2023 +0000 consolidate tasks, upgrade python bbac465
+
+Jason White Tue Mar 7 19:25:14 2023 +0000 do all the validation at once, not piecemeal 85aec3a
+
+Jason White Tue Mar 7 19:25:23 2023 +0000 remove stuff that will never be used c45d412
+
+Jason White Tue Mar 7 19:34:06 2023 +0000 minor tweaks to config - dont expire facts cache, allow up to 30
+forks instead of only 5 1a0d73e
+
+Jason White Tue Mar 7 19:47:09 2023 +0000 get the right number of 'and's 830db3c
+
+Jason White Tue Mar 7 20:39:07 2023 +0000 missed 0e9db42
+
+Jason White Tue Mar 7 20:39:21 2023 +0000 dont provision in check mode on the singletons b8ecc93
+
+Jason White Wed Mar 8 16:30:22 2023 +0000 Merge pull request #361 from arnoldclark/pipeline-refinement
+56eada7
+
+Jason White Wed Mar 8 18:42:42 2023 +0000 rails cluster updated a24aaea
+
+Jason White Wed Mar 8 18:47:50 2023 +0000 update the http Basic auth hash for prd 67967da
+
+Jason White Wed Mar 8 18:52:33 2023 +0000 typo in acvm int's trigger 056755a
+
+Jason White Thu Mar 9 12:36:11 2023 +0000 Merge pull request #363 from arnoldclark/devops-1900/fix-prd-
+crm-healthcheck 1e25f25
+
+Jason White Thu Mar 9 15:24:54 2023 +0000 Config that was missed in pp/stgweb cutover c1fa453
+
+Jason White Thu Mar 9 16:33:53 2023 +0000 Merge pull request #364 from arnoldclark/infra-954/missing-
+iproxy-config 605a212
+
+1185
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Thu Mar 9 19:12:33 2023 +0000 replace old servers with new for testing, add health checks, enable
+ssl properly, remove old rental cruft 915a8de
+
+Jason White Fri Mar 10 17:22:35 2023 +0000 Merge pull request #365 from arnoldclark/infra-1094/prdprx03-test
+90f7b28
+
+Jason White Wed Mar 15 18:51:32 2023 +0000 config can be restored now, the issue was old certs still being
+intermittently served up a28234c
+
+Jason White Wed Mar 15 18:55:44 2023 +0000 Merge branch 'main' into infra-1142/fix-proxy-to-proxy-tls-
+issues 997e183
+
+Jason White Wed Mar 15 19:31:14 2023 +0000 ems still showing some errors/retries for some reason, and new
+healthcheck syntax doesn't work on 2.0 3d18d05
+
+Jason White Wed Mar 15 19:57:35 2023 +0000 Merge pull request #367 from arnoldclark/infra-1142/fix-proxy-
+to-proxy-tls-issues 0910aef
+
+Jason White Fri Mar 17 16:26:54 2023 +0000 we need the certs on prdprx03 for testing 9b17b15
+
+Jason White Fri Mar 17 16:27:08 2023 +0000 comment out aws backend for now so we don't end up on it
+accidentally 6f9066a
+
+Jason White Fri Mar 17 16:34:04 2023 +0000 yamllint b9cd2e9
+
+Jason White Fri Mar 17 17:13:04 2023 +0000 Merge pull request #369 from arnoldclark/infra-1094/add-www-
+cert-to-prdprx03 1¢38297
+
+Jason White Mon Mar 20 16:28:23 2023 +0000 Update pipeline.yml for Azure Pipelines 1f00367
+
+Jason White Mon Mar 20 16:31:58 2023 +0000 Update pipeline.yml for Azure Pipelines b49c0ea
+
+Jason White Mon Mar 20 16:34:23 2023 +0000 Merge pull request #370 from arnoldclark/V AL-2839/scanning
+81b78e4
+
+Jason White Mon Mar 20 16:36:13 2023 +0000 Update pipeline.yml for Azure Pipelines 282e369
+
+Jason White Tue Mar 21 17:41:04 2023 +0000 fix cookies for asosms, remove cookie directive from single-
+server dev backends as they are never used 578fdf9
+
+Jason White Tue Mar 21 17:41:17 2023 +0000 fix gearbox-assure health check header 8deab6e
+
+Jason White Tue Mar 21 18:24:43 2023 +0000 global https redirect, balance mode, hash-type. tidy up config
+327f966
+
+Jason White Tue Mar 21 19:01:25 2023 +0000 proper indentation under the frontend, pretty headings b2d39be
+
+Jason White Wed Mar 22 13:12:25 2023 +0000 Merge pull request #375 from arnoldclark/aso-prx03-tweaks
+a52ff7e
+
+Jason White Wed Mar 22 18:07:48 2023 +0000 enable https redirect for aso, change the code to 301 for all https
+redirects 6f634e6
+
+Jason White Wed Mar 22 18:10:13 2023 +0000 Merge branch 'main' into enable-aso-https-redirect 54fd4ea
+
+Jason White Wed Mar 22 19:23:03 2023 +0000 update base collection to include proxy config for qualys agent
+ea3adf4
+
+Jason White Thu Mar 23 10:52:24 2023 +0000 Merge pull request #377 from arnoldclark/enable-aso-https-
+redirect fef3249
+
+Jason White Thu Mar 23 12:13:25 2023 +0000 Merge pull request #373 from arnoldclark/feature/asoc-
+2051 remove _569pl 2a6f728
+
+Jason White Thu Mar 23 14:26:52 2023 +0000 Merge pull request #379 from
+arnoldclark/ds/enableAuthActionHandler aed8ff3
+
+Jason White Thu Mar 23 16:41:25 2023 +0000 add new prdweb07/08/09 to rails-cluster to serve acdotcom (not
+gearbox as gearbox is not on these servers) 3be27ef
+
+Jason White Thu Mar 23 17:50:01 2023 +0000 Merge pull request #381 from arnoldclark/infra-1095/bring-in-3-
+new-prdwebs 2de192e
+
+Jason White Thu Mar 23 22:07:40 2023 +0000 Merge pull request #378 from arnoldclark/infra-1125/qualys-
+proxy 8b7eldd
+
+Jason White Fri Mar 24 14:30:19 2023 +0000 add remaining prdwebs from the first tranch of deployment
+10ae48a
+
+Jason White Fri Mar 24 15:13:30 2023 +0000 Merge pull request #382 from arnoldclark/infra-1095/bring-in-
+another-3-prdwebs 5c94572
+
+Jason White Mon Mar 27 14:56:16 2023 +0100 add prdapp01 to ruby-backend, add a health check 9da587e
+
+Jason White Mon Mar 27 15:50:47 2023 +0100 Merge pull request #384 from arnoldclark/infra-1095/bring-in-
+prdapp01 2d1facd
+
+Jason White Tue Mar 28 17:18:56 2023 +0100 Add remaining prdapp servers to ruby-backend 0221e98
+
+1186
+
+
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Tue Mar 28 18:04:12 2023 +0100 Merge pull request #386 from arnoldclark/infra- 1095/bring-in-
+prdapp02-04 4076daf
+
+Jason White Wed Mar 29 13:44:03 2023 +0100 add remaining prdwebs and prdgearboxes to backends cbf9c54
+
+Jason White Wed Mar 29 14:18:46 2023 +0100 setup a rental gearbox backend on the sag with the new servers,
+add sag to the gearbox-rental-prd backend on acvm-intprx f4d9376
+
+Jason White Wed Mar 29 14:24:10 2023 +0100 health check works via sagprx 0e2750a
+
+Jason White Wed Mar 29 14:26:10 2023 +0100 Merge pull request #387 from arnoldclark/infra-1095/add-
+remaining-new-hosts dcf69ea
+
+Jason White Wed Mar 29 16:24:29 2023 +0100 Merge pull request #388 from arnoldclark/infra-1095/update-
+gearbox-rental-to-go-via-sagprx c873e6c
+
+Jason White Wed Mar 29 16:42:59 2023 +0100 these hadn't been updated previously and were broken 7fcd80f
+
+Jason White Thu Mar 30 10:26:07 2023 +0100 Merge pull request #389 from arnoldclark/infra-1095/update-
+iproxy-config b32211d
+
+Jason White Thu Mar 30 14:24:45 2023 +0100 put old prdwebs and prdrubys into backup on the proxies 6c2dcfb
+
+Jason White Mon Apr 3 19:01:32 2023 +0100 configure the sag to accept incoming urls for ace_news and
+forward to prdprx f94accd
+
+Jason White Mon Apr 3 19:12:52 2023 +0100 add backend checks for gearbox and prdprx eac9881
+
+Jason White Mon Apr 3 19:46:57 2023 +0100 fix ca path 7f7bdf9
+
+Jason White Tue Apr 4 11:04:28 2023 +0100 Merge pull request #392 from arnoldclark/devops-1926/replace-
+ruby-cluster-with-sagprx S5ac0f3b
+
+Jason White Tue Apr 4 14:56:06 2023 +0100 because our frontend proxies presented multiple certs, we need to
+use check-sni here for the health check, and sni str for the proxied traffic (does not change the http host header
+though, which remains arnoldclarkemployee.com as expected) cf04e92
+
+Jason White Tue Apr 4 14:56:43 2023 +0100 put the ruby servers into backup for now, add the sag to the
+backend with check-sni and sni str as it is required here too 8445806
+
+Jason White Tue Apr 4 15:14:15 2023 +0100 maxconn doesn't need to be set for proxy-to-proxy 0724048
+
+Jason White Wed Apr 5 17:36:31 2023 +0100 Merge pull request #393 from arnoldclark/devops-1926/working-
+ruby-apps-path eb093af
+
+Jason White Wed Apr 5 17:50:17 2023 +0100 ruby servers can come out now, sagprx requires sni str() or we get
+intermittent 503s e6e3bba
+
+Jason White Wed Apr 5 17:59:15 2023 +0100 Merge branch 'main' into infra-1097/remove-rubys-and-fix-sag
+b0852ae
+
+Jason White Thu Apr 6 11:56:50 2023 +0100 Merge pull request #394 from arnoldclark/infra-1097/remove-
+rubys-and-fix-sag f9b1823
+
+Jason White Thu Apr 6 12:43:36 2023 +0100 remove ruby servers from prdcorpprx backend 5336f7d
+
+Jason White Thu Apr 6 13:16:42 2023 +0100 new backend and acl setup for ems 6034da4
+
+Jason White Thu Apr 6 13:17:19 2023 +0100 better backend name, slight tidy 6aae002
+
+Jason White Thu Apr 6 13:17:34 2023 +0100 put ems.arnoldclark.co.uk through prdintappsprx laf3c49
+
+Jason White Thu Apr 6 13:27:24 2023 +0100 missed an acl 6f2d407
+
+Jason White Thu Apr 6 13:28:11 2023 +0100 typo f525431
+
+Jason White Thu Apr 6 14:53:36 2023 +0100 Merge pull request #395 from arnoldclark/devops-1926/ems-auth-
+changes f57326d
+
+Jason White Thu Apr 6 17:26:08 2023 +0100 remove old servers and stand up proper tls sessions with the sagprx
+£f07495
+
+Jason White Thu Apr 6 17:52:50 2023 +0100 fix verifyhost for 15pl on ems ecc4fb2
+
+Jason White Thu Apr 6 18:50:49 2023 +0100 backends already exist for employee id and ace auth apis, so we're
+going to use those instead 881581f
+
+Jason White Thu Apr 6 18:51:56 2023 +0100 revert this change, moved to another PR leSee4c
+
+Jason White Thu Apr 6 19:06:49 2023 +0100 typos 9d6ébe61
+
+Jason White Thu Apr 6 19:12:17 2023 +0100 fix the prdintappsprx -> ems-haproxy intermittent 503 issue
+34caa37
+
+Jason White Fri Apr 7 12:30:55 2023 +0100 Merge pull request #397 from arnoldclark/infra-1097/remove-
+centos-web-servers 5c78c64
+
+Jason White Fri Apr 7 12:31:02 2023 +0100 Merge pull request #398 from arnoldclark/devops-1926/use-
+existing-backends dc3b793
+
+Jason White Fri Apr 7 13:31:02 2023 +0100 replace all IPs with domain names, tidy up common config cf8ad3b
+
+Jason White Fri Apr 7 13:36:53 2023 +0100 typos 275e650
+
+1187
+
+
+--- New Page 15 ---
+Page number: 15
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Fri Apr 7 14:24:04 2023 +0100 15pl needs to verify on ems.arnoldclark.co.uk as thats the only cert
+it has af868d4
+
+Jason White Fri Apr 7 14:59:26 2023 +0100 Merge pull request #399 from arnoldclark/devops-1933/as02-ip-
+change 02a989a
+
+Jason White Fri Apr 7 16:01:06 2023 +0100 add pl-ems-ws01/02 and tidy up config 04ad735
+
+Jason White Fri Apr 7 16:01:15 2023 +0100 Merge pull request #400 from arnoldclark/devops-1926/wrong-15pl-
+verifyhost f65¢e934
+
+Jason White Fri Apr 7 16:03:05 2023 +0100 shorten nodejs config 60ed082
+
+Jason White Fri Apr 7 17:00:28 2023 +0100 actually this should all be going via prdintappsprx -> ems-haproxy
+cdaf352
+
+Jason White Fri Apr 7 17:00:41 2023 +0100 ...and this 4c984a4
+
+Jason White Fri Apr 7 17:09:23 2023 +0100 Move ems auth portal backend to ems-haproxy and front it with
+prdintappsprx 5780c38
+
+Jason White Mon Apr 10 10:48:28 2023 +0100 Merge pull request #402 from arnoldclark/devops-1926/move-
+ems-auth-portal-to-ems-haproxy 856f2e1
+
+Jason White Mon Apr 10 11:35:02 2023 +0100 Merge pull request #396 from arnoldclark/DEVOPS-1932/smo-
+customer-services 75227de
+
+Jason White Mon Apr 10 12:14:19 2023 +0100 missed out the connect port 124ca06
+
+Jason White Mon Apr 10 13:15:02 2023 +0100 tms.arnoldclark.co.uk requires a longer timeout e210221
+
+Jason White Mon Apr 10 13:15:26 2023 +0100 Merge branch 'main' into devops-1926/add-new-servers-to-auth-
+portal 56cdce5
+
+Jason White Mon Apr 10 13:32:02 2023 +0100 use the existing ace-auth backend, setup sticky sessions, add a
+3min timeout to tms-humanresources 2b9c03c
+
+Jason White Mon Apr 10 13:33:10 2023 +0100 backend removed a444f37
+
+Jason White Mon Apr 10 16:09:11 2023 +0100 replace CNP servers with new ones le3fd0f
+
+Jason White Mon Apr 10 16:24:04 2023 +0100 Merge pull request #401 from arnoldclark/devops-1926/add-new-
+servers-to-auth-portal f4c98d7
+
+Jason White Mon Apr 10 19:38:16 2023 +0100 session cookies don't need to be fqdn 15bc892
+
+Jason White Thu Apr 13 12:56:44 2023 +0100 apple/android well-known files do not need to be served from the
+proxy, they can be served by the acdotcom app servers 4dfbe0c
+
+Jason White Thu Apr 13 12:59:28 2023 +0100 update prdprx03 config as well d1c144b
+
+Jason White Thu Apr 13 12:59:40 2023 +0100 ensure the pipelines track changes to the static_files role 50da722
+
+Jason White Thu Apr 13 13:12:04 2023 +0100 remove files from haproxy_errors_files vars 34092e6
+
+Jason White Thu Apr 13 14:20:18 2023 +0100 ws01/02 need network access to prdintappsprx, waiting to hear
+back from the EMS guys, so this change needs to be committed for now 6e27556
+
+Jason White Thu Apr 13 14:36:32 2023 +0100 Merge pull request #405 from arnoldclark/devops-1935/well-
+known-files-acdotcom 07b62c9
+
+Jason White Thu Apr 13 14:56:21 2023 +0100 Merge branch 'main' into devops-1926/temp-remove-ws01/02-
+from-haproxy 91f61e6
+
+Jason White Thu Apr 13 15:12:42 2023 +0100 setup temp test domains for adcentre prd deployment to prdintapp
+backend 824be0f
+
+Jason White Thu Apr 13 15:17:31 2023 +0100 Merge branch 'main' into infra-1107/test-domain-for-adcentre-prd
+Obc8b64
+
+Jason White Thu Apr 13 15:43:08 2023 +0100 braces not required as its not an annonymous acl eac023f
+
+Jason White Thu Apr 13 15:43:12 2023 +0100 Merge branch 'infra-1107/test-domain-for-adcentre-prd' of
+github.com:arnoldclark/ansible-haproxy into infra-1107/test-domain-for-adcentre-prd 179e37b
+
+Jason White Thu Apr 13 15:58:14 2023 +0100 Merge pull request #406 from arnoldclark/devops-1926/temp-
+remove-ws01/02-from-haproxy 7afl05d
+
+Jason White Fri Apr 14 09:09:30 2023 +0100 Merge pull request #407 from arnoldclark/infra- 1 107/test-domain-
+for-adcentre-prd 48701dd
+
+Jason White Fri Apr 14 10:36:22 2023 +0100 redirects should be 302s for this, and setting the host header just
+redirects us to real prd - removing it works anyway 6300ab6
+
+Jason White Fri Apr 14 10:58:45 2023 +0100 Merge pull request #408 from arnoldclark/infra-1077/adcentre-prd-
+test-fix 838823a
+
+Jason White Fri Apr 21 12:59:25 2023 +0100 remove old backends and send adcentre/blockbuilder to
+prdintapp01/02. remove adcentre-stg as stg/pp are hosted on iproxy 84f74ca
+
+1188
+
+
+--- New Page 16 ---
+Page number: 16
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Fri Apr 21 13:00:47 2023 +0100 configure sag to use prdintappsprx as backend for adcentre and
+gdpr/prefs 3b570a4
+
+Jason White Fri Apr 21 13:02:28 2023 +0100 update icinga checks for sag 34c50c3
+
+Jason White Fri Apr 21 13:11:57 2023 +0100 fixups 2aldc12
+
+Jason White Fri Apr 21 13:21:33 2023 +0100 fixing validation errors 4353f87
+
+Jason White Fri Apr 21 13:29:06 2023 +0100 missed d758c84
+
+Jason White Mon Apr 24 10:08:54 2023 +0100 Merge pull request #415 from arnoldclark/infra-1077/adcentre-
+cutover a22d591
+
+Jason White Mon Apr 24 16:15:08 2023 +0100 update base collection to pick up latest mail config 255c9c3
+
+Jason White Tue Apr 25 16:34:36 2023 +0100 Merge pull request #417 from arnoldclark/infra-1132/base-update-
+with-latest-mail-config 491f787
+
+Jason White Tue Apr 25 16:55:21 2023 +0100 stockdb not in use via devjump, imagesdb required by web team
+36f34fa
+
+Jason White Tue Apr 25 17:09:07 2023 +0100 Merge pull request #420 from arnoldclark/reaplce-stockdb-with-
+imagesdb-on-devjump df94283
+
+Jason White Tue Apr 25 18:17:27 2023 +0100 ems.ac.co.uk moved to prdintappsprx, so change the backend to
+point back at 15pl as it was previously 6560989
+
+Jason White Tue Apr 25 18:22:29 2023 +0100 new prdgearbox01/02 are in dns now f64ae04
+
+Jason White Tue Apr 25 18:24:59 2023 +0100 also update prdgearbox & prdwebs on prdprx 4c29677
+
+Jason White Wed Apr 26 11:20:27 2023 +0100 Merge pull request #422 from arnoldclark/update-
+prdgearbox01/02-names-in-sag e796e9d
+
+Jason White Wed Apr 26 13:18:34 2023 +0100 Update group _vars/aftersales_haproxy/icinga.yml 2956d10
+
+Jason White Wed Apr 26 13:18:39 2023 +0100 Update group_vars/prdintappsprx/letsencrypt.yml 09d6a75
+
+Jason White Wed Apr 26 14:23:50 2023 +0100 newline/tailing space fix blfdlel
+
+Jason White Wed Apr 26 15:31:20 2023 +0100 Merge pull request #423 from
+armoldclark/feature/add_ica_addworksheet_and_vehiclestockhistory b2f2155
+
+Jason White Tue May 2 12:13:57 2023 +0100 Merge pull request #428 from arnoldclark/task/andym20230428-
+aftersales-corrections-and-tidyups 98¢3293
+
+Jason White Tue May 2 17:35:49 2023 +0100 add temporary internal test domain for dr.ace deed491
+
+Jason White Wed May 3 09:49:15 2023 +0100 Merge pull request #429 from arnoldclark/devops-1949/temp-dr-
+ace-routing 86469a8
+
+Jason White Wed May 3 11:47:52 2023 +0100 disable tarpit - doesn't provide 'security' and more often than not
+shoots us in the foot 98e720f
+
+Jason White Wed May 3 12:37:19 2023 +0100 send autocentre traffic to the acvm external proxy from
+prdintappsprx for branch access internally f731a40
+
+Jason White Wed May 3 12:37:25 2023 +0100 icinga check a073adc
+
+Jason White Wed May 3 12:37:45 2023 +0100 remove autocentre config from acvm-int 108e715
+
+Jason White Wed May 3 12:49:12 2023 +0100 Merge pull request #431 from arnoldclark/remove-sag-tarpit
+063b66e
+
+Jason White Wed May 3 12:50:44 2023 +0100 Merge pull request #430 from arnoldclark/sb/VAL-
+2871_UpdateAccountantsPortalProxyConfig 0b3976d
+
+Jason White Wed May 3 14:17:58 2023 +0100 Merge pull request #432 from arnoldclark/infra-1146/autocentre-
+via-prdintappsprx 92285d6
+
+Jason White Wed May 3 15:32:21 2023 +0100 use host headers not sni as prdintappsprx doesnt use the host for
+sni so the rules never match fb22fcc
+
+Jason White Wed May 3 15:32:39 2023 +0100 need to explictly set check-ssl since its on a different port c3b93df
+
+Jason White Wed May 3 15:35:12 2023 +0100 separate host acl needed b504832
+
+Jason White Wed May 3 16:17:11 2023 +0100 add routing and certs for ace auth portal to aks, make drum https a
+301 and make the-hub https with a 302 for the moment 67fc351
+
+Jason White Wed May 3 16:55:30 2023 +0100 Merge pull request #433 from arnoldclark/infra-1146/fixes
+3b5bda0
+
+Jason White Thu May 4 08:31:56 2023 +0100 Merge pull request #434 from arnoldclark/devops-195 1/ace-auth-
+external 884beSc
+
+Jason White Thu May 4 15:52:59 2023 +0100 change db frontends/backends to listeners and add timeouts for idb
+28f22e7
+
+Jason White Thu May 4 18:17:46 2023 +0100 Merge pull request #435 from arnoldclark/infra-1152/add-
+timeouts-to-idb-and-use-listeners 4bf4c6a
+
+1189
+
+
+--- New Page 17 ---
+Page number: 17
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Thu May 4 20:38:27 2023 +0100 make eventwriter and pdftoolkit tls on the backend, tidy backend
+configs generally 35bb67e
+
+Jason White Fri May 5 16:44:05 2023 +0100 tweak the acl order so that autocentre.acvm.com/affinity works as
+expected 02422e4
+
+Jason White Fri May 5 16:47:08 2023 +0100 Merge pull request #437 from arnoldclark/infra- 1 146/fix-acl-order-
+for-affinity aa9036a
+
+Jason White Wed May 10 18:16:27 2023 +0100 Merge branch 'main' into devops-1950/tls-backends 89ad775
+
+Jason White Thu May 11 10:32:49 2023 +0100 Merge pull request #436 from arnoldclark/devops-1950/tls-
+backends b45ff66
+
+Jason White Thu May 11 14:12:15 2023 +0100 correct labels on the sales-eventwriter backend 87288a0
+
+Jason White Thu May 11 14:47:42 2023 +0100 Update group_vars/prdintappsprx/letsencrypt.yml dafd2b2
+
+Jason White Thu May 11 15:26:06 2023 +0100 Merge pull request #438 from arnoldclark/sb/VAL-
+2989 AddProxyConfigForAccountsPortalApi 863efcc
+
+Jason White Thu May 11 15:56:49 2023 +0100 Adding pl-smo-as04 to the pdftoolkit backend 1cc23bd
+
+Jason White Thu May 11 16:49:52 2023 +0100 tweak pl-smo-as04 priority cb57201
+
+Jason White Thu May 11 17:19:04 2023 +0100 Merge pull request #439 from arnoldclark/devops-1950/fix-labels
+c370718
+
+Jason White Fri May 12 10:19:11 2023 +0100 Add ‘option allbackups* to requested SMO backends 7f3dc42
+
+Jason White Fri May 12 11:33:11 2023 +0100 Merge pull request #440 from arnoldclark/devops-1953/smo-
+allbackups 31376ae
+
+Jason White Fri May 12 12:18:17 2023 +0100 add missing db nodes, make it a listener rather than
+frontend/backend, and update the name of the frontend acvm-ext uses ddec6da
+
+Jason White Fri May 12 13:55:27 2023 +0100 Merge pull request #442 from
+arnoldclark/sb/RemoveUnusedProxyConfig 27ecc8b
+
+Jason White Fri May 12 14:24:55 2023 +0100 Merge pull request #441 from arnoldclark/prdprx-missing-db-
+nodes 4169eb1
+
+Jason White Tue May 16 12:29:30 2023 +0100 alter ace config to allow all traffic to aks, except ace_news which
+goes to the ruby backend. remove erroneous language character from newsroom acl 1063d59
+
+Jason White Tue May 16 12:53:48 2023 +0100 allow access to clusterdb and imagesdb via the sag, rather than
+devjump e46ec65
+
+Jason White Tue May 16 13:57:17 2023 +0100 Merge pull request #445 from arnoldclark/devops-1951/ace-
+external 4757027
+
+Jason White Tue May 16 16:18:13 2023 +0100 Merge pull request #446 from arnoldclark/devops-1954/dev-
+access-to-dbs-from-sag a982169
+
+Jason White Tue May 16 17:33:27 2023 +0100 need port 3307 open on the host, and remove the devjump
+copypasta for the bind line a5b2665
+
+Jason White Tue May 16 17:35:03 2023 +0100 Merge branch 'main' into devops-1954/open-port-and-bind-to-
+correct-host 60f6edd
+
+Jason White Tue May 16 18:11:40 2023 +0100 needs to be in tep mode and tcp logging turned on 8512de2
+
+Jason White Wed May 17 10:16:49 2023 +0100 Merge pull request #447 from arnoldclark/devops-1954/open-
+port-and-bind-to-correct-host bfca75e
+
+Jason White Wed May 17 17:44:17 2023 +0100 remove devjump config, unused vars, make the default version
+2.2, delete the url_checker / test_runner stuff as it has never been used, remove 'dev' vaulted vars as also never used
+9d4b128
+
+Jason White Wed May 17 17:58:15 2023 +0100 delete old tls certs that haven't been used in years 9cd0590
+
+Jason White Wed May 17 17:58:29 2023 +0100 delete the RHELS8 stuff ae88b63
+
+Jason White Thu May 18 16:11:55 2023 +0100 add gdpr-app backend to sag but don't direct traffic there yet
+196420f
+
+Jason White Thu May 18 16:15:25 2023 +0100 make the gdpr app backend tls all the way through + config tidy
+up 07d2579
+
+Jason White Thu May 18 17:17:40 2023 +0100 redirect drum to acdotcom, include the sans www. domain
+c38db02
+
+Jason White Thu May 18 17:32:06 2023 +0100 remove from iproxy 2a59d33
+
+Jason White Thu May 18 18:22:08 2023 +0100 Merge pull request #451 from arnoldclark/devops-1958/decomm-
+drum b89fb89
+
+Jason White Thu May 18 18:58:20 2023 +0100 Merge pull request #448 from arnoldclark/devops-1954/remove-
+devjump 92a7ed8
+
+1198
+
+
+--- New Page 18 ---
+Page number: 18
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Fri May 19 09:58:58 2023 +0100 Merge pull request #449 from arnoldclark/infra-1171/stage-one
+Obc3c59
+
+Jason White Thu May 25 17:24:27 2023 +0100 remove references to marketing/midwest as they're not serving
+anything 580640c
+
+Jason White Thu May 25 18:46:52 2023 +0100 configure prdintappsprx for arnoldclark.com domains required
+for switching the internal acdotcom dns records from the external IP to prdintappsprx 65c4fle
+
+Jason White Thu May 25 18:48:38 2023 +0100 pass through internal acdotcom access to prdprx, separate
+existing host acl and rename to differentiate that it is only there for routing certain external requests, and only on the
+ww.arnoldclark.com name (not all of the names defined in -internal) 24dfbf4
+
+Jason White Thu May 25 18:58:59 2023 +0100 icinga check for sagprx on prdintappsprx 3546245
+
+Jason White Mon May 29 12:40:34 2023 +0100 upgrade haproxy to 2.2, remove admin socket tcp front/back as
+no longer used and not secure 0b88d05
+
+Jason White Mon May 29 14:56:04 2023 +0100 Merge pull request #456 from arnoldclark/infra-1145/upgrade-
+smo-dev-to-2.2 84f4c¢38
+
+Jason White Mon May 29 17:30:11 2023 +0100 roll the admin password as requested e795a3d
+
+Jason White Mon May 29 17:30:46 2023 +0100 remove tcp frontend/backend to the stats socket - not
+used/insecure. also remove redis port as no redis is served 009bbd5
+
+Jason White Mon May 29 18:13:40 2023 +0100 fix the logic in haproxy-config.yml for working out singleton
+proxies and getting their IP correctly (were being skipped previously as we only config 'live' due to there being no
+'standby') 380606c
+
+Jason White Mon May 29 18:16:57 2023 +0100 add the haproxy_keepalived.yml playbook back in for the
+singletons as it also installs and upgrades haproxy itself, and is already setup to skip the keepalived bits for singletons
+a82f22f
+
+Jason White Mon May 29 18:30:23 2023 +0100 couple of tweaks to iproxy to reflect actual config manually
+tweaked 5f843be
+
+Jason White Tue May 30 10:40:20 2023 +0100 Merge pull request #458 from arnoldclark/infra-1145/fix-
+singleton-haproxy-playbook-and-pipelines lab3a7f
+
+Jason White Tue May 30 12:08:28 2023 +0100 Merge branch 'main' into infra-1171/gdpr-app-https-backend
+9456344
+
+Jason White Tue May 30 12:09:35 2023 +0100 remove commented sections as HTTPS is working fine (manually
+in place on both proxies to test) 425e671
+
+Jason White Wed Jun 7 17:20:19 2023 +0100 upgrade remaining single proxies to 2.2 4c76234
+
+Jason White Wed Jun 7 18:30:33 2023 +0100 the check|provision_haproxy_keepalived stage needs to be part of
+the environ cleanup dependencies so that the pyenv-virtualenv is not removed while that stage is still running (but the
+others have completed) 03b1210
+
+Jason White Fri Jun 9 13:53:18 2023 +0100 prdcorpprx already limits the traffic sent to prdintappsprx/ems-
+haproxy to the /EmsAuthenticationPortal path, so as that's the only thing going through here at the moment we don't
+need path spec and no traffic will be going to ems-haproxy for arnoldclarkemployee.com so we don't need it in the
+acl configs for that 374c3d5
+
+Jason White Fri Jun 9 13:53:46 2023 +0100 add in the db listener changes I've already made manually while
+tuning prdintdb f4328c7
+
+Jason White Mon Jun 12 10:08:36 2023 +0100 Merge pull request #461 from arnoldclark/infra-1145/upgrade-
+single-proxies-to-2.2 91c48c4
+
+Jason White Mon Jun 12 14:08:48 2023 +0100 correct the firewalld ports for prdintappsprx - redis isn't used, nor
+is 8080, and 3306 should be included e8f36dc
+
+Jason White Tue Jun 13 13:24:32 2023 +0100 Merge branch 'main' into infra-1171/gdpr-app-https-backend
+b0c8d00
+
+Jason White Tue Jun 13 13:26:24 2023 +0100 Merge branch 'main' into ds/cleanUpUnused 789883c
+
+Jason White Tue Jun 13 13:26:34 2023 +0100 Merge branch 'main' into devops-1968/smo-admin-password-+-
+remove-stats-tcp 21d88b9
+
+Jason White Tue Jun 13 14:51:15 2023 +0100 commit the manual changes made to the proxy config since the
+HQK network incident ce40c14
+
+Jason White Tue Jun 13 14:51:19 2023 +0100 Merge branch 'devops-1968/smo-admin-password-+-remove-stats-
+tcp' of github.com:arnoldclark/ansible-haproxy into devops-1968/smo-admin-password-+-remove-stats-tcp 3bfc2ce
+
+Jason White Tue Jun 13 17:58:01 2023 +0100 Merge branch 'main' into DEVOPS-1969/int-ems-to-azure
+13 1cae2
+
+Jason White Tue Jun 13 18:02:11 2023 +0100 include persisted changes from HQK network outage 7bd54cc
+
+1191
+
+
+--- New Page 19 ---
+Page number: 19
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Tue Jun 13 18:47:56 2023 +0100 include manually applied changes from #452 1003760
+
+Jason White Tue Jun 13 20:39:49 2023 +0100 Merge pull request #450 from arnoldclark/infra-1171/gdpr-app-
+https-backend d8ed4ce
+
+Jason White Wed Jun 14 10:01:03 2023 +0100 Merge pull request #462 from arnoldclark/DEVOPS-1969/int-
+ems-to-azure 242476f
+
+Jason White Wed Jun 14 11:11:53 2023 +0100 Merge pull request #457 from arnoldclark/devops-1968/smo-
+admin-password-+-remove-stats-tcp 855ec34
+
+Jason White Fri Jun 16 17:06:32 2023 +0100 Merge branch 'main' into ds/cleanUpUnused 2c¢3d2c6
+
+Jason White Fri Jun 16 17:18:45 2023 +0100 improve db listener config, add labels, use tracking 2632cac
+
+Jason White Fri Jun 16 17:19:42 2023 +0100 remove superfluous actyres acls and the old let's encrypt web
+backend (not used in years) 844ec64
+
+Jason White Fri Jun 16 17:28:12 2023 +0100 put icinga check in for clusterdb e964737
+
+Jason White Fri Jun 16 17:30:01 2023 +0100 add icinga check for prdintdb cluster 8790f12
+
+Jason White Fri Jun 16 17:45:04 2023 +0100 Merge branch 'main' into feature/asoc-2 147/add-aso-checkin-api-to-
+haproxy 47c6b26
+
+Jason White Fri Jun 16 17:47:05 2023 +0100 fixing linting issue 01a690f
+
+Jason White Fri Jun 16 17:48:15 2023 +0100 Merge branch 'main' into mm/er-501-voucher-api 02a1d8d
+
+Jason White Fri Jun 16 17:50:09 2023 +0100 Merge branch 'main' into sb/VAL-
+3098 AddProxyConfigForDigitalPrint Oc6fbS5e
+
+Jason White Fri Jun 16 17:52:04 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaints-
+back cl8bcca
+
+Jason White Fri Jun 16 17:52:54 2023 +0100 Merge pull request #459 from arnoldclark/rm/reserve-now-routing
+6669abc
+
+Jason White Fri Jun 16 18:04:40 2023 +0100 fix duplicate key name in icinga checks 41ab03d
+
+Jason White Mon Jun 19 10:35:44 2023 +0100 Merge pull request #453 from arnoldclark/ds/cleanUpUnused
+2ddc543
+
+Jason White Mon Jun 19 10:38:11 2023 +0100 correct acl name Oafbb9d
+
+Jason White Mon Jun 19 10:39:59 2023 +0100 load-balance all cdn/images servers as they don't need to be in
+backup d544062
+
+Jason White Mon Jun 19 10:40:14 2023 +0100 fix icinga check for corpdbprx 14efa0f
+
+Jason White Mon Jun 19 10:40:50 2023 +0100 Merge branch 'main' into mm/er-501-voucher-api fefae99
+
+Jason White Mon Jun 19 10:41:54 2023 +0100 Merge pull request #452 from arnoldclark/feature/asoc-2 147/add-
+aso-checkin-api-to-haproxy db79d8 1
+
+Jason White Mon Jun 19 10:46:37 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaints-
+back 1f3f700
+
+Jason White Mon Jun 19 11:24:18 2023 +0100 Upgrade ACVM External to HAproxy 2.2 920d7e6
+
+Jason White Mon Jun 19 11:25:54 2023 +0100 Upgrade ACVM Internal to HAproxy 2.2 9ca49c5
+
+Jason White Mon Jun 19 11:26:56 2023 +0100 Upgrade ASO to HAproxy 2.2 0cal4cf
+
+Jason White Mon Jun 19 11:27:45 2023 +0100 Upgrade EMS to HAproxy 2.2 b57becb
+
+Jason White Mon Jun 19 11:28:51 2023 +0100 Upgrade GDPR (corpdb) to HAproxy 2.2 19feb3b
+
+Jason White Mon Jun 19 11:29:57 2023 +0100 Upgrade ACE External (corp) to HAproxy 2.2 401f154
+
+Jason White Mon Jun 19 11:30:54 2023 +0100 Upgrades Images/DB to HAproxy 2.2 5leac66
+
+Jason White Mon Jun 19 11:31:56 2023 +0100 Upgrade AC Internal to HAproxy 2.2 8f72699
+
+Jason White Mon Jun 19 11:33:02 2023 +0100 Upgrade SMO to HAproxy 2.2 b&cbcd6
+
+Jason White Mon Jun 19 16:14:47 2023 +0100 Merge pull request #454 from arnoldclark/mm/er-501-voucher-
+api 23caf13
+
+Jason White Mon Jun 19 16:16:56 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaints-
+back 1b005e0
+
+Jason White Mon Jun 19 16:25:21 2023 +0100 Configure prdintappsprx to front new prdacimage01 /
+acimage.arnoldclark.com 418a58f
+
+Jason White Mon Jun 19 16:37:53 2023 +0100 put vcache servers into backup, serve from prd/mrlimages01
+instead, rename the backends 91a1f69
+
+Jason White Mon Jun 19 16:46:42 2023 +0100 missed a change d657d54
+
+Jason White Mon Jun 19 17:37:47 2023 +0100 correct the eventstore backend configs, missed when bringing the
+01 proxy back 2435166
+
+Jason White Mon Jun 19 18:35:06 2023 +0100 Merge branch 'main' into sb/VAL-
+3098 AddProxyConfigForDigitalPrint 399d88a
+
+1192
+
+
+--- New Page 20 ---
+Page number: 20
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Tue Jun 20 10:13:02 2023 +0100 Merge pull request #474 from arnoldclark/infra-1179/fix-aso-es-
+config ec70538
+
+Jason White Tue Jun 20 10:14:37 2023 +0100 add missing contacts and descr fields to icinga check c65e2a2
+
+Jason White Tue Jun 20 10:14:47 2023 +0100 Merge branch 'main' into feature/asoc-2006/bring-aso-complaints-
+back d88a28f
+
+Jason White Tue Jun 20 12:14:07 2023 +0100 Merge pull request #460 from arnoldclark/feature/asoc-
+2006/bring-aso-complaints-back ef96f3 1
+
+Jason White Tue Jun 20 14:33:43 2023 +0100 Merge pull request #455 from arnoldclark/infra-1167/acdotcom-
+internal-access 15285be
+
+Jason White Tue Jun 20 19:56:27 2023 +0100 Merge pull request #473 from arnoldclark/infra-758/acimage
+9d4355d
+
+Jason White Tue Jun 20 19:59:02 2023 +0100 Merge branch 'main' into sb/VAL-
+3098 AddProxyConfigForDigitalPrint acbf487
+
+Jason White Tue Jun 20 20:01:06 2023 +0100 Merge branch 'main' into infra-1145/upgrade-acvm-ext-2.2
+22dd4ae
+
+Jason White Tue Jun 20 20:01:28 2023 +0100 Merge branch 'main' into infra-1145/upgrade-acvm-int-2.2
+2e318al
+
+Jason White Tue Jun 20 20:01:39 2023 +0100 Merge branch 'main’ into infra-1145/upgrade-aso-2.2 38f5a17
+
+Jason White Tue Jun 20 20:01:50 2023 +0100 Merge branch 'main' into infra-1145/upgrade-ems-2.2 00b0a97
+
+Jason White Tue Jun 20 20:02:30 2023 +0100 Merge branch 'main’ into infra-1145/upgrade-gdpr-2.2 e4220c8
+
+Jason White Tue Jun 20 20:02:43 2023 +0100 Merge branch 'main' into infra-1145/upgrade-corp-2.2 5c7bc10
+
+Jason White Tue Jun 20 20:02:58 2023 +0100 Merge branch 'main' into infra-1145/upgrade-dbprx-2.2 6ebc797
+
+Jason White Tue Jun 20 20:03:12 2023 +0100 Merge branch 'main' into infra-1145/upgrade-intapps-2.2 6a674f7
+
+Jason White Tue Jun 20 20:03:23 2023 +0100 Merge branch 'main' into infra-1145/upgrade-smo-2.2 d015bae
+
+Jason White Tue Jun 20 22:49:00 2023 +0100 add missing descr from icinga check 62dafee
+
+Jason White Wed Jun 21 10:52:58 2023 +0100 Merge pull request #463 from arnoldclark/sb/V AL-
+3098 AddProxyConfigForDigitalPrint 3194300
+
+Jason White Wed Jun 21 16:30:20 2023 +0100 Merge pull request #464 from arnoldclark/infra-1145/upgrade-
+acvm-ext-2.2 e3a3812
+
+Jason White Wed Jun 21 17:07:33 2023 +0100 fix critical issues with acvm cfg for 2.2 - reqidel & reqiadd are
+gone but also not required in this config anyway as they already get the correct host headers 542bb8d
+
+Jason White Wed Jun 21 18:29:00 2023 +0100 [skip ci] replace ‘throttle: 1° with ‘serial: 1° as JL misunderstood
+what ‘throttle’ does and the intended behaviour requires ‘serial’ b8b6f80
+
+Jason White Wed Jun 21 18:34:26 2023 +0100 Merge pull request #468 from arnoldclark/infra-1145/upgrade-
+gdpr-2.2 138835e
+
+Jason White Wed Jun 21 20:12:00 2023 +0100 [skip ci] serial can't be used at task level, throttle was almost the
+solution but doesn't fail the whole play as soon as one host fails the upgrade step, so we need to hack it a bit with a
+loop, delegate _to, and run_once 4e9fc61
+
+Jason White Wed Jun 21 20:13:50 2023 +0100 Merge pull request #470 from arnoldclark/infra-1145/upgrade-
+dbprx-2.2 9707986
+
+Jason White Thu Jun 22 10:04:25 2023 +0100 Merge pull request #465 from arnoldclark/infra-1145/upgrade-
+acvm-int-2.2 dba8220
+
+Jason White Thu Jun 22 10:52:22 2023 +0100 Merge pull request #466 from arnoldclark/infra-1145/upgrade-aso-
+2.2 fd2aae8
+
+Jason White Thu Jun 22 14:16:07 2023 +0100 Merge pull request #467 from arnoldclark/infra-1145/upgrade-
+ems-2.2 a9d4bc7
+
+Jason White Thu Jun 22 15:12:20 2023 +0100 Merge pull request #469 from arnoldclark/infra-1145/upgrade-
+corp-2.2 01b5520
+
+Jason White Thu Jun 22 18:39:46 2023 +0100 Merge pull request #472 from arnoldclark/infra-1145/upgrade-
+smo-2.2 3aac970
+
+Jason White Thu Jun 22 18:49:17 2023 +0100 Merge pull request #471 from arnoldclark/infra-1145/upgrade-
+intapps-2.2 5b0486a
+
+Jason White Fri Jun 23 16:10:37 2023 +0100 prepare to accept ace directly via prdintappsprx internally, ensure
+/newsroom goes to sagprx -> prdprx -> ruby-backend -> ace_news cfb9226
+
+Jason White Tue Jun 27 10:24:12 2023 +0100 Merge pull request #476 from arnoldclark/devops-1977/ace-
+newsroom-prdintappsprx 89225f8
+
+1193
+
+
+--- New Page 21 ---
+Page number: 21
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Michael Meina (3):
+
+Michael Meina Thu May 25 15:16:19 2023 +0100 Added new config for voucher api d138504
+
+Michael Meina Tue May 30 09:07:52 2023 +0100 Update roles/haproxy_config/templates/haproxy-ems.cfg.j2
+£4534cf
+
+Michael Meina Mon Jun 5 09:23:51 2023 +0100 Merge branch 'main' into mm/er-501-voucher-api 7c91928
+
+Riccardo Margiotta (1):
+Riccardo Margiotta Wed May 31 12:15:50 2023 +0100 Route /reserve-now to acdotcom. 75e3243
+
+Scott Bell (9):
+Scott Bell Wed May 3 11:47:01 2023 +0100 Update haproxy-prdintappsprx.cfg.j2 90cb795
+Scott Bell Thu May 11 11:11:33 2023 +0100 Update haproxy-prdintappsprx.cfg.j2 Oefle81
+Scott Bell Thu May 11 13:26:10 2023 +0100 Added missing config £77792c
+Scott Bell Thu May 11 13:27:08 2023 +0100 Update haproxy-prdintappsprx.cfg.j2 6f4c8dd
+Scott Bell Thu May 11 13:27:43 2023 +0100 Update haproxy-prdintappsprx.cfg.j2 6ba90fe
+Scott Bell Fri May 12 10:58:39 2023 +0100 Removed unused proxy config 3584a9f
+Scott Bell Fri May 12 13:04:00 2023 +0100 Merge branch 'main' into sb/RemoveUnusedProxyConfig 0a5f542
+Scott Bell Mon Jun 5 15:15:11 2023 +0100 Added Config For Digital Print and Digital Print Api 0157elb
+Scott Bell Mon Jun 12 14:46:34 2023 +0100 Merge branch 'main' into sb/VAL-
+3098 AddProxyConfigForDigitalPrint 9cfa633
+
+Zoe Mackay (5):
+
+Zoe Mackay Tue Feb 28 07:57:34 2023 +0000 Merge pull request #349 from arnoldclark/infra-1130/switch-aks
+baaaabb
+
+Zoe Mackay Fri Mar 31 08:23:32 2023 +0100 Merge pull request #390 from arnoldclark/infra-1096/put-old-
+servers-into-backup f1f79b9
+
+Zoe Mackay Wed Apr 26 09:01:29 2023 +0100 Merge pull request #421 from arnoldclark/update-tms-
+humanresources-backend 902e5fe
+
+Zoe Mackay Tue May 16 08:18:06 2023 +0100 switch live aks cluster to prd-1 £94393b
+
+Zoe Mackay Wed May 17 08:35:39 2023 +0100 Merge pull request #444 from arnoldclark/infra-1 13 1/switch-
+aks-clusters 427d9d3
+
+davidstev (3):
+
+davidstev Thu Mar 23 12:41:25 2023 +0000 Re-enabling the Auth Action Handler. ab120f6
+
+davidstev Wed May 24 16:54:03 2023 +0100 Removal of all DEV (Apart from Dev-ACE-NODE 01 and 02) and
+TEST checks for EMS sites from the EMS and PrdIntApps Proxy as they dont exist and are not likely to be brought
+back Removal of 3 Live sites no longer in use from the EMS and PrdIntApps Proxy Removal of all letsencrypt EMS
+certificate domains no longer in use Removal of all icinga checks no longer required 9959al9
+
+davidstev Thu May 25 08:16:51 2023 +0100 Removing Sites No Longer In use 62c51bd
+
+stephen 1426 (3):
+stephen1426 Mon Mar 20 14:32:38 2023 +0000 add scanning.arnoldclark.com e6f287b
+stephen1426 Tue Mar 21 19:40:48 2023 +0000 add purchases.arnoldclark.com 5ab00b7
+stephenl1426 Wed Mar 22 13:15:30 2023 +0000 Merge branch 'main' into VAL-2881-purchases 3331f9d
+
+zoemacl 1@hotmail.com (2):
+zoemac! 1@hotmail.com Mon Feb 13 14:28:28 2023 +0000 add keith 7f3fdf2
+zoemac! 1@hotmail.com Fri Feb 24 14:59:10 2023 +0000 making prd-1 backup cluster 8c91439
+
+1194
+
+
+--- New Page 22 ---
+Page number: 22
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+# Check if the argument is provided
+
+if ($args.Count -ne 1) {
+Write-Host "Usage: .\process_repos.psl <repos_file>"
+exit |
+
+}
+
+$repos_file = $args[0]
+$base_url = "https://url.uk.m.mimecastprotect.com/s/IV37CkRY giqRN5DiVg8dB?domain=github.com"
+$output_dir = "C:\Users\david.moffat\source\repos"
+
+# Check if the file exists
+
+if (-not (Test-Path $repos_file -PathType Leaf)) {
+Write-Host "Error: File '$repos_file' not found."
+exit 1
+
+}
+
+# Create the output directory if it doesn't exist
+if (-not (Test-Path $output_dir -PathType Container)) {
+New-Item -Path $output_dir -ItemType Directory | Out-Null
+
+}
+
+# Loop through each line in the file
+Get-Content $repos_file | ForEach-Object {
+# Clone the repository
+git clone "$base_url$_" temp_repo | Out-Null
+Set-Location temp_repo
+
+# Run git shortlog command and redirect the output to a file in the output directory
+git shortlog --since "2022-12-01" --before "2023-06-30" --format="format:%aN Yoad %s %h" --all | Out-File
+"$output dir\$($_).txt" -Encoding utf8
+
+# Move back to the original directory
+Set-Location ..
+Remove-Item -Path temp_repo -Recurse -Force | Out-Null
+
+}
+
+1195
+
+
+--- New Page 23 ---
+Page number: 23
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson (3):
+
+Claire Thomson Fri Jan 13 12:09:00 2023 +0000 Merge pull request #123 from arnoldclark/ncdnt/squid-proxy-
+vm-folders
+
+Claire Thomson Wed May 24 12:58:59 2023 +0100 Update squid.conf
+
+Claire Thomson Wed May 24 13:01:50 2023 +0100 Update squid.conf
+
+Jason White (108):
+
+Jason White Mon Dec 5 11:04:47 2022 +0000 Merge pull request #98 from arnoldclark/azuread-combine-pr
+
+Jason White Thu Dec 8 14:22:08 2022 +0000 Merge pull request #99 from arnoldclark/Update-base-1.18.0
+
+Jason White Thu Dec 8 18:12:48 2022 +0000 Merge pull request #100 from arnoldclark/infra-1093/redis-
+vsphere-folder
+
+Jason White Mon Dec 12 11:52:12 2022 +0000 Merge pull request #104 from arnoldclark/tfmodule-combine-pr
+
+Jason White Wed Dec 14 17:19:24 2022 +0000 Merge branch 'main' into terraform-1.3.6
+
+Jason White Wed Dec 14 17:26:35 2022 +0000 Merge pull request #110 from arnoldclark/terraform-1.3.6
+
+Jason White Wed Dec 14 18:05:34 2022 +0000 Merge pull request #111 from arnoldclark/infra-1093/add-pp-
+web-redis-folders
+
+Jason White Thu Dec 15 18:35:39 2022 +0000 Merge pull request #112 from arnoldclark/infra-1093/hqh-folders
+
+Jason White Thu Dec 22 14:12:31 2022 +0000 Merge pull request #117 from arnoldclark/infra-1098/redis-checks
+
+Jason White Tue Feb 7 15:58:50 2023 +0000 Merge pull request #132 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.42.0
+
+Jason White Wed Feb 8 12:10:30 2023 +0000 Merge branch 'main' into create_repo_proxy
+
+Jason White Wed Feb 8 17:16:13 2023 +0000 Merge pull request #135 from arnoldclark/create_repo_proxy
+
+Jason White Wed Feb 8 17:18:04 2023 +0000 Merge branch 'main' into dependabot/terraform/vsphere-folders-
+tags/hashicorp/azurerm-3.42.0
+
+Jason White Wed Feb 8 17:28:54 2023 +0000 Merge pull request #133 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.42.0
+
+Jason White Wed Feb 8 17:49:14 2023 +0000 Merge branch 'main' into infra-1119/initial-ansible-fixes
+
+Jason White Wed Feb 8 17:53:36 2023 +0000 Merge pull request #136 from arnoldclark/infra-1119/initial-
+ansible-fixes
+
+Jason White Thu Feb 9 11:25:27 2023 +0000 Merge pull request #138 from arnoldclark/infra-1119/update-
+inventory
+
+Jason White Thu Feb 9 11:59:52 2023 +0000 Merge pull request #139 from arnoldclark/infra-1119/initial-config
+
+Jason White Thu Feb 9 14:50:48 2023 +0000 Merge pull request #140 from arnoldclark/infra-1119/delete-dmz-
+and-reconfigure-remaining-templates-for-new-proxy
+
+Jason White Thu Feb 9 17:31:43 2023 +0000 Merge pull request #141 from arnoldclark/infra-1119/squid-config-
+tweak
+
+Jason White Thu Feb 9 18:20:43 2023 +0000 Merge pull request #142 from arnoldclark/infra-1119/keepalived-
+tweaks
+
+Jason White Thu Feb 9 19:14:47 2023 +0000 Merge pull request #143 from arnoldclark/infra-1119/final-
+keepalived-fixes
+
+Jason White Thu Feb 9 21:17:57 2023 +0000 Merge pull request #137 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/vsphere-2.3.1
+
+Jason White Thu Feb 9 23:54:32 2023 +0000 Merge pull request #144 from arnoldclark/infra-1119/cleanup
+
+Jason White Fri Feb 10 12:26:54 2023 +0000 Merge pull request #153 from arnoldclark/infra-1119/tighten-
+squid-allowed-nets
+
+Jason White Fri Feb 10 17:37:55 2023 +0000 Merge pull request #154 from arnoldclark/infra-1119/squid-log-
+time-tweak-and-collection-update
+
+Jason White Tue Feb 14 17:22:30 2023 +0000 Merge pull request #157 from arnoldclark/add-keith
+
+Jason White Wed Feb 15 12:14:24 2023 +0000 Merge branch 'main' into infra-1129/ship-squid-logs
+
+Jason White Wed Feb 15 12:25:39 2023 +0000 Merge pull request #156 from arnoldclark/infra-1129/ship-squid-
+logs
+
+Jason White Wed Feb 15 22:27:51 2023 +0000 Merge pull request #164 from arnoldclark/update-collections-
+and-remove-env
+
+Jason White Fri Feb 17 12:21:15 2023 +0000 Merge pull request #168 from arnoldclark/infra-1102/setup-sftp-
+folder-in-vsphere
+
+Jason White Fri Feb 17 12:26:14 2023 +0000 Merge branch 'main' into infra-1102/sftp-vm-setup
+
+Jason White Fri Feb 17 12:39:33 2023 +0000 Merge pull request #169 from arnoldclark/infra-1102/sftp-vm-setup
+
+1196
+
+
+--- New Page 24 ---
+Page number: 24
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Fri Feb 17 12:51:33 2023 +0000 Merge pull request #170 from arnoldclark/infra-1102/temp-ssh-ip
+
+Jason White Fri Feb 17 13:34:42 2023 +0000 Merge pull request #172 from arnoldclark/infra-1102/move-
+prdsftp-to-150.253-range
+
+Jason White Tue Feb 21 23:07:21 2023 +0000 Merge pull request #177 from arnoldclark/infra-1077/iutil03-
+ansible
+
+Jason White Wed Feb 22 00:52:21 2023 +0000 Merge pull request #178 from arnoldclark/infra-1077/i1util03
+
+Jason White Wed Feb 22 17:56:25 2023 +0000 Merge pull request #179 from arnoldclark/infra-1134/let-more-
+nets-through-squid
+
+Jason White Wed Feb 22 22:07:13 2023 +0000 Merge pull request #180 from arnoldclark/infra-1077/iutil03-
+branch-profile-share
+
+Jason White Wed Feb 22 23:37:07 2023 +0000 Merge pull request #173 from arnoldclark/azuread-combine-pr
+
+Jason White Wed Feb 22 23:40:14 2023 +0000 Merge pull request #176 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.44. 1
+
+Jason White Wed Feb 22 23:40:37 2023 +0000 Merge pull request #175 from
+armoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.44. 1
+
+Jason White Wed Feb 22 23:41:38 2023 +0000 Merge pull request #174 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azuread-2.34.1
+
+Jason White Wed Feb 22 23:57:08 2023 +0000 Merge branch 'main' into tfmodule-combine-pr
+
+Jason White Thu Feb 23 16:56:53 2023 +0000 Merge pull request #181 from arnoldclark/infra-1077/remove-
+packages-from-templates
+
+Jason White Thu Feb 23 17:14:44 2023 +0000 Merge branch 'main' into tfmodule-combine-pr
+
+Jason White Thu Feb 23 17:17:17 2023 +0000 Merge pull request #155 from arnoldclark/tfmodule-combine-pr
+
+Jason White Thu Feb 23 17:48:08 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-core02--github--arnoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:48:20 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-dmz0 1 --github--arnoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:48:28 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-core0 1 --github--arnoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:48:35 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-dmz02--github--arnoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:48:42 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/master/terraform/icinga2-master02--github--arnoldclark/ac-iac-tfmodule-onprem-vm--
+1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:49:21 2023 +0000 Merge pull request #159 from
+arnoldclark/dependabot/terraform/icinga2/master/terraform/icinga2-master02--github--amoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:49:37 2023 +0000 Merge branch 'main' into
+dependabot/terraform/icinga2/master/terraform/icinga2-master0 1 --github--arnoldclark/ac-iac-tfmodule-onprem-vm--
+1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:49:53 2023 +0000 Merge pull request #163 from
+arnoldclark/dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-core02--github--arnoldclark/ac-iac-
+tfmodule-onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:50:15 2023 +0000 Merge pull request #162 from
+arnoldclark/dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-dmz0 | --github--arnoldclark/ac-iac-
+tfmodule-onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:50:41 2023 +0000 Merge pull request #161 from
+arnoldclark/dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-core0 | --github--arnoldclark/ac-iac-
+tfmodule-onprem-vm--1.7.0-1.9.0
+
+Jason White Thu Feb 23 17:51:31 2023 +0000 Merge pull request #160 from
+arnoldclark/dependabot/terraform/icinga2/satellite/terraform/icinga2-satellite-dmz02--github--arnoldclark/ac-iac-
+tfmodule-onprem-vm--1.7.0-1.9.0
+
+1197
+
+
+--- New Page 25 ---
+Page number: 25
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Thu Feb 23 17:51:55 2023 +0000 Merge pull request #158 from
+arnoldclark/dependabot/terraform/icinga2/master/terraform/icinga2-master0 | --github--arnoldclark/ac-iac-tfmodule-
+onprem-vm--1.7.0-1.9.0
+
+Jason White Fri Feb 24 12:32:05 2023 +0000 Merge pull request #185 from arnoldclark/icingadb-always-restart
+
+Jason White Fri Feb 24 23:55:26 2023 +0000 Merge pull request #186 from arnoldclark/infra-1077/combine-
+utils-pp-prd-ansible
+
+Jason White Sat Feb 25 00:51:06 2023 +0000 Merge pull request #187 from arnoldclark/infra-1077/playbook-fix
+
+Jason White Sat Feb 25 01:51:37 2023 +0000 Merge pull request #188 from arnoldclark/infra-1077/create-the-
+deploy-user
+
+Jason White Mon Feb 27 19:58:30 2023 +0000 Merge pull request #193 from arnoldclark/infra-954/https-check-
+use-hostname-as-vhost
+
+Jason White Wed Mar 1 17:26:59 2023 +0000 Merge pull request #195 from arnoldclark/fix-systemd-path
+
+Jason White Thu Mar 2 15:19:41 2023 +0000 Merge pull request #197 from arnoldclark/infra-1125/update-env-
+vars
+
+Jason White Thu Mar 2 21:23:33 2023 +0000 Merge pull request #198 from arnoldclark/infra-1125/fix-for-
+crowdstrike
+
+Jason White Fri Mar 3 13:37:50 2023 +0000 Merge pull request #201 from arnoldclark/infra-1125/base-env-fix
+
+Jason White Fri Mar 3 14:37:43 2023 +0000 Merge pull request #202 from arnoldclark/infra-1125/when-fix
+
+Jason White Fri Mar 3 16:27:28 2023 +0000 Merge pull request #203 from arnoldclark/infra-1125/deb-fix
+
+Jason White Wed Mar 15 13:27:25 2023 +0000 Merge branch 'main' into tfmodule-combine-pr
+
+Jason White Wed Mar 15 14:01:14 2023 +0000 Merge pull request #189 from arnoldclark/tfmodule-combine-pr
+
+Jason White Wed Mar 15 14:31:12 2023 +0000 Merge pull request #205 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azuread-2.36.0
+
+Jason White Wed Mar 15 14:31:42 2023 +0000 Merge pull request #208 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.47.0
+
+Jason White Wed Mar 15 14:31:59 2023 +0000 Merge pull request #207 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.47.0
+
+Jason White Fri Mar 17 17:13:20 2023 +0000 Merge pull request #211 from arnoldclark/infra-1115/move-state-
+snapshot-task
+
+Jason White Mon Mar 20 18:45:48 2023 +0000 Merge pull request #212 from arnoldclark/fix-vm-root-zeroing
+
+Jason White Mon Mar 20 18:51:48 2023 +0000 Merge pull request #210 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.48.0
+
+Jason White Mon Mar 20 18:52:13 2023 +0000 Merge pull request #209 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.48.0
+
+Jason White Wed Mar 22 17:34:32 2023 +0000 Merge branch 'main' into sftp_config
+
+Jason White Wed Mar 22 21:42:45 2023 +0000 Merge pull request #223 from arnoldclark/infra-1125/qualys-
+proxy
+
+Jason White Thu Mar 23 12:09:54 2023 +0000 Merge pull request #224 from arnoldclark/infra-1125/no-proxy-
+for-squid
+
+Jason White Thu Mar 23 17:14:29 2023 +0000 Merge pull request #225 from arnoldclark/infra-1103/rails-
+checks-and-http_uri
+
+Jason White Thu Mar 23 20:12:04 2023 +0000 Merge pull request #226 from arnoldclark/infra-1103/more-
+checks-for-prd
+
+Jason White Fri Mar 24 16:27:10 2023 +0000 Merge pull request #229 from arnoldclark/github-key-update
+
+Jason White Mon Mar 27 15:58:38 2023 +0100 Merge pull request #239 from arnoldclark/infra-1115/prd-
+icinga2-checks
+
+Jason White Mon Mar 27 16:36:00 2023 +0100 Merge pull request #240 from arnoldclark/only-trigger-ansible-
+on-terraform-apply
+
+Jason White Thu Apr 13 10:59:49 2023 +0100 Merge pull request #246 from arnoldclark/infra-1077/new-
+fileshares-for-exports
+
+Jason White Thu Apr 13 16:35:27 2023 +0100 Merge pull request #247 from arnoldclark/infra-1077/samba-
+password-changes
+
+Jason White Fri Apr 14 13:54:54 2023 +0100 Merge pull request #251 from arnoldclark/infra-1097/update-
+sentinel-counts
+
+Jason White Thu Apr 20 17:42:57 2023 +0100 Merge pull request #254 from arnoldclark/infra-1077/remove-log-
+ratelimits-and-update-collections
+
+Jason White Fri Apr 21 12:34:50 2023 +0100 Merge pull request #257 from arnoldclark/update-base-1.31.0
+
+1198
+
+
+--- New Page 26 ---
+Page number: 26
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Tue May 2 12:22:48 2023 +0100 Merge pull request #243 from arnoldclark/tfmodule-combine-pr
+
+Jason White Tue May 2 12:27:46 2023 +0100 Merge pull request #258 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.54.0
+
+Jason White Tue May 2 12:29:33 2023 +0100 Merge pull request #260 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azuread-2.38.0
+
+Jason White Tue May 2 12:29:36 2023 +0100 Merge pull request #259 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.54.0
+
+Jason White Tue May 2 13:16:38 2023 +0100 Merge pull request #261 from arnoldclark/fix-tfplan-artifact-names
+
+Jason White Tue May 2 15:17:15 2023 +0100 Merge pull request #262 from arnoldclark/fix-tf-artifacts
+
+Jason White Thu May 4 20:09:56 2023 +0100 Merge pull request #263 from arnoldclark/add-acf-range-to-squid-
+acl
+
+Jason White Fri May 5 15:04:09 2023 +0100 Merge pull request #264 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.55.0
+
+Jason White Fri May 5 15:04:20 2023 +0100 Merge pull request #265 from
+arnoldclark/dependabot/terraform/vsphere-folders-tags/hashicorp/azurerm-3.55.0
+
+Jason White Mon May 15 10:38:59 2023 +0100 Merge pull request #270 from arnoldclark/vsphere-combine-pr
+
+Jason White Tue May 30 17:01:16 2023 +0100 Merge pull request #276 from arnoldclark/icinga2-tweaks
+
+Jason White Wed May 31 11:37:18 2023 +0100 Merge pull request #277 from arnoldclark/icinga2-handler-fix-
+and-base-update
+
+Jason White Tue Jun 13 10:03:48 2023 +0100 Merge pull request #282 from arnoldclark/fix-adcentre-samba-
+perms
+
+Jason White Thu Jun 15 11:11:06 2023 +0100 Merge branch 'main' into INFRA_1161/squid-auth
+
+Jason White Thu Jun 15 11:36:10 2023 +0100 Merge pull request #273 from arnoldclark/INFRA_1161/squid-
+auth
+
+Jason White Fri Jun 23 16:48:19 2023 +0100 Update roles.ini
+
+Zoe Mackay (4):
+
+Zoe Mackay Thu Jan 19 11:08:12 2023 +0000 Merge pull request #125 from
+armoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.39.1
+
+Zoe Mackay Thu Jan 19 11:08:41 2023 +0000 Merge pull request #124 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Wed Jan 25 08:50:55 2023 +0000 Merge pull request #129 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azuread-2.33.0
+
+Zoe Mackay Wed Jan 25 08:51:18 2023 +0000 Merge pull request #127 from
+arnoldclark/dependabot/terraform/terraform-remote-state/hashicorp/azurerm-3.40.0
+
+mmshill (11):
+
+mmshill Thu Mar 2 11:26:25 2023 +0000 setting up sftp server
+
+mmshill Thu Mar 2 11:46:08 2023 +0000 Update deployment.sh
+
+mmshill Thu Mar 2 11:46:34 2023 +0000 Update deployment.sh
+
+mmshill Mon Mar 13 11:58:59 2023 +0000 Update README.md
+
+mmshill Mon Mar 13 12:10:00 2023 +0000 Update README.md
+
+mmshill Tue Mar 21 14:48:32 2023 +0000 These modifications are about making sure the sftp server is fully
+configured and ready to be used
+
+mmshill Tue Mar 21 14:51:52 2023 +0000 Adding a README file to explain the use of the 2 files that are
+‘users with password' and ‘users with ssh keys'
+
+mmshill Tue Mar 21 15:11:32 2023 +0000 Merge branch 'sftp_config' of github.com:arnoldclark/ac-iac-platform-
+onprem-ops into sftp_config
+
+mmshill Mon Apr 3 10:48:04 2023 +0100 We are nodifying the file sftp _users.yml to include usernames with
+their passwords/ssh keys
+
+mmshill Tue Apr 4 11:48:27 2023 +0100 Merge branch 'main' into sftp_ config
+
+mmshill Tue Apr 4 12:19:02 2023 +0100 deleted files users with password and users with ssh keys
+
+1199
+
+
+--- New Page 27 ---
+Page number: 27
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Claire Thomson (12):
+
+Claire Thomson Thu Dec 8 14:43:08 2022 +0000 Merge pull request #1484 from arnoldclark/add-marcel
+
+Claire Thomson Fri Jan 6 13:50:19 2023 +0000 Update dr/images/images-vms.tf
+
+Claire Thomson Fri Jan 6 13:50:46 2023 +0000 Update dr/images/allow_inbound.tf
+
+Claire Thomson Fri Jan 6 13:50:59 2023 +0000 Update dr/images/images-vms.tf
+
+Claire Thomson Fri Jan 6 13:51:07 2023 +0000 Update dr/images/images-vms.tf
+
+Claire Thomson Fri Jan 6 14:05:32 2023 +0000 Merge pull request #1624 from arnoldclark/SJ2-7/images
+
+Claire Thomson Tue Feb 14 10:51:31 2023 +0000 Merge pull request #1957 from arnoldclark/zm/add-keith
+
+Claire Thomson Mon Mar 13 16:12:14 2023 +0000 Merge pull request #2258 from arnoldclark/INFRA-
+1141/remove-dr-resources
+
+Claire Thomson Wed Mar 29 16:36:47 2023 +0100 comma
+
+Claire Thomson Tue Apr 4 11:27:21 2023 +0100 Merge pull request #2413 from arnoldclark/INFRA-1148/SS-
+1801F
+
+Claire Thomson Tue Jun 6 16:38:06 2023 +0100 Merge pull request #3041 from arnoldclark/INFRA-
+1176/upgrade-kibana
+
+Claire Thomson Mon Jun 26 17:59:22 2023 +0100 Merge pull request #3128 from arnoldclark/INFRA-1176/fix-
+broken-kibana
+
+Jason White (35):
+
+Jason White Wed Dec 28 12:19:48 2022 +0000 Merge pull request #1612 from arnoldclark/infra-1111/smo-dr-
+vnet
+
+Jason White Wed Dec 28 13:05:08 2022 +0000 Update hubs/hub-1/main.tf
+
+Jason White Wed Dec 28 13:09:13 2022 +0000 Merge pull request #1613 from arnoldclark/NCDNT-151801F-
+Dev-VPN
+
+Jason White Wed Dec 28 16:22:36 2022 +0000 Merge branch 'master' into infra-1106/smo-dr-vms
+
+Jason White Wed Dec 28 16:47:54 2022 +0000 Merge pull request #1614 from arnoldclark/infra- 1 106/smo-dr-
+vms
+
+Jason White Fri Dec 30 10:31:20 2022 +0000 Merge pull request #1615 from arnoldclark/ncdnt-33/ems-servers
+
+Jason White Fri Dec 30 12:05:23 2022 +0000 Merge pull request #1616 from arnoldclark/ncdnt-45/aso-app-
+server
+
+Jason White Fri Dec 30 12:05:37 2022 +0000 Merge pull request #1617 from arnoldclark/ncdnt-33/ems-db
+
+Jason White Fri Dec 30 13:43:36 2022 +0000 Merge pull request #1618 from arnoldclark/ncdnt-45/aks-firewall-
+rules
+
+Jason White Fri Dec 30 13:53:17 2022 +0000 Merge pull request #1619 from arnoldclark/ncdnt-45/aks-fw-rules-
+priority-fix
+
+Jason White Fri Dec 30 15:05:23 2022 +0000 Merge pull request #1620 from arnoldclark/ncdnt-33/ems-smo-cfu-
+db-firewall
+
+Jason White Mon Jan 2 11:50:56 2023 +0000 Merge pull request #1621 from arnoldclark/ncdnt-45/aks-vnet-
+peerings
+
+Jason White Fri Jan 6 14:07:42 2023 +0000 Merge pull request #1625 from arnoldclark/stg-coredns-servers-on-
+prem-only
+
+Jason White Fri Jan 6 14:56:23 2023 +0000 Merge pull request #1653 from arnoldclark/dev-prd2-coredns-on-
+prem
+
+Jason White Fri Jan 6 15:05:47 2023 +0000 Merge pull request #1654 from arnoldclark/hub-prd1-coredns-to-
+onprem
+
+Jason White Fri Feb 24 19:33:10 2023 +0000 Merge pull request #2090 from arnoldclark/infra-1077/agent-
+updates-for-java-builds
+
+Jason White Mon Feb 27 15:02:42 2023 +0000 Merge pull request #2091 from arnoldclark/infra-1077/set-root-
+password-on-mariadbd
+
+Jason White Fri Mar 3 17:36:01 2023 +0000 Merge pull request #2177 from arnoldclark/infra-1125/add-root-ca-
+to-vmss
+
+Jason White Thu Mar 9 13:00:30 2023 +0000 Merge pull request #2251 from arnoldclark/remove-superfluous-
+outbound-rules-for-dev
+
+Jason White Thu Apr 20 15:17:16 2023 +0100 Merge pull request #2623 from arnoldclark/bring-back-azure-dns-
+servers-hub1
+
+Jason White Thu Apr 20 15:19:05 2023 +0100 Update aks/test/aks-cluster-1/aks-cluster-1-addons/addons.tf
+
+1200
+
+
+--- New Page 28 ---
+Page number: 28
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Jason White Thu Apr 20 16:08:22 2023 +0100 Merge pull request #2617 from arnoldclark/bring-back-azure-dns-
+servers
+
+Jason White Mon Apr 24 10:18:40 2023 +0100 Merge pull request #2618 from arnoldclark/bring-back-azure-
+dns---stg
+
+Jason White Mon Apr 24 10:24:32 2023 +0100 Merge pull request #2619 from arnoldclark/bring-back-azure-
+dns-pp
+
+Jason White Mon Apr 24 12:23:56 2023 +0100 Merge pull request #2620 from arnoldclark/bring-back-azure-
+dns-prd1
+
+Jason White Thu May 4 13:27:33 2023 +0100 Merge pull request #2622 from arnoldclark/bring-back-azure-dns-
+servers-hub2
+
+Jason White Thu May 4 14:10:49 2023 +0100 Merge pull request #2621 from arnoldclark/bring-back-azure-dns-
+prd2
+
+Jason White Thu May 4 15:53:22 2023 +0100 Merge pull request #2774 from arnoldclark/azure-dns-hub- 1
+
+Jason White Mon May 8 16:13:56 2023 +0100 Merge pull request #2781 from arnoldclark/update-dns-lookups
+
+Jason White Wed May 10 18:15:01 2023 +0100 Merge pull request #2830 from arnoldclark/infra-1152/set-
+utf8mb4-on-vmss-mysqld
+
+Jason White Thu May 11 10:17:56 2023 +0100 Merge pull request #2838 from arnoldclark/infra-1115/plan
+
+Jason White Fri Jun 9 15:56:58 2023 +0100 Update hub-dns/ansible/playbook.yml
+
+Jason White Fri Jun 9 15:57:08 2023 +0100 Update hub-dns/ansible/playbook.yml
+
+Jason White Fri Jun 9 16:24:06 2023 +0100 Merge branch 'master' into INFRA-972/upgrade_ secondary dns
+
+Jason White Tue Jun 27 11:17:02 2023 +0100 Revert dangerous change
+
+Zoe Mackay (338):
+
+Zoe Mackay Tue Dec 6 10:14:54 2022 +0000 Merge pull request #1471 from
+aroldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-pp--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.24.0-2.25.0
+
+Zoe Mackay Tue Dec 6 10:15:43 2022 +0000 Merge pull request #1470 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/aks-cluster- | -stg--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.24.0-2.25.0
+
+Zoe Mackay Tue Dec 6 10:39:11 2022 +0000 Merge pull request #1472 from arnoldclark/zm/increase-autoscaler
+
+Zoe Mackay Wed Dec 7 12:00:30 2022 +0000 Merge pull request #1482 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Thu Dec 8 11:12:45 2022 +0000 Merge pull request #1483 from arnoldclark/infra-1092/role-
+assignment
+
+Zoe Mackay Tue Dec 13 09:20:52 2022 +0000 Merge pull request #1488 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/aks-cluster-2-prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.24.0-2.26.0
+
+Zoe Mackay Tue Dec 13 09:22:15 2022 +0000 Merge pull request #1490 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/aks-cluster- | -prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.24.0-2.26.0
+
+Zoe Mackay Wed Dec 14 09:02:07 2022 +0000 Merge pull request #1514 from arnoldclark/azuredevops-
+combine-pr
+
+Zoe Mackay Wed Dec 14 09:30:42 2022 +0000 Merge pull request #1513 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Wed Dec 14 12:56:18 2022 +0000 Merge pull request #1515 from arnoldclark/infra-1084/tf-
+storage-accounts
+
+Zoe Mackay Tue Dec 20 08:18:11 2022 +0000 Merge pull request #1519 from
+arnoldclark/dependabot/terraform/common/key-vaults/keyvault-automation--github--arnoldclark/ac-iac-tfmodule-
+azure-keyvault--2.18.0-2.19.0
+
+Zoe Mackay Tue Dec 20 08:19:17 2022 +0000 Merge pull request #1516 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/aks-cluster- | -stg--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.25.0-2.26.0
+
+Zoe Mackay Tue Dec 20 08:19:45 2022 +0000 Merge pull request #1517 from
+arnoldclark/dependabot/terraform/common/azure-service-health/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 08:19:59 2022 +0000 Merge pull request #1518 from
+arnoldclark/dependabot/terraform/common/azure-vmss/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 10:37:17 2022 +0000 Merge pull request #1520 from arnoldclark/zm/dependabot-test
+
+Zoe Mackay Tue Dec 20 11:58:22 2022 +0000 Merge pull request #1527 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/azurerm-3.36.0
+
+1201
+
+
+--- New Page 29 ---
+Page number: 29
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Dec 20 11:58:39 2022 +0000 Merge pull request #1525 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/hashicorp/helm-2.8.0
+
+Zoe Mackay Tue Dec 20 11:58:54 2022 +0000 Merge pull request #1522 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 12:00:47 2022 +0000 Merge pull request #1526 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster-elasticsearch/hashicorp/aws-4.48.0
+
+Zoe Mackay Tue Dec 20 12:09:48 2022 +0000 Merge pull request #1534 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-elasticsearch/hashicorp/aws-4.48.0
+
+Zoe Mackay Tue Dec 20 12:10:33 2022 +0000 Merge pull request #1533 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 12:11:23 2022 +0000 Merge pull request #1532 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 12:27:08 2022 +0000 Merge pull request #1530 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Tue Dec 20 12:27:30 2022 +0000 Merge pull request #1521 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Tue Dec 20 12:34:57 2022 +0000 Merge pull request #1537 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Tue Dec 20 12:35:15 2022 +0000 Merge pull request #1536 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/hashicorp/helm-2.8.0
+
+Zoe Mackay Tue Dec 20 12:35:41 2022 +0000 Merge pull request #1539 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 12:35:58 2022 +0000 Merge pull request #1540 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/helm-2.8.0
+
+Zoe Mackay Tue Dec 20 12:36:22 2022 +0000 Merge pull request #1535 from
+aroldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1/hashicorp/azuread-2.31.0
+
+Zoe Mackay Tue Dec 20 12:36:48 2022 +0000 Merge pull request #1528 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Tue Dec 20 13:47:31 2022 +0000 Merge pull request #1523 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 13:47:47 2022 +0000 Merge pull request #1524 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 13:48:40 2022 +0000 Merge pull request #1538 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 15:29:16 2022 +0000 Merge pull request #1531 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Tue Dec 20 15:29:54 2022 +0000 Merge pull request #1529 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster-1/hashicorp/azurerm-3.36.0
+
+Zoe Mackay Fri Dec 23 09:04:56 2022 +0000 Merge pull request #1541 from arnoldclark/zm/versions-file
+
+Zoe Mackay Fri Dec 23 11:44:30 2022 +0000 Merge pull request #1553 from arnoldclark/zm/new-relic-alert
+
+Zoe Mackay Fri Dec 23 11:45:14 2022 +0000 Merge pull request #1542 from arnoldclark/infra- 1064/private-
+endpoints
+
+Zoe Mackay Tue Dec 27 08:54:28 2022 +0000 Merge pull request #1560 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Dec 27 08:56:35 2022 +0000 Merge pull request #1558 from arnoldclark/azuredevops-
+combine-pr
+
+Zoe Mackay Wed Jan 4 11:58:01 2023 +0000 Merge pull request #1610 from arnoldclark/azuredevops-combine-
+pr
+
+Zoe Mackay Wed Jan 4 12:02:30 2023 +0000 Merge pull request #1559 from arnoldclark/random-combine-pr
+
+Zoe Mackay Wed Jan 4 12:03:51 2023 +0000 Merge pull request #1606 from
+arnoldclark/dependabot/terraform/elasticsearch/hashicorp/aws-4.48.0
+
+Zoe Mackay Wed Jan 4 12:04:18 2023 +0000 Merge pull request #1569 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster-elasticsearch/hashicorp/aws-4.48.0
+
+Zoe Mackay Tue Jan 10 15:37:14 2023 +0000 Merge pull request #1670 from arnoldclark/NCDNT-59/user
+
+Zoe Mackay Tue Jan 10 16:54:26 2023 +0000 Merge pull request #1658 from arnoldclark/random-combine-pr
+
+Zoe Mackay Tue Jan 10 17:05:19 2023 +0000 Merge pull request #1660 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Jan 10 17:05:43 2023 +0000 Merge pull request #1659 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Wed Jan 11 08:25:42 2023 +0000 Merge pull request #1671 from arnoldclark/azuread-combine-pr
+
+1202
+
+
+--- New Page 30 ---
+Page number: 30
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Wed Jan 11 09:41:52 2023 +0000 Merge pull request #1562 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/helm-2.8.0
+
+Zoe Mackay Wed Jan 11 09:42:14 2023 +0000 Merge pull request #1576 from
+arnoldclark/dependabot/terraform/common/azure-service-health/hashicorp/null-3.2.1
+
+Zoe Mackay Wed Jan 11 09:42:42 2023 +0000 Merge pull request #1661 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster-elasticsearch/hashicorp/aws-4.49.0
+
+Zoe Mackay Wed Jan 11 09:43:23 2023 +0000 Merge pull request #1662 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster-elasticsearch/hashicorp/aws-4.49.0
+
+Zoe Mackay Wed Jan 11 09:43:44 2023 +0000 Merge pull request #1663 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-elasticsearch/hashicorp/aws-4.49.0
+
+Zoe Mackay Wed Jan 11 09:44:02 2023 +0000 Merge pull request #1664 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Wed Jan 11 09:44:40 2023 +0000 Merge pull request #1669 from
+arnoldclark/dependabot/terraform/elasticsearch/hashicorp/aws-4.49.0
+
+Zoe Mackay Wed Jan 11 10:08:26 2023 +0000 Merge pull request #1652 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/hashicorp/kubernetes-2.16.1
+
+Zoe Mackay Wed Jan 11 10:20:24 2023 +0000 Merge pull request #1656 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/helm-2.8.0
+
+Zoe Mackay Thu Jan 12 13:33:34 2023 +0000 Merge pull request #1672 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1/aks-cluster-1-test--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.9.0-3.10.0
+
+Zoe Mackay Fri Jan 13 11:54:24 2023 +0000 Merge pull request #1674 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1/aks-cluster-1-dev--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.9.0-3.10.0
+
+Zoe Mackay Fri Jan 13 13:44:11 2023 +0000 Merge pull request #1673 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1/aks-cluster- 1-pp--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.9.0-3.10.0
+
+Zoe Mackay Mon Jan 16 08:15:35 2023 +0000 Merge pull request #1681 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Mon Jan 16 14:11:55 2023 +0000 Merge pull request #1675 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1/aks-cluster-1-stg--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.9.0-3.10.0
+
+Zoe Mackay Tue Jan 17 10:49:29 2023 +0000 Merge pull request #1744 from arnoldclark/zm/actions
+
+Zoe Mackay Tue Jan 17 11:17:57 2023 +0000 Merge pull request #1745 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Jan 17 11:51:09 2023 +0000 Merge pull request #1746 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Jan 17 12:12:29 2023 +0000 Merge pull request #1742 from
+arnoldclark/dependabot/terraform/platform-operations/pp/storage-account-dpd-platform-operations-pp--github--
+arnoldclark/ac-iac-tfmodule-azure-storage-account--2.17.0-2.18.0
+
+Zoe Mackay Tue Jan 17 12:12:55 2023 +0000 Merge pull request #1717 from
+arnoldclark/dependabot/terraform/platform-operations/stg/storage-account-dpd-platform-operations-stg--github--
+arnoldclark/ac-iac-tfmodule-azure-storage-account--2.17.0-2.18.0
+
+Zoe Mackay Tue Jan 17 12:13:16 2023 +0000 Merge pull request #1712 from
+arnoldclark/dependabot/terraform/common/key-vaults/azuredevops-kv-service-connection--github--arnoldclark/ac-
+iac-tfmodule-keyvault-service-connection--1.3.0-1.4.0
+
+Zoe Mackay Tue Jan 17 12:13:34 2023 +0000 Merge pull request #1711 from
+arnoldclark/dependabot/terraform/platform-operations/dev/storage-account-dpd-platform-operations-dev--github--
+arnoldclark/ac-iac-tfmodule-azure-storage-account--2.17.0-2.18.0
+
+Zoe Mackay Tue Jan 17 12:14:04 2023 +0000 Merge pull request #1710 from
+arnoldclark/dependabot/terraform/platform-operations/prd/storage-account-dpd-platform-operations-prd--github--
+arnoldclark/ac-iac-tfmodule-azure-storage-account--2.17.0-2.18.0
+
+Zoe Mackay Tue Jan 17 12:14:40 2023 +0000 Merge pull request #1704 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster-elasticsearch/hashicorp/aws-4.50.0
+
+Zoe Mackay Tue Jan 17 12:14:57 2023 +0000 Merge pull request #1701 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster-elasticsearch/hashicorp/aws-4.50.0
+
+Zoe Mackay Tue Jan 17 12:15:14 2023 +0000 Merge pull request #1700 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-elasticsearch/hashicorp/aws-4.50.0
+
+Zoe Mackay Tue Jan 17 12:15:40 2023 +0000 Merge pull request #1685 from
+armoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/hashicorp/helm-2.8.0
+
+1203
+
+
+--- New Page 31 ---
+Page number: 31
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Jan 17 12:21:13 2023 +0000 Merge pull request #1740 from
+arnoldclark/dependabot/terraform/elasticsearch/hashicorp/aws-4.50.0
+
+Zoe Mackay Tue Jan 17 12:21:42 2023 +0000 Merge pull request #1734 from
+arnoldclark/dependabot/terraform/common/onprem-mariadb-backups/storage-account-mariadbbackups--github--
+arnoldclark/ac-iac-tfmodule-azure-storage-account--2.17.0-2.18.0
+
+Zoe Mackay Tue Jan 17 12:26:25 2023 +0000 Merge pull request #1683 from
+arnoldclark/dependabot/terraform/common/azure-automation/hashicorp/local-2.3.0
+
+Zoe Mackay Wed Jan 18 08:57:36 2023 +0000 Merge pull request #1747 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Jan 24 09:09:21 2023 +0000 Merge pull request #1837 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Jan 24 09:48:36 2023 +0000 Merge pull request #1838 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Jan 24 10:38:54 2023 +0000 Merge pull request #1839 from
+arnoldclark/dependabot/terraform/common/key-vaults/keyvault-platform--github--arnoldclark/ac-iac-tfmodule-azure-
+keyvault--2.19.0-2.20.1
+
+Zoe Mackay Tue Jan 24 10:51:45 2023 +0000 Merge pull request #1840 from
+arnoldclark/dependabot/terraform/common/key-vaults/keyvault-ansible--github--arnoldclark/ac-iac-tfmodule-azure-
+keyvault--2.19.0-2.20.1
+
+Zoe Mackay Tue Jan 24 11:26:46 2023 +0000 Merge pull request #1841 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Jan 24 11:45:21 2023 +0000 Merge pull request #1774 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/hashicorp/kubernetes-2.17.0
+
+Zoe Mackay Tue Jan 24 11:51:58 2023 +0000 Merge pull request #1760 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/kubernetes-2.17.0
+
+Zoe Mackay Tue Jan 24 11:53:35 2023 +0000 Merge pull request #1758 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/hashicorp/kubernetes-2.17.0
+
+Zoe Mackay Tue Jan 24 11:55:03 2023 +0000 Merge pull request #1783 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster-elasticsearch/hashicorp/aws-4.5 1.0
+
+Zoe Mackay Tue Jan 24 11:56:03 2023 +0000 Merge pull request #1831 from
+arnoldclark/dependabot/terraform/elasticsearch/hashicorp/aws-4.5 1.0
+
+Zoe Mackay Tue Jan 24 11:56:23 2023 +0000 Merge pull request #1788 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-elasticsearch/hashicorp/aws-4.5 1.0
+
+Zoe Mackay Tue Jan 24 11:57:21 2023 +0000 Merge branch 'master' into dependabot/terraform/aks/stg/aks-
+cluster-elasticsearch/hashicorp/aws-4.5 1.0
+
+Zoe Mackay Tue Jan 24 11:57:54 2023 +0000 Merge pull request #1785 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster-elasticsearch/hashicorp/aws-4.5 1.0
+
+Zoe Mackay Fri Jan 27 16:41:13 2023 +0000 Merge pull request #1842 from
+arnoldclark/dependabot/terraform/sql-servers/pp/hashicorp/azuread-2.33.0
+
+Zoe Mackay Fri Jan 27 16:41:37 2023 +0000 Merge pull request #1843 from
+arnoldclark/dependabot/terraform/sql-servers/stg/hashicorp/azurerm-3.41.0
+
+Zoe Mackay Tue Jan 31 08:14:30 2023 +0000 Merge pull request #1861 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster-elasticsearch/hashicorp/aws-4.52.0
+
+Zoe Mackay Tue Jan 31 08:14:45 2023 +0000 Merge pull request #1862 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/kubernetes-2.17.0
+
+Zoe Mackay Tue Jan 31 08:15:13 2023 +0000 Merge pull request #1859 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster-elasticsearch/hashicorp/aws-4.52.0
+
+Zoe Mackay Tue Jan 31 09:33:57 2023 +0000 Merge pull request #1882 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Jan 31 09:57:20 2023 +0000 Merge pull request #1857 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-elasticsearch/hashicorp/aws-4.52.0
+
+Zoe Mackay Tue Jan 31 12:10:49 2023 +0000 Merge pull request #1845 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/kubernetes-2.17.0
+
+Zoe Mackay Tue Jan 31 12:11:06 2023 +0000 Merge pull request #1877 from
+arnoldclark/dependabot/terraform/elasticsearch/hashicorp/aws-4.52.0
+
+Zoe Mackay Wed Feb 1| 14:21:27 2023 +0000 Merge pull request #1883 from arnoldclark/zm/workflow
+
+Zoe Mackay Wed Feb 1 14:21:36 2023 +0000 Merge pull request #1844 from arnoldclark/infra-1086/pipeline
+
+Zoe Mackay Wed Feb 1| 14:29:12 2023 +0000 Merge pull request #1884 from
+arnoldclark/dependabot/terraform/common/new-relic/prd/hashicorp/azurerm-3.41.0
+
+Zoe Mackay Wed Feb 1| 14:29:31 2023 +0000 Merge pull request #1885 from
+arnoldclark/dependabot/terraform/common/new-relic/devstg/hashicorp/azurerm-3.41.0
+
+Zoe Mackay Fri Feb 3 09:11:43 2023 +0000 Merge pull request #1888 from arnoldclark/newrelic-combine-pr
+
+1204
+
+
+--- New Page 32 ---
+Page number: 32
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Feb 7 08:10:06 2023 +0000 Merge pull request #1928 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Feb 7 08:10:37 2023 +0000 Merge pull request #1927 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Feb 7 08:48:58 2023 +0000 Merge pull request #1929 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Feb 7 16:19:29 2023 +0000 Merge pull request #1930 from arnoldclark/infra-1122/terraform-
+upgrade
+
+Zoe Mackay Wed Feb 8 08:36:57 2023 +0000 Merge pull request #1937 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Feb 8 08:37:47 2023 +0000 Merge pull request #1938 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Wed Feb 8 08:38:03 2023 +0000 Merge pull request #1936 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Wed Feb 8 16:29:25 2023 +0000 Merge pull request #1940 from
+arnoldclark/dependabot/terraform/common/onprem-mariadb-backups/hashicorp/azuread-2.33.0
+
+Zoe Mackay Wed Feb 8 16:31:49 2023 +0000 Merge pull request #1947 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1/hashicorp/azuread-2.33.0
+
+Zoe Mackay Wed Feb 8 17:23:55 2023 +0000 Merge pull request #1954 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1/hashicorp/azuread-2.33.0
+
+Zoe Mackay Thu Feb 9 08:30:31 2023 +0000 Merge pull request #1956 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Feb 14 08:11:46 2023 +0000 Merge pull request #1993 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Feb 14 08:12:09 2023 +0000 Merge pull request #1992 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Feb 14 08:12:28 2023 +0000 Merge pull request #1994 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Feb 14 15:24:11 2023 +0000 Merge pull request #1995 from arnoldclark/infra-1123/module-
+versions
+
+Zoe Mackay Wed Feb 15 09:44:14 2023 +0000 Merge pull request #1998 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Feb 15 09:45:45 2023 +0000 Merge pull request #1999 from
+armnoldclark/dependabot/go_modules/images/ac-default-backend/src/github.com/prometheus/client_golang-1.11.1
+
+Zoe Mackay Wed Feb 15 09:46:13 2023 +0000 Merge pull request #1996 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Thu Feb 16 09:51:07 2023 +0000 Merge pull request #2000 from arnoldclark/infra-1130/aks-
+upgrade
+
+Zoe Mackay Thu Feb 16 14:39:29 2023 +0000 Merge pull request #2002 from arnoldclark/devops-1909/abyc-
+permissions
+
+Zoe Mackay Mon Feb 20 16:21:54 2023 +0000 Merge pull request #2006 from
+arnoldclark/dependabot/terraform/sql-servers/dev/mssql-server--github--arnoldclark/ac-iac-tfmodule-azure-mssql--
+3.13.0-3.14.0
+
+Zoe Mackay Mon Feb 20 16:22:14 2023 +0000 Merge pull request #2004 from
+arnoldclark/dependabot/terraform/sql-servers/dev/mssql-server-02--github--arnoldclark/ac-iac-tfmodule-azure-mssql-
+-3.13.0-3.14.0
+
+Zoe Mackay Mon Feb 20 16:24:01 2023 +0000 Merge pull request #2003 from
+arnoldclark/dependabot/terraform/sql-servers/prd/primary-sql-server--github--aroldclark/ac-iac-tfmodule-azure-
+mssql--3.13.0-3.14.0
+
+Zoe Mackay Mon Feb 20 16:24:43 2023 +0000 Merge pull request #2005 from
+arnoldclark/dependabot/terraform/sql-servers/prd/secondary-sql-server--github--arnoldclark/ac-iac-tfmodule-azure-
+mssql--3.13.0-3.14.0
+
+Zoe Mackay Tue Feb 21 08:05:06 2023 +0000 Merge pull request #2082 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Feb 21 10:56:34 2023 +0000 Merge pull request #2084 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Feb 21 11:11:55 2023 +0000 Merge pull request #2081 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Feb 21 11:14:40 2023 +0000 Merge pull request #2080 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Feb 21 11:16:31 2023 +0000 Merge pull request #2083 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Feb 21 11:56:54 2023 +0000 Merge pull request #2048 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Tue Feb 21 11:57:15 2023 +0000 Merge pull request #2017 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Tue Feb 21 11:57:27 2023 +0000 Merge pull request #2014 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Tue Feb 28 08:06:34 2023 +0000 Merge pull request #2175 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Feb 28 08:06:51 2023 +0000 Merge pull request #2174 from arnoldclark/aws-combine-pr
+
+1205
+
+
+--- New Page 33 ---
+Page number: 33
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Feb 28 08:07:35 2023 +0000 Merge pull request #2172 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Feb 28 09:24:44 2023 +0000 Merge pull request #2171 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Feb 28 11:12:32 2023 +0000 Merge pull request #2170 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Feb 28 11:55:35 2023 +0000 Merge pull request #2173 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Feb 28 12:14:53 2023 +0000 Merge pull request #2121 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Tue Feb 28 12:15:07 2023 +0000 Merge pull request #2111 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster-1-addons/hashicorp/helm-2.9.0
+
+Zoe Mackay Thu Mar 2 11:12:24 2023 +0000 Merge pull request #2088 from arnoldclark/zm/fix-runbook
+
+Zoe Mackay Thu Mar 2 11:12:32 2023 +0000 Merge pull request #2087 from arnoldclark/infra- 1 136/automation-
+account
+
+Zoe Mackay Mon Mar 13 08:01:00 2023 +0000 Merge pull request #2249 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Mon Mar 13 10:46:28 2023 +0000 Merge pull request #2247 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Mon Mar 13 11:56:54 2023 +0000 Merge pull request #2245 from arnoldclark/azuredevops-
+combine-pr
+
+Zoe Mackay Mon Mar 13 11:57:18 2023 +0000 Merge pull request #2246 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Mon Mar 13 11:57:57 2023 +0000 Merge pull request #2248 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Mon Mar 13 14:05:23 2023 +0000 Merge pull request #2243 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Mon Mar 13 16:44:43 2023 +0000 Merge pull request #2259 from arnoldclark/infra-1115/sa-
+module
+
+Zoe Mackay Tue Mar 14 10:48:07 2023 +0000 Merge pull request #2176 from arnoldclark/infra-1136/fix
+
+Zoe Mackay Wed Mar 15 15:07:15 2023 +0000 Merge pull request #2306 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Thu Mar 16 09:02:27 2023 +0000 Merge pull request #2305 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Thu Mar 16 09:02:55 2023 +0000 Merge pull request #2303 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Thu Mar 16 11:05:22 2023 +0000 Merge pull request #2304 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Thu Mar 16 11:05:41 2023 +0000 Merge pull request #2307 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Thu Mar 16 11:06:12 2023 +0000 Merge pull request #2260 from
+arnoldclark/dependabot/terraform/common/azure-automation/hashicorp/local-2.4.0
+
+Zoe Mackay Tue Mar 21 08:58:50 2023 +0000 Merge pull request #2354 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Mar 21 08:59:12 2023 +0000 Merge pull request #2353 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Mar 21 08:59:30 2023 +0000 Merge pull request #2351 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Mar 21 08:59:51 2023 +0000 Merge pull request #2350 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Mar 21 15:58:51 2023 +0000 Merge pull request #2352 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Mar 22 16:41:17 2023 +0000 Merge pull request #2349 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Thu Mar 23 08:18:10 2023 +0000 Merge pull request #2356 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Fri Mar 24 10:32:03 2023 +0000 Merge pull request #2358 from arnoldclark/zm/github-rsa
+
+Zoe Mackay Tue Mar 28 08:46:32 2023 +0100 Merge pull request #2411 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Mar 28 08:46:55 2023 +0100 Merge pull request #2410 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Mar 28 08:47:10 2023 +0100 Merge pull request #2408 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Mar 28 11:45:45 2023 +0100 Merge pull request #2412 from arnoldclark/infra-1143/service-
+connections
+
+Zoe Mackay Mon Apr 3 12:22:10 2023 +0100 Merge pull request #2409 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Mon Apr 3 12:23:37 2023 +0100 Merge pull request #2406 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Apr 4 12:54:02 2023 +0100 Merge pull request #2446 from arnoldclark/infra-1115/role-
+assignment
+
+Zoe Mackay Tue Apr 4 12:54:11 2023 +0100 Merge pull request #2415 from arnoldclark/infra- 1064/allow-
+requests
+
+Zoe Mackay Tue Apr 4 12:57:12 2023 +0100 Merge pull request #2414 from arnoldclark/zm/sql-squads
+
+Zoe Mackay Tue Apr 4 14:23:44 2023 +0100 Merge pull request #2454 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Apr 4 14:51:20 2023 +0100 Merge pull request #2455 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Apr 4 14:51:42 2023 +0100 Merge pull request #2453 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Wed Apr 5 09:13:29 2023 +0100 Merge pull request #2465 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Wed Apr 5 16:35:34 2023 +0100 Merge pull request #2466 from arnoldclark/infra-1064/pep
+
+Zoe Mackay Thu Apr 6 15:43:31 2023 +0100 typo
+
+1206
+
+
+--- New Page 34 ---
+Page number: 34
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Thu Apr 6 15:48:51 2023 +0100 flatten ips
+
+Zoe Mackay Thu Apr 6 15:53:56 2023 +0100 correcting resource name
+
+Zoe Mackay Thu Apr 6 16:24:42 2023 +0100 Merge pull request #2467 from arnoldclark/infra- 193 1/inbound-
+access
+
+Zoe Mackay Fri Apr 7 14:04:05 2023 +0100 Merge pull request #2469 from
+aroldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2/aks-cluster-2-prd--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.12.0-3.13.0
+
+Zoe Mackay Fri Apr 7 14:04:15 2023 +0100 Merge pull request #2468 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1/aks-cluster- 1-prd--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.12.0-3.13.0
+
+Zoe Mackay Fri Apr 7 14:04:41 2023 +0100 Merge pull request #2470 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1/aks-cluster-1-dev--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.12.0-3.13.0
+
+Zoe Mackay Fri Apr 7 14:37:56 2023 +0100 Merge pull request #2471 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1/aks-cluster- 1-pp--github--arnoldclark/ac-iac-
+tfmodule-aks-cluster--3.12.0-3.13.0
+
+Zoe Mackay Tue Apr 11 08:02:56 2023 +0100 Merge pull request #2522 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Apr 11 08:03:12 2023 +0100 Merge pull request #2521 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Apr 11 08:03:46 2023 +0100 Merge pull request #2519 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Apr 11 08:04:59 2023 +0100 Merge pull request #2518 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Apr 11 08:49:52 2023 +0100 adding correct role definition
+
+Zoe Mackay Tue Apr 11 09:41:32 2023 +0100 Merge pull request #2520 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Apr 11 09:51:25 2023 +0100 Merge pull request #2515 from
+arnoldclark/dependabot/terraform/common/new-relic/devstg/hashicorp/azurerm-3.5 1.0
+
+Zoe Mackay Tue Apr 11 09:51:38 2023 +0100 Merge pull request #2507 from
+armoldclark/dependabot/terraform/er-circuits/hashicorp/azurerm-3.51.0
+
+Zoe Mackay Tue Apr 11 09:51:52 2023 +0100 Merge pull request #2504 from
+arnoldclark/dependabot/terraform/common/container-registry/hashicorp/azurerm-3.5 1.0
+
+Zoe Mackay Tue Apr 11 13:45:13 2023 +0100 add sleep for 60 seconds
+
+Zoe Mackay Tue Apr 18 08:49:19 2023 +0100 Merge pull request #2595 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Apr 18 08:50:31 2023 +0100 Merge pull request #2594 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Apr 18 09:18:59 2023 +0100 Merge pull request #2593 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Apr 18 12:27:00 2023 +0100 Merge pull request #2591 from arnoldclark/random-combine-pr
+
+Zoe Mackay Tue Apr 18 13:25:48 2023 +0100 Merge pull request #2605 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/aks-cluster- 1-test--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+Zoe Mackay Tue Apr 18 13:27:37 2023 +0100 Merge pull request #2603 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-dev--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+Zoe Mackay Tue Apr 18 16:02:33 2023 +0100 Merge pull request #2604 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/aks-cluster- | -stg--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+Zoe Mackay Tue Apr 18 16:02:57 2023 +0100 Merge pull request #2606 from
+aroldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-pp--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+Zoe Mackay Tue Apr 18 16:05:59 2023 +0100 Merge pull request #2592 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Wed Apr 19 08:27:35 2023 +0100 Merge pull request #2613 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Apr 19 12:45:41 2023 +0100 remove signalr endpoint
+
+Zoe Mackay Thu Apr 20 11:22:16 2023 +0100 Merge pull request #2614 from arnoldclark/zm/signalr
+
+Zoe Mackay Thu Apr 20 11:48:21 2023 +0100 Merge pull request #2615 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/aks-cluster- | -prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+Zoe Mackay Thu Apr 20 11:48:35 2023 +0100 Merge pull request #2616 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/aks-cluster-2-prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.29.0-2.30.0
+
+1207
+
+
+--- New Page 35 ---
+Page number: 35
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Apr 25 08:00:39 2023 +0100 Merge pull request #2700 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue Apr 25 08:00:57 2023 +0100 Merge pull request #2699 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Apr 25 08:03:39 2023 +0100 Merge pull request #2697 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Apr 25 09:37:34 2023 +0100 Merge pull request #2698 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Apr 25 12:17:08 2023 +0100 updating permissions
+
+Zoe Mackay Wed Apr 26 14:14:39 2023 +0100 updating private endpoint to single signalr
+
+Zoe Mackay Wed Apr 26 14:14:58 2023 +0100 correcting name of workflow
+
+Zoe Mackay Tue May 2 08:04:17 2023 +0100 Merge pull request #2771 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue May 2 08:04:35 2023 +0100 Merge pull request #2770 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue May 2 08:04:51 2023 +0100 Merge pull request #2768 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue May 2 09:51:18 2023 +0100 Merge pull request #2769 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Thu May 4 11:09:45 2023 +0100 Merge pull request #2767 from arnoldclark/azuredevops-combine-
+pr
+
+Zoe Mackay Thu May 4 11:17:21 2023 +0100 Merge pull request #2772 from arnoldclark/random-combine-pr
+
+Zoe Mackay Thu May 4 15:13:13 2023 +0100 add seperate dns zones per location
+
+Zoe Mackay Thu May 4 15:13:59 2023 +0100 removed to dns zone per location
+
+Zoe Mackay Thu May 4 15:14:33 2023 +0100 update web servers
+
+Zoe Mackay Thu May 4 15:15:11 2023 +0100 add endpoint per cluster and signalr instance
+
+Zoe Mackay Thu May 4 15:22:45 2023 +0100 update web servers
+
+Zoe Mackay Thu May 4 15:26:56 2023 +0100 revert web server changes
+
+Zoe Mackay Thu May 4 15:50:45 2023 +0100 correct cluster name
+
+Zoe Mackay Thu May 4 15:50:58 2023 +0100 change to iproxy access
+
+Zoe Mackay Thu May 4 16:09:27 2023 +0100 remove duplicates
+
+Zoe Mackay Thu May 4 16:40:43 2023 +0100 revert changes
+
+Zoe Mackay Fri May 5 08:38:39 2023 +0100 Merge pull request #2773 from armoldclark/azuread-combine-pr
+
+Zoe Mackay Fri May 5 08:45:47 2023 +0100 remove duplicate addresses
+
+Zoe Mackay Fri May 5 10:03:58 2023 +0100 upgrade to aks version 1.25.6
+
+Zoe Mackay Fri May 5 11:04:32 2023 +0100 Merge pull request #2776 from arnoldclark/infra-1075/web-servers
+
+Zoe Mackay Fri May 5 11:10:00 2023 +0100 Merge pull request #2779 from arnoldclark/infra-113 1/test-upgrade
+
+Zoe Mackay Fri May 5 11:27:43 2023 +0100 update module version
+
+Zoe Mackay Fri May 5 11:56:31 2023 +0100 Merge pull request #2775 from arnoldclark/infra-1064/pep
+
+Zoe Mackay Mon May 8 12:45:12 2023 +0100 upgrade cluster to v1.25.6
+
+Zoe Mackay Tue May 9 10:24:31 2023 +0100 Merge pull request #2824 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue May 9 10:26:07 2023 +0100 Merge pull request #2822 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue May 9 10:49:34 2023 +0100 Merge pull request #2825 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/aks-cluster- 1-test--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Tue May 9 13:59:51 2023 +0100 Merge pull request #2821 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue May 9 14:04:55 2023 +0100 Merge pull request #2827 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-dev--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Tue May 9 15:57:39 2023 +0100 Merge pull request #2823 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed May 10 08:41:26 2023 +0100 Merge pull request #2782 from arnoldclark/infra-1131/dev-aks-
+upgrade
+
+Zoe Mackay Wed May 10 11:20:39 2023 +0100 new secret value
+
+Zoe Mackay Wed May 10 11:21:21 2023 +0100 enable condition after test
+
+Zoe Mackay Wed May 10 11:49:46 2023 +0100 add tags
+
+Zoe Mackay Wed May 10 11:52:43 2023 +0100 add tags
+
+Zoe Mackay Wed May 10 11:55:37 2023 +0100 typo
+
+Zoe Mackay Wed May 10 11:59:46 2023 +0100 Merge pull request #2834 from arnoldclark/zm/packer-
+automation
+
+Zoe Mackay Wed May 10 12:00:08 2023 +0100 Merge pull request #2833 from arnoldclark/infra-1115/pipeline
+
+Zoe Mackay Wed May 10 12:02:49 2023 +0100 Update common/azure-role-assignments/subscription-prisma-
+cloud-reader.tf
+
+1208
+
+
+--- New Page 36 ---
+Page number: 36
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Wed May 10 12:05:10 2023 +0100 Merge pull request #2832 from arnoldclark/infra-1080/prisma-
+cloud
+
+Zoe Mackay Wed May 10 13:14:22 2023 +0100 Merge branch 'master' into dependabot/terraform/aks/stg/aks-
+cluster-1/aks-cluster- 1-addons/aks-cluster- 1 -stg--github--arnoldclark/ac-iac-tfmodule-aks-addons--2.3 1.0-2.32.0
+
+Zoe Mackay Wed May 10 13:14:51 2023 +0100 correct resource name
+
+Zoe Mackay Wed May 10 13:21:57 2023 +0100 Merge pull request #2828 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/aks-cluster- | -stg--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Wed May 10 14:22:46 2023 +0100 Merge pull request #2826 from
+aroldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-pp--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Wed May 10 16:17:39 2023 +0100 update stg cluster to version 1.25
+
+Zoe Mackay Wed May 10 16:18:30 2023 +0100 upgrade cluster to version 1.25
+
+Zoe Mackay Wed May 10 16:50:23 2023 +0100 add wait to plan stage
+
+Zoe Mackay Thu May 11 09:00:01 2023 +0100 Merge pull request #2835 from arnoldclark/infra-1131/stg-
+upgrade
+
+Zoe Mackay Thu May 11 09:00:11 2023 +0100 Merge pull request #2836 from arnoldclark/infra-1 13 1/pp-aks-
+upgrade
+
+Zoe Mackay Thu May 11 10:34:29 2023 +0100 Merge pull request #2829 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/aks-cluster- | -prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Thu May 11 10:34:47 2023 +0100 Merge pull request #2837 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/aks-cluster-2-prd--github--
+arnoldclark/ac-iac-tfmodule-aks-addons--2.31.0-2.32.0
+
+Zoe Mackay Thu May 11 12:16:20 2023 +0100 upgrade aks version
+
+Zoe Mackay Thu May 11 12:17:01 2023 +0100 upgrade aks verison
+
+Zoe Mackay Tue May 16 08:14:52 2023 +0100 Merge pull request #2840 from arnoldclark/infra-1131/prd1-aks-
+upgrade
+
+Zoe Mackay Tue May 16 10:16:58 2023 +0100 Merge pull request #2902 from arnoldclark/kubernetes-combine-
+pr
+
+Zoe Mackay Tue May 16 10:17:27 2023 +0100 Merge pull request #2901 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue May 16 10:18:05 2023 +0100 Merge pull request #2899 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue May 16 13:05:10 2023 +0100 Merge pull request #2900 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue May 16 13:08:00 2023 +0100 Merge pull request #2868 from
+arnoldclark/dependabot/terraform/common/azure-locks/aks/pp/hashicorp/azurerm-3.56.0
+
+Zoe Mackay Tue May 16 13:08:17 2023 +0100 Merge pull request #2867 from
+arnoldclark/dependabot/terraform/common/azure-locks/hubs/hub-1/hashicorp/azurerm-3.56.0
+
+Zoe Mackay Wed May 17 10:10:43 2023 +0100 Merge pull request #2839 from arnoldclark/infra-1131/prd2-
+upgrade-aks
+
+Zoe Mackay Wed May 17 11:29:45 2023 +0100 Merge pull request #2903 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Thu May 18 10:44:53 2023 +0100 update start time
+
+Zoe Mackay Thu May 18 11:07:50 2023 +0100 Merge pull request #2904 from arnoldclark/zm/automation-
+account
+
+Zoe Mackay Mon Jun 5 08:11:39 2023 +0100 Merge pull request #2985 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Mon Jun 5 09:15:02 2023 +0100 Merge pull request #2945 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Mon Jun 5 09:15:32 2023 +0100 Merge pull request #2944 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Mon Jun 5 10:02:54 2023 +0100 Merge pull request #2943 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Jun 6 11:16:51 2023 +0100 Merge pull request #3038 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Jun 6 11:17:46 2023 +0100 Merge pull request #3039 from arnoldclark/kubernetes-combine-pr
+
+Zoe Mackay Tue Jun 6 11:19:45 2023 +0100 Merge pull request #3036 from arnoldclark/azuread-combine-pr
+
+Zoe Mackay Tue Jun 6 11:22:24 2023 +0100 Merge pull request #3037 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Tue Jun 6 14:19:34 2023 +0100 add new data platform subscriptions
+
+Zoe Mackay Wed Jun 7 09:48:38 2023 +0100 additional contributor users
+
+Zoe Mackay Wed Jun 7 10:19:32 2023 +0100 update module version
+
+Zoe Mackay Wed Jun 7 10:25:04 2023 +0100 add tags
+
+Zoe Mackay Tue Jun 13 08:08:28 2023 +0100 Merge pull request #3095 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Tue Jun 13 08:08:47 2023 +0100 Merge pull request #3094 from arnoldclark/newrelic-combine-pr
+
+1209
+
+
+--- New Page 37 ---
+Page number: 37
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Tue Jun 13 09:25:50 2023 +0100 Merge pull request #3093 from arnoldclark/tfmodule-combine-pr
+
+Zoe Mackay Tue Jun 13 10:30:46 2023 +0100 Merge branch ‘master’ into dependabot/terraform/sql-
+servers/stg/hashicorp/azurerm-3.58.0
+
+Zoe Mackay Tue Jun 13 10:31:11 2023 +0100 Merge branch ‘master’ into dependabot/terraform/platform-
+operations/prd/hashicorp/azurerm-3.58.0
+
+Zoe Mackay Tue Jun 13 10:31:32 2023 +0100 Merge branch ‘master’ into dependabot/terraform/platform-
+operations/dev/hashicorp/azurerm-3.58.0
+
+Zoe Mackay Tue Jun 13 10:32:03 2023 +0100 Merge branch 'master' into dependabot/terraform/aks/dev/aks-
+cluster-1/aks-cluster-1/hashicorp/azurerm-3.58.0
+
+Zoe Mackay Tue Jun 13 10:32:27 2023 +0100 Merge branch 'master'’ into dependabot/terraform/aks/test/aks-
+cluster-1/aks-cluster-1/hashicorp/azurerm-3.58.0
+
+Zoe Mackay Tue Jun 13 12:14:52 2023 +0100 Merge pull request #3123 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Jun 14 08:32:19 2023 +0100 Merge pull request #3127 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Wed Jun 14 11:47:10 2023 +0100 rename resource group
+
+Zoe Mackay Fri Jun 16 10:17:15 2023 +0100 Merge pull request #3053 from
+aroldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/hashicorp/helm-2.10.1
+
+Zoe Mackay Fri Jun 16 10:20:27 2023 +0100 Merge pull request #3027 from
+arnoldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/hashicorp/helm-2.10.1
+
+Zoe Mackay Fri Jun 16 10:21:00 2023 +0100 Merge pull request #3021 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/hashicorp/helm-2.10.1
+
+Zoe Mackay Fri Jun 16 13:51:46 2023 +0100 enable filebeat
+
+Zoe Mackay Fri Jun 16 14:16:04 2023 +0100 enabled filebeat logs
+
+Zoe Mackay Fri Jun 16 14:16:50 2023 +0100 enabled filebeat logs
+
+Zoe Mackay Fri Jun 16 14:17:42 2023 +0100 enable filebeat
+
+Zoe Mackay Fri Jun 16 14:32:31 2023 +0100 Merge pull request #3129 from
+arnoldclark/dependabot/terraform/aks/dev/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-dev--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Fri Jun 16 14:33:28 2023 +0100 Merge pull request #3132 from
+arnoldclark/dependabot/terraform/aks/test/aks-cluster-1/aks-cluster-1-addons/aks-cluster- 1-test--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Fri Jun 16 14:38:10 2023 +0100 Merge pull request #3133 from
+aroldclark/dependabot/terraform/aks/pp/aks-cluster- 1/aks-cluster- 1-addons/aks-cluster-1-pp--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Fri Jun 16 14:38:34 2023 +0100 Merge pull request #3134 from
+arnoldclark/dependabot/terraform/aks/stg/aks-cluster- 1/aks-cluster-1-addons/aks-cluster- | -stg--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Mon Jun 19 11:16:54 2023 +0100 Merge pull request #3131 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/aks-cluster- | -prd--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Mon Jun 19 11:17:10 2023 +0100 Merge pull request #3130 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/aks-cluster-2-prd--github--
+aroldclark/ac-iac-tfmodule-aks-addons--2.32.0-2.33.0
+
+Zoe Mackay Thu Jun 22 08:34:45 2023 +0100 Merge pull request #3124 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-1/aks-cluster- 1-addons/hashicorp/helm-2.10.1
+
+Zoe Mackay Thu Jun 22 08:34:54 2023 +0100 Merge pull request #3043 from
+arnoldclark/dependabot/terraform/aks/prd/aks-cluster-2/aks-cluster-2-addons/hashicorp/helm-2.10.1
+
+Zoe Mackay Tue Jun 27 11:53:08 2023 +0100 Merge pull request #3175 from arnoldclark/azurerm-combine-pr
+
+Zoe Mackay Tue Jun 27 12:12:14 2023 +0100 update permissions needed
+
+Zoe Mackay Tue Jun 27 14:17:48 2023 +0100 Merge pull request #3177 from arnoldclark/infra-1080/prisma-role
+
+Zoe Mackay Tue Jun 27 14:17:57 2023 +0100 Merge pull request #3176 from arnoldclark/infra-1175/resource-
+group
+
+Zoe Mackay Wed Jun 28 09:00:57 2023 +0100 Merge pull request #3174 from arnoldclark/newrelic-combine-pr
+
+Zoe Mackay Wed Jun 28 09:25:42 2023 +0100 Merge branch 'master' into aws-combine-pr
+
+Zoe Mackay Wed Jun 28 09:43:30 2023 +0100 Merge pull request #3139 from arnoldclark/aws-combine-pr
+
+Zoe Mackay Fri Jun 30 10:37:54 2023 +0100 add azure dns server
+
+Zoe Mackay Fri Jun 30 13:41:33 2023 +0100 add private endpoint connection
+
+Zoe Mackay Fri Jun 30 13:42:06 2023 +0100 new dns zones for database private endpoints
+
+1218
+
+
+--- New Page 38 ---
+Page number: 38
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+Zoe Mackay Fri Jun 30 13:42:33 2023 +0100 remove extra resource group
+Zoe Mackay Fri Jun 30 14:15:14 2023 +0100 add tags
+Zoe Mackay Fri Jun 30 14:41:05 2023 +0100 Merge pull request #3181 from arnoldclark/infra-56/dns-servers
+
+mmshill (42):
+
+mmshill Mon Feb 20 16:30:36 2023 +0000 changed aks-kubernetes-version
+
+mmshill Tue Feb 21 09:19:42 2023 +0000 Merge pull request #2010 from
+armnoldclark/pp_cluster_tf_version_change
+
+mmshill Tue Feb 21 10:02:49 2023 +0000 Merge pull request #2001 from arnoldclark/infra-1130/stg-aks-
+upgrade
+
+mmshill Thu Feb 23 11:38:33 2023 +0000 updating k8 version in cluster.tf in prd1 and prd2
+
+mmshill Thu Feb 23 12:14:04 2023 +0000 k8 version change prd2 - INFRA-1130
+
+mmshill Fri Feb 24 14:49:57 2023 +0000 k8 version change prdl - INFRA-1130
+
+mmshill Mon Feb 27 09:55:17 2023 +0000 Merge pull request #2086 from arnoldclark/k8 version change prd2
+
+mmshill Tue Feb 28 09:35:32 2023 +0000 Merge pull request #2089 from arnoldclark/k8_version_change_prd1
+
+mmshill Wed Apr 5 13:38:41 2023 +0100 adding files main.tf terraform.tfvars and variables.tf
+
+mmshill Wed Apr 5 14:23:37 2023 +0100 adjusting the tf files
+
+mmshill Wed Apr 12 14:09:20 2023 +0100 adding terraform generating python script
+
+mmshill Wed Apr 12 14:40:35 2023 +0100 Update python for terraform.py
+
+mmshill Thu Apr 13 15:15:23 2023 +0100 adding bash script to get the snapshot of the current AWS estate
+
+mmshill Tue Apr 18 11:51:23 2023 +0100 Merge branch 'master' of github.com:arnoldclark/ac-iac-platform into
+INFRA-675/AWS
+
+mmshill Tue Apr 18 11:57:22 2023 +0100 adding tf files for vpc and security groups
+
+mmshill Fri Apr 28 10:23:50 2023 +0100 Adding vpc_terraform folder with terraform files for vpc
+
+mmshill Tue May 9 14:51:47 2023 +0100 new vpc added
+
+mmshill Wed May 10 14:20:04 2023 +0100 removing folders that are not needed anymore
+
+mmshill Fri May 19 11:01:05 2023 +0100 Adding Terraform Config for VPC using version 1.3.7
+
+mmshill Fri May 19 11:18:18 2023 +0100 Renaming VPC Folders
+
+mmshill Fri May 19 16:11:47 2023 +0100 adding aws_vpc_ accounting script
+
+mmshill Tue May 23 14:26:13 2023 +0100 breaking down configs
+
+mmshill Wed May 24 14:15:00 2023 +0100 breaking down config files
+
+mmshill Thu May 25 13:06:15 2023 +0100 breaking down configs
+
+mmshill Fri May 26 12:13:55 2023 +0100 Deleting folder broken_down_config
+
+mmshill Fri May 26 14:36:58 2023 +0100 breaking down configs
+
+mmshill Mon May 29 13:03:02 2023 +0100 breaking down configs
+
+mmshill Tue May 30 12:51:26 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS
+
+mmshill Tue May 30 15:09:07 2023 +0100 breaking down configs
+
+mmshill Tue May 30 15:13:52 2023 +0100 adding vpc count for 30th may 2023
+
+mmshill Fri Jun 2 15:48:21 2023 +0100 modifying some parts of vpe-dce37dab5
+
+mmshill Mon Jun 5 11:49:05 2023 +0100 breaking down configs change
+
+mmshill Mon Jun 5 11:51:43 2023 +0100 Merge remote-tracking branch 'origin/master’ into INFRA-675/AWS
+
+mmshill Mon Jun 5 14:10:55 2023 +0100 Config modifications and merging of main.tf files
+
+mmshill Wed Jun 7 15:17:27 2023 +0100 merging providers config
+
+mmshill Wed Jun 7 15:18:36 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS
+
+mmshill Wed Jun 7 15:21:13 2023 +0100 merging providers config
+
+mmshill Mon Jun 12 15:30:43 2023 +0100 all-vpc-terraform
+
+mmshill Mon Jun 12 16:22:15 2023 +0100 all configs in one
+
+mmshill Tue Jun 13 09:15:47 2023 +0100 testing ground
+
+mmshill Thu Jun 15 10:38:53 2023 +0100 code refactoring and files merging
+
+mmshill Thu Jun 15 10:39:43 2023 +0100 Merge remote-tracking branch 'origin/master' into INFRA-675/AWS
+
+zoemac! 1@hotmail.com (81):
+zoemac!1@hotmail.com Fri Dec 2 15:40:12 2022 +0000 increase scan time for autoscaler to 5mins
+zoemac!1@hotmail.com Wed Dec 7 14:49:41 2022 +0000 add role assignments for support requests
+zoemac!1@hotmail.com Wed Dec 14 12:07:01 2022 +0000 add resource group for tf storgae accounts
+zoemac11@hotmail.com Tue Dec 20 08:40:57 2022 +0000 updating version files
+zoemac11@hotmail.com Tue Dec 20 14:21:21 2022 +0000 update format for dependabot
+
+1211
+
+
+--- New Page 39 ---
+Page number: 39
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+zoemacl1@hotmail.com Wed Dec 21 14:51:57 2022 +0000 adding signalr private endpoints
+
+zoemac! 1@hotmail.com Thu Dec 22 10:54:40 2022 +0000 update module version
+
+zoemacl 1@hotmail.com Thu Dec 22 12:09:23 2022 +0000 update module version 3.9.0
+zoemac!1@hotmail.com Fri Dec 23 11:28:07 2022 +0000 update threshold for pod count alert
+
+zoemacl 1@hotmail.com Fri Dec 23 11:31:20 2022 +0000 update comment
+
+zoemac!1@hotmail.com Wed Jan 4 11:49:49 2023 +0000 Merge branch 'master' into azuredevops-combine-pr
+zoemac! 1@hotmail.com Tue Jan 10 10:02:35 2023 +0000 update for new automation user
+
+zoemac! 1@hotmail.com Tue Jan 10 16:31:17 2023 +0000 Merge branch 'master' into azurerm-combine-pr
+zoemac! 1@hotmail.com Tue Jan 10 16:33:12 2023 +0000 Merge branch 'master' into azuread-combine-pr
+zoemac! 1@hotmail.com Tue Jan 10 16:33:42 2023 +0000 Merge branch 'master' into random-combine-pr
+zoemac! 1@hotmail.com Fri Jan 13 11:49:42 2023 +0000 update aso eventstore dns
+zoemac!1@hotmail.com Fri Jan 13 11:59:30 2023 +0000 updating dns for aso eventstore
+
+zoemac! 1@hotmail.com Tue Jan 17 08:45:32 2023 +0000 add github workflows
+
+zoemac! 1@hotmail.com Tue Jan 17 12:16:47 2023 +0000 update to latest date
+
+zoemacl 1@hotmail.com Tue Jan 24 09:14:48 2023 +0000 Merge branch 'master' into tfmodule-combine-pr
+zoemac11@hotmail.com Tue Jan 24 10:32:24 2023 +0000 update azurerm provider versions
+zoemac11@hotmail.com Tue Jan 24 10:32:42 2023 +0000 update azurerm provider version
+
+zoemac! 1@hotmail.com Fri Jan 27 16:30:29 2023 +0000 Merge branch 'master' into infra-1086/pipeline
+zoemacl 1@hotmail.com Tue Jan 31 12:44:30 2023 +0000 update workflow schedules
+zoemac!1@hotmail.com Tue Jan 31 12:45:01 2023 +0000 add new new relic environments
+
+zoemac! 1@hotmail.com Tue Jan 31 12:45:12 2023 +0000 use latest version of powershell
+zoemac!1@hotmail.com Fri Feb 3 09:04:38 2023 +0000 update parameter names
+zoemac!1@hotmail.com Tue Feb 7 13:27:15 2023 +0000 upgrade to tf version 1.3.7
+
+zoemac! 1@hotmail.com Mon Feb 13 15:20:49 2023 +0000 add keith
+
+zoemac! 1@hotmail.com Tue Feb 14 11:49:51 2023 +0000 update tf module version
+zoemac!1@hotmail.com Wed Feb 15 11:11:50 2023 +0000 updating test cluster to v1.24.9
+zoemac!1@hotmail.com Wed Feb 15 11:33:43 2023 +0000 upgrade to version 1.24.9
+zoemac!1@hotmail.com Wed Feb 15 11:49:07 2023 +0000 upgrade to version 1.24.9
+zoemac!1@hotmail.com Thu Feb 16 12:02:58 2023 +0000 update AD group for abyc
+zoemac!1@hotmail.com Thu Feb 16 13:10:49 2023 +0000 use prd group for prd environment
+zoemac!1@hotmail.com Fri Feb 17 13:37:48 2023 +0000 remove private endpoints
+zoemac11@hotmail.com Fri Feb 17 13:47:54 2023 +0000 update public ip used
+
+zoemac!1@hotmail.com Fri Feb 17 13:58:18 2023 +0000 update public ip
+
+zoemac11@hotmail.com Thu Feb 23 13:52:15 2023 +0000 updating automation account
+
+zoemac! 1@hotmail.com Fri Feb 24 11:27:32 2023 +0000 update condition
+
+zoemacl 1@hotmail.com Fri Mar 3 12:09:07 2023 +0000 fix date
+
+zoemac11@hotmail.com Mon Mar 13 11:53:45 2023 +0000 updating start time for long term sql runbook
+zoemac11@hotmail.com Mon Mar 13 15:24:42 2023 +0000 moving tf state storage account to use module
+zoemac! 1@hotmail.com Mon Mar 13 15:24:54 2023 +0000 add lock file
+
+zoemac! 1@hotmail.com Mon Mar 13 15:45:47 2023 +0000 add additional containers
+zoemac11@hotmail.com Tue Mar 21 15:55:18 2023 +0000 upgrade provider version
+zoemac!1@hotmail.com Wed Mar 22 10:06:10 2023 +0000 move service connections to own stage
+zoemac11@hotmail.com Wed Mar 22 10:08:06 2023 +0000 typo
+
+zoemac!1@hotmail.com Wed Mar 22 10:21:06 2023 +0000 update service connections after storage account
+zoemac!1@hotmail.com Wed Mar 22 11:26:26 2023 +0000 update branch names for other repos
+zoemac!11@hotmail.com Wed Mar 22 13:36:37 2023 +0000 remove logs as they dont exists anymore
+zoemac! 1@hotmail.com Wed Mar 22 14:15:00 2023 +0000 update storage container variable
+
+zoemac! 1@hotmail.com Wed Mar 22 15:06:18 2023 +0000 rename terraform directory for k8s sc
+zoemac!1@hotmail.com Fri Mar 24 10:17:28 2023 +0000 update github rsa host key
+
+zoemacl 1@hotmail.com Tue Mar 28 09:08:56 2023 +0100 use main git branch
+
+zoemac11@hotmail.com Tue Mar 28 12:30:58 2023 +0100 add new script for updating release pipelines
+zoemac11@hotmail.com Wed Mar 29 08:44:25 2023 +0100 get only endpoints for the certain cluster
+zoemac! 1@hotmail.com Wed Mar 29 15:35:47 2023 +0100 delete service connections
+zoemac11@hotmail.com Wed Mar 29 15:37:23 2023 +0100 add app reg for prisma cloud
+
+zoemac! 1@hotmail.com Wed Mar 29 15:37:38 2023 +0100 add prisma cloud reader role
+
+zoemac! 1@hotmail.com Wed Mar 29 15:38:20 2023 +0100 add prisma cloud container
+
+zoemac! 1@hotmail.com Wed Mar 29 15:48:10 2023 +0100 add azure devops container
+
+1212
+
+
+--- New Page 40 ---
+Page number: 40
+Title of ebook of origin: 60.git_logs_provided_by_arnold_clark.pdf
+
+zoemac 1 1@hotmail.com Thu Mar 30 14:25:24 2023 +0100 add extra permissions
+
+zoemac! 1@hotmail.com Thu Mar 30 14:28:41 2023 +0100 output env variables
+
+zoemac11@hotmail.com Thu Mar 30 14:51:54 2023 +0100 add permissions for employee team reader for sql
+zoemac! 1@hotmail.com Thu Mar 30 15:07:33 2023 +0100 add IP to storage account
+zoemac!1@hotmail.com Thu Mar 30 15:37:24 2023 +0100 correct condition for self-hosted agent pipelines
+zoemacl 1@hotmail.com Thu Mar 30 15:42:26 2023 +0100 add and to condition
+
+zoemac! 1@hotmail.com Thu Mar 30 15:46:33 2023 +0100 trying again with the condition
+
+zoemac! 1@hotmail.com Thu Mar 30 16:16:17 2023 +0100 add correct format
+
+zoemac!1@hotmail.com Thu Mar 30 16:46:22 2023 +0100 change to ip address
+
+zoemac! 1@hotmail.com Fri Mar 31 11:11:19 2023 +0100 change order of commands
+
+zoemac! 1@hotmail.com Fri Mar 31 14:08:49 2023 +0100 remove delete/write permissions
+
+zoemac! 1@hotmail.com Fri Mar 31 16:06:34 2023 +0100 correcting resource name
+
+zoemac! 1@hotmail.com Mon Apr 3 11:24:18 2023 +0100 allow public client connections
+
+zoemacl 1@hotmail.com Mon Apr 3 14:20:21 2023 +0100 add owner as account contributor
+zoemacl1@hotmail.com Mon Apr 3 14:37:52 2023 +0100 add remove ip to storage account
+
+zoemac! 1@hotmail.com Mon Apr 3 14:42:10 2023 +0100 correct resource names
+zoemac!1@hotmail.com Wed Apr 5 15:48:58 2023 +0100 update permissions
+
+zoemac!1@hotmail.com Wed Apr 5 15:52:56 2023 +0100 adding private endpoints
+zoemac!1@hotmail.com Wed Apr 5 16:13:32 2023 +0100 typo
+
+1213
+

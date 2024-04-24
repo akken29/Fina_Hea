@@ -1,0 +1,2123 @@
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fm GIF
+
+=> Lisi]
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0
+Jason: Running over time in an...
+
+e
+@
+@ PR Reviews 13
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:49 7 8 6 G& Wai @ B100%
+
+Q Search ee —
+2 @
+
+@ Jason White Chat Files 3morey + ay &
+
+Bonjour mon ami Marcel, comment ca va?
+
+| want to pick your brain for your infosec knowledge
+
+If you were to look at using a WAF with / in front of HAproxy, do you know off the top of your head what
+open source software you'd use? This isn't for a piece of work, I'm just doing some research in the
+background, so no rush
+
+10/05 10:51
+
+Bonjour cher ami Jason !
+
+From experiencq\j know that financial institution (Societe GEnerale in France and many other UK
+banks) make u modsecurity as a waf in front of haproxy for security purposes
+
+Not only is modsecurity easy to set up in conjonction with haproxy but it does prove very efficient.
+
+| just sent a message to a former colleague on mine still working for Ingenico in Paris (Ingenico the
+french payment processor) and he confimed that modsecurity is still in use on the infrastructure there.
+
+Now to make it really hard for possible digital assailants, extra measures are taken to disrupt their
+scanning attempts from the very beginning with iptables
+
+Jason White 10/05 11:06
+
+Excellent, modsecurity is what came up first when | googled waf & haproxy
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fm GIF
+
+=> Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+)
+©
+©
+©
+©
+
+Zoe MacKay 12/05
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search ee —
+2 @
+
+@ Jason White Chat Files 3morey + ay &
+
+and ssh keys ate the bottom
+so whenever you have time today or tomorrow, we can review that and i hope finish with this task
+
+Also i could not quite figure your scritp used to 'protect' files with sensitive information so i have
+worked a solkution with ansible vault.
+
+But we talk about this whenever you can
+
+many thanks
+
+Jason ite 04/04 12:08
+
+@ Cool cool, | wont have time today as there's a lot going on with eventstore and | need to leave early, but
+© can see the ansible check mode runs in the pipeline are failing on the PR, so there's something for
+you to investigate. Looks like you've still got a coulple of files in the branch to delete - ie the
+users_with_password / users_with_ssh_key files.
+
+Hopefully tomorrow | can have a deeper look at it, otherwise we do have another PR review meeting on
+Thu morning
+
+Jason White 04/04 13:11
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+SB cree: am cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+o
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+Jason
+
+te 27/03 15:32
+
+20 Jun 12:50
+
+27 March
+
+4 April
+
+= © & OG @ai & B 100%
+
+22/03 15:31
+ok no problem at all. After standup !
+
+41
+
+27/03 15:31
+
+you could have written: 'c'est merdique'
+
+27/03 15:32
+
+but what you write is still understandable
+
+04/04 11:56
+
+Workspaces
+
+Cha
+
+Applications
+
+t~-
+
+Pinned
+
+Rece
+
+rN
+
+@
+)
+©
+©
+6.
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fm GIF
+
+=> Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+Jason: Running over time |
+
+PR Reviews 13
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr S
+
+Planning s/t
+
+Reco 5 ready
+
+Zoe MacKay 12/05
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Search tee
+
+@ Jason White Chat Files 3morey +
+
+You will get certificate warnings that you'll need to accept
+
+09/03 12:16
+
+No problem at all. Thank you for these links !
+
+Jason White 09/03 12:25
+
+@ My pleasure @
+
+21 March
+21/03 15:26
+
+Hello Jason.
+
+So there is a new branch called sftp_config available from the url below:
+
+https://github.com/arnoldclark/ac-iac-platform-onprem-ops/tree/sftp_config
+So it is work in progress still but this is the logic you will find there:
+
+-the playbook.yaml has been modified with the following;
+>some GORE showing the bash script from which the loads modifications came.These
+
+Pr ae Pa Dear Para raed laces es LW ae a ae
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+)
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fm GIF
+
+=> Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr :
+
+Planning
+cl
+
+Digital Team Update 12/05
+
+Reco is ready
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search ee —
+2 @
+
+@ Jason White Chat Files 3morey + ay &
+
+29 December 2022
+29/12/22 17:07
+
+Hello Jason.As we spoke about last time, i dont yet have access to all the hosts on the datacenter.But i
+wanted to second Greg a bit regarding the scanning of the Linux servers...so despite the stress you are
+encountering yourself at the moment with what is going on would you please give me the access when
+you have a minute ?
+
+Other than that i really hope things get back to normla soon...i feel the stress just by reading messages
+floating around...Jesus !
+
+Jason White 29/12/22 17:15
+
+| need to know what servers specifically you're trying to access - might be easier to get Greg/Claire to
+do it
+
+3 February
+03/02 15:30
+
+Hi Jason.Would you please have some time next week to quickly run me through the ansible set up you
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+SB cree: am cir
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+o
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+20 Jun 12:50 e a B G e ai &
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+Jason te 21/12/22 12:02
+
+@ No promises for this afternoon but I'll see how I'm feeling ® sorry | know you want to crack on too
+
+te 21/12/22 14:00
+
+Jason
+
+@ Ok been for a run, am all good for a call when you're ready - sorry for being a pain! 2
+
+21/12/22 14:03
+
+Hey Jason.Welcome back....yes yes...gimme just 10 minutes.| am with HR on the phone.no more than 10
+minutes
+
+41
+
+21/12/22 14
+
+Hello Jason
+iam ready
+
+Jason te 21/12/22 14:20
+
+@ | could hear you
+
+te 21/12/22 15:21
+
+Jason V
+
+Goa&e RF COB - a
+
+G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+Jason te 20/12/22 15:56
+
+@ Yeah definitely mate, and anyway I'm pretty knackered after my early start so will be even more
+»d incoherent than usual &
+
+20 Jun 12:50
+
+21 December 2022
+
+OG Wai & G 100%
+
+20/12/22 15:54
+
+Hey Jason...so i guess we will have to try tomorrow then because today is a bit too hectic @
+
+20/12/22 15:57
+
+Naaaah you've never been incoherent...have a good rest and speak tomorrow !
+
+41
+
+A demain!
+
+2/22 09:51 Edited
+
+Good morning Jason.I was wondering at what time you could make it today...happy Wednesday ( is
+
+there such a thing ?)
+
+Jason te 21/12/22 11:58
+
+en ee ee eee eee eet enee
+
+moauha thie aftarnaan
+
+nat hain a oaenat daw cn Far het
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éeoe0eeceoo
+
+Zoe MacKay 12/05
+
+Q Search
+
+20 Jun 12:50
+
+@ Jason White Chat Files 3morey +
+
+@ You'll need to know where to put it, what network to use etc, might be best to wait until | can take you
+through it all as we automate everything now anyway
+
+Edited
+
+Dont go changing or deploying anything yet ©
+
+Jason
+
+Jason
+
+Canal
+
+16/12/22
+
+nna worrias
+
+i
+
+wn
+
+ite 16/12/22 15:39
+
+39
+
+%
+
+Oo Wai & B100%
+
+16/12/22 15:37
+No real change
+
+Edited
+
+it is just the case of deploying an ubuntu vm and do some test on it that s all
+
+16/12/22 15:39
+
+ok np
+
+i wll start then on my local
+
+é)
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+DB
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morni ‘lai
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,OOQOO68 OO
+
+Zoe MacKay
+
+20 Jun 12:50
+
+@ Jason White chat
+
+te 16/12/22 11:19
+
+You can always just copy/paste the contents of your keys too
+
+% & Fai & G 100%
+
+ak &
+
+Below Is a SCreensnot oT the error message | keep getting
+
+So in summary i can ssh...but i cannot scp....
+
+@ Are you sure it hasn't copied? That's just a warning from key chain, it doesn't mean the sco has failed
+
+16/12/22 15:35
+
+HI jason, before you go
+
+can i plese get the URI for Vmware
+
+please
+
+Workspaces Applications 20Jun 12:50 « = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~ = © @ Jason White chat Files 3morey + a & &
+
+=) Pinned
+
+Marcel Sangare (You) 08/06
+You: mm @pop-os:~/ac-iac-platt... Good morning Jason. i am having an issue copying my private key from my laptop to the jump server.
+
+keep getting the same error as Claire.| tried everything but to no avail. Would you mind if i put the
+private key into a gpg encrypted file and ask you to scp that file in my home directory on each of the 4
+
+Laura Cooper 11:41 jump servers ? | cannot think of any other way at the moment.
+"@ Hi Marcel - i have booked St Geo...
+
+16/12/22 11:13
+
+Recent
+
+Obviously i can then get the file, decrypt it in my home directory and push it to the relevant .ssh folder
+
+Q ArchOps Chat 10:20 .
+. on the jump servers
+
+David Moffat 19/06 Below is a screenshot of the error message i keep getting
+You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+Jason: Ru ime in ano...
+
+PR Reviews
+Claire: just jumped |
+
+AWS VPCs 13/06
+You: ah ok no problem.
+
+Skijaatereen ae So in summary i can ssh...but i cannot scp....
+You: Good morr
+
+Jason White 16/12/22 11:19
+Planning 08/06
+a ngs be...
+
+12/05
+
+@6éeoe0eeceoo
+
+Zoe MacKay 12/05
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+20Jun 12:50 e = © & OG @ai & B 100%
+
+Q Search
+
+@ Jason White Chat Files 3 more »
+
+ar ak &
+
+So in summary i can ssh...but i cannot scp....
+
+Jason te 16/12/22 11:19
+
+@ Are you sure it hasn't copied? That's just a warning from key chain, it doesn't mean the sco has failed
+You can always just copy/paste the contents of your keys too
+
+16/12/22 15:35
+
+HI jason, before you go
+can i plese get the URI for Vmware
+
+please
+
+HQS (South St): SDC (1377p!)
+
+Edited
+
+Dont go changing or deploying anything yet &
+
+16/12/22 15:37
+
+rea ee Le
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+20Jun 12:50 ©
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+OG Wai & G 100%
+
+16/12/22 15:37
+No real change
+
+Edited
+
+it is just the case of deploying an ubuntu vm and do some test on it that s all
+
+te 16/12/22 15:39
+
+@ You'll need to know where to put it, what network to use etc, might be best to wait until | can take you
+o
+
+through it all as we automate everything now anyway
+
+ok np
+
+i wil start then on my local
+
+41
+
+16/12/22 15:39
+
+enue tall ahaut thie an tuacdaw if war timatahia allawre far it
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+
+Greg: Sf GIF
+
+a
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+20 Jun 12:50 a B G e ai &
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+‘=
+16/12/22 15:39
+
+sowe talk about this on tuesday if your timetable allows for it
+
+Jason te 16/12/22 15:40
+
+@ Yeah should do, especially as I'll be starting quite early that day
+There's a lot to go through so I'll help you get setup and started
+
+16/12/22 15:42
+
+Thank you in advance
+
+Jason
+
+N bl
+@ 0 problem
+
+20 December 2022
+20/12/22 09:45
+
+Good morning Jason.Hope the migration was not too stressful this morning. was wondering at what
+time you will be able to join our infrastructure discovery session.Thank you in advance
+
+Jason te 20/12/22 10:17
+
+Goer COB - a >
+
+G 100%
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éeoe0eeceoo
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+Q Search oo
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+ak &
+
+@ Jason White Chat Files 3morey +
+
+Good morning Jason.Hope the migration was not too stressful this morning.| was wondering at what
+time you will be able to join our infrastructure discovery session.Thank you in advance
+
+Jason White 20/12/22 10:17
+
+@ Hey man, I've got some loose ends to tidy up with the redis servers first but that shouldn't take me all
+day. But can you remind me what we were going to cover? I've forgotten @
+
+Hey Jason....aaah deployments are always tricky and i understand the need to tidy up things on the
+redis...so i ll wait for when you can today.So yes we spoke last week about you showing me around the
+Virtualization servers, the haproxy...you know all that is needed to make sure anything done will not
+hurt the established good order of things
+
+41
+20/12/22 15:54
+
+Hey Jason...so i guess we will have to try tomorrow then because today is a bit too hectic @
+
+Jason White 20/12/22 15:56
+
+Yeah definitely mate, and anyway I'm pretty knackered after my early start so will be even more
+incoherent than usual &
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+20 Jun 12:50 a B G e ai &
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+te 21/12/22 12:02
+
+Jason
+
+@ No promises for this afternoon but I'll see how I'm feeling ® sorry | know you want to crack on too
+
+Jason te 21/12/22 14:00
+
+@ Ok been for a run, am all good for a call when you're ready - sorry for being a pain! &
+
+21/12/22 14:03
+
+Hey Jason.Welcome back....yes yes...gimme just 10 minutes.| am with HR on the phone.no more than 10
+minutes
+
+G1
+21/12/22 14:14
+
+Hello Jason
+iam ready
+
+te 21/12/22 14:20
+
+@ | could hear you
+o
+
+G 100%
+
+Workspaces Applications
+
+Q Search
+
+Chat ~
+
+Pinned
+
+4 @ Jason White Chat Files 3morey + a & &
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+ite 21/12/22 15:21
+
+=f Iwi ' f 39 /
+Marcel Sangare (You) 08/06 @ https://arnoldclark.atlassian.net/wiki/spaces/DS1/pages/2219933699/ Externally+Accessible+SFTP+Serv
+
+You: mm@pop-os:~/ac-iac-platt... ers
+Recent 4 1
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+cl
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+22 December 2022
+22/12/22 13:42
+
+HI Jason.
+i have a quick question
+
+in the steps you wrote there is the following paragraph:
+
+mkdir /home/username/.ssh
+
+vi /home/username/.ssh/authorized_keys
+
+## Paste in the SSH key
+
+## Add keys for Data Services to upload data
+
+ssh-rsa
+AAAAB3NzaClyc2EAAAABJQAAAGEArYZhd94BxAn40bZn5LZy1fqseCiLIGSUOIHwd881WtpNCDMX4Ux6tDLcy5l
+OlxstWvav4ec8G53fwFawex YrLWbeFBoiCvruXiIMe+7 NSKICP3Xv01EO8brl+9Scvhz0WFRG6LRIMFPxXBILScvOOcn0
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+ny
+II!
+
+Pinned
+
+Rece
+
+a
+
+,OOQOO68 OO
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+20Jun 12:50 e = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+@ Jason White Chat Files 3morey + acy &
+
+GUM IIVESLJLYUL= ANU yet
+
+#tit (substitute 'vi' for your editor of choice (which is 'vi', right?))
+
+IULWe HU LULA ROUTE
+
+Jason
+
+@ Skip that since Andy has already provided a key
+
+This was a generic setup for vehicle manufacturers, but it seems to have all changed since that was
+written
+
+22/12/22 13:43
+
+so it is written there Add keys for data services to upload data....am i right to understand here that data
+services is in fact an internal service to arnold clark that is supplying the data ?
+
+te 22/12/22 13:44
+
+@ data services is an internal team, they will be retrieving the data that bp uploads (or bp may be
+retrieving data that data services upload, | don't know/care)
+29 December 2022
+29/12/22 17:07
+
+Hello Jason.As we spoke about last time, i dont yet have access to all the hosts on the datacenter.But i
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éeoe0eeceoo
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+cl
+
+Digital Team Update 12/05
+
+Reco is ready
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+@ Jason White Chat Files 3morey +
+
+have in place to provision new hosts on prem ?
+
+6 Febru
+
+Jason White 06/02 10:00
+
+@ Yeah sure mate, probably tomorrow as today is a bit messy for me
+
+7 February
+07/02 09:07
+
+Hi Jason.| am very sorry but | won't be able to attend our meeting of this day.
+| am unfortunately dealing with a rather major family issue today.
+
+| will be returning tomorrow and hope you will still have a few minutes to spare.
+Sorry about this
+
+te 07/02 10:15
+@ That's absolutely fine mate no need to apologise. We'll speak when you're back
+2 March
+
+02/03 11:33
+
+HI Jason
+
+Workspaces Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You)
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+*@ Hi Marcel - i have booked St Geo
+
+Greg: fi GIF
+
+=: Lisi]
+
+You: Good afternoon D
+
+AWS VPCs
+
+You: ah ok no problem
+
+You: Good morr
+
+Planning
+cl
+
+@6éeoe0eeceoo
+
+Reco is ready
+
+ArchOps Chat 10
+
+David Moffat 19
+
+Catch Up 2.0 16
+
+Claire Thomson 13
+
+Digital Team Update 12
+
+8/06
+
+11:41
+
+20
+
+20Jun 12:50 ©
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+%
+
+Oo Wai & B100%
+
+ak &
+
+02/03 11:33
+HI Jason
+Edited
+
+i have the following:
+
+https://github.com/arnoldclark/ac-iac-platform-onprem-ops/pull/196
+
+| would like to review the ansible in this PR with you to make all the necessary amendments
+
+Jason White 02/03 12:59
+
+Let me knwo when is best for you
+
+Edited
+
+many thanks
+
+@ Thanks for putting that up mate, it's not quite right but | believe Claire has let you know that we'll have
+
+a chat as a group tomorrow ag
+
+02/'03 13:00
+
+yes no problem at all..We Il talk tomorrow and make all the necessary changes indeed.
+
+1
+
+Workspaces Applications 20Jun 12:50 « = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+@ Jason White Chat Files 3morey + acy &
+
+vzfus lauuU
+
+ALES yes no problem at all..We Il talk tomorrow and make all the necessary changes indeed.
+
+Marcel Sangare (You) 08/06 wi
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+07/03 15:14
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+5 How to Create SFTP User in Ubuntu 22.0... «+
+Q ArchOps Chat 10:20
+
+Greg: Sf GIF
+
+a
+
+David Moffat 19/06 9 March
+You: Good afternoon Da am ...
+
+Jason: Running over time in ano... (-) ; oat
+https://s000126pLaco.arnoldclark.com/ui/
+https://s000137placo.arnoldclark.com/ui/
+
+PR Reviews 13
+: just jumped in in case an...
+
+You will get certificate warnings that you'll need to accept
+
+AWS VPCs
+
+You: ah ok no problem
+
+09/03 12:16
+
+Claire Thomson
+
+sarre(epar laa No problem at all. Thank you for these links !
+fou: Good faor
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+ye Y OD YGoaEe rR COB - a
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+cl
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+20 Jun 12:50
+
+Q Search
+
+@ Jason White Chat Files 3 more »
+
+Jason White 09/03 12:25
+
+@ My pleasure ®
+
+Hello Jason.
+
+--
+
+21 March
+
+Oo Wai & B100%
+
+ak &
+
+No problem at all. Thank you for these links !
+
+21/03 15:26
+
+So there is a new branch called sftp_config available from the url below:
+
+https: //github.com/arnoldclark/ac-iac-platform-onprem-ops/tree/sftp_ config
+
+So it is work in progress still but this is the logic you will find there:
+
+-the playbook.yaml has been modified with the following;
+
+> some comments showing the bash script from which the playbook modifications came.These
+comments wiull be removed later but i need them now to see where iam
+
+going
+
+> two more yaml files named: 'create_users.yml' and 'prompt_ssh_keys.yml' which are in fact called
+from the 'playbook.yaml'
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+Q Search oo
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+@ Jason White Chat Files 3morey + acy &
+
+=e
+> two more yaml files named: 'create_users.yml' and 'prompt_ssh_keys.yml' which are in fact called
+from the 'playbook.yaml'
+
+Of course there is indeed room for improvement there as the two yaml files above could be moved
+towards becoming roles i think.
+
+But i am working through some little bugs here and there which i need addressed before thinking of
+restructuring this.
+
+But already you can have a look at the 'playbook.yaml' to see where this is going.
+
+Alternatively we could straight away jump into a session from tomorrow to work on the proposals you
+migth have
+
+many thanks in advance
+
+21/03 16:08 Edited
+
+The draft PR is right below:
+
+https://github.com /arnoldclark/ac-iac-platform-onprem-ops/pull/222
+
+te 21/03 16:27
+
+Workspaces Applications
+
+Q Search
+
+Chat ~ = G @ Jason White Chat Files
+
+Pinned
+Jason
+
+20 Jun 12:50
+
+= © & OG @ai & B 100%
+
+ak &
+
+22 SU yy to pcp py eee
+
+Marcel Sangare (¥: [06 . . . . —— oo. . .
+SETHE tut peas ete LES @ That's definitely moved a bit more in the right direction but there is still quite a lot in there that we
+
+wont/cant/shouldnt use - ie we can't prompt users for anything, this needs to run non-interactively in
+a pipeline. There's more but | wont go into it all here.
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+Jason White 21/03 16:54
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson te 22/03 13:14
+
+You: Good mor
+
+Jason
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+| should be around in the morning tomorrow so we can go through it and I can explain what | mean - it
+mostly just needs to be simplified and written ansible-first not bash-first ®
+
+21/03 16:31
+
+ok then no problem so at what time tomorrow is it best for you ?
+
+many thnaks in advance
+
+@ I'm not sure, let's just play it by ear and I'll message you once I'm logged in and fueled with coffee &
+
+sw) Hey mate, sorry | haven't been in touch yet, started late and then have been on a call for the last hour
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éeoe0eeceoo
+
+Zoe MacKay 12/05
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+@ Jason White Chat Files 3morey +
+
+Jason White 22/03 13:14
+
+@ Hey mate, sorry | haven't been in touch yet, started late and then have been on a call for the last hour
+© or so. Give me a shout when you're back from lunch and we'll go through this PR @
+
+2/03 14
+
+34 Edited
+
+Hello Jason.Sorry i was battling with my laptop...it is having some laptop issues...i had to sort another
+machine temporarily...
+
+iam ready now if you are
+
+Jason White 22/03 15:28
+
+@ So sorry mate | got a call as soon as you messaged and that went for longer than expected! Lets have a
+look after standup
+
+22/03 15:31
+ok no problem at all. After standup !
+4!
+27 March
+27/03 15:31
+
+un could havea writtan: 'elact mardinia!
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson
+You: Good morni
+
+Planning 08/06
+re here butt
+
+,OOQOO68 OO
+
+20Jun 12:50 ©
+
+Q Search
+
+@ Jason White Chat Files 3morey +
+
+Jason te 27/03 15:32
+
+@»
+
+Jason te 27/03 15:32
+
+@ Aye, just more pidgin french when | say it &
+
+4 April
+
+= © & OG @ai & B 100%
+
+27/03 15:31
+
+you could have written: 'c'est merdique'
+
+27/03 15:32
+
+but what you write is still understandable
+
+04/04 11:56
+
+hl Jason.So the script to move the passwords and ssh keys from the current sftp servers (both internal
+and external) worked properly. So on the branch sftp_config and in the file 'ac-iac-platform-onprem-
+ops/sftp/ansoble/group_vars/all/aftpusers.yaml’,, you will be seeing all the passwords by category
+
+regular username and password hashed on top
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éeoe0eeceoo
+
+Zoe MacKay 12/05
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+@ Jason White Chat Files 3morey + acy &
+
+users_with_password / users_with_ssh_key files.
+
+Hopefully tomorrow | can have a deeper look at it, otherwise we do have another PR review meeting on
+Thu morning
+
+@ You could also ask Keith to have a look as well, get another pair of eyes on it (I'll still review when | can
+though!)
+
+Jason te 10/05 10:39
+
+@ Bonjour mon ami Marcel, comment ca va?
+2 | want to pick your brain for your infosec knowledge x
+If you were to look at using a WAF with / in front of HAproxy, do you know off the top of your head what
+open source software you'd use? This isn't for a piece of work, I'm just doing some research in the
+background, so no rush ®
+
+10/05 10:51
+
+Bonjour cher ami Jason! @
+
+From experience, i know that financial institution (Societe GEnerale in France and many other UK
+banks) make use of modsecurity as a waf in front of haproxy for security purposes
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+or Laura Cooper =
+ic) ked.. @
+
+Hi Marcel - i ha
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+cl
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+20Jun 12:50 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+@ Jason White Chat Files 3morey + acy &
+
+@ Bonjour mon ami Marcel, comment ca va?
+
+- | want to pick your brain for your infosec knowledge &
+If you were to look at using a WAF with / in front of HAproxy, do you know off the top of your head what
+open source software you'd use? This isn't for a piece of work, I'm just doing some research in the
+background, so no rush g
+
+Bonjour cher ami Jason! @
+
+From experience, i know that financial institution (Societe GEnerale in France and many other UK
+banks) make use of modsecurity as a waf in front of haproxy for security purposes
+
+Not only is modsecurity easy to set up in conjonction with haproxy but it does prove very efficient.
+
+| just sent a message to a former colleague on mine still working for Ingenico in Paris (Ingenico the
+french payment processor) and he confimed that modsecurity is still in use on the infrastructure there.
+
+Now to make it really hard for possible digital assailants, extra measures are taken to disrupt their
+scanning attempts from the very beginning with iptables
+
+Jason White 10/05 11:06
+
+@ Excellent, modsecurity is what came up first when | googled waf & haproxy &

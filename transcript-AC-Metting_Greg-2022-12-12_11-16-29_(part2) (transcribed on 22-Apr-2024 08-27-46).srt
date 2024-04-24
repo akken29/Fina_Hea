@@ -1,0 +1,3072 @@
+1
+00:00:00,000 --> 00:00:07,000
+ I mean I'm dealing with a lot of the like basically upgrading all the legs to stuff.
+
+2
+00:00:07,000 --> 00:00:10,000
+ That's been putting my lab so that's what I've been working on.
+
+3
+00:00:10,000 --> 00:00:17,000
+ Jason's looking at upgrading from getting off of Centos because Centos has gone into life this year.
+
+4
+00:00:17,000 --> 00:00:19,000
+ Yeah, yeah, yeah.
+
+5
+00:00:19,000 --> 00:00:21,000
+ So we're looking to move to Ubuntu.
+
+6
+00:00:21,000 --> 00:00:29,000
+ It's always doing Azure stuff and honestly I don't know what Claire's got planned so you know she might say
+
+7
+00:00:29,000 --> 00:00:32,000
+ ignore Event Store and look at this instead.
+
+8
+00:00:32,000 --> 00:00:34,000
+ Okay, alright.
+
+9
+00:00:34,000 --> 00:00:47,000
+ So basically we have from my understanding you tell me if I'm wrong but beyond the areas to which every single of us is assigned
+
+10
+00:00:47,000 --> 00:00:51,000
+ there is also a lot of research work so to speak. Am I correct?
+
+11
+00:00:51,000 --> 00:01:04,000
+ Um, I don't know. It's hard to do research on these legacy apps where even the developers like inherited it so nobody knows some stuff but
+
+12
+00:01:04,000 --> 00:01:12,000
+ I mean, the estates are big. There's a lot of stuff going on.
+
+13
+00:01:12,000 --> 00:01:20,000
+ Yeah, you know for the most part you're only going to be looking at small portions at any one time.
+
+14
+00:01:20,000 --> 00:01:22,000
+ Alright, okay.
+
+15
+00:01:22,000 --> 00:01:32,000
+ So yeah, I mean I wouldn't stress too much. Get to know the company, go through all the learning stuff all the videos.
+
+16
+00:01:32,000 --> 00:01:38,000
+ I mean it's boring but there's stuff like the fire stuff that they want you to do for insurance purposes.
+
+17
+00:01:38,000 --> 00:01:41,000
+ Alright, okay, okay, okay.
+
+18
+00:01:41,000 --> 00:01:47,000
+ Honestly don't stress too much about like not having too much to do.
+
+19
+00:01:47,000 --> 00:02:01,000
+ There's a lot to do. There's a lot in the backlog. I don't even know how to see the backlog.
+
+20
+00:02:01,000 --> 00:02:10,000
+ There's a whole bunch of stuff that's in this sprint. So there's a lot to do.
+
+21
+00:02:10,000 --> 00:02:12,000
+ Alright, okay, okay.
+
+22
+00:02:12,000 --> 00:02:20,000
+ So a whole bunch of stuff that will eventually get done. So if you want to take and have a look through that, I don't think there's going to be much.
+
+23
+00:02:20,000 --> 00:02:27,000
+ I can see SFTP pentesting, finding, review recommendation, security banner.
+
+24
+00:02:27,000 --> 00:02:38,000
+ Yeah, so there's a bunch of stuff that we set up. We've got some FTP servers that apparently some other car manufacturers want to use.
+
+25
+00:02:38,000 --> 00:02:46,000
+ Again, we set it up and the day-to-day running, we don't involve.
+
+26
+00:02:46,000 --> 00:02:49,000
+ Okay, alright, okay, okay, okay.
+
+27
+00:02:49,000 --> 00:02:53,000
+ Okay, application gateway, cleanup, all projects.
+
+28
+00:02:53,000 --> 00:02:59,000
+ Okay, I see. At least with the backlog, I see where I go.
+
+29
+00:02:59,000 --> 00:03:01,000
+ Have you got a link to the Gira?
+
+30
+00:03:01,000 --> 00:03:05,000
+ I'm not sure.
+
+31
+00:03:05,000 --> 00:03:09,000
+ So you've got the first one is the support one.
+
+32
+00:03:09,000 --> 00:03:10,000
+ Yeah, yeah.
+
+33
+00:03:10,000 --> 00:03:12,000
+ Second one is like the project board.
+
+34
+00:03:12,000 --> 00:03:15,000
+ Okay.
+
+35
+00:03:15,000 --> 00:03:21,000
+ I think, what else?
+
+36
+00:03:21,000 --> 00:03:25,000
+ Have you got an experience with the Gira?
+
+37
+00:03:25,000 --> 00:03:31,000
+ No, no, no, no, I was mostly working on with AWS and Google Cloud.
+
+38
+00:03:31,000 --> 00:03:40,000
+ But right before starting this neuro, I started to take some courses on Azure.
+
+39
+00:03:40,000 --> 00:03:50,000
+ So right now on Azure, really, I can, as I was telling you, I can fairly easily get some because I've heard that the company is mostly right now.
+
+40
+00:03:50,000 --> 00:03:56,000
+ The company is mostly writing an application with .NET, am I correct?
+
+41
+00:03:56,000 --> 00:03:59,000
+ I know there is some rabion.
+
+42
+00:03:59,000 --> 00:04:01,000
+ Yeah, yeah.
+
+43
+00:04:01,000 --> 00:04:02,000
+ Okay.
+
+44
+00:04:02,000 --> 00:04:07,000
+ So basically, what I've been working, I've been doing two things basically.
+
+45
+00:04:07,000 --> 00:04:19,000
+ So right now, if someone is giving some source code on whichever application it is, I can easily take that, you know, get the Docker file, build the container, push the container into the Azure.
+
+46
+00:04:19,000 --> 00:04:24,000
+ You know, container registry and use that to deploy on Kubernetes.
+
+47
+00:04:24,000 --> 00:04:26,000
+ That is all clear now.
+
+48
+00:04:26,000 --> 00:04:34,000
+ And I'm also trying to get to complete a course on administration, like system administration in Azure.
+
+49
+00:04:34,000 --> 00:04:35,000
+ Yeah.
+
+50
+00:04:35,000 --> 00:04:36,000
+ So this is one point.
+
+51
+00:04:36,000 --> 00:04:40,000
+ I mean, I don't think we actually build the containers to build up.
+
+52
+00:04:40,000 --> 00:04:41,000
+ That's the dev team that do it.
+
+53
+00:04:41,000 --> 00:04:42,000
+ Okay.
+
+54
+00:04:42,000 --> 00:04:49,000
+ So we look after the health of the Kubernetes cluster and we don't flag any issues that might come up.
+
+55
+00:04:49,000 --> 00:04:50,000
+ All right.
+
+56
+00:04:50,000 --> 00:04:52,000
+ The actual containers themselves.
+
+57
+00:04:52,000 --> 00:04:54,000
+ We don't build them.
+
+58
+00:04:54,000 --> 00:04:55,000
+ All right.
+
+59
+00:04:55,000 --> 00:04:56,000
+ Okay.
+
+60
+00:04:56,000 --> 00:04:58,000
+ But we are expected to publish it.
+
+61
+00:04:58,000 --> 00:05:10,000
+ If things go wrong, it's a strange term, because, yeah, so really we look after the architecture.
+
+62
+00:05:10,000 --> 00:05:11,000
+ Okay.
+
+63
+00:05:11,000 --> 00:05:26,000
+ So not all the infrastructure, not so much the, like, the workings of the containers or anything like that.
+
+64
+00:05:26,000 --> 00:05:27,000
+ Okay.
+
+65
+00:05:27,000 --> 00:05:28,000
+ Okay.
+
+66
+00:05:28,000 --> 00:05:38,000
+ And in terms of the architecture, this is just another question for my previous roles.
+
+67
+00:05:38,000 --> 00:05:41,000
+ I was mostly working in DevOps team.
+
+68
+00:05:41,000 --> 00:05:50,000
+ And in my two previous roles, the DevOps team was in charge of finding ways to minimize the cost of running.
+
+69
+00:05:50,000 --> 00:05:51,000
+ Yeah.
+
+70
+00:05:51,000 --> 00:05:54,000
+ Is it also part of our traditions or is it?
+
+71
+00:05:54,000 --> 00:05:55,000
+ Yeah.
+
+72
+00:05:55,000 --> 00:05:56,000
+ Yeah.
+
+73
+00:05:56,000 --> 00:06:04,000
+ The unique thing with the AnnoClock is that we actually have like two and a half purpose-built data centers.
+
+74
+00:06:04,000 --> 00:06:09,000
+ So the AnnoClock likes to do everything internally.
+
+75
+00:06:09,000 --> 00:06:10,000
+ Yeah.
+
+76
+00:06:10,000 --> 00:06:19,000
+ So for the longest time, I say that I've only been here a year, but the story is that they like to do everything internally.
+
+77
+00:06:19,000 --> 00:06:23,000
+ We've already got these data centers and all this hardware that they've paid for.
+
+78
+00:06:23,000 --> 00:06:24,000
+ Yeah.
+
+79
+00:06:24,000 --> 00:06:29,000
+ So there's no rush to run into the cloud and basically pay again.
+
+80
+00:06:29,000 --> 00:06:30,000
+ Okay.
+
+81
+00:06:30,000 --> 00:06:35,000
+ So we've got some stuff in the cloud and we've got a lot that's still on premise.
+
+82
+00:06:35,000 --> 00:06:39,000
+ And so we're a proper hybrid company.
+
+83
+00:06:39,000 --> 00:06:40,000
+ All right.
+
+84
+00:06:40,000 --> 00:06:41,000
+ Okay.
+
+85
+00:06:41,000 --> 00:06:42,000
+ I see.
+
+86
+00:06:42,000 --> 00:06:48,000
+ The aim, the aim soon though is to have all of our traffic going through Azure as the first point.
+
+87
+00:06:48,000 --> 00:06:49,000
+ Okay.
+
+88
+00:06:49,000 --> 00:06:53,000
+ So all the traffic will go to Azure and then if it needs to come to something internal,
+
+89
+00:06:53,000 --> 00:06:56,000
+ we'll just come down one of the express routes that we've got.
+
+90
+00:06:56,000 --> 00:07:00,000
+ So that switchover will probably happen next year or something.
+
+91
+00:07:00,000 --> 00:07:01,000
+ All right.
+
+92
+00:07:01,000 --> 00:07:06,000
+ I mean, that doesn't really change much for us.
+
+93
+00:07:06,000 --> 00:07:10,000
+ It's just going to have to be aware of where the traffic is coming from.
+
+94
+00:07:10,000 --> 00:07:11,000
+ Okay.
+
+95
+00:07:11,000 --> 00:07:12,000
+ Okay.
+
+96
+00:07:12,000 --> 00:07:13,000
+ Okay.
+
+97
+00:07:13,000 --> 00:07:14,000
+ Okay.
+
+98
+00:07:14,000 --> 00:07:17,000
+ So I'll have just one other question.
+
+99
+00:07:17,000 --> 00:07:25,000
+ You see the, when you were going through the backlog just earlier, I saw there was one
+
+100
+00:07:25,000 --> 00:07:33,000
+ task where it was written, what was about dealing with some SFTP server that because of some
+
+101
+00:07:33,000 --> 00:07:36,000
+ pain testing, I think, yeah, that happened on that.
+
+102
+00:07:36,000 --> 00:07:39,000
+ So, I haven't opened that.
+
+103
+00:07:39,000 --> 00:07:45,560
+ Well, I haven't, obviously it is important to open that ticket and see what it is saying.
+
+104
+00:07:45,560 --> 00:07:49,440
+ But just like that, I haven't opened the ticket here, ticket here.
+
+105
+00:07:49,440 --> 00:07:56,040
+ If I were to maybe access the backlog and go on that SFTP server, the first question
+
+106
+00:07:56,040 --> 00:08:02,800
+ I'll have to ask you is, do you think this SFTP server is running on-prem on the Linux
+
+107
+00:08:02,800 --> 00:08:05,920
+ box or do you think it's more Windows box from your experience?
+
+108
+00:08:05,920 --> 00:08:06,920
+ It'll be on-prem.
+
+109
+00:08:06,920 --> 00:08:08,920
+ It'll be a Linux box.
+
+110
+00:08:08,920 --> 00:08:09,920
+ Yeah.
+
+111
+00:08:09,920 --> 00:08:10,920
+ All right.
+
+112
+00:08:10,920 --> 00:08:19,160
+ So, to solve that issue, for example, if I were, for example, to log into that SFTP server,
+
+113
+00:08:19,160 --> 00:08:22,880
+ just trying to find out how it is set up.
+
+114
+00:08:22,880 --> 00:08:30,520
+ So, maybe checking which ports are open, checking if it is updated regularly and trying to see
+
+115
+00:08:30,520 --> 00:08:37,800
+ if maybe there is a possibility to implement some security measures for that specific box.
+
+116
+00:08:37,800 --> 00:08:43,080
+ Do you think this is what is expected from us if we were to deal with that ticket?
+
+117
+00:08:43,080 --> 00:08:45,080
+ This is my question.
+
+118
+00:08:45,080 --> 00:08:49,280
+ No, I mean, we, it's set up.
+
+119
+00:08:49,280 --> 00:08:53,680
+ The PEN test will have its recommendations, which are actually pasted in the ticket.
+
+120
+00:08:53,680 --> 00:08:58,400
+ Our Sinclair will update it when we move it into the live queue.
+
+121
+00:08:58,400 --> 00:08:59,400
+ Yeah.
+
+122
+00:08:59,400 --> 00:09:07,200
+ I mean, yeah, so if you do do the ticket and you have a look and you see the recommendations
+
+123
+00:09:07,200 --> 00:09:11,880
+ and then obviously you make the changes that are required, but if you do have any other
+
+124
+00:09:11,880 --> 00:09:16,440
+ suggestions, yeah, just raise them in the, you either raise them in the ArcOps channel
+
+125
+00:09:16,440 --> 00:09:21,880
+ or during our stand-up at the end of the day and all that, chat about it, or something,
+
+126
+00:09:21,880 --> 00:09:29,480
+ if you think it needs more than like a five, ten minute talk, you can always just like
+
+127
+00:09:29,480 --> 00:09:34,240
+ arrange a call and you can all just hop on a call and discuss it.
+
+128
+00:09:34,240 --> 00:09:35,480
+ Okay, okay, all right.
+
+129
+00:09:35,480 --> 00:09:36,480
+ Okay, okay.
+
+130
+00:09:36,480 --> 00:09:43,720
+ Now, I understand better when you're saying that we are the ones dealing with the architect
+
+131
+00:09:43,720 --> 00:09:46,680
+ word D. Yeah, I understand better.
+
+132
+00:09:46,680 --> 00:09:47,680
+ Okay, okay.
+
+133
+00:09:47,680 --> 00:09:48,680
+ Yeah.
+
+134
+00:09:48,680 --> 00:09:54,080
+ I think there might be, I mean, we know that there's some things like you've got a couple
+
+135
+00:09:54,080 --> 00:09:59,280
+ of users who for whatever reason refuse to use keys, so they're using a user name and
+
+136
+00:09:59,280 --> 00:10:00,280
+ password.
+
+137
+00:10:00,280 --> 00:10:02,280
+ I mean, no, that's not recommended to them.
+
+138
+00:10:02,280 --> 00:10:04,280
+ Apparently the manufacturer is being adamant.
+
+139
+00:10:04,280 --> 00:10:10,280
+ And so this is like the only way that they can move the stuff.
+
+140
+00:10:10,280 --> 00:10:11,280
+ Okay, okay.
+
+141
+00:10:11,280 --> 00:10:18,240
+ I mean, if they, I mean, out of the blue just like that, if this is what they're doing,
+
+142
+00:10:18,240 --> 00:10:25,880
+ you know, maybe, you know, we can ask them to confirm whether the connection is maybe
+
+143
+00:10:25,880 --> 00:10:31,360
+ always coming from the, I don't know, I don't know yet, but I will ask them to find out
+
+144
+00:10:31,360 --> 00:10:33,040
+ from where the connection is coming.
+
+145
+00:10:33,040 --> 00:10:37,480
+ Is it coming from one of their own servers or is it one of the employees trying to connect?
+
+146
+00:10:37,480 --> 00:10:42,720
+ I mean, trying to understand and maybe from that, from that, if I were to delegate that
+
+147
+00:10:42,720 --> 00:10:47,960
+ ticket, my suggestion maybe would be to try to see if we are sure, for example, that the
+
+148
+00:10:47,960 --> 00:10:52,920
+ connections are all the time coming from the UK or from a specific region.
+
+149
+00:10:52,920 --> 00:10:57,960
+ Maybe one security measure we can put in place is, you know, trying to see if we can implement
+
+150
+00:10:57,960 --> 00:11:04,920
+ some IP tables that would allow specifically these IP addresses and nothing else.
+
+151
+00:11:04,920 --> 00:11:09,280
+ And obviously, prior to implement these IP tables, trying to see if we can write maybe
+
+152
+00:11:09,280 --> 00:11:14,480
+ a batch script that will make sure that the necessary ports are always accessible just
+
+153
+00:11:14,480 --> 00:11:15,480
+ in case.
+
+154
+00:11:15,480 --> 00:11:16,480
+ Yeah, this is one suggestion.
+
+155
+00:11:16,480 --> 00:11:17,480
+ We've got like proper firewalls.
+
+156
+00:11:17,480 --> 00:11:18,480
+ We rarely have to do things at a server level.
+
+157
+00:11:18,480 --> 00:11:19,480
+ All right.
+
+158
+00:11:19,480 --> 00:11:20,480
+ Okay.
+
+159
+00:11:20,480 --> 00:11:27,480
+ I mean, I would hope that it's locked down the specific IPs, but I don't know.
+
+160
+00:11:27,480 --> 00:11:36,480
+ I mean, we, a lot of times, they'll ask for stuff to be set up and we'll give recommendations,
+
+161
+00:11:36,480 --> 00:11:40,480
+ but the company doesn't always listen.
+
+162
+00:11:40,480 --> 00:11:41,480
+ All right.
+
+163
+00:11:41,480 --> 00:11:42,480
+ Okay.
+
+164
+00:11:42,480 --> 00:11:43,480
+ Okay.
+
+165
+00:11:43,480 --> 00:11:44,480
+ Yeah.
+
+166
+00:11:44,480 --> 00:11:50,200
+ I mean, really, really, that was, you know, that was, you know, what you showed us, what
+
+167
+00:11:50,200 --> 00:11:54,520
+ you showed me and what you told me that was really, really useful because now I have a
+
+168
+00:11:54,520 --> 00:11:59,240
+ better idea on, you know, the sort of works.
+
+169
+00:11:59,240 --> 00:12:07,160
+ So basically, is it right for me to assume that I would say 70 to 80% of the tasks we're
+
+170
+00:12:07,160 --> 00:12:11,560
+ dealing with are coming from this backlog channel?
+
+171
+00:12:11,560 --> 00:12:12,560
+ Yeah.
+
+172
+00:12:12,560 --> 00:12:19,880
+ I mean, once we are filing, that's when like clear all this stuff out.
+
+173
+00:12:19,880 --> 00:12:26,880
+ So if you're setting with three or four things still to do, she's not going to throw more
+
+174
+00:12:26,880 --> 00:12:29,880
+ stuff at you unless it's urgent.
+
+175
+00:12:29,880 --> 00:12:37,880
+ So for the most part, you're only going to have a few things to do every two weeks.
+
+176
+00:12:37,880 --> 00:12:38,880
+ Okay.
+
+177
+00:12:38,880 --> 00:12:39,880
+ Okay.
+
+178
+00:12:39,880 --> 00:12:40,880
+ All right.
+
+179
+00:12:40,880 --> 00:12:41,880
+ I mean, a lot of the things are not quick.
+
+180
+00:12:41,880 --> 00:12:43,880
+ So a lot of things take turns.
+
+181
+00:12:43,880 --> 00:12:44,880
+ Okay.
+
+182
+00:12:44,880 --> 00:12:45,880
+ Okay.
+
+183
+00:12:45,880 --> 00:12:46,880
+ All right.
+
+184
+00:12:46,880 --> 00:12:51,880
+ So you told me you've been with our network for about a year.
+
+185
+00:12:51,880 --> 00:12:53,880
+ Yeah, last October.
+
+186
+00:12:53,880 --> 00:12:55,880
+ Oh, that's great.
+
+187
+00:12:55,880 --> 00:13:02,880
+ And what is the thing you did for, what was the, what did you find the most difficult to
+
+188
+00:13:02,880 --> 00:13:10,880
+ cope with in terms of the work we're doing?
+
+189
+00:13:10,880 --> 00:13:16,880
+ Yeah.
+
+190
+00:13:16,880 --> 00:13:17,880
+ Yeah.
+
+191
+00:13:17,880 --> 00:13:24,880
+ What I mean, for example, for example, in my, in my previous role in France, you know,
+
+192
+00:13:24,880 --> 00:13:32,880
+ basically the, the aim was to help normal path group to become, you know, you know, ISO
+
+193
+00:13:32,880 --> 00:13:34,880
+ 2701 compliant.
+
+194
+00:13:34,880 --> 00:13:39,880
+ And, and, and to be frank, you know, surely you've heard about the French culture.
+
+195
+00:13:39,880 --> 00:13:46,880
+ You know, change is not, you know, the, the acceptance and management of change is not
+
+196
+00:13:46,880 --> 00:13:48,880
+ the strength of.
+
+197
+00:13:48,880 --> 00:13:51,880
+ I've only been to San Marlowe.
+
+198
+00:13:51,880 --> 00:13:52,880
+ So I've not been.
+
+199
+00:13:52,880 --> 00:13:53,880
+ San Marlowe.
+
+200
+00:13:53,880 --> 00:13:54,880
+ Okay.
+
+201
+00:13:54,880 --> 00:13:55,880
+ Okay.
+
+202
+00:13:55,880 --> 00:14:01,880
+ But, but, but to be honest with you, the, the, the, the France as a country and my fellow
+
+203
+00:14:01,880 --> 00:14:08,880
+ French, my fellow French, you know, you know, they tend to be very resistant to change.
+
+204
+00:14:08,880 --> 00:14:14,880
+ So the biggest issue I had in that role was actually, and believe it or not, was actually
+
+205
+00:14:14,880 --> 00:14:21,880
+ trying to convince the, the, the board of the, I mean, the senior managers to even accept
+
+206
+00:14:21,880 --> 00:14:24,880
+ the idea to become GDPR compliant.
+
+207
+00:14:24,880 --> 00:14:30,880
+ It is a requirement by law for them to do that above all since a lot of French companies
+
+208
+00:14:30,880 --> 00:14:37,880
+ did suffer some massive data security breaches, but still, still they, they will see it as
+
+209
+00:14:37,880 --> 00:14:42,880
+ some, some sort of, you know, they will be very annoyed to comply with the law.
+
+210
+00:14:42,880 --> 00:14:48,880
+ It's unbelievable that that was the most difficult part in, in the job release.
+
+211
+00:14:48,880 --> 00:14:54,880
+ So, so whenever you need to start, when you start, starting the audit was, was very difficult,
+
+212
+00:14:54,880 --> 00:14:59,880
+ you know, implementing the, the, the conclusion from the audit was even more difficult.
+
+213
+00:14:59,880 --> 00:15:04,880
+ So the difficulty really was trying to convince them every day to, to, to move along with the
+
+214
+00:15:04,880 --> 00:15:05,880
+ thing.
+
+215
+00:15:05,880 --> 00:15:08,880
+ So, so my question was actually in the same direction.
+
+216
+00:15:08,880 --> 00:15:14,880
+ What is the most challenging part, I would say, of, of the day to day task we, we have
+
+217
+00:15:14,880 --> 00:15:17,880
+ to accomplish because I can already see one thing I can already see is,
+
+218
+00:15:17,880 --> 00:15:18,880
+ I don't know.
+
+219
+00:15:18,880 --> 00:15:23,880
+ I mean, it's, it's pretty, just dealing with legacy apps is probably my biggest thing because
+
+220
+00:15:23,880 --> 00:15:25,880
+ no one knows anything about them.
+
+221
+00:15:25,880 --> 00:15:31,880
+ No one knows how, how the intricate details of how they work.
+
+222
+00:15:31,880 --> 00:15:32,880
+ Okay.
+
+223
+00:15:32,880 --> 00:15:38,880
+ I mean, I mean, I think that that's just unique to the issue.
+
+224
+00:15:38,880 --> 00:15:45,880
+ But otherwise, I mean, I still don't really know, like Terraform, like I've edited Terraform.
+
+225
+00:15:45,880 --> 00:15:52,880
+ But when I get to the point of writing in Ansible and Terraform for these, the new AdCenter
+
+226
+00:15:52,880 --> 00:15:58,880
+ servers, that's going to be like my first real dive in the writing Terraform from scratch.
+
+227
+00:15:58,880 --> 00:15:59,880
+ Okay.
+
+228
+00:15:59,880 --> 00:16:00,880
+ I'm still learning.
+
+229
+00:16:00,880 --> 00:16:01,880
+ Oh, right.
+
+230
+00:16:01,880 --> 00:16:04,880
+ So I came from AWS myself.
+
+231
+00:16:04,880 --> 00:16:05,880
+ Okay.
+
+232
+00:16:05,880 --> 00:16:06,880
+ And puppet.
+
+233
+00:16:06,880 --> 00:16:09,880
+ So not even Ansible.
+
+234
+00:16:09,880 --> 00:16:15,880
+ So it's been, yeah, getting to learn technologies.
+
+235
+00:16:15,880 --> 00:16:23,880
+ I mean, there's way of being remote, but previously I was like on my own, like the only IT guy
+
+236
+00:16:23,880 --> 00:16:25,880
+ in the company.
+
+237
+00:16:25,880 --> 00:16:27,880
+ Oh, a lot of stress.
+
+238
+00:16:27,880 --> 00:16:28,880
+ Yeah, the last few jobs.
+
+239
+00:16:28,880 --> 00:16:29,880
+ Yeah.
+
+240
+00:16:29,880 --> 00:16:30,880
+ But that's not true.
+
+241
+00:16:30,880 --> 00:16:35,880
+ Before here, I left, come pick up, EEC and a Clelf.
+
+242
+00:16:35,880 --> 00:16:37,880
+ Because I was on my own, I wanted to be part of a team.
+
+243
+00:16:37,880 --> 00:16:38,880
+ And I joined Enable.
+
+244
+00:16:38,880 --> 00:16:39,880
+ Do you know Enable?
+
+245
+00:16:39,880 --> 00:16:40,880
+ They used to be SolarWinds.
+
+246
+00:16:40,880 --> 00:16:42,880
+ SolarWinds, yeah, not SolarWinds.
+
+247
+00:16:42,880 --> 00:16:43,880
+ Yeah.
+
+248
+00:16:43,880 --> 00:16:46,880
+ And so with me and then the rest of the team were all in Belarus.
+
+249
+00:16:46,880 --> 00:16:47,880
+ Oh.
+
+250
+00:16:47,880 --> 00:16:50,880
+ So I joined them and I was like, okay, great.
+
+251
+00:16:50,880 --> 00:16:52,880
+ I'll get to be part of a team again.
+
+252
+00:16:52,880 --> 00:16:53,880
+ We'll be about chat and everything.
+
+253
+00:16:53,880 --> 00:16:57,880
+ And obviously, like the language barrier was just too much.
+
+254
+00:16:57,880 --> 00:16:58,880
+ I see.
+
+255
+00:16:58,880 --> 00:17:02,880
+ So after six months, I was like, you know, I think this is working out.
+
+256
+00:17:02,880 --> 00:17:03,880
+ So that's why I'm.
+
+257
+00:17:03,880 --> 00:17:04,880
+ I see.
+
+258
+00:17:04,880 --> 00:17:05,880
+ This is not.
+
+259
+00:17:05,880 --> 00:17:07,880
+ I'm just happy being part of a team again.
+
+260
+00:17:07,880 --> 00:17:09,880
+ I'm having people chat every day.
+
+261
+00:17:09,880 --> 00:17:10,880
+ Yeah, yeah, yeah.
+
+262
+00:17:10,880 --> 00:17:13,880
+ You know, they were about sighted me as a people.
+
+263
+00:17:13,880 --> 00:17:14,880
+ Yeah.
+
+264
+00:17:14,880 --> 00:17:15,880
+ Yeah.
+
+265
+00:17:15,880 --> 00:17:16,880
+ I see.
+
+266
+00:17:16,880 --> 00:17:17,880
+ I see.
+
+267
+00:17:17,880 --> 00:17:30,880
+ And in terms of the learning, Claire told me that we have, I think, subscriptions to O'Reilly.
+
+268
+00:17:30,880 --> 00:17:31,880
+ Yeah.
+
+269
+00:17:31,880 --> 00:17:37,880
+ I think I don't know what you'll be able to send those details out.
+
+270
+00:17:37,880 --> 00:17:42,880
+ I don't know if I've actually got an O'Reilly login.
+
+271
+00:17:42,880 --> 00:17:47,880
+ Oh, so you'll get a login for it.
+
+272
+00:17:47,880 --> 00:17:48,880
+ Okay.
+
+273
+00:17:48,880 --> 00:17:49,880
+ All right.
+
+274
+00:17:49,880 --> 00:17:50,880
+ Okay.
+
+275
+00:17:50,880 --> 00:17:51,880
+ Okay.
+
+276
+00:17:51,880 --> 00:17:52,880
+ Okay.
+
+277
+00:17:52,880 --> 00:17:57,880
+ And how did you find, how did you find the, how did you find the, the learning with O'Reilly
+
+278
+00:17:57,880 --> 00:17:58,880
+ so far?
+
+279
+00:17:58,880 --> 00:18:02,880
+ Because I, me personally, I started looking at it.
+
+280
+00:18:02,880 --> 00:18:04,880
+ Like, I came from AWS.
+
+281
+00:18:04,880 --> 00:18:06,880
+ So I've worked for the zero a little bit.
+
+282
+00:18:06,880 --> 00:18:10,880
+ So I was trying to go through all, honestly, I've sort of stopped.
+
+283
+00:18:10,880 --> 00:18:13,880
+ I've been looking at it for a long time.
+
+284
+00:18:13,880 --> 00:18:16,880
+ I've been looking at it for a long time.
+
+285
+00:18:16,880 --> 00:18:19,880
+ I've been looking at it for a long time.
+
+286
+00:18:19,880 --> 00:18:21,880
+ I've been looking at it for a long time.
+
+287
+00:18:21,880 --> 00:18:23,880
+ I've been looking at it for a long time.
+
+288
+00:18:23,880 --> 00:18:25,880
+ I've been looking at it for a long time.
+
+289
+00:18:25,880 --> 00:18:27,880
+ I've been looking at it for a long time.
+
+290
+00:18:27,880 --> 00:18:29,880
+ I've been looking at it for a long time.
+
+291
+00:18:29,880 --> 00:18:31,880
+ I've been looking at it for a long time.
+
+292
+00:18:31,880 --> 00:18:33,880
+ I've been looking at it for a long time.
+
+293
+00:18:33,880 --> 00:18:35,880
+ I've been looking at it for a long time.
+
+294
+00:18:35,880 --> 00:18:37,880
+ I've been looking at it for a long time.
+
+295
+00:18:37,880 --> 00:18:39,880
+ I've been looking at it for a long time.
+
+296
+00:18:39,880 --> 00:18:41,880
+ I've been looking at it for a long time.
+
+297
+00:18:41,880 --> 00:18:43,880
+ I've been looking at it for a long time.
+
+298
+00:18:43,880 --> 00:18:45,880
+ I've been looking at it for a long time.
+
+299
+00:18:45,880 --> 00:18:47,880
+ I've been looking at it for a long time.
+
+300
+00:18:47,880 --> 00:18:49,880
+ I've been looking at it for a long time.
+
+301
+00:18:49,880 --> 00:18:51,880
+ I've been looking at it for a long time.
+
+302
+00:18:51,880 --> 00:18:53,880
+ I've been looking at it for a long time.
+
+303
+00:18:53,880 --> 00:18:55,880
+ I've been looking at it for a long time.
+
+304
+00:18:55,880 --> 00:18:57,880
+ I've been looking at it for a long time.
+
+305
+00:18:57,880 --> 00:18:59,880
+ I've been looking at it for a long time.
+
+306
+00:18:59,880 --> 00:19:01,880
+ I've been looking at it for a long time.
+
+307
+00:19:01,880 --> 00:19:03,880
+ I've been looking at it for a long time.
+
+308
+00:19:03,880 --> 00:19:05,880
+ I've been looking at it for a long time.
+
+309
+00:19:05,880 --> 00:19:07,880
+ I've been looking at it for a long time.
+
+310
+00:19:07,880 --> 00:19:09,880
+ I've been looking at it for a long time.
+
+311
+00:19:09,880 --> 00:19:11,880
+ I've been looking at it for a long time.
+
+312
+00:19:11,880 --> 00:19:13,880
+ I've been looking at it for a long time.
+
+313
+00:19:13,880 --> 00:19:15,880
+ I've been looking at it for a long time.
+
+314
+00:19:15,880 --> 00:19:17,880
+ I've been looking at it for a long time.
+
+315
+00:19:17,880 --> 00:19:19,880
+ I've been looking at it for a long time.
+
+316
+00:19:19,880 --> 00:19:21,880
+ I've been looking at it for a long time.
+
+317
+00:19:21,880 --> 00:19:23,880
+ I've been looking at it for a long time.
+
+318
+00:19:23,880 --> 00:19:25,880
+ I've been looking at it for a long time.
+
+319
+00:19:25,880 --> 00:19:27,880
+ I've been looking at it for a long time.
+
+320
+00:19:27,880 --> 00:19:29,880
+ I've been looking at it for a long time.
+
+321
+00:19:29,880 --> 00:19:31,880
+ I've been looking at it for a long time.
+
+322
+00:19:31,880 --> 00:19:33,880
+ I've been looking at it for a long time.
+
+323
+00:19:33,880 --> 00:19:35,880
+ I've been looking at it for a long time.
+
+324
+00:19:35,880 --> 00:19:37,880
+ I've been looking at it for a long time.
+
+325
+00:19:37,880 --> 00:19:39,880
+ I've been looking at it for a long time.
+
+326
+00:19:39,880 --> 00:19:41,880
+ I've been looking at it for a long time.
+
+327
+00:19:41,880 --> 00:19:43,880
+ I've been looking at it for a long time.
+
+328
+00:19:43,880 --> 00:19:45,880
+ I've been looking at it for a long time.
+
+329
+00:19:45,880 --> 00:19:47,880
+ I've been looking at it for a long time.
+
+330
+00:19:47,880 --> 00:19:49,880
+ I've been looking at it for a long time.
+
+331
+00:19:49,880 --> 00:19:51,880
+ I've been looking at it for a long time.
+
+332
+00:19:51,880 --> 00:19:53,880
+ I've been looking at it for a long time.
+
+333
+00:19:53,880 --> 00:19:55,880
+ I've been looking at it for a long time.
+
+334
+00:19:55,880 --> 00:19:57,880
+ I've been looking at it for a long time.
+
+335
+00:19:57,880 --> 00:19:59,880
+ I've been looking at it for a long time.
+
+336
+00:19:59,880 --> 00:20:01,880
+ I've been looking at it for a long time.
+
+337
+00:20:01,880 --> 00:20:03,880
+ I've been looking at it for a long time.
+
+338
+00:20:03,880 --> 00:20:05,880
+ I've been looking at it for a long time.
+
+339
+00:20:05,880 --> 00:20:07,880
+ I've been looking at it for a long time.
+
+340
+00:20:07,880 --> 00:20:09,880
+ I've been looking at it for a long time.
+
+341
+00:20:09,880 --> 00:20:11,880
+ I've been looking at it for a long time.
+
+342
+00:20:11,880 --> 00:20:13,880
+ I've been looking at it for a long time.
+
+343
+00:20:13,880 --> 00:20:15,880
+ I've been looking at it for a long time.
+
+344
+00:20:15,880 --> 00:20:17,880
+ I've been looking at it for a long time.
+
+345
+00:20:17,880 --> 00:20:19,880
+ I've been looking at it for a long time.
+
+346
+00:20:19,880 --> 00:20:21,880
+ I've been looking at it for a long time.
+
+347
+00:20:21,880 --> 00:20:23,880
+ I've been looking at it for a long time.
+
+348
+00:20:23,880 --> 00:20:25,880
+ I've been looking at it for a long time.
+
+349
+00:20:25,880 --> 00:20:27,880
+ I've been looking at it for a long time.
+
+350
+00:20:27,880 --> 00:20:29,880
+ I've been looking at it for a long time.
+
+351
+00:20:29,880 --> 00:20:31,880
+ I've been looking at it for a long time.
+
+352
+00:20:31,880 --> 00:20:33,880
+ I've been looking at it for a long time.
+
+353
+00:20:33,880 --> 00:20:35,880
+ I've been looking at it for a long time.
+
+354
+00:20:35,880 --> 00:20:37,880
+ I've been looking at it for a long time.
+
+355
+00:20:37,880 --> 00:20:39,880
+ I've been looking at it for a long time.
+
+356
+00:20:39,880 --> 00:20:41,880
+ I've been looking at it for a long time.
+
+357
+00:20:41,880 --> 00:20:43,880
+ I've been looking at it for a long time.
+
+358
+00:20:43,880 --> 00:20:45,880
+ I've been looking at it for a long time.
+
+359
+00:20:45,880 --> 00:20:47,880
+ I've been looking at it for a long time.
+
+360
+00:20:47,880 --> 00:20:49,880
+ I've been looking at it for a long time.
+
+361
+00:20:49,880 --> 00:20:51,880
+ I've been looking at it for a long time.
+
+362
+00:20:51,880 --> 00:20:53,880
+ I've been looking at it for a long time.
+
+363
+00:20:53,880 --> 00:20:55,880
+ I've been looking at it for a long time.
+
+364
+00:20:55,880 --> 00:20:57,880
+ I've been looking at it for a long time.
+
+365
+00:20:57,880 --> 00:20:59,880
+ I don't know. I think it's just
+
+366
+00:20:59,880 --> 00:21:01,880
+ the cost.
+
+367
+00:21:01,880 --> 00:21:03,880
+ You can see here.
+
+368
+00:21:03,880 --> 00:21:05,880
+ This is just one of the sites.
+
+369
+00:21:05,880 --> 00:21:07,880
+ This is just one of the sites.
+
+370
+00:21:07,880 --> 00:21:09,880
+ I don't know what the other
+
+371
+00:21:09,880 --> 00:21:11,880
+ Jason will tell you.
+
+372
+00:21:11,880 --> 00:21:13,880
+ 1-6, the East South Street,
+
+373
+00:21:13,880 --> 00:21:15,880
+ or Cabela and so on.
+
+374
+00:21:15,880 --> 00:21:17,880
+ As you can see we've got 2.2 THz free
+
+375
+00:21:17,880 --> 00:21:19,880
+ of CPU
+
+376
+00:21:19,880 --> 00:21:21,880
+ 12TB free.
+
+377
+00:21:21,880 --> 00:21:23,880
+ I don't understand why we've got so much.
+
+378
+00:21:23,880 --> 00:21:25,880
+ I don't understand why we've got so much.
+
+379
+00:21:25,880 --> 00:21:27,880
+ We've got 179TB free
+
+380
+00:21:27,880 --> 00:21:29,880
+ of storage.
+
+381
+00:21:29,880 --> 00:21:31,880
+ We've got loads of
+
+382
+00:21:31,880 --> 00:21:33,880
+ CPU.
+
+383
+00:21:33,880 --> 00:21:35,880
+ We've got another one of these as well.
+
+384
+00:21:35,880 --> 00:21:37,880
+ Server side was the
+
+385
+00:21:37,880 --> 00:21:39,880
+ I forgot which one's the newer one.
+
+386
+00:21:39,880 --> 00:21:43,880
+ Oh Jesus.
+
+387
+00:21:43,880 --> 00:21:45,880
+ What?
+
+388
+00:21:45,880 --> 00:21:47,880
+ Yeah.
+
+389
+00:21:47,880 --> 00:21:49,880
+ We've put all this money
+
+390
+00:21:49,880 --> 00:21:51,880
+ in time into these data centers.
+
+391
+00:21:51,880 --> 00:21:53,880
+ That's why there's no rush
+
+392
+00:21:53,880 --> 00:21:55,880
+ to move to the cloud.
+
+393
+00:21:55,880 --> 00:21:57,880
+ Yeah.
+
+394
+00:21:57,880 --> 00:21:59,880
+ People go to the cloud because
+
+395
+00:21:59,880 --> 00:22:01,880
+ you know
+
+396
+00:22:01,880 --> 00:22:03,880
+ if you're starting a company
+
+397
+00:22:03,880 --> 00:22:05,880
+ there's no way you would do all this now.
+
+398
+00:22:05,880 --> 00:22:07,880
+ Yeah.
+
+399
+00:22:07,880 --> 00:22:09,880
+ They've already got it in place.
+
+400
+00:22:09,880 --> 00:22:11,880
+ So again 1.7THz
+
+401
+00:22:11,880 --> 00:22:13,880
+ 9.89TB
+
+402
+00:22:13,880 --> 00:22:15,880
+ is free of memory
+
+403
+00:22:15,880 --> 00:22:17,880
+ and 138TB is free of storage.
+
+404
+00:22:17,880 --> 00:22:21,880
+ There's a bunch of, we're running
+
+405
+00:22:21,880 --> 00:22:23,880
+ old bunch of stuff that
+
+406
+00:22:23,880 --> 00:22:25,880
+ we're probably never actually have to look at.
+
+407
+00:22:25,880 --> 00:22:31,880
+ There is a focus on being
+
+408
+00:22:31,880 --> 00:22:33,880
+ cloudy when we can.
+
+409
+00:22:33,880 --> 00:22:35,880
+ At the end of the day
+
+410
+00:22:35,880 --> 00:22:37,880
+ we don't have to be.
+
+411
+00:22:37,880 --> 00:22:39,880
+ We could just
+
+412
+00:22:39,880 --> 00:22:41,880
+ pull back in and run everything locally.
+
+413
+00:22:41,880 --> 00:22:45,880
+ I think for
+
+414
+00:22:45,880 --> 00:22:47,880
+ redundancy states
+
+415
+00:22:47,880 --> 00:22:49,880
+ being in a cloud data center
+
+416
+00:22:49,880 --> 00:22:51,880
+ is better.
+
+417
+00:22:51,880 --> 00:22:55,880
+ I think back in the day
+
+418
+00:22:55,880 --> 00:22:57,880
+ or years ago
+
+419
+00:22:57,880 --> 00:22:59,880
+ it was less reliable
+
+420
+00:22:59,880 --> 00:23:01,880
+ like your own data center
+
+421
+00:23:01,880 --> 00:23:03,880
+ especially the ones I know
+
+422
+00:23:03,880 --> 00:23:05,880
+ got a bill.
+
+423
+00:23:05,880 --> 00:23:07,880
+ I don't know why they're in
+
+424
+00:23:07,880 --> 00:23:09,880
+ Zooer for Kubernetes. I'm guessing just because it's easier to manage.
+
+425
+00:23:09,880 --> 00:23:11,880
+ Like the cost
+
+426
+00:23:11,880 --> 00:23:13,880
+ of having someone come in and manage a whole Kubernetes cluster
+
+427
+00:23:13,880 --> 00:23:15,880
+ when you can get Microsoft
+
+428
+00:23:15,880 --> 00:23:17,880
+ to do it for you as part of the cost.
+
+429
+00:23:17,880 --> 00:23:19,880
+ All right, I see.
+
+430
+00:23:19,880 --> 00:23:25,880
+ When you are given a ticket
+
+431
+00:23:25,880 --> 00:23:27,880
+ to deal with an application
+
+432
+00:23:27,880 --> 00:23:29,880
+ and
+
+433
+00:23:29,880 --> 00:23:31,880
+ when you don't find the documentation
+
+434
+00:23:31,880 --> 00:23:35,880
+ who do you talk to in order to at least
+
+435
+00:23:35,880 --> 00:23:37,880
+ have an idea
+
+436
+00:23:37,880 --> 00:23:39,880
+ on how it works
+
+437
+00:23:39,880 --> 00:23:41,880
+ and is it more to the
+
+438
+00:23:41,880 --> 00:23:43,880
+ developers or
+
+439
+00:23:43,880 --> 00:23:45,880
+ is there a...
+
+440
+00:23:45,880 --> 00:23:47,880
+ Yeah, so the developers are
+
+441
+00:23:47,880 --> 00:23:49,880
+ splitting the different teams. It's like the web team
+
+442
+00:23:49,880 --> 00:23:55,880
+ I don't know
+
+443
+00:23:55,880 --> 00:23:57,880
+ what we want to pull up.
+
+444
+00:23:57,880 --> 00:23:59,880
+ But I know there's a few teams. There's like the one vehicle team
+
+445
+00:23:59,880 --> 00:24:01,880
+ there's the web team
+
+446
+00:24:01,880 --> 00:24:05,880
+ I think those are the only really two teams that we have to speak
+
+447
+00:24:05,880 --> 00:24:07,880
+ to day to day.
+
+448
+00:24:07,880 --> 00:24:11,880
+ So those
+
+449
+00:24:11,880 --> 00:24:13,880
+ if I needed to know the ins and outs
+
+450
+00:24:13,880 --> 00:24:15,880
+ I'd speak to them. But a lot of the time
+
+451
+00:24:15,880 --> 00:24:17,880
+ if it's the newer stuff
+
+452
+00:24:17,880 --> 00:24:19,880
+ then that's all going to be documented with the new get repo.
+
+453
+00:24:19,880 --> 00:24:21,880
+ The other stuff
+
+454
+00:24:21,880 --> 00:24:23,880
+ they just don't know.
+
+455
+00:24:23,880 --> 00:24:25,880
+ They're just like, what else?
+
+456
+00:24:25,880 --> 00:24:27,880
+ They have to go in the new stuff and look at the config files
+
+457
+00:24:27,880 --> 00:24:29,880
+ and try and get a general gist
+
+458
+00:24:29,880 --> 00:24:31,880
+ as to how it's operating.
+
+459
+00:24:31,880 --> 00:24:33,880
+ I mean, look at AdSense
+
+460
+00:24:33,880 --> 00:24:35,880
+ for instance, it's just a single jar that runs
+
+461
+00:24:35,880 --> 00:24:37,880
+ so it's not
+
+462
+00:24:37,880 --> 00:24:41,880
+ it's not going to be difficult to move
+
+463
+00:24:41,880 --> 00:24:43,880
+ it's just going to be testing
+
+464
+00:24:43,880 --> 00:24:45,880
+ testing it to make sure it all works as expected
+
+465
+00:24:45,880 --> 00:24:47,880
+ because it's on an engine jam version as well
+
+466
+00:24:47,880 --> 00:24:49,880
+ so I'm going to have to try and pull that up
+
+467
+00:24:49,880 --> 00:24:51,880
+ so we might need to get the devs to make some tweaks
+
+468
+00:24:51,880 --> 00:24:55,880
+ to the code
+
+469
+00:24:55,880 --> 00:24:57,880
+ we'll see
+
+470
+00:24:57,880 --> 00:25:03,880
+ Don't stress out, you've got nothing
+
+471
+00:25:03,880 --> 00:25:05,880
+ you have nothing to do. It's going to be a very
+
+472
+00:25:05,880 --> 00:25:07,880
+ very soft launch
+
+473
+00:25:09,880 --> 00:25:11,880
+ I mean, it took me
+
+474
+00:25:11,880 --> 00:25:13,880
+ like eight months before
+
+475
+00:25:13,880 --> 00:25:15,880
+ I even started having to go on call
+
+476
+00:25:15,880 --> 00:25:17,880
+ so
+
+477
+00:25:17,880 --> 00:25:19,880
+ I don't think you have to worry about it too much
+
+478
+00:25:19,880 --> 00:25:21,880
+ Okay, alright, okay
+
+479
+00:25:21,880 --> 00:25:23,880
+ Really, thank you
+
+480
+00:25:23,880 --> 00:25:25,880
+ thank you so much Greg
+
+481
+00:25:25,880 --> 00:25:27,880
+ for taking the time to...
+
+482
+00:25:27,880 --> 00:25:29,880
+ I mean, you should be able to call anyone on the team
+
+483
+00:25:29,880 --> 00:25:31,880
+ or at least ask anyone on the team
+
+484
+00:25:31,880 --> 00:25:33,880
+ and be like, got questions about this or that
+
+485
+00:25:33,880 --> 00:25:35,880
+ Yeah, no problem
+
+486
+00:25:35,880 --> 00:25:37,880
+ Adjacent comes off as like
+
+487
+00:25:37,880 --> 00:25:39,880
+ rash and
+
+488
+00:25:39,880 --> 00:25:41,880
+ like opinionated
+
+489
+00:25:41,880 --> 00:25:43,880
+ and he is
+
+490
+00:25:43,880 --> 00:25:45,880
+ he's got his opinion as to when
+
+491
+00:25:45,880 --> 00:25:47,880
+ or how things should be done
+
+492
+00:25:47,880 --> 00:25:49,880
+ so if you believe strongly in
+
+493
+00:25:49,880 --> 00:25:51,880
+ differently
+
+494
+00:25:51,880 --> 00:25:53,880
+ you have to fight your corner
+
+495
+00:25:53,880 --> 00:25:55,880
+ Yeah, no problem
+
+496
+00:25:55,880 --> 00:25:57,880
+ No problem
+
+497
+00:25:57,880 --> 00:25:59,880
+ You've probably seen from our stand-ups
+
+498
+00:25:59,880 --> 00:26:01,880
+ that we'd like to have a good complaint
+
+499
+00:26:01,880 --> 00:26:03,880
+ sometimes
+
+500
+00:26:03,880 --> 00:26:05,880
+ on what's going on in the company
+
+501
+00:26:05,880 --> 00:26:07,880
+ I noticed
+
+502
+00:26:07,880 --> 00:26:09,880
+ I noticed
+
+503
+00:26:09,880 --> 00:26:11,880
+ I noticed
+
+504
+00:26:11,880 --> 00:26:13,880
+ It's been
+
+505
+00:26:13,880 --> 00:26:15,880
+ very chilled
+
+506
+00:26:15,880 --> 00:26:17,880
+ which is different from where it was previously
+
+507
+00:26:17,880 --> 00:26:19,880
+ where the sprints were
+
+508
+00:26:19,880 --> 00:26:21,880
+ hard deadlines
+
+509
+00:26:21,880 --> 00:26:23,880
+ and I had to
+
+510
+00:26:23,880 --> 00:26:25,880
+ go on with it
+
+511
+00:26:25,880 --> 00:26:27,880
+ Yeah, yeah
+
+512
+00:26:27,880 --> 00:26:29,880
+ The only thing
+
+513
+00:26:33,880 --> 00:26:35,880
+ I did find
+
+514
+00:26:35,880 --> 00:26:37,880
+ I did
+
+515
+00:26:37,880 --> 00:26:39,880
+ I found
+
+516
+00:26:39,880 --> 00:26:41,880
+ a bit... well
+
+517
+00:26:41,880 --> 00:26:43,880
+ I have some slight regrets around
+
+518
+00:26:43,880 --> 00:26:45,880
+ is the fact that, you know
+
+519
+00:26:45,880 --> 00:26:47,880
+ the laptop I have
+
+520
+00:26:47,880 --> 00:26:49,880
+ I mean, when I was asked if I wanted
+
+521
+00:26:49,880 --> 00:26:51,880
+ a Mac or Windows
+
+522
+00:26:51,880 --> 00:26:53,880
+ obviously, I told them
+
+523
+00:26:53,880 --> 00:26:55,880
+ okay, I'm gonna go for a Windows
+
+524
+00:26:55,880 --> 00:26:57,880
+ with the idea
+
+525
+00:26:57,880 --> 00:26:59,880
+ of installing maybe Red Hat
+
+526
+00:26:59,880 --> 00:27:01,880
+ or Debian or something like that on it, right?
+
+527
+00:27:01,880 --> 00:27:03,880
+ But then, to access the
+
+528
+00:27:03,880 --> 00:27:05,880
+ Oh, no, yeah, you have to
+
+529
+00:27:05,880 --> 00:27:07,880
+ go with our prints
+
+530
+00:27:07,880 --> 00:27:09,880
+ Yeah, yeah, yeah
+
+531
+00:27:09,880 --> 00:27:11,880
+ But yeah, I mean
+
+532
+00:27:11,880 --> 00:27:13,880
+ I don't know if it's too late to change
+
+533
+00:27:13,880 --> 00:27:15,880
+ but, yeah, speak to Claire
+
+534
+00:27:15,880 --> 00:27:17,880
+ Yeah, I spoke to Claire because
+
+535
+00:27:17,880 --> 00:27:19,880
+ the Windows is not is
+
+536
+00:27:19,880 --> 00:27:21,880
+ you know
+
+537
+00:27:21,880 --> 00:27:23,880
+ Yeah, I didn't know if you're like
+
+538
+00:27:23,880 --> 00:27:25,880
+ "Oh, have they set this up on the Windows?"
+
+539
+00:27:25,880 --> 00:27:27,880
+ I thought, "I have no idea"
+
+540
+00:27:27,880 --> 00:27:29,880
+ I was from a Mac, so I'll act
+
+541
+00:27:29,880 --> 00:27:31,880
+ I use it
+
+542
+00:27:31,880 --> 00:27:33,880
+ Okay, yeah
+
+543
+00:27:33,880 --> 00:27:35,880
+ I've never, to be frank
+
+544
+00:27:35,880 --> 00:27:37,880
+ with you, for most of my
+
+545
+00:27:37,880 --> 00:27:39,880
+ for the past decade or so
+
+546
+00:27:39,880 --> 00:27:41,880
+ I've been mostly using
+
+547
+00:27:41,880 --> 00:27:43,880
+ Linux laptops for work
+
+548
+00:27:43,880 --> 00:27:45,880
+ but I know Linux and Mac are obviously
+
+549
+00:27:45,880 --> 00:27:47,880
+ very close to each other
+
+550
+00:27:47,880 --> 00:27:49,880
+ and Mac at least is stable
+
+551
+00:27:49,880 --> 00:27:51,880
+ because the Microsoft laptop
+
+552
+00:27:51,880 --> 00:27:53,880
+ I have is already crashing
+
+553
+00:27:53,880 --> 00:27:55,880
+ and it's so sad, it's such a powerful machine
+
+554
+00:27:55,880 --> 00:27:57,880
+ like, can you believe it? 64GB
+
+555
+00:27:57,880 --> 00:27:59,880
+ 64GB of RAM
+
+556
+00:27:59,880 --> 00:28:01,880
+ and
+
+557
+00:28:01,880 --> 00:28:03,880
+ You've got 64GB of RAM in yours
+
+558
+00:28:03,880 --> 00:28:05,880
+ I have 64GB of RAM
+
+559
+00:28:05,880 --> 00:28:07,880
+ on my laptop and 16 cores
+
+560
+00:28:07,880 --> 00:28:09,880
+ can you believe it?
+
+561
+00:28:09,880 --> 00:28:11,880
+ In the tell that they just gave you
+
+562
+00:28:11,880 --> 00:28:13,880
+ Yeah, yeah, 64GB of RAM
+
+563
+00:28:13,880 --> 00:28:15,880
+ I've got
+
+564
+00:28:15,880 --> 00:28:17,880
+ I've got 16GB and
+
+565
+00:28:17,880 --> 00:28:19,880
+ 6 cores, i7
+
+566
+00:28:19,880 --> 00:28:21,880
+ and Mac and Mac
+
+567
+00:28:21,880 --> 00:28:23,880
+ and Mac is only like
+
+568
+00:28:23,880 --> 00:28:25,880
+ I mean, this is a server, I was talking to
+
+569
+00:28:25,880 --> 00:28:27,880
+ my colleagues, well, I was bragging
+
+570
+00:28:27,880 --> 00:28:29,880
+ basically, I was talking to
+
+571
+00:28:29,880 --> 00:28:31,880
+ one of my former colleagues and I said
+
+572
+00:28:31,880 --> 00:28:33,880
+ he asked me, he said, "Hey, so Marcel, how are things
+
+573
+00:28:33,880 --> 00:28:35,880
+ going in the UK?" I said, "It's great, you know
+
+574
+00:28:35,880 --> 00:28:37,880
+ I'm working for this amazing
+
+575
+00:28:37,880 --> 00:28:39,880
+ company, guess what, I've got a laptop
+
+576
+00:28:39,880 --> 00:28:41,880
+ with 64GB of RAM" He said, "What?"
+
+577
+00:28:41,880 --> 00:28:45,880
+ He said, "Maybe I should apply" I said, "Well, try
+
+578
+00:28:45,880 --> 00:28:47,880
+ try it"
+
+579
+00:28:47,880 --> 00:28:49,880
+ but he was also very
+
+580
+00:28:49,880 --> 00:28:51,880
+ he was, I mean, I found that very impressive
+
+581
+00:28:51,880 --> 00:28:53,880
+ and I checked, the laptop is worth
+
+582
+00:28:53,880 --> 00:28:55,880
+ something like 7000 pounds
+
+583
+00:28:55,880 --> 00:28:59,880
+ which is, Jesus
+
+584
+00:28:59,880 --> 00:29:01,880
+ so, you know, yeah, so
+
+585
+00:29:01,880 --> 00:29:03,880
+ because of that, you know, when I finish work
+
+586
+00:29:03,880 --> 00:29:05,880
+ I keep it, why I keep my money
+
+587
+00:29:05,880 --> 00:29:07,880
+ literally because you know, I cannot
+
+588
+00:29:07,880 --> 00:29:09,880
+ I cannot afford to
+
+589
+00:29:09,880 --> 00:29:11,880
+ Why you keep money on you?
+
+590
+00:29:11,880 --> 00:29:13,880
+ You can't even make a bank account, you only keep cash
+
+591
+00:29:13,880 --> 00:29:15,880
+ anymore? No, no, I still keep
+
+592
+00:29:15,880 --> 00:29:17,880
+ just a little bit, you know, not too much
+
+593
+00:29:17,880 --> 00:29:19,880
+ like 200 or 300 pounds just in case
+
+594
+00:29:19,880 --> 00:29:21,880
+ you never know, so I keep
+
+595
+00:29:21,880 --> 00:29:23,880
+ the laptop, yeah
+
+596
+00:29:23,880 --> 00:29:33,880
+ Me, you know, maybe I'm a bit old school
+
+597
+00:29:33,880 --> 00:29:35,880
+ in that regard but
+
+598
+00:29:35,880 --> 00:29:37,880
+ there were a few times in my life
+
+599
+00:29:37,880 --> 00:29:39,880
+ where the
+
+600
+00:29:39,880 --> 00:29:41,880
+ I had issues with the car and so on
+
+601
+00:29:41,880 --> 00:29:43,880
+ so, since then I thought to myself, okay
+
+602
+00:29:43,880 --> 00:29:45,880
+ I just like
+
+603
+00:29:45,880 --> 00:29:47,880
+ you, I don't use cash to pay
+
+604
+00:29:47,880 --> 00:29:49,880
+ but I always keep
+
+605
+00:29:49,880 --> 00:29:51,880
+ just a little amount, you know, somewhere
+
+606
+00:29:51,880 --> 00:29:53,880
+ just in case, you know, just in case
+
+607
+00:29:53,880 --> 00:29:55,880
+ the card is failing or, you know, God knows
+
+608
+00:29:55,880 --> 00:29:57,880
+ what could be happening
+
+609
+00:29:57,880 --> 00:29:59,880
+ so I just keep, so I keep the laptop right there
+
+610
+00:29:59,880 --> 00:30:01,880
+ but it's a, yeah, it's a
+
+611
+00:30:01,880 --> 00:30:03,880
+ it's a very powerful machine, this is a server
+
+612
+00:30:03,880 --> 00:30:05,880
+ in fact, yeah, it's really sad
+
+613
+00:30:05,880 --> 00:30:07,880
+ it is running Windows because
+
+614
+00:30:07,880 --> 00:30:09,880
+ God knows what you could do with that
+
+615
+00:30:09,880 --> 00:30:11,880
+ Linux or even Mac for that matter
+
+616
+00:30:11,880 --> 00:30:13,880
+ but, well, that's another debate
+
+617
+00:30:13,880 --> 00:30:17,880
+ okay, so Greg really, thank you
+
+618
+00:30:17,880 --> 00:30:19,880
+ very much for your time this morning
+
+619
+00:30:19,880 --> 00:30:21,880
+ thank you very much for helping me
+
+620
+00:30:21,880 --> 00:30:23,880
+ to have a better
+
+621
+00:30:23,880 --> 00:30:25,880
+ understanding of that
+
+622
+00:30:25,880 --> 00:30:27,880
+ Yeah, that was pretty easy
+
+623
+00:30:27,880 --> 00:30:29,880
+ and just, you'll be doing videos
+
+624
+00:30:29,880 --> 00:30:31,880
+ and all that
+
+625
+00:30:31,880 --> 00:30:33,880
+ I don't remember what I was doing
+
+626
+00:30:33,880 --> 00:30:35,880
+ for the first couple of weeks
+
+627
+00:30:35,880 --> 00:30:37,880
+ it's just a lot of reading
+
+628
+00:30:37,880 --> 00:30:39,880
+ and creating videos
+
+629
+00:30:39,880 --> 00:30:45,880
+ yeah, I think I have
+
+630
+00:30:45,880 --> 00:30:47,880
+ a call with Jason to go over the infrastructure
+
+631
+00:30:47,880 --> 00:30:49,880
+ and that, so I don't know if Claire's
+
+632
+00:30:49,880 --> 00:30:51,880
+ going to arrange that as well
+
+633
+00:30:51,880 --> 00:30:53,880
+ yeah, if you have
+
+634
+00:30:53,880 --> 00:30:55,880
+ such a call with Jason
+
+635
+00:30:55,880 --> 00:30:57,880
+ if obviously, if the two of you don't mind
+
+636
+00:30:57,880 --> 00:30:59,880
+ I wouldn't mind joining just to, you know, to listen in
+
+637
+00:30:59,880 --> 00:31:01,880
+ and see...
+
+638
+00:31:01,880 --> 00:31:03,880
+ I've been talking about like a year ago when I started
+
+639
+00:31:03,880 --> 00:31:05,880
+ I had a call with Jason to cover infrastructure
+
+640
+00:31:05,880 --> 00:31:07,880
+ ah, okay, okay, okay
+
+641
+00:31:07,880 --> 00:31:09,880
+ yeah, in this case, yeah
+
+642
+00:31:09,880 --> 00:31:11,880
+ because she said that when she will be back
+
+643
+00:31:11,880 --> 00:31:13,880
+ tomorrow
+
+644
+00:31:13,880 --> 00:31:15,880
+ we will have
+
+645
+00:31:15,880 --> 00:31:17,880
+ a call with Jason
+
+646
+00:31:17,880 --> 00:31:19,880
+ to talk about the infrastructure
+
+647
+00:31:19,880 --> 00:31:21,880
+ she did mention that
+
+648
+00:31:21,880 --> 00:31:23,880
+ I mean, I imagine it'll be with Jason
+
+649
+00:31:23,880 --> 00:31:25,880
+ because I've been here a year
+
+650
+00:31:25,880 --> 00:31:27,880
+ but there's still stuff that I don't know
+
+651
+00:31:27,880 --> 00:31:29,880
+ stuff that I find out
+
+652
+00:31:29,880 --> 00:31:31,880
+ in like abbreviations
+
+653
+00:31:31,880 --> 00:31:33,880
+ that, you know
+
+654
+00:31:33,880 --> 00:31:35,880
+ you're just like, okay, that's what that stands for
+
+655
+00:31:35,880 --> 00:31:39,880
+ but yeah, you'll learn something
+
+656
+00:31:39,880 --> 00:31:41,880
+ every day, at least
+
+657
+00:31:41,880 --> 00:31:43,880
+ yeah, yeah, yeah
+
+658
+00:31:43,880 --> 00:31:45,880
+ because we did
+
+659
+00:31:45,880 --> 00:31:47,880
+ okay
+
+660
+00:31:47,880 --> 00:31:49,880
+ okay, so really
+
+661
+00:31:49,880 --> 00:31:51,880
+ Greg, thank you very much for your time
+
+662
+00:31:51,880 --> 00:31:53,880
+ and obviously, if I have
+
+663
+00:31:53,880 --> 00:31:55,880
+ some other questions
+
+664
+00:31:55,880 --> 00:31:57,880
+ then you just compliment
+
+665
+00:31:57,880 --> 00:31:59,880
+ I'll write you a message on
+
+666
+00:31:59,880 --> 00:32:01,880
+ so I've probably got plans for lunch today
+
+667
+00:32:01,880 --> 00:32:05,880
+ for lunch today
+
+668
+00:32:05,880 --> 00:32:07,880
+ I don't know, maybe I'm just going to have
+
+669
+00:32:07,880 --> 00:32:09,880
+ some salad because I'm trying to lose weight
+
+670
+00:32:09,880 --> 00:32:11,880
+ a bit, you know, you wouldn't believe it
+
+671
+00:32:11,880 --> 00:32:13,880
+ but I am 110 kilograms
+
+672
+00:32:13,880 --> 00:32:15,880
+ well, I've got your beat on that
+
+673
+00:32:15,880 --> 00:32:17,880
+ oh, really?
+
+674
+00:32:17,880 --> 00:32:23,880
+ I think
+
+675
+00:32:23,880 --> 00:32:25,880
+ I have around 112
+
+676
+00:32:25,880 --> 00:32:27,880
+ I'm aiming to get down to like
+
+677
+00:32:27,880 --> 00:32:29,880
+ 80 or something like that
+
+678
+00:32:29,880 --> 00:32:31,880
+ I have the same issue because
+
+679
+00:32:31,880 --> 00:32:33,880
+ I have some of my family members calling me an elephant
+
+680
+00:32:33,880 --> 00:32:35,880
+ so, you know
+
+681
+00:32:35,880 --> 00:32:37,880
+ it's not nice from them but that's what they're doing
+
+682
+00:32:37,880 --> 00:32:39,880
+ so
+
+683
+00:32:39,880 --> 00:32:41,880
+ and obviously
+
+684
+00:32:41,880 --> 00:32:43,880
+ in my family, we have
+
+685
+00:32:43,880 --> 00:32:45,880
+ a lot of people
+
+686
+00:32:45,880 --> 00:32:47,880
+ have suffered and did suffer from
+
+687
+00:32:47,880 --> 00:32:49,880
+ high blood pressure
+
+688
+00:32:49,880 --> 00:32:51,880
+ and things like that so I need to be
+
+689
+00:32:51,880 --> 00:32:53,880
+ careful so that's why I want to
+
+690
+00:32:53,880 --> 00:32:55,880
+ try to lose a bit of weight
+
+691
+00:32:55,880 --> 00:33:03,880
+ that's a very good question
+
+692
+00:33:03,880 --> 00:33:05,880
+ so I'll tell
+
+693
+00:33:05,880 --> 00:33:07,880
+ I don't know where it is
+
+694
+00:33:07,880 --> 00:33:09,880
+ I mean in terms of who has the best Jalof
+
+695
+00:33:09,880 --> 00:33:11,880
+ in West Africa
+
+696
+00:33:11,880 --> 00:33:13,880
+ Ghana and Nigeria
+
+697
+00:33:13,880 --> 00:33:15,880
+ are always fighting over who has the best Jalof
+
+698
+00:33:15,880 --> 00:33:17,880
+ I wonder
+
+699
+00:33:17,880 --> 00:33:19,880
+ is Ivory Coast sitting there
+
+700
+00:33:19,880 --> 00:33:21,880
+ thinking well, they're both wrong
+
+701
+00:33:21,880 --> 00:33:23,880
+ in that specific regard
+
+702
+00:33:23,880 --> 00:33:25,880
+ some Maivurian people
+
+703
+00:33:25,880 --> 00:33:27,880
+ would tell you that the Ivory Coast
+
+704
+00:33:27,880 --> 00:33:29,880
+ is the best in terms of Jalof
+
+705
+00:33:29,880 --> 00:33:31,880
+ but to be frank
+
+706
+00:33:31,880 --> 00:33:33,880
+ it's not true
+
+707
+00:33:33,880 --> 00:33:35,880
+ Nigeria
+
+708
+00:33:35,880 --> 00:33:37,880
+ and Senegal
+
+709
+00:33:37,880 --> 00:33:39,880
+ regarding that specific
+
+710
+00:33:39,880 --> 00:33:41,880
+ and that I think they are most likely the best
+
+711
+00:33:41,880 --> 00:33:43,880
+ but
+
+712
+00:33:43,880 --> 00:33:45,880
+ the Ivory Coast has some other
+
+713
+00:33:45,880 --> 00:33:47,880
+ specialities
+
+714
+00:33:47,880 --> 00:33:49,880
+ that are also very famous
+
+715
+00:33:49,880 --> 00:33:51,880
+ there is one we call
+
+716
+00:33:51,880 --> 00:33:53,880
+ Aloko
+
+717
+00:33:53,880 --> 00:33:55,880
+ I don't know
+
+718
+00:33:55,880 --> 00:33:57,880
+ maybe
+
+719
+00:33:57,880 --> 00:33:59,880
+ if
+
+720
+00:33:59,880 --> 00:34:01,880
+ providing you can eat anything
+
+721
+00:34:01,880 --> 00:34:03,880
+ I can try to see if I can maybe
+
+722
+00:34:03,880 --> 00:34:05,880
+ arrange the next time
+
+723
+00:34:05,880 --> 00:34:07,880
+ we go into the office
+
+724
+00:34:07,880 --> 00:34:09,880
+ maybe I can try to bring some and you will try
+
+725
+00:34:09,880 --> 00:34:11,880
+ and you will see
+
+726
+00:34:11,880 --> 00:34:13,880
+ Aloko
+
+727
+00:34:13,880 --> 00:34:15,880
+ is basically
+
+728
+00:34:15,880 --> 00:34:17,880
+ fried plantains
+
+729
+00:34:17,880 --> 00:34:19,880
+ but it is done in a way
+
+730
+00:34:19,880 --> 00:34:21,880
+ that it is
+
+731
+00:34:21,880 --> 00:34:23,880
+ I've tried that with
+
+732
+00:34:23,880 --> 00:34:25,880
+ some Japanese friends
+
+733
+00:34:25,880 --> 00:34:27,880
+ Russian friends, British friends and so on
+
+734
+00:34:27,880 --> 00:34:29,880
+ they've all liked it very much
+
+735
+00:34:29,880 --> 00:34:31,880
+ and I believe this is the
+
+736
+00:34:31,880 --> 00:34:33,880
+ specialty of the Ivory Coast
+
+737
+00:34:33,880 --> 00:34:35,880
+ but regarding the Jalof
+
+738
+00:34:35,880 --> 00:34:37,880
+ the Ivoryans would brag about being the best
+
+739
+00:34:37,880 --> 00:34:39,880
+ but they are not
+
+740
+00:34:39,880 --> 00:34:41,880
+ I think Senegal and Nigeria are the best from far
+
+741
+00:34:41,880 --> 00:34:43,880
+ not Ghana
+
+742
+00:34:43,880 --> 00:34:45,880
+ to be honest
+
+743
+00:34:45,880 --> 00:34:47,880
+ I don't think so
+
+744
+00:34:47,880 --> 00:34:49,880
+ I truly believe
+
+745
+00:34:49,880 --> 00:34:51,880
+ the one from Nigeria
+
+746
+00:34:51,880 --> 00:34:53,880
+ and Senegal are the best
+
+747
+00:34:53,880 --> 00:34:55,880
+ from very far
+
+748
+00:34:55,880 --> 00:34:57,880
+ but
+
+749
+00:34:57,880 --> 00:34:59,880
+ I'm not saying the one from Ghana is not good
+
+750
+00:34:59,880 --> 00:35:01,880
+ this is not what I'm saying
+
+751
+00:35:01,880 --> 00:35:03,880
+ but
+
+752
+00:35:03,880 --> 00:35:05,880
+ the Nigerian Senegal are
+
+753
+00:35:05,880 --> 00:35:07,880
+ a bit outclassing everyone else
+
+754
+00:35:07,880 --> 00:35:09,880
+ but
+
+755
+00:35:09,880 --> 00:35:11,880
+ I wouldn't say that loudly in front of
+
+756
+00:35:11,880 --> 00:35:13,880
+ some of my foreign people
+
+757
+00:35:13,880 --> 00:35:15,880
+ they might curse me
+
+758
+00:35:15,880 --> 00:35:17,880
+ for that if I were to say that in front of some of my foreign people
+
+759
+00:35:17,880 --> 00:35:19,880
+ but the truth is
+
+760
+00:35:19,880 --> 00:35:21,880
+ this is the truth to be frank
+
+761
+00:35:25,880 --> 00:35:27,880
+ ok thank you very much for your time
+
+762
+00:35:27,880 --> 00:35:29,880
+ sit in the car
+
+763
+00:35:29,880 --> 00:35:31,880
+ no problem thank you very much Gregg
+
+764
+00:35:31,880 --> 00:35:33,880
+ thank you a lot
+
+765
+00:35:33,880 --> 00:35:35,880
+ you too, thank you
+
+766
+00:35:35,880 --> 00:35:37,880
+ you
+
+767
+00:35:37,880 --> 00:35:40,540
+ (air whooshing)
+
+768
+00:35:40,540 --> 00:35:42,300
+ (slurping)
+

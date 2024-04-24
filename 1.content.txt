@@ -1,0 +1,1549 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 1.content.pdf
+
+CASE NO. 8000485/2023
+
+GLASGOW EMPLOYMENT TRIBUNAL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN THE CASE:
+M SANGARE
+Claimant
+-v-
+ARNOLD CLARK AUTOMOBILES LIMITED
+Respondent
+JOINT BUNDLE OF DOCUMENTS
+
+No. Document Date Page no.
+Tribunal Documents
+1 Acas Early Conciliation Certificate 04 September 2023 21
+2 ET1 Claim Form 04 October 2023 22 - 35
+3 ET3 Response 24 October 2023 36 - 49
+4 Note from Preliminary Hearing 01 December 2023 50 - 56
+5 Amendment Judgment and PH Note 29 February 2024 57 - 69
+6 Amended ET3 Response 21 March 2024 70 - 76
+Contracts and Policies
+7 Contract of Employment 24 November 2022 77 - 88
+8 Disciplinary Procedure Undated 89 - 91
+9 Grievance Procedure Undated 92 - 94
+10 Harassment Policy Undated 95 - 99
+
+ 
+
+11 Equal Opportunities Policy Undated 100 - 107
+
+ 
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+12 AC Cyber Security Policy 2023 v2.0 Undated 108 - 116
+
+ 
+
+13 AC Cyber Security Acceptable Use Policy | Undated 117 - 126
+2023 v2.0 (1)
+
+ 
+
+ 
+
+Other Documents
+
+ 
+
+ 
+
+14 MS Teams Chat Record Between Claimant | 12 January 2023 127
+and Claire Thomson
+
+ 
+
+ 
+
+ 
+
+15 Arnold Clark Pension Plan Letter 24 April 2023 128
+16 Teams Chat Transcript between David | 25 May 2023 129 - 136
+Middleton, David Moffat and Claire
+Thomson
+17 Email correspondence between Emma | 13 June 2023 137 - 138
+
+Glass and Laura Cooper
+
+ 
+
+ 
+
+ 
+
+18 Statement of Issues relating to Claimant 12 June 2023 139 - 141
+19 Invitation to Meeting Letter 14 June 2023 142
+20 Email correspondence between Claimant | 14 June 2023 143 - 144
+
+to Laura Cooper
+
+ 
+
+21 Email from Claimant to Laura Cooper and | 19 June 2023 145 - 166
+David Middleton re: Important
+Communication Prior to Meeting
+
+ 
+
+22 Minutes from Continued Employment | 20 June 2023 167 - 207
+Meeting with Claimant
+
+ 
+
+23 Email correspondence between Claire | 21 June 2023 208 - 220
+Thomson and Laura Cooper
+
+ 
+
+24 Minutes from Continued Employment | 22 June 2023 221 - 243
+Meeting with Claimant (continued)
+
+ 
+
+ 
+
+25 Confirmation of Termination — of | 22 June 2023 244
+Employment
+26 Email from Laura Cooper to Frances | 22 June 2023 245 - 246
+
+Hamilton re Claimant's Dismissal
+
+ 
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+27 Confirmation of Termination of AXA | 31 August 2023 247
+Healthcare Scheme
+
+ 
+
+ 
+
+Remedy
+
+ 
+
+ 
+
+28 Claimant Statement of Loss 10 December 2023 248 - 249
+
+ 
+
+ 
+
+Claimant's Documents
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACAS Guides
+
+29.1 Bullying at Work Undated 250 - 251
+29.2 Dealing with a Problem Raised by an | Undated 252 - 254
+
+Employee
+
+29.3 Discipline and Grievances at Work Undated 255 - 330
+29.4 Dismissals Undated 331 - 338
+29.5 Investigations at Work Undated 339 - 347
+29.6 Whistleblowing at Work Undated 348 - 357
+Terraform
+
+30.1 Seven Anti-Patterns of Terraform Undated 358 - 359
+30.2 Best Practices for Structuring Terraform | Undated 360 - 361
+
+Projects with Multiple VPCs
+
+ 
+
+ 
+
+Videos and Audios
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31.1 ti command Undated 362
+31.2 tp command Undated 363
+31.3 Amazon Exception Undated 364
+31.4 Claire CVE-2022 Undated 365
+
+ 
+
+31.5 Video and Audio Files Undated 366
+
+ 
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+Data Breach
+
+ 
+
+ 
+
+32.1 Has Arnold Clark just admitted to poor data | 02 February 2023 367 - 373
+security processes?
+
+ 
+
+32.2 Lawyers suspect Arnold Clark hackers | 16 March 2023 374 - 380
+have now leaked 45GB of personal data on
+dark web — Car Dealer Magazine
+
+ 
+
+32.3 Arnold Clark Data Breach - 475GB of data | 06 April 2023 381 - 391
+found on dark web
+
+ 
+
+32.4 Arnold Clark data breach - Thousands | 23 April 2023 392 - 398
+launch multi-million pound action
+
+ 
+
+32.5 Arnold Clark could face paying out | 25 April 2023 399 - 411
+millions to customers after personal data
+stolen in cyber attack - The Scottish Sun
+
+ 
+
+32.6 Arnold Clark data leak victims prepare | 13 June 2023 412 - 419
+legal action Computer Weekly
+
+ 
+
+ 
+
+32.7 Arnold Clark Data Breach Compensation | Undated 420 - 433
+Start Your Claim
+32.8 Arnold Clark Data Breach - Make A | Undated 434 - 437
+
+Compensation Claim
+
+ 
+
+32.9 Arnold Clark data breach leads to identity | Undated 438 - 439
+theft - Cybersecurity Insiders
+
+ 
+
+ 
+
+GDPR
+
+ 
+
+ 
+
+33.1 Guide to the General Data Protection | 14 October 2022 440 - 796
+Regulation GDPR
+
+ 
+
+ 
+
+Arnold Clark Case Law
+
+ 
+
+ 
+
+34.1 Arnold Clark Automobiles Ltd v Spoor | 03 January 2017 797 - 804
+UKEAT-0170-16-DA
+
+ 
+
+34.2 Arnold Clark Automobiles Ltd v Spoor - | Undated 805 - 808
+dismissal of employee for physical
+
+ 
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+violence against a colleague was unfair -
+Redmans Solicitors
+
+ 
+
+ 
+
+Software Engineering
+
+ 
+
+ 
+
+ 
+
+35.1 The importance of modularity in software | Undated 809 - 812
+engineering
+35.2 Analysis of the Use of a Modular Approach | Undated 813 - 849
+
+in Software Engineering Across 5
+published work of software engineering
+
+ 
+
+ 
+
+Screenshots from Claimant
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.1 image1130 28 March 2024 850
+36.2 imagel141 28 March 2024 851
+36.3 imagel 144 28 March 2024 852
+36.4 image1 148 28 March 2024 853
+36.5 image1 149 28 March 2024 854
+36.6 imagel150 28 March 2024 855
+36.7 imagel151 28 March 2024 856
+36.8 imagel 153 28 March 2024 857
+36.9 image1154 28 March 2024 858
+36.10 image1 155 28 March 2024 859
+36.11 image1156 28 March 2024 860
+36.12 imagel 162 28 March 2024 861
+36.13 image1 163 28 March 2024 862
+36.14 image1164 28 March 2024 863
+
+ 
+
+36.15 image1 165 28 March 2024 864
+
+ 
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+36.16 imagel1171 28 March 2024 865
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.17 image1178 28 March 2024 866
+36.18 image1190 28 March 2024 867
+36.19 image1201 28 March 2024 868
+36.20 image4005 28 March 2024 869
+36.21 image4222 28 March 2024 870
+36.22 image423 1 28 March 2024 871
+36.23 image4256 28 March 2024 872
+36.24 image4258 28 March 2024 873
+36.25 image4259 28 March 2024 874
+36.26 image4262 28 March 2024 875
+36.27 image4263 28 March 2024 876
+36.28 image4264 28 March 2024 877
+36.29 image4266 28 March 2024 878
+36.30 image4269 28 March 2024 879
+36.31 image4270 28 March 2024 880
+36.32 image4272 28 March 2024 881
+36.33 image4273 28 March 2024 882
+36.34 image4274 28 March 2024 883
+36.35 image4288 28 March 2024 884
+36.36 image4298 28 March 2024 885
+
+ 
+
+36.37 image4299 28 March 2024 886
+
+ 
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+36.38 image4301 28 March 2024 887
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.39 image4304 28 March 2024 888
+36.40 image4305 28 March 2024 889
+36.41 image4311 28 March 2024 890
+36.42 image4312 28 March 2024 891
+36.43 image43 14 28 March 2024 892
+36.44 image4315 28 March 2024 893
+36.45 image4316 28 March 2024 894
+36.46 image4317 28 March 2024 895
+36.47 image4318 28 March 2024 896
+36.48 image4320 28 March 2024 897
+36.49 image4321 28 March 2024 898
+36.50 image4322 28 March 2024 899
+36.51 image4323 28 March 2024 900
+36.52 image4325 28 March 2024 901
+36.53 image4333 28 March 2024 902
+36.54 image4336 28 March 2024 903
+36.55 image4339 28 March 2024 904
+36.56 image4354 28 March 2024 905
+36.57 image4355 28 March 2024 906
+36.58 image4356 28 March 2024 907
+
+ 
+
+36.59 image4357 28 March 2024 908
+
+ 
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+36.60 image4360 28 March 2024 909
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.61 image4361 28 March 2024 910
+36.62 image4362 28 March 2024 911
+36.63 image4363 28 March 2024 912
+36.64 image4364 28 March 2024 913
+36.65 image4365 28 March 2024 914
+36.66 image4366 28 March 2024 915
+36.67 image4369 28 March 2024 916
+36.68 image4370 28 March 2024 917
+36.69 image4376 28 March 2024 918
+36.70 image4400 28 March 2024 919
+36.71 image4401 28 March 2024 920
+36.72 image4409 28 March 2024 921
+36.73 image4411 28 March 2024 922
+36.74 image4416 28 March 2024 923
+36.75 image4418 28 March 2024 924
+36.76 image4419 28 March 2024 925
+36.77 image4427 28 March 2024 926
+36.78 image4428 28 March 2024 927
+36.79 image443 1 28 March 2024 928
+36.80 image4432 28 March 2024 929
+
+ 
+
+36.81 image4434 28 March 2024 930
+
+ 
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+36.82 image4435 28 March 2024 931
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.83 image4436 28 March 2024 932
+36.84 image4437 28 March 2024 933
+36.85 image4438 28 March 2024 934
+36.86 image4439 28 March 2024 935
+36.87 image4445 28 March 2024 936
+36.88 image4451 28 March 2024 937
+36.89 image4452 28 March 2024 938
+36.90 image4454 28 March 2024 939
+36.91 image4455 28 March 2024 940
+36.92 image4457 28 March 2024 941
+36.93 image4458 28 March 2024 942
+36.94 image4460 28 March 2024 943
+36.95 image4461 28 March 2024 944
+36.96 image4462 28 March 2024 945
+36.97 image4464 28 March 2024 946
+36.98 image4466 28 March 2024 947
+36.99 image4467 28 March 2024 948
+36.100 image4468 28 March 2024 949
+36.101 image4471 28 March 2024 950
+36.102 image4473 28 March 2024 951
+
+ 
+
+36.103 image4476 28 March 2024 952
+
+ 
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.104 image4478 28 March 2024 953
+36.105 image4480 28 March 2024 954
+36.106 image4482 28 March 2024 955
+36.107 image4483 28 March 2024 956
+36.108 image4485 28 March 2024 957
+36.109 image4498 28 March 2024 958
+36.110 image4500 28 March 2024 959
+36.111 image4502 28 March 2024 960
+36.112 image4503 28 March 2024 961
+36.113 image4504 28 March 2024 962
+36.114 image4506 28 March 2024 963
+36.115 image4510 28 March 2024 964
+36.116 image4511 28 March 2024 965
+36.117 image4512 28 March 2024 966
+36.118 image45 13 28 March 2024 967
+36.119 image4514 28 March 2024 968
+36.120 image4515 28 March 2024 969
+36.121 image4516 28 March 2024 970
+36.122 image4519 28 March 2024 971
+36.123 image4523 28 March 2024 972
+36.124 image4524 28 March 2024 973
+36.125 image4525 28 March 2024 974
+
+ 
+
+10
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.126 image4526 28 March 2024 975
+36.127 image4527 28 March 2024 976
+36.128 image4528 28 March 2024 977
+36.129 image4529 28 March 2024 978
+36.130 image4534 28 March 2024 979
+36.131 image4546 28 March 2024 980
+36.132 image4547 28 March 2024 981
+36.133 image4549 28 March 2024 982
+36.134 image4550 28 March 2024 983
+36.135 image4553 28 March 2024 984
+36.136 image4556 28 March 2024 985
+36.137 image4558 28 March 2024 986
+36.138 image4559 28 March 2024 987
+36.139 image4560 28 March 2024 988
+36.140 image4562 28 March 2024 989
+36.141 image4563 28 March 2024 990
+36.142 image4564 28 March 2024 991
+36.143 image4565 28 March 2024 992
+36.144 image4567 28 March 2024 993
+36.145 image4568 28 March 2024 994
+36.146 image4571 28 March 2024 995
+36.147 image4572 28 March 2024 996
+
+ 
+
+11
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.148 image4573 28 March 2024 997
+36.149 image4574 28 March 2024 998
+36.150 image4576 28 March 2024 999
+36.151 image4578 28 March 2024 1000
+36.152 image458 1 28 March 2024 1001
+36.153 image4583 28 March 2024 1002
+36.154 image4585 28 March 2024 1003
+36.155 image4587 28 March 2024 1004
+36.156 image4588 28 March 2024 1005
+36.157 image4589 28 March 2024 1006
+36.158 image4590 28 March 2024 1007
+36.159 image4591 28 March 2024 1008
+36.160 image4592 28 March 2024 1009
+36.161 image4593 28 March 2024 1010
+36.162 image4594 28 March 2024 1011
+36.163 image4595 28 March 2024 1012
+36.164 image4596 28 March 2024 1013
+36.165 image4612 28 March 2024 1014
+36.166 image4613 28 March 2024 1015
+36.167 image4615 28 March 2024 1016
+36.168 image4616 28 March 2024 1017
+36.169 image4617 28 March 2024 1018
+
+ 
+
+12
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.170 image4618 28 March 2024 1019
+36.171 image4619 28 March 2024 1020
+36.172 image4621 28 March 2024 1021
+36.173 image4622 28 March 2024 1022
+36.174 image4624 28 March 2024 1023
+36.175 image4625 28 March 2024 1024
+36.176 image4626 28 March 2024 1025
+36.177 image4630 28 March 2024 1026
+36.178 image463 1 28 March 2024 1027
+36.179 image4633 28 March 2024 1028
+36.180 image4634 28 March 2024 1029
+36.181 image4638 28 March 2024 1030
+36.182 image4640 28 March 2024 1031
+36.183 image4641 28 March 2024 1032
+36.184 image4642 28 March 2024 1033
+36.185 image4643 28 March 2024 1034
+36.186 image4645 28 March 2024 1035
+36.187 image4646 28 March 2024 1036
+36.188 image4647 28 March 2024 1037
+36.189 image4648 28 March 2024 1038
+36.190 image4649 28 March 2024 1039
+36.191 image4650 28 March 2024 1040
+
+ 
+
+13
+
+
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.192 image4651 28 March 2024 1041
+36.193 image4653 28 March 2024 1042
+36.194 image4658 28 March 2024 1043
+36.195 image4659 28 March 2024 1044
+36.196 image4660 28 March 2024 1045
+36.197 image4661 28 March 2024 1046
+36.198 image4662 28 March 2024 1047
+36.199 image4663 28 March 2024 1048
+36.200 image4666 28 March 2024 1049
+36.201 image4668 28 March 2024 1050
+36.202 image4670 28 March 2024 1051
+36.203 image4672 28 March 2024 1052
+36.204 image4675 28 March 2024 1053
+36.205 image4676 28 March 2024 1054
+36.206 image4677 28 March 2024 1055
+36.207 image468 1 28 March 2024 1056
+36.208 image4688 28 March 2024 1057
+36.209 image4692 28 March 2024 1058
+36.210 image4694 28 March 2024 1059
+36.211 image4699 28 March 2024 1060
+36.212 image4701 28 March 2024 1061
+36.213 image4707 28 March 2024 1062
+
+ 
+
+14
+
+
+--- New Page 15 ---
+Page number: 15
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.214 image4708 28 March 2024 1063
+36.215 image4711 28 March 2024 1064
+36.216 image4713 28 March 2024 1065
+36.217 image4714 28 March 2024 1066
+36.218 image4715 28 March 2024 1067
+36.219 image4716 28 March 2024 1068
+36.220 image4718 28 March 2024 1069
+36.221 image4719 28 March 2024 1070
+36.222 image4720 28 March 2024 1071
+36.223 image4721 28 March 2024 1072
+36.224 image4722 28 March 2024 1073
+36.225 image4723 28 March 2024 1074
+36.226 image4724 28 March 2024 1075
+36.227 image4725 28 March 2024 1076
+36.228 image4726 28 March 2024 1077
+36.229 image4727 28 March 2024 1078
+36.230 image4728 28 March 2024 1079
+36.231 image4729 28 March 2024 1080
+36.232 image4730 28 March 2024 1081
+36.233 image473 1 28 March 2024 1082
+36.234 image4732 28 March 2024 1083
+36.235 image4739 28 March 2024 1084
+
+ 
+
+15
+
+
+--- New Page 16 ---
+Page number: 16
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.236 image4740 28 March 2024 1085
+36.237 image4746 28 March 2024 1086
+36.238 image4748 28 March 2024 1087
+36.239 image4749 28 March 2024 1088
+36.240 image4750 28 March 2024 1089
+36.241 image4751 28 March 2024 1090
+36.242 image4752 28 March 2024 1091
+36.243 image4753 28 March 2024 1092
+36.244 image4755 28 March 2024 1093
+36.245 image4756 28 March 2024 1094
+36.246 image4757 28 March 2024 1095
+36.247 image4758 28 March 2024 1096
+36.248 image4766 28 March 2024 1097
+36.249 image4767 28 March 2024 1098
+36.250 image4769 28 March 2024 1099
+36.251 image4770 28 March 2024 1100
+36.252 image4772 28 March 2024 1101
+36.253 image4773 28 March 2024 1102
+36.254 image4774 28 March 2024 1103
+36.255 image4775 28 March 2024 1104
+36.256 image4776 28 March 2024 1105
+36.257 image4777 28 March 2024 1106
+
+ 
+
+16
+
+
+--- New Page 17 ---
+Page number: 17
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.258 image4778 28 March 2024 1107
+36.259 image4781 28 March 2024 1108
+36.260 image4782 28 March 2024 1109
+36.261 image4784 28 March 2024 1110
+36.262 image4785 28 March 2024 1111
+36.263 image4786 28 March 2024 1112
+36.264 image4788 28 March 2024 1113
+36.265 image4789 28 March 2024 1114
+36.266 image4790 28 March 2024 1115
+36.267 image4818 28 March 2024 1116
+36.268 image4819 28 March 2024 1117
+36.269 image4823 28 March 2024 1118
+36.270 image4825 28 March 2024 1119
+36.271 image4831 28 March 2024 1120
+36.272 image4859 28 March 2024 1121
+36.273 image4867 28 March 2024 1122
+36.274 image4887 28 March 2024 1123
+36.275 image4891 28 March 2024 1124
+36.276 image4892 28 March 2024 1125
+36.277 image4895 28 March 2024 1126
+36.278 image4896 28 March 2024 1127
+36.279 image4899 28 March 2024 1128
+
+ 
+
+17
+
+
+--- New Page 18 ---
+Page number: 18
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.280 image4900 28 March 2024 1129
+36.281 image4901 28 March 2024 1130
+36.282 image4903 28 March 2024 1131
+36.283 image4904 28 March 2024 1132
+36.284 image4905 28 March 2024 1133
+36.285 image4906 28 March 2024 1134
+36.286 image4907 28 March 2024 1135
+36.287 image4908 28 March 2024 1136
+36.288 image4920 28 March 2024 1137
+36.289 image4921 28 March 2024 1138
+36.290 image4923 28 March 2024 1139
+36.291 image4928 28 March 2024 1140
+36.292 image4930 28 March 2024 1141
+36.293 image4932 28 March 2024 1142
+36.294 image4933 28 March 2024 1143
+36.295 image4935 28 March 2024 1144
+36.296 image4936 28 March 2024 1145
+36.297 image4938 28 March 2024 1146
+36.298 image4939 28 March 2024 1147
+36.299 image4940 28 March 2024 1148
+36.300 image4941 28 March 2024 1149
+36.301 image4942 28 March 2024 1150
+
+ 
+
+18
+
+
+--- New Page 19 ---
+Page number: 19
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36.302 image4943 28 March 2024 1151
+36.303 image4944 28 March 2024 1152
+36.304 image4950 28 March 2024 1153
+36.305 image4951 28 March 2024 1154
+36.306 image4965 28 March 2024 1155
+36.307 image4972 28 March 2024 1156
+36.308 image4976 28 March 2024 1157
+36.309 image5079 28 March 2024 1158
+36.310 image508 1 28 March 2024 1159
+36.311 image5082 28 March 2024 1160
+36.312 image5086 28 March 2024 1161
+36.313 image5087 28 March 2024 1162
+36.314 image5448 28 March 2024 1163
+36.315 image805 28 March 2024 1164
+36.316 imagel121 28 March 2024 1165
+36.317 imagel 125 28 March 2024 1166
+36.318 image1127 28 March 2024 1167
+36.319 imagel 128 28 March 2024 1168
+36.320 image1129 28 March 2024 1169
+Additional Documents
+
+37 Index Prepared by Claimant Undated 1170 - 1172
+38 AXA Letter to Claimant 15 September 2023 1173
+
+ 
+
+19
+
+
+--- New Page 20 ---
+Page number: 20
+Title of ebook of origin: 1.content.pdf
+
+ 
+
+Gitlogs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+39 ansible-collection-letsencrypt Undated 1174
+40 ac-iac-platform-onprem-eventstore Undated 1175
+41 repos2 Undated 1176
+42 repos Undated 1177
+43 ansible-haproxy Undated 1178 - 1194
+44 process repos.ps1 Undated 1195
+45 ac-iac-platform-on-prem-ops Undated 1196 - 1199
+46 ac-lac-platform Undated 1200 - 1213
+
+ 
+
+20
+

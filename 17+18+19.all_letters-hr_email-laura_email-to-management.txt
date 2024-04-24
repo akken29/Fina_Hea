@@ -1,0 +1,487 @@
+
+
+--- Start of 17.letter_from_hr_on_14th_of_june_2023.txt ---
+
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 17.letter_from_hr_on_14th_of_june_2023.pdf
+
+rnold Ciark 0
+Giasyow | G52-4FH
+
+QS Teter saa rss0
+
+@  Fecow eo 260s
+
+PRIVATE AND CONFIDENTIAL
+Mory-Marcel Sangare
+E-moiled
+
+14" June 2023 REF: 75078
+
+Dear Mory-Marcel,
+
+! would like to invite you to a meeting to discuss your continued employment with Arnold Clark. | feel
+that it is necessary to discuss concerns with your overall capability within your role as DevOps Engineer
+specifically, in retation to your failure to perform tasks in a timely manner, to utilise our systems
+efficiently and to perform the tasks expected in your role to the standards expected
+
+The meeting will take place on Tuesday 20™ June 2023 at 2.00pm at Hillington Head Office
+
+Present at the meeting will be myself, Laura Cooper (People Advisor) and David Middleton {Head of
+Digital Talent Development) will be present for management representation.
+
+{ must make you aware that should you fail to attend this meeting,
+
+it will proceed, and a decision will
+be taken in your absence.
+
+Legally, | have to make you aware that a possible outcome is the termination of your employment
+
+therefore may | remind you that you are entitled to be accompanied by a work colleague or any
+
+accredited trade union representative of your choice. Please contact me if
+
+you require any assistance
+in making arrangements.
+
+Yours sincerely
+
+[eet Ot _
+
+Laura Cooper
+
+  
+
+People Advisor
+RHUL Unica ookEss, RUN, COON,
+CB) ~~ a oe)
+u t oO
+Amoi Cark Avtorr bles tim ted | Repstered Stfice 454 HW Inmton Road Gias jow G
+
+52 4FH | Reg stered in Sectiand No 16386
+Acthonsnd and regu ated ty the F.nanc al Conduct Author ty
+
+142
+
+--- End of 17.letter_from_hr_on_14th_of_june_2023.txt ---
+
+
+--- Start of 18.email_to_laura_to_check_letter_is_genuine.txt ---
+
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 18.email_to_laura_to_check_letter_is_genuine.pdf
+
+a P
+
+Laura Cooper
+
+From: Marcel Sangere
+
+Sent 14 June 2023 1738
+
+To: Laura Cooper
+
+Subject: Emad received from you - confirmation requested
+Attachments: invite Letter _protected_pdf em!
+
+HI Laura
+
+| got the email below from you on my personal email this afternoon.
+
+To be frank, the title of it and style look pretty unusual so | wanted to confirm that this was indeed sent by you.
+
+Please do Jet me know.
+Regards
+
+Marcel
+
+~—— Forwarded Message —-——
+
+From: Laura Cooper <Laura.Cooper@amoiddark.com>
+Date: On Wednesday, June 14th, 2023 at 5:17 PM
+
+Subject: Invite letter
+To: 'MARCEL.SANGARE@PROTONMAIL.COM' <MARCEL SANGARE@PROTONMAIL COM>
+
+Hello
+
+Please see invite letter attached — password is your employee ID
+Any issues with accessing please let me know
+
+Kind regards
+
+Laura
+
+Laura Cooper
+People Advisor
+Arnold Clark Automobiles Ltd
+
+Tel: 0141 648 1390
+
+143
+
+--- End of 18.email_to_laura_to_check_letter_is_genuine.txt ---
+
+
+--- Start of 19.email_from_me_to_management_and_hr.txt ---
+
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 19.email_from_me_to_management_and_hr.pdf
+
+ 
+
+SS a a ee ae a — om — eee
+
+Laura Cooper
+
+From Marcel Sangare
+
+Sent: 79 June 2023 14358
+
+To: Laura Cooper, David Middleton
+
+Cc David Moffat, Gaire Thomson ~
+
+Subject important Communication Prior to the meeting tomorrow with HR
+Attachments: AWS Solution Certification pdf, old_passwords_transfer_pdf: vsftp.yamk pushing
+
+saipt for sitp users setup with passwords by mmshill - Pull Request #1 -
+amolddiark_vsitp_bulk_users_creabon pdf; users_with_ssh_keys,
+users_hashed_passwords
+
+Good Afternoon.
+
+| would like to firstly introduce myself. My name is Mory-Marcel Sangare, and | work as a DevOps engineer. My
+direct manager is Claire Thomson and the head of our department is Mr David Moffat.
+
+| would like to also tell you who are the persons in copy of this email and they are:
+
+Mr. David Moffat, who is the head of my department
+
+Mrs. Claire Thomson, who is my direct manager
+
+Mrs. Laura Cooper from the Human Resources department
+Mr. David Middleton from the Human Resources department.
+
+With your permissions, | would like to express myself in writing regarding the letter | received from Mrs Laura
+Cooper by email on Wednesday, June 14th at 5:17 PM, which | only became aware of in the afternoon of
+Thursday, June 15th, 2023.
+
+This fetter i must say came as a shock to me because nothing was preparing me for this. It is to summarize
+informing me that i am failing at my current role and is emphasizing the fact that my contract might get
+terminated tomorrow.So you will understand therefore my surprise and the reason of the following paragraphs.
+
+The letter is emphasizing the fact that my understanding of our systems and of my job is not right and that we
+will tomorrow be discussing the continuation of my employment at Amold Clark.
+
+Please allow me to say that absolutely nothing was preparing me for this because at no time since i started was
+i briefed by my direct manager of problems with the quality of the work i have been producing to date.
+
+Since i joined, i worked mostly on 2 tasks:
+
+- rebuilding an sftp server used by extemal partners of Amold Clark.The ftp server in question is used to
+exchange important information back and forth and was meant for rebuilding because it was running an
+operating system that is now ageing and also in light of our move towards the ubuntu operating system for all
+our servers
+
+- writing the terraform configuration for all the assets our company Amold Clark has on the AWS Cloud and the
+initial task was to write these configurations for all our Virtual Private Cloud (VPC) in all regions worldwide.
+
+Now i am forced to give you some more details below so that you can understand the later part of this email and
+my message will be broken in parts:
+
+1/ My first task: rebuilding an sftp server used by internal and extemal partners of Arnodl Clark
+
+2/ Writing the terraform configuration for all the assets of Arnold Clark on AWS Cloud.
+3/ The interaction to date with my drect manager
+
+145
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 19.email_from_me_to_management_and_hr.pdf
+
+SS Se rx 7 ee nn ee
+
+4f My first task: rebuilding an sftp server used by internal and external parners of Amold Clark
+
+So regarding the first task, the aim was to rebuild the server with the ubuntu operating system and thereafter
+cteate the accoumts for the extemal and intemal users.Among these users, some were using passwords to
+authenticate and some others would resort to ssh keys for authentication. So in fight of that i wrote 2 scripts
+perfectly functional in January 2023 that can be found below for these of you with access to the company
+github.For those without, i attached to the present email a pdf print of the program source code (related attached
+file: pushing script for sftp users setup with passwords) so that it could be reviewed if necessary by any other
+party:
+
+ 
+       
+
+SOCOM ee Oe
+
+The request for this to be merged into our main repository for use was done on the 22 of February 2023.
+
+So as i was made aware that generating ssh keys was proving difficult for some users (they did not want to do it
+or did not know how to do it) and in light of the fact that the company had just suffered a serious cyberattack, i
+went this route first of all to make life easier for our extemal users in the sense that they would not need to worry
+about the password anymore.It would get generated securely for them using the exact same method used by
+Amazon on its public cloud AWS.So each user would get two keys that are necessary for authentication.One is
+never communicated but stored securely on the server and it is then used to validate cryptographically the one
+our user would use on their end.Also the system was able to create automatically securely and automatically
+any number of users be it 10 (ten) or 10,000 (ten Thousands).
+
+The plan was to deploy that bash script using our intema! Ansible.Now this is where the first issues started.Mr
+Jason White in my team gave me a call with my Manager Claire thomson in which he asserted and wrongly so
+that deploying a bash script with ansible on a linux server "was not real ansible” (i am quoting him here) and that
+the best approach was to use yam! files that have the advantage of getting converted into python by ansible
+before deployment onto the linux server.However, the reality is that no matter what one is using (bash script,
+yam! file...), Ansible will first of ali convert the instructions in Python before sending them to the server and this
+can be verified from the official documentation.Also during the meeting, as is custom with him, he was extremely
+violent and rude to the point where Claire who is in charge could not place a single word.
+
+He even added on that call that "the method used by this program is identical to what Amazon is doing ;
+however as Amazon does not know what they are doing, that woulkd render my efforts useless".| will leave to
+each of you the care of judging the extent of that statement and draw whatever logical conclusions can be
+drawn from that.
+
+| came out very shaken and upset from this call and had another one right afterwards with my Manager Claire ,
+call during which j insisted on the the falsehood of the allegations of my colleague but also of the fact that if,
+based on his personal preferences, we cannot make use of a bash script, why then do Amold Clark devops
+employees use the bash language on a daily basis in the administration of the linux servers estate ?
+
+But as Claire insisted we go the route of the ansible yaml file, i did it and then went on to write an ansible
+deployment file that i will also attach to the present email (vsftp.yaml) for those of you keen on having a
+{ook.That script also was fully functional and i was requested by my Manager Claire to review it together with Mr
+Jason White.And as is customary with him, he not only removed everything i did put into that file and told me
+that instead of rebuilding the server from scratch with that script, he would rather want me to rebuilt it and this is
+where it is interesting by copying the passwords from the old server to the new one.
+
+In light of the cyberattack our company suffered in December and in the name of the basic principles of digital
+security hygiene, it is not right to copy the passwords from an old server when rebuilding a server in a company
+setting and even more so right after a horrible cyberattack. Instead, a dutiful devops engineer should use a
+secure method to reset all of the passwords on the new server and this is what i had in mind as a matter of
+dutiful care towards the interest of my employer.
+
+Another question beyond the fact that i hold an MBA in Cybersecurity and many other qualifications in Devops is
+to know if that nonetheless qualify me for such an approach that had the highest interest fo the company in mind
+
+2
+
+ao
+
+146
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 19.email_from_me_to_management_and_hr.pdf
+
+—— i waka RE a Py
+
+? I would say yes because beyond the content of my cy, i also graduated in 2020 from Harvard University in
+‘Cybersecurity with the highest score ever ebtained which is ane of 100% . | was in the Class of Mrs Debora
+Plunkett who was a former director of fhe NSAAs part fo her class, i was involved into the remediation of the
+attack suffered by the Los Angeles Airport and was praised many times for my unusual yet deep knowledge of
+cyber threat mifigation and this is what that script . violenfly rejected by Mr White was about Rest ensured that i
+do not like making gratuitous allegations and will bring tamorrow with me the evidence regarding my Harvard
+quaiificaticn in the area.
+
+But the story does not end there ; despite the violence with which i was treated and in spite of the fact that
+copying over old passwords to new Servers in an environment which had suffered a recent attack was clearly
+
+wrong and not in the best interest of the company in my modest opinion, i nonetheless accepted the ventict and
+went ahead to implement the solution of Mr White.
+
+So i went ahead and implemented the solution Mm question and the whole thing was put in our github repository
+and available at the following URL:
+
+ 
+
+The password transfer from our servers to the repository above was done in an automated fashion with two
+scripts (files users_hashed_passwords and users_with_ssh_keys also attached to the present email) present
+
+since the 29th of March 2023 on both sftp intemal (10.31 2.120) and sftp extemal (10.150.153.17) and which i
+also attach to this email for review.
+
+So from the repository above i took a screenshot (also attached to this email as file old |_passwords_itransfer)
+where you can see 4 lines that are in red .These lines are the ones that were put into the file by Mr Jason White
+and i left them there, on purpose, so that during the review he could have his code proposal right next to mine
+for comparison purpose .These fines are the only reason why a tiny portion one of the test did fail but otherwise
+this script is also perfectly functional and written in a fashion more than acceptable in the ansible worid.When i
+got back to him afterwards for review, he told me that we would do it later as there was no rush back then. So i
+left it in state until my Manager Claire, moved the task to someone else.However that repository is again a proof
+that the job, no matter how disturbed i was by it in terms of the company interest, was done successfully.
+
+| will now move on to the second part of my email which is to deal with the task of “terraforming” our AWS cloud
+assets.
+
+2/ Writing the terraform configuration for all the assets of Arnold Clark on AWS Cloud.
+
+My first task here was to put into terraform the configuration of the VPC (Virtual Private Cloud) our company has
+on AWS Cloud.
+
+So my first approach was to write these configurations from scratch (so not making use of the "terraform import"
+command) and | first of al! wrote these configuration with the latest version of terraform : So my plan was to use
+
+the awscli to query the attributes of the vpc from AWs and then use these attributes to write their terraform
+configurations.| took that route because:
+
+-It gives you a better understanding of how the VPC works. When you write the configuration from scratch,
+you have to understand the different components of a VPC and how they interact with each other. This
+understanding will help you troubleshoot problems and make changes to the VPC as needed.
+
+-It allows you to customize the VPC to your specific needs. When you use a pre-made module, you are
+limited to the features that are included in the module. If you need to customize the VPC, you will need to modify
+the module, which can be difficult and time-consuming.
+
+-It makes it easier to manage the VPC. When you have a custom Terraform configuration, you can use
+Terraform to manage the entire VPC, including creating, updating, and destroying resources. This makes it
+easier to keep track of changes to the VPC and to ensure that the VPC is always in a consistent state.
+
+147
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 19.email_from_me_to_management_and_hr.pdf
+
+a a scenery ee
+
+Of course, there are also some disadvantages to writing the Terraform configuration from scratch and Claire
+i ly pointed them out to me hence the fact i started using the “teraform import” commands for the task.
+
+Now as an AWS Solutions Architect (i also attach to this email a copy of my certificate number
+SNXAZSJSHMQXZ finally validated on the 6th of May 2023) and thanks to the numerous training i took in my
+previous job from a company called Acioudgumy, i wrote the configuration for the 22 VPC by organizing each
+Configuration in a separate folder/project. And the proof cf it is available from the following link
+
+ 
+
+So as you can see, we have 22 folders for 22 vpc and the terraform code for every single of these vpcs is 100%
+functional.On top of this there is an accounting script able to tell us how many vpc we have in each region.
+
+AWS recommends this approach for the following reasons:
+
+-Organization: !t will help to keep your code organized and easy to manage. You can create a folder for each
+VPC and then put all of the Terraform configuration for that VPC in the folder. This will make it easy to find the
+configuration for a specific VPC and to understand how the VPC is configured.
+
+-Tracability: It will make it easier to track changes to each VPC. lf you make a change to the configuration for
+a VPC, you can easily see the change in the code. This will help you to troubleshoot problems and to
+understand how the changes affect the VPC.
+
+-Deployment: It will make it easier to deploy changes to individual VPCs. If you need to deploy a change toa
+specific VPC, you can simply deploy the changes to the folder for that VPC. This will prevent you from
+accidentally deploying changes to other VPCs.
+
+If anyone wants to verify, they will need to clone the repository above, get into any vpc which name starts with
+
+“vpc” and then run in it the commands “terraform init", then the content of the import commands file and finally
+the command “terraform plan".All of them do work.
+
+But when i completed that task, my manager advised that i rather follow the same pattern as the one on our
+Azure Cloud repository. recall having said that these 2 clouds are overall differents and that rewriting the code
+destined for separate project into one single file was no simple task because of the sheer number of
+adjustments to make it work and this is where i spent some time since merging all the configuration under a
+single project and get it to work perfectly was not an easy task ; becasue we are talkking about getting 22
+separate files with more than a thousand lines of code to get merged into a single project.So last week, on
+thursday during a meeting with Claire, i did present a little breakthrough in terms of merging all the
+configurations into a single file.| made a demonstration for the proof of concept during 2 session with my
+manager who then did seem satisfied with the fact we are now approaching the end of that road.She even
+Suggested to me what the next step would be once i would be done.
+
+3/ The interaction to date with my direct manager
+
+So taken into account the fact i never got direct complaints or warning from my manager and taken into account
+the discussion last week on the same day i received the letter, you Can now imagine and understand the extent
+
+of my surprise and shock and i must say that i have been totally under since thursday as this is creating some
+very mixed feelings as you can imagine.
+
+The only thing | can remember that might have triggered this was at the end of the discussion last week when
+she asked me if i had asked the help of Mr White for the then ongoing merging process.| responded that i hadn't
+for 3 reasons: first i generally talk to Miss Zoe whenever necessary as she is very capable in that area; secondly
+it is my belief that i was on the right track which she confirmed last week by herself. And Thirdly, i must say that i
+am notin general too fond of getting anywhere near Mr White as he is most likely the most verbally abusive,
+
+brutal, loud and disrecpectful person i ever came across and i once complained about him and his absolutely
+terrible manners to my direct manager.
+
+148
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 19.email_from_me_to_management_and_hr.pdf
+
+SE TT gS
+
+Between his never ending rather vulgar insults, during teams mesfings , about the other teams who are are
+always systematically qualified after the use of, you will excuse me, the "F" word, his total lack of respect for
+everyone including our manager wham he would systematically interrupt during team meetings to my disbelief to
+this day, the fact that ke once allowed himself to shush her in front of everyone , his systematic attempts to
+belittle me in particular and Some of his comments about my direct manager during one of our meesngs, i
+
+So from the meeting of last week, this is the only thing i could remember that could have triggered this and i
+
+hope i am totally wrong but before that i did not get any warming about what appears to be my lack of
+qualifications and abilities.
+
+So i provided you above with verifiable evidence that i am not fost in terms of the use of the systems of our
+company and contrary to the perception, i have managed to accomplish the task required of me unt now. The
+onty recent difficulty as i mentioned being that it took a lot of efforts to try merging into a single file some
+complex and long configurations that were initially designed to be modular in terns with what Amazon is
+preaching about its service and you have my AWS certificate and the github repository to attest to this.
+
+Also and i would like to emphasize that, i have never had any problems i can remember of with my manager Mrs
+Thomson whom i appreciate both as a manager and a person of very good character.
+
+But without any prior waming, mentioning the Possibility of ending my contract tomorrow came as a total shock
+
+from which ij have not recovered to be honest and i would like the evidence i provided above to be assessed
+with impartiality.
+
+Also finally, with my constant effort to be not onty mindful but respectful of the interest of the company, my
+attempt to apply the generally admitted rules for the task required of me, the fact that the goals set for me were
+not a failure and my real respect for my manager from whom i never received a waming for my work, i think it is
+extremely unfair for me to be in this situation now.Also we have, and i have detailed it above some characters in
+the team with an attitude that would guarantee in other settings, an immediate dismissal for gross misconduct;
+
+but these characters are instead left in peace when they terrorize everyone around them with open brutality and
+verbal abuse and this is not right to me.
+
+i have been in a state of distress since last thursday to be honest to the point where i had an accident without
+consequences this weekend and ended up speaking to my neigbour and friend who is a lwayer at a well
+established firm in Edinburgh Without of course sharing any of the links and materials in this email but by simply
+giving him some verbal explanations which he got because he also happen to have a technical background, he
+gave me some advice that are , to be honest , contrary to what i want in terms of relations with a company i
+sincerely like and care for.But i am really really disappointed and in total disbelief with what is taking place and i
+would really like fo humbly ask for real faimess during our meeting tomorrow because at the moment, all of this
+makes me feel really bad and this is clearly not right at all in my opinion.
+
+Despite all i am going through at the moment, rest ensured that i will be attending the meeting tomorrow and
+truly hope that an independant and fair assessment of the elements i provided will be done to avoid what is
+clearly not right in my modest opinion.My line managers (both Ciaire and David) know me to be a person of
+good character and i do intend to maintain that attitude during the meeting tomorrow.Also i really want to
+emphasize that my upbringing and values will guarantee you the preservation of my reputation of good
+character so please rest ensured that i am not coming tomorrow in a confrotational mood.! am just coming to
+you in the hope you would have assessed fairly the elements provided above.
+
+| believe in your faimess and hope the Human resources will help in the accomplishment of this tomorrow.
+
+Yours faithfully,
+
+Mory-Marcel Sangare
+
+149
+
+--- End of 19.email_from_me_to_management_and_hr.txt ---

@@ -1,0 +1,480 @@
+1
+00:00:00,000 --> 00:00:07,680
+ relax has clear allocated your tickets in Jira yet?
+
+2
+00:00:07,680 --> 00:00:12,160
+ okay okay okay all right
+
+3
+00:00:12,160 --> 00:00:15,360
+ has she given, has she assigned any tickets to you?
+
+4
+00:00:15,360 --> 00:00:22,240
+ not yet not yet for now what she told me is that tomorrow when she'll be back
+
+5
+00:00:22,240 --> 00:00:27,680
+ we will spend some time trying to you know review a bit the
+
+6
+00:00:27,680 --> 00:00:30,960
+ very review of the the environment and everything but
+
+7
+00:00:30,960 --> 00:00:34,880
+ still you know as you as you you've been there for quite some time I thought to
+
+8
+00:00:34,880 --> 00:00:37,760
+ myself maybe it is good to talk to you and and see
+
+9
+00:00:37,760 --> 00:00:41,360
+ how things are going every day you know what are the sort of
+
+10
+00:00:41,360 --> 00:00:44,800
+ tasks we're dealing with the the issue we have at the moment you know try to
+
+11
+00:00:44,800 --> 00:00:48,800
+ understand a bit what is what is happening
+
+12
+00:00:48,800 --> 00:00:52,800
+ okay I mean
+
+13
+00:00:53,760 --> 00:00:56,560
+ I'll try for update
+
+14
+00:00:56,560 --> 00:01:04,880
+ I'll just share my screen okay thank you so I mean honestly for the most part
+
+15
+00:01:04,880 --> 00:01:09,680
+ like compared to other places I've worked this is like one of the most relaxed
+
+16
+00:01:09,680 --> 00:01:12,880
+ place one of the most relaxed places so much so
+
+17
+00:01:12,880 --> 00:01:16,880
+ that I was at rents when I started thinking you know
+
+18
+00:01:16,880 --> 00:01:21,040
+ there was stuff that I wasn't doing that was meant to be doing yeah yeah yeah
+
+19
+00:01:21,040 --> 00:01:26,000
+ well to be to be frank I've had the same feeling since last week to be
+
+20
+00:01:26,000 --> 00:01:28,800
+ frank to be honest with you
+
+21
+00:01:28,800 --> 00:01:35,200
+ honestly don't worry like we don't we don't work to
+
+22
+00:01:35,200 --> 00:01:40,640
+ like timetables okay even even our sprints
+
+23
+00:01:40,640 --> 00:01:46,640
+ aren't set in stone okay so our sprints are just like this is what we're going to be working on
+
+24
+00:01:46,640 --> 00:01:53,840
+ um while we're doing it so I've basically just finished the stock db migration
+
+25
+00:01:53,840 --> 00:02:00,560
+ okay which was literally just moving a my secret Maria db
+
+26
+00:02:00,560 --> 00:02:05,680
+ database from a windows box on one of our Galera clusters
+
+27
+00:02:05,680 --> 00:02:11,840
+ all right so so basically doing the tcp dump and going to to to restore that on
+
+28
+00:02:11,840 --> 00:02:15,840
+ briefly speaking yeah I mean there is a lot of other stuff to do so there's
+
+29
+00:02:15,840 --> 00:02:20,320
+ there's a windows server called ad center and the reason we just had to be
+
+30
+00:02:20,320 --> 00:02:24,720
+ careful with it is because these are old old windows 2003 boxes
+
+31
+00:02:24,720 --> 00:02:30,160
+ oh yeah so these are proper legacy and nobody touches them now
+
+32
+00:02:30,160 --> 00:02:36,000
+ all right all right so the database itself was easy enough to migrate
+
+33
+00:02:36,000 --> 00:02:43,360
+ um because that is just basically well I tested the applications first against
+
+34
+00:02:43,360 --> 00:02:49,600
+ it to make sure that they behaved you know normally okay um and then it was a case
+
+35
+00:02:49,600 --> 00:02:52,960
+ of early in the morning um
+
+36
+00:02:52,960 --> 00:02:57,600
+ switching me i know dv tables in the read only and then dumping it and then
+
+37
+00:02:57,600 --> 00:03:01,440
+ moving it and then changing dns so that was fairly simple
+
+38
+00:03:01,440 --> 00:03:05,840
+ but you just need to get the biggest bit was getting the devs to sign off on it and
+
+39
+00:03:05,840 --> 00:03:10,160
+ say yeah we're happy I haven't thought that because the devs themselves they don't
+
+40
+00:03:10,160 --> 00:03:16,480
+ um they don't really touch it so ad center gets an update like once every six
+
+41
+00:03:16,480 --> 00:03:21,600
+ months or so okay so again ad center is another thing
+
+42
+00:03:21,600 --> 00:03:27,600
+ running on windows 2003 but it's just a java app so i'm currently looking at
+
+43
+00:03:27,600 --> 00:03:34,720
+ getting that working on stage web um 01 and testing that out and then once i've
+
+44
+00:03:34,720 --> 00:03:38,320
+ got it running i'll get it put into ansible so that we can
+
+45
+00:03:38,320 --> 00:03:45,280
+ um deploy everywhere okay um i mean for and that's basically the only ticket i
+
+46
+00:03:45,280 --> 00:03:53,040
+ have you can see um so i've basically got three things to do over the next
+
+47
+00:03:53,040 --> 00:03:59,280
+ couple weeks um not including anything we've also got uh
+
+48
+00:03:59,280 --> 00:04:01,680
+ there's a
+
+49
+00:04:02,960 --> 00:04:08,720
+ so yeah so we've got a support chat as well yeah
+
+50
+00:04:08,720 --> 00:04:15,040
+ so yeah i don't know if you've got all the links to it so we've got a separate um
+
+51
+00:04:15,040 --> 00:04:20,960
+ pan ban board i guess a separate g-ra group for support requests so somebody
+
+52
+00:04:20,960 --> 00:04:26,160
+ comes in saying something's broken or um we need this changed
+
+53
+00:04:26,160 --> 00:04:30,240
+ and quickly so stuff that isn't like project work it's more us reacting to
+
+54
+00:04:30,240 --> 00:04:33,520
+ something then you've got that as you can see we've got nothing in there at the
+
+55
+00:04:33,520 --> 00:04:37,600
+ moment we don't make it one or two a week
+
+56
+00:04:37,600 --> 00:04:41,760
+ um and one of us will pick it up or the other will pick it up and just give it
+
+57
+00:04:41,760 --> 00:04:44,080
+ to one of us to say you know that we give it a
+
+58
+00:04:44,080 --> 00:04:47,200
+ split and then get it done
+
+59
+00:04:47,200 --> 00:04:51,200
+ anyway okay i mean yeah your first so your first few days
+
+60
+00:04:51,200 --> 00:04:55,360
+ you're gonna be tribbling your thumbs quite a bit
+
+61
+00:04:55,360 --> 00:04:59,840
+ um can't think of anything fun to do there's a bunch of videos you probably
+
+62
+00:04:59,840 --> 00:05:03,520
+ have to watch uh like ace learning
+
+63
+00:05:03,520 --> 00:05:11,040
+ it's like uh if you go into ace and then ace learning
+
+64
+00:05:11,040 --> 00:05:15,600
+ and then click on another link because yeah i i did that this morning i think i
+
+65
+00:05:15,600 --> 00:05:20,160
+ saw that this morning yeah for uh yeah yeah yeah i saw that this morning yeah
+
+66
+00:05:20,160 --> 00:05:24,080
+ yeah so i've probably i've got lens i don't know for true but
+
+67
+00:05:24,080 --> 00:05:28,480
+ i mean again nobody really yeah that's a bad thing to stop
+
+68
+00:05:28,480 --> 00:05:32,400
+ but it's something you know for you to do
+
+69
+00:05:32,400 --> 00:05:39,520
+ all right okay okay i saw that this morning so i'll
+
+70
+00:05:39,520 --> 00:05:45,760
+ keep that in mind too too too okay all right okay and and and and and one quick
+
+71
+00:05:45,760 --> 00:05:53,040
+ question uh sorry so in terms of the uh so beyond the the project uh the
+
+72
+00:05:53,040 --> 00:05:57,600
+ project work uh i mean first of all the the the the
+
+73
+00:05:57,600 --> 00:06:01,040
+ database migration you you told me about just just now
+
+74
+00:06:01,040 --> 00:06:07,440
+ um is there a place where um the the related application is
+
+75
+00:06:07,440 --> 00:06:14,800
+ documented or something um no i don't think so
+
+76
+00:06:14,800 --> 00:06:19,440
+ i think for like the ad center um stuff
+
+77
+00:06:19,440 --> 00:06:23,440
+ was that
+
+78
+00:06:23,440 --> 00:06:33,440
+ where builder i think there might be a little read me's um
+
+79
+00:06:33,440 --> 00:06:43,840
+ yes they might have a little read me so on um on my individual repos all right
+
+80
+00:06:43,840 --> 00:06:46,560
+ okay but there's nothing i mean we don't deal with the
+
+81
+00:06:46,560 --> 00:06:51,600
+ applications so like ad center it's controlled by the web team
+
+82
+00:06:51,600 --> 00:06:56,000
+ all right they manage it so we need to just look after the infrastructure for
+
+83
+00:06:56,000 --> 00:07:02,400
+ it so we don't really have to worry um too much about the workings of it as long
+
+84
+00:07:02,400 --> 00:07:07,760
+ as it is working all right okay okay so so in this case then for you it
+
+85
+00:07:07,760 --> 00:07:11,360
+ was literally literally a case of getting a dump of the
+
+86
+00:07:11,360 --> 00:07:15,840
+ database and moving and moving it across all right
+
+87
+00:07:15,840 --> 00:07:21,360
+ and and when you moved it to to to uh to to Cosmo DB you you you mentioned so on
+
+88
+00:07:21,360 --> 00:07:24,720
+ Cosmo DB um did you have
+
+89
+00:07:24,720 --> 00:07:30,080
+ a gallery okay yeah so we've got these um prod corp um
+
+90
+00:07:30,080 --> 00:07:37,280
+ cdb host switch no the prod corp's gdpr stuff we have prod int db
+
+91
+00:07:37,280 --> 00:07:41,680
+ those are like our internal database clusters yeah i think
+
+92
+00:07:41,680 --> 00:07:46,560
+ um stock dbs now like the only real thing running on these
+
+93
+00:07:46,560 --> 00:07:50,000
+ all right um so yeah with which they it's coming from
+
+94
+00:07:50,000 --> 00:07:54,160
+ Maria 5.1 i think something really old
+
+95
+00:07:54,160 --> 00:08:00,080
+ or 10.1 whoever's on windows 7203 and it's now on 106 so it's on a more
+
+96
+00:08:00,080 --> 00:08:06,640
+ recent version um the application itself doesn't care
+
+97
+00:08:06,640 --> 00:08:13,680
+ because it's very simple um but now yeah i'm working on getting
+
+98
+00:08:13,680 --> 00:08:20,080
+ ad center working in Linux and um just getting everything set up trying to
+
+99
+00:08:20,080 --> 00:08:23,840
+ get it working behind engine x as well because before it was
+
+100
+00:08:23,840 --> 00:08:29,200
+ IIF i guess all right okay okay okay yeah i mean if we
+
+101
+00:08:29,200 --> 00:08:33,120
+ look at everyone else like they've got um
+
+102
+00:08:33,120 --> 00:08:37,760
+ i mean zoe mainly does um like is your stuff
+
+103
+00:08:37,760 --> 00:08:43,760
+ okay zoe is very much um cloud based so she rarely touches anything that's on
+
+104
+00:08:43,760 --> 00:08:49,120
+ premise all right okay um jason and i are more
+
+105
+00:08:49,120 --> 00:08:54,240
+ working on you know the on on board the state stuff
+
+106
+00:08:54,240 --> 00:08:58,640
+ um with you know dabbling of the cloud as well
+
+107
+00:08:58,640 --> 00:09:02,160
+ okay the aim of the game is to win the game and we'll do everything
+
+108
+00:09:02,160 --> 00:09:06,000
+ it's just easier to play to everyone's strengths at the moment
+
+109
+00:09:06,000 --> 00:09:13,760
+ so okay and and and and i have the the the the uh
+
+110
+00:09:13,760 --> 00:09:19,120
+ you might laugh at the question because uh you know i think i would have to
+
+111
+00:09:19,120 --> 00:09:24,640
+ most likely ask this question to Claire but but taken into account the
+
+112
+00:09:24,640 --> 00:09:31,280
+ the uh i don't know the the the project the you know the team has
+
+113
+00:09:31,280 --> 00:09:36,320
+ and and and you know the things to come basically the the project we we need to
+
+114
+00:09:36,320 --> 00:09:42,560
+ to work on soon and and and is there any particular area you
+
+115
+00:09:42,560 --> 00:09:47,360
+ think uh i should maybe um focus on maybe because
+
+116
+00:09:47,360 --> 00:09:52,720
+ we need more work done there i mean you know i know maybe this is most likely
+
+117
+00:09:52,720 --> 00:09:56,160
+ Claire for Claire to answer this question but yeah i just wanted to have
+
+118
+00:09:56,160 --> 00:10:04,960
+ any um dealings with event store and no no no no this is a just no no no no
+
+119
+00:10:04,960 --> 00:10:12,400
+ no yeah so mel who left um but i guess you're replacing um she saw looked after
+
+120
+00:10:12,400 --> 00:10:16,400
+ only events for stuff i've i've read up a bit on it and it is basically just a
+

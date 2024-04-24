@@ -1,0 +1,11147 @@
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+AWS VPCs
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+20Jun 12:39 e = © & OG @ai & B 100%
+
+Q Search
+
+a,
+
+Wo
+
+Claire Thomson Chat Files 3 more ~
+
+ap aw &
+
+Claire Thomson 12/06 16:41
+
+Was looking into the random VPC that were in places that we didn't know about, they are default ones
+(says yes under default in the UI ) they are managed differently with terraform
+https: //registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/default_vpc
+
+we can look through all this tmw
+2/06 16:42
+
+Claire Thomson 12/06/2023, 16:41
+
+we can look through all this tmw
+
+No problem at all.Many thanks in advance
+
+Claire Thomson 12/06 16:44
+
+I've popped half an hour in tmw morning, got a few things on my calendar, so can start there and catch
+up again later if we need
+
+13 June
+13/06 09:59
+
+Good morning Claire.Can i call you now ?
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19/06
+
+You: Good afternoon D am
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@é6éo0e0ee0ecoeo
+
+Zoe MacKay 12/05
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3 more ~
+
+ain aw &
+TT
+
+had no variables or outputs at this time, | dragged a dropped the file into the folder, | thought you
+
+realised that the variables and outputs would just be empty or even non existent. As long as we're on
+the right page now @
+
+That's why draft PRs are good and we can discuss what's happening g
+
+06/06 16:17
+
+yes indeed we are and this way is even easier @
+
+Claire Thomson 06/06 16:19
+
+If we created a module we'd have a single variable file and pass the values into that, but yes definitely
+not needed at the moment - purely just defined in the tf files for each VPC
+
+12/06 16:14
+
+HI Claire.i was wondering for what time tomorrow you would like to book some time to review what we
+spoke about today ?
+
+am just about to upload that version too on git and send you the link in advance
+
+many thanks in advance
+
+ye? ? D
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+"@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+
+Greg: fi GIF
+
+ES: Lisl
+
+David Moffat 19/06
+You: Good afternoon D am
+
+Catch Up 2.0 16/06
+Jason: Running over time in ano...
+
+=
+@
+@ PR Reviews
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+re here but
+
+Digital Team Update 12/05
+
+Rec
+
+p nt
+5 ready
+
+Zoe MacKay 12/05
+
+20Jun 12:39 « = & § @& Oa & GB 100
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat files 3morey + Oo &
+
+30/05 13:07
+
+B Sorry Claire...believe me when i say that i was thinking about this this morning. OK i just wrote a
+little script of 10 lines that will take care of that so that i cannot forget no matter what...i now
+completed the incorporation of the changes from master into the branch
+
+6 June
+06/06 16:13
+
+Hi Claire.
+
+I think i did misinterpret this comment from you the last time we had a chat about the terraform for
+the vpc:
+
+%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@QOOQ68 O00
+
+20 Jun 12:39
+
+Q Search
+
+a,
+
+Claire Thomson 23/05 15:11
+ain,
+
+ve Claire Thomson Chat Files
+
+Press Ctrl + F to search in this chat
+
+= © & OG @ai & B 100%
+
+no i havent changed yet
+
+vs I'm an admin, I'd have assumed it would have worked fine for me - but you never know
+
+haha you've deleted them - can you send them again i]
+
+Claire Thomson 23/05 15:19
+
+such a bad way to share 2
+
+Claira Thamenn 92/05 15:99
+
+cool just delete that again thanks ©
+
+23/05
+
+uw
+uw
+
+one second i send it here:
+
+23/05 15:20
+
+yes but we deleted it quickly enough...
+
+Workspaces Applications 20Jun 12:39 © = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+Claire Thomson Chat Files 3morey + a & s&s
+
+Pinned Press Ctrl + F to search in this chat
+
+Claire Thomson 23/05 14:55
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platf... so I've created a new key and that seems fine, configured the cli creds and still see the same error
+
+©
+aw
+
+Recent . _= 7
+eee did you sort yourself any extra permissions on anything in AWS?
+
+Laura Cooper
+*@ Hi Marcel - i have booked St Geo... 23/05 15:03
+
+0 ArchOps Chat 10:20 i used the following user: "Terraform user: AC1.SC.Arch-Ops-A-Tasks@aco.arnoldclark.com
+x Greg: Sf GIF "
+
+a
+
+David Moffat 19/06
+
+that was set up by Zoe and myself
+You: Good afternoon Da am py y
+
+Catch Up 2.0 16/06 for consistency with the similjar user on azure but also to enable certain commands so i dont think
+me in ano... from memmory that the user above was modified
+
+Jason: Running over
+
+PR Reviews 13
+: just jumped in in case an...
+
+Claire Thomson 23/05 15:10
+
+a ‘ 4
+=. OK, so that key is associated with that user? not you?
+
+AWS VPCs
+
+You: ah ok no problem
+
+I'll try that then see if there is a difference, unless you've changed it already?
+
+Claire Thomson 13/06
+
+You: Good morning Claire.Can i 23/05 15:10
+
+aac trh tear iuae craata enarificalhs far that tack af romning tarrafarm carmmande fram tha eli
+
+Planning 08/06
+re here butt
+
+,O@QOOQ68 O00
+
+Workspaces Applications 20Jun 12:39 © = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+a,
+
+Chat ~ = G& es
+
+Claire Thomson Chat Files 3morey + a & s&s
+
+Pinned Press Ctrl + F to search in this chat
+
+itis on +db31a1d1b, vpc-0232b16b, vpc-439e2c26
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+insiode each there is a folder called "config_broken_down"
+Recent
+Claire Thomson 23/05 14:33
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+| can't run a plan on that?
+
+Q ArchOps Chat 10:20
+a,
+
+David Moffat 19/06
+You: Good afternoon Da am
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+23/05 14:33
+AWS VPCs 13
+
+You: ah ok no problem
+
+yes i know why...i havent uploaded the import commands
+
+Claire Thomson 13/06 one second
+You: Good morning Claire.Can i
+
+Claire Thomson 23/05 14:34
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@QOOQ68 O00
+
+Zoe MacKay
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Press Ctrl + F to search in this chat
+
+23/05 11:55
+
+remember to push your changes to your branch gy
+
+I'm gonna stick a recurring meeting in your calendar for the end of the days hahaha (I won't really @)
+
+23/05 11:58
+
+i will push Claire ...i was intending to do so by the end of the day..i am just testign a few bits and pieces
+before doing so...but i will...
+
+é)
+
+Hello Claire.
+
+Please can you have a look at the structure below for the vpc-0232b16b ; It is just os that you have an
+idea before i push this afternoon.
+
+so what i am doing at the moment is pretty much the same for all vpc. So i am breaking them down,
+each of them in their individual folder such as below before then move on to merge them into a single
+folder as requested by you last week:
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search oo
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+they were to some days ask Tor the opinion of Our department some days.
+
+Press Ctrl + F to search in this chat
+
+But if you get a chance i ‘hem that the easiest way to disrupt
+attacks at the earliest stage is to use the package "psad" in conjonction with iptables
+
+to disrupt attacks at the ealiest stage
+
+Claire Thomson 10/05 11:02
+
+A yeah we have a company called Barrier that deal with intrusion detection
+
+that's how we found out about the incident, but we've (company) a large windows estate to think of
+
+too @
+
+12 May
+12/05 15:43
+
+Sorry Claire, can i share my screen, i have s quick question
+
+Hello Claire...i am going to stop work just for 20 minutes or so....i found AT LAST the origin of my
+problems with jhe vpc-2163ed49-eu-west-2 that was preventing the use of a single main.tf file....i am
+
+just running q&kly to the pharmacist to get some paracetamol...i have a slight headache..but but
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Press Ctrl + F to search in this chat
+Claire Thomson 28/04 10:40
+
+the ones set up in vpc_terraform are looking more like I'd expect
+
+28/04 10:43
+
+yes the ones i pushed this morning are the ones in vpc_terraform
+
+There are still improvements to bring to them and it will be done..for now i am trying to deal with the 6
+others with minor issues
+
+Claire Thomson 28/04 10:45
+
+great - that's definitely looking like it's going in a better direction now &@
+
+28/04 10:45
+
+Thank you for your patience on this.And rest endured that it will be completed according to plan
+
+Claire Thomson 28/04 10:46
+
+No worries, once you get the hang of it it'll come together easily @
+
+év0686
+
+10 M
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+no problem | will do that
+
+Claire Thomson 27/04 11:15
+
+remember to push your work to your branch @
+
+28/04 10:30
+
+Hello Claire.Just to let you know..So we have around 20 vpc on aws..So i just pushed on git the ones
+that are working perfectly...there are about 6 of them with minor issues that ia m resolving at the
+moment...this should be done very soon
+
+Claire Thomson 28/04 10:31
+
+brilliant
+
+will take a look
+
+28/04 10:31 Edited
+
+it is on the ‘ac-iac-platform' repository, é¥®@
+
+h¢tps://sithub.com /arnoldclark/ac-iac-platform/tree/INFRA-675/AWS/aws/vpc_terraform
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Q Search
+
+20Jun 12:39 e = © & OG @ai & B 100%
+
+a,
+
+Ly
+
+Claire Thomson Chat Files 3morey + a & &
+
+did you Just Torget to Clock? IT yOu do JUST Leave IT and you Can Correct It In the portal the next day @
+
+yes i forgot the clock.Actually at that time i was having a meeeting with Zoe which started at about 2
+pm i think.So yes i forgot the clock
+
+é'
+re Thomson 26/04 14:28
+
+no worries - sorted now
+
+26/04 14:29
+
+thank you very much
+
+27 April
+7/04 08:28
+
+Good morning Claire.! am still facing the same issues with the VPN and i still havent got a reply from
+Frank Mc Dade...have you please some suggestions as to whom i can get in touch with for this problem
+? | find it so frustrating to have your precious time wasted clocking for me.
+
+Claire Thomson 27/04 08:53
+ma
+
+&
+
+Rannel/19%3a0f47f03a89T64d46b981e2b37c10aae9%40thread.tacv2/Net
+
+pee a ee APY ab. nanan ng at ranne rs 2. ake bat Lee
+
+https://teams.microsoft.com/L
+i) me
+
+Workspaces Applications
+
+Chat ~ = G&
+
+=) Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:39 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+19/04 16:20
+
+Hi claire
+sorry would you have a minute please ?
+Claire Thomson 19/04 16:21
+
+a,
+6
+
+sure!
+
+wa
+
+i would like to show you something and get your feedback on it
+can i call you ?
+
+20 April
+20/04 15:12
+
+Hi Claire.| am very sorry but i have to run to the postoffice quickly.| have an important file to get sent
+before the end of the day.! got it only right before lunchtime.| need to prove that i got it sent before my
+appointment tomorrow.It should not take too much time
+
+é1
+
+Workspaces Applications 20Jun 12:39 © = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+a.
+
+Chat ~ = G& =
+
+Claire Thomson Chat Files 3morey + a & &
+
+Pinned
+
+Claire Thomson 12/04 08:50
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac- plat... & What should these actually be for yesterday? Remember core hours are 9.30-12 & 2-4 - | don't mind if
+4 you lunch outside these hours but still swipe for your lunch so | don't get anomalies to correct for you
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+a,
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+12/04 09:35
+AWS VPCs 13
+
+You: ah ok no problem Good morning Claire... The starting time is obviously not correct since the time shown is the time you
+reminded me to clock in.So i started at 9 am as usual.Regarding the finish time, i finished at 5 pm.All
+the other time sare correct-Yesterday i had a revelation on AWS so i could nto stop...but i promise some
+moderation today hopefully !
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+01/03 12:46
+and later i will try to fix the issue so that i can get on to with the terraform
+
+4!
+= vsftp.txt on
+
+Could you open above as a txt file ?
+
+Claire Thomson 01/03 12:47
+nope @
+
+silly teams
+
+| always have trouble opening anything in teams
+
+So sorry Claire
+
+ok i sent you an email now
+
+Goa RF COB - 6 ©
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20 Jun 12:40
+
+Claire Thomson Chat
+
+wnat Is the error your getting? or does It JUST NOT WOrkK at all?
+
+haha - that's not got line numbers that's no help xy
+
+put it in github on a branch &
+
+Claire Thomson 01/03 12:45
+
+it give syntax highlighting and everything @
+
+% & Fai & G 100%
+
+01/03 12:45
+
+aaaah yes no line number....aaaah teams is playing tricks...
+
+@1
+
+ok i think i know what i will do
+
+i will have two files...
+
+01/03 12:45
+
+one for regular yaml ansible
+
+and one to be executed with the ansible shell module with that oneliner
+
+Workspaces Applications
+
+Q Search
+
+Chat ~ Claire Thomson
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+'@ Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+
+Greg: fi GIF
+
+ES: Lisl
+
+David Moffat 19/06
+You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning 08/06
+re here but gs be...
+
+Digital Team Update 12/05
+
+Rec is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:40 ©
+
+Chat Files 3more~ +
+
+# Updating the Server
+- name: Updating the Vsftp Server
+hosts: all
+become: true
+tasks:
+- name: Update and upgrade apt packages
+apt:
+upgrade: yes
+update_cache: yes
+
+#Installing the vsftpd package
+- name: Installing the package for vsftp
+hosts: all
+become: true
+tasks:
+- name: Installing vsftp
+apt:
+name: vsftpd
+state: present
+
+- name: Start & Enable vsftp
+service:
+name: vsftpd
+
+Oo Wai & B100%
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 05/02 12:01
+
+We need to allow multiple users access to the same accounts, and the same users/servers require
+access to multiple accounts which is why them providing the public keys to us is useful, it just gets
+added to the authorised_keys file.
+
+| don't have any issue in reversing that and providing them the private key provided we can do the
+
+same.
+To be honest trying to get users to provide an SSH key at all is often difficult @
+
+Thanks for the message, enjoy the rest of your weekend. Hope your Uncle is still stable x
+
+7 February
+07/02 08:00
+
+Good morning Claire.
+
+Unfortunately , i got news that my uncle passed away in the early hours of this day despite all the best
+efforts of the hospital staffTo be frank, i knew deep inside that only a miracle could reverse the
+inevitable because the odds were most upsetting from the beginning.
+
+So i would like to please take today off in order to start dealing with all the consequences brought
+forward by the event and i have just sent through the timetastic app a request for the day; | will also
+need to go pick up at the airport some family members who will be leaving Paris this very morning.
+
+Workspaces Applications
+
+Chat ~
+
+=) Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+Zoe MacKay 12/05
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+And the private key whicn Is automatically password protected Is sent to tne user
+
+3 more
+
+So therefore from now on, our sftp users will not have to do anything really..
+All they will have to care about is ... choosing a username....and the rest is done for them.
+Best yet the process can be repeated for an unlimited number of users.
+
+On the test performed on a server with one core and 2 GB of ram, the server was able to generate the
+keys and set up all aspects of the server at the rate of 5 users per second.
+
+| will push the updated code tomorrow
+
+Ok | am now going to enjoy Sunday...and sorry for sending this message on a Sunday... was running
+the risk of forgetting tomorrow (the ailment of old age as | come to experience it) and | wanted to
+devote tomorrow to a more agile and elastic way of dynamically generate terraform steps for AWS.
+
+Many thanks
+
+Claire Thomson 05/02 12:01
+
+We need to allow multiple users access to the same accounts, and the same users/servers require
+access to multiple accounts which is why them providing the public keys to us is useful, it just gets
+added to the authorised_keys file.
+
+| don't have anv issue in reversing that and providing them the private kev provided we can do the
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+02/02 16:08
+
+Thank you very much for your understanding.And yes indeed at least things have remained kind of
+stable until now.
+
+3 February
+03/02 15:25
+
+HI Claire.Sorry i have a quick question.So regarding the FTP Server i was presenting to you last week, is
+it now okj to build it on prem or are we still awaiting for some further work from the security team
+before proceeding ? Many thanks in advance
+
+Claire Thomson 03/02 15:26
+
+A | need to get Jason to take you through what he's done with the ansible set up for the new servers
+
+03/02 15:27
+ok then no problem.Dont worry i will ask him directly
+5 February
+
+05/02 11:44
+
+Good morning Claire.| am sending this message while | am at it and to make sure | don't forget
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Q Search
+
+a.
+
+Ly
+
+Claire Thomson Chat Files 3 more ~
+
+terms oT terratorm Scripts
+
+Claire Thomson 01/02 15:03
+
+on a call just now will check once I'm off but don't do anything with autopilot stuff for sure
+
+01/02 15:08 Edited
+
+i believe it would be safe to set upa new user called "terraform-user" because you can see below the
+fact that the current user has not been used in more than 2 years
+
+2 February
+
+Claire Thomson 02/02 16:03
+
+_) Sorry meant to ask how your Uncle was keeping? any improvement?
+°o
+02/02 16:06
+
+Hi Claire Thank you so much for asking.Unfortunately the situation has not improved and he is still
+unconscious as we speak.It is a difficult situation but he is in very good hands soi keep hoping for
+some improvement.
+Workspaces Applications 20Jun 12:40 © = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Chat ~ = G&
+
+No that Is absolutely fine, go now, hope everything Is OK, will take you a wee while to get to Kilmarnock
+
+Pinned
+don't worry about logging back on today - and if you need the time tmw just send me a message, either
+
+Marcel Sangare (You) als here or to my mobile if that's easier 07766557121
+
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent 31/01 11:39
+Laura Cooper 11:41 Thank you for your understanding. will keep you posted as to how things are .many thanks
+*@ Hi Marcel - i have booked St Geo
+
+Claire Thomson 31/01 11:40
+ArchOps Chat 10:20
+
+Greg: PE GIF e ¥ if you need anything just let me know
+°
+
+David Moffat 19
+You: Good afternoon D
+
+1 February
+
+01/02 09:15
+
+Catch Up 2.0 16/06
+
+Good morning Claire.| just want to let you know that i am back to work this morning.The situation of my
+uncle is still critical but at this stage all we can do is hope that the intensive care does help in starting
+up some sort of recovery .I also wanted to say thank you for your understanding and support.
+
+AWS VPCs Claire Thomson 01/02 09:17
+
+You: ah ok no problem A : was
+neta |'m sorry to hear that, feel free to take any time you need - if you want to visit take longer Lunches etc -
+
+Claire Thomson 13/06 I've been in a similar situation with my parents many a time so understand the stress and toll that it
+You: Good morning Claire.Can i... takes
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+
+3
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+20Jun 12:40 a © &
+
+Q Search
+
+Claire Thomson Chat Files 3morey + a & &
+
+arn:aws:iam::988562618433:user/mory-marcel.sangare@arnoldclark.com
+
+think you need to reset your password to get in - and you should enable 2FA when you get access
+
+26/01
+
+“0
+00
+
+Sorry Claire but i could not login.So i tried as a root user and my account does not exist as such.| also
+tried to use the "password reset" functionality but i get the following message:
+
+PS: From your message, i assumed that :
+Account ID: 988562618433
+
+IAM user name: mory-marcel.sangare@arnoldclark.com
+
+Claire Thomson 26/01 14:02
+
+ae
+
+oh no hahah - NK I'll cae if | can dn cnmathino with a nacewnrdl
+
+Oo @ di & G 100
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+25/01 10:40
+
+Hi Claire.
+
+Thank you for this.
+
+4!
+
+Claire Thomson 25/0110:40 Edited
+
+half an hour OK or would you like more time?
+
+25/01 10:41
+
+no 30 minutes will be more than enough
+
+re Thomson 2
+
+vs lovely!
+
+| would have done it this afternoon - but tiny human is off nursery and one of my ears still can't hear
+
+right &
+
+David is pretty busy too - so tmw seemed best
+
+1 10:41
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Q Search
+
+Files 3 more v
+
+Claire Thomson
+
+é
+
+Yeah it's best to just get it there, can work on anything else after as you say
+
+Go
+
+Have a look at the naming conventions for the newer things
+Tends to be ac-iac-* or ansible-*
+Zoe can point you in right direction if you need
+24/01 16:24
+
+Claire Thomson 24/01/2023, 16:22
+Have a look at the naming conventions for the newer things
+
+Aaah ok i talk to Zoe about this.Thank you for letting me know.
+
+25 January
+
+Claire Thomson 25/01 10:36
+
+I've popped some time in tomorrow so you can show David and | the work you've done &
+
+David said at the moment, just to take some personal development time, so don't worry about those
+
+eee a ave eI a
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+3 more
+
+19/01 16:29
+
+HI Claire.I think that my demo is ready...ftp plus intrusion detection and response dashboard...May i
+know if your timetable for tomorrow allows for a review ? i can make myself available
+anytime..including before or after our regular hours
+
+Thank you in advance
+
+19/01 17:03
+If not tomorrow, then please let me know what day/time is suitable to you
+20 January
+
+Claire Thomson 20/01 08:53
+
+We'll arrange this for next week, I'm full of the cold today. | think it would be good to invite David along
+
+6
+also
+
+20/01 08:54
+
+Good morning Claire.| am sorry to hear this.Please allow me to advise you the combination of Vitamin
+D3 and some liposomal Vitamin C.
+
+This combination will lessen the cold and shorten the suffering it is bringing along.
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+11/01 12:44
+
+as your timetable seems to be under quite a bit of stress today, we can make it tomorrow if you
+want...it is just a series of proposal i would like to make. Also seizing the opportunity to present the
+solutions implemented on the experimental SFTP and gather your opinion and critics on
+it...improvement comes from critics and i do mean it
+
+12 January
+
+Claire Thomson 12/01 16:15
+
+vs was it a group question or a me question?
+
+https: //saas.zellis.com/arnoldclark/dashboard/dashboard-ui/index.html#/landing
+
+re Thomson 12/011
+
+| can hear you
+
+you can't hear me
+it's the demo curse
+
+can do this tmw if you want?
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Claire Thomson Chat Files 3morey + a & &
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+| think we now have a robust vsftp server that could be deployed internally.
+
+As soon as the internal environment is a bit more stable, i will deploy it on our internal VMware.
+To test the ftp server, please use Filezilla with the following login credentials:
+
+-Host ip: 144.217.84.102
+
+-username: arnold
+
+-password: arnold
+
+-port 21
+
+-and accept to use the self signed certificate that will be presented to you.
+
+there is security solution that gets the server to react as soon as low as 1 network packet of hostile
+nature is received.
+
+| am just now finishing to write a script to automate the deployment of this easily and another script
+that will be used to set up user easily (as requested by one fo the backlog ticket)
+
+lam also perfecting the automated configuration and deployment of snort (IDS) and OSSEC so that
+these modules could eventually get deployed on a wider range of linux servers for security reasons.
+
+Many thanks,
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search
+
+Claire Thomson Chat Files 3more~ +
+
+Claire Thomson 02/
+
+20Jun 12:40 « s+ BS GG Oa gv
+
+we've been in all weekend too
+
+02/01 14:07
+
+When will u be back to work ?
+
+14:07
+
+I'm supposed to be back Wed, but maybe around reading stuff tmw too
+
+02/0114:09 Edited
+
+ok so i will send you a message on wednesday .Thank you for responding to me today. Many thanks
+
+5 January
+
+05/01
+
+Hello Claire.
+
+| have a quicl question
+Edited
+
+so regarding the sftp ticket...i am adding the possibility of having an SSL encrypted communication
+between the server and the client
+
+G 100%
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+probla
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+30/12/22 08:48
+Good morning Claire.With the unavaibility of the arnoldclarkemployee site, | thought | would remind
+you that | was meant to be have a day off today.
+Claire Thomson 30/12/22 08:53
+
+Yes that's fine take your day off there's very little you can do anyway
+
+Did you manage to get any servers scanned yesterday? Didn't get a chance for catch up
+
+30/12/22 09:44
+
+Actually before my message, | had a call with Greg who was still in the process of reviewing the script
+sent before running it.
+
+So after our exchange, the most | could do was to ask to be given access to the servers to be scanned
+from the jump servers(our ansible box).
+
+Unfortunately Jason was busy and Greg too.
+
+But most definitely | will see with them on Monday to be given access to the other servers and see how
+| can help with the task of scanning them from the Jump servers
+
+Claire Thomson 30/12/22 09:45 Edited
+
+yeah it'd be much easier to build a large manifest and do them all at the same time, would let us add
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat
+
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+Claire Thomson Chat
+
+Claire Thomson 28/12/22 15:10
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Files 3 more v
+
+1. ak &
+
+as soon as he responds, | WILL Input the Key and Close this ticket
+
+oh that's just on at the end so we know who it is - that's generated from the comments
+
+if that's OK to add you'll see some that will have email addresses for people - but that key is for the
+
+server/app
+
+= is the last part of the key then space then comment
+
+Claire Thomson 28/12/22 15:13
+
+no problem at all
+
+28/12/22 15:12
+
+ok then i will do as you said
+
+thank you !
+
+28/12/22 15:13
+PS: little things like this can make me think a lot @
+
+@1
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search
+
+Claire Thomson Chat
+
+20 Jun 12:40
+
+Files
+
+3 more
+
+--
+
+Oo Wai & B100%
+
+ak &
+
+First Now can | get | Toucn with Andrew NIcol ¢
+is he on the chat ?
+
+So in the ticket he pasted in his public key which :
+
+Now i am just about to implement the ticket and close it but but when you look at the screenshot you
+can see at the end of the public key the following words:
+
+= BP IH Loader
+
+and i am wondering if these letters are part or not of the puclic key
+
+14 laakee ac if ha te trina te indicat ta ue amuthina hoafara te ta Fact aaet af the leave
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:40 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+| was in fact waiting by my phone as | sent it to you earlier
+
+| was not told anything yet but it looks as if there is a major incident ...most likely cyber related as
+most systems are turned off.
+
+If there is anything | can do in terms of helping or proposing ideas, please let me know
+
+Claire Thomson 27/12/22 11:38
+
+Mory-Marcel Sangare https://privnote.com/kDfz7/hA#TWkOd8bLX
+
+Claire Thomson 27/12/22 16:05
+
+e ) lain Stewart
+-]
+
+28 December 2022
+28/12/22 15:01
+
+Hi Claire....
+i have 2 questions please.
+
+First how can i get i touch with Andrew Nicol ?
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Q Search
+
+a.
+
+Wo
+
+Claire Thomson Chat Files 3more~ +
+
+So here is my question:
+
+You mentioned last week the fact that the company was in the process of sorting some licence for
+vulnerability scanning on the containers e deploy on the cloud. So i wanted to know if by any chance
+you would be interested into an investigation about an alternative which is about combining Nexus
+(Artifact repository) and SonarQube (code vulnerability scanner that is applicable to Docker)
+
+Of course both Sonarqube and Nexus are Open source but used by banks...the banks i was supported
+not so long ago were using it.
+
+re Thomson 20/12/22 15:29
+
+No we've just renewed our contract with Palo Alto, we can use it for scanning on prem stuff too - there's
+
+lots of bits we don't use
+it scans our repository too
+
+20/12/22 15:30
+
+aaaah it is too late@®
+
+Claire Thomson 20/12/22 15:30
+
+it can do code scanning and stuff and is in the pipelines
+
+Goa RF COB - a >
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 20/12/22 11:56
+
+a He's due to start at the end of January, he had a 3m notice period, but managed to cut it to 1.5m
+
+20/12/22 11:56
+
+aaaah ok then...so i know and will make sure i am around.
+
+Claire Thomson 20/12/22 11:56
+
+I'll give you plenty of notice @
+
+20/12/22 11:57
+
+@® Thank you
+
+Claire Thomson 20/12/22 11:57
+
+and I'll take you all for lunch again i)
+
+20/12/22 11:59
+
+Thank you in advance.You are really treating us so wellL....another element besides my laptop i can use
+
+to brag... @
+@1
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+Claire Thomson Chat
+
+Claire Thomson 19
+a.
+
+20 Jun 12:40
+
+% & Fai & G 100%
+
+many thanks in advance
+
+¢ that's them approved, you just need to pop them through in ACE now - and set me as the approver and
+ot approve there (or katie bell from admin as I've approved in timetastic she can do it in ACE) it'sa
+
+pain having two systems, hopefully one day all the functionality will just be in ace
+
+vs you'd had the 26th booked automatically on timetastic by admin as the company is closed
+
+MM cart that in ACE
+
+re Thomson 19/12/22 16:30
+
+12/22 16:19
+
+aaah ok i do it right away
+
+19/12/22 16:29
+
+| just booked the days in ACE.
+But on ACE i see three days of holidays instead of 2 on timetastic
+
+which one will be considered the system of truth ?
+
+Workspaces Applications 20Jun 12:40 © = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+Claire Thomson Chat Files 3morey + a & &
+
+Pinned
+
+15 December 2022
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt... 15/12/22 12:17
+
+Recent Hi Claire.| was wondering if your timetable for today will still allow for the meeting we spoke about
+
+yesterday
+Laura Cooper
+
+"@ Hi rcel - i have booked St Geo
+
+Claire Thomson 15/12/22 12:25
+
+Q ArchOps Chat 10:20
+
+Greg: fax GIF Will give you a call around 2 ay
+
+a
+
+David Moffat 19/06 15/12/22 12:29
+You: Good afternoon Da am ...
+
+Yes this is perfect
+
+Catch Up 2.0 16/06 ;
+Jason: Running over time in ano... Thank you in advance
+
+PR Reviews 13
+: just jumped in in case an...
+
+19 December 2022
+
+re Thomson 19/12/22 15:36
+
+AWS VPCs
+
+You: ah ok no problem
+
+https://timetastic.co.uk/
+
+Claire Thomson 13/06 Timetastic - Online staff leave & holiday planne...
+You: Good morning Claire.Can i Timetastic is the super-simple staff leave planner used by
+Sf 4 , over 100,000 people to organise their time off work.
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search oo =
+2 @
+
+20Jun 12:40 = © & OG @ai & B 100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+tancy
+
+https://timetastic.co.uk/
+
+Timetastic - Online staff leave & holiday planne...
+Timetastic is the super-simple staff leave planner used by
+over 100,000 people to organise their time off work.
+
+/
+
+timetastic.co.uk
+
+I'll approve then your supposed to add them in ACE
+or you can just tell me what you want and I'll do it for you - up to you
+
+but just want to make sure you use them and don't loose them i)
+
+aah ok no problem at all.I will see which days can be taken this month.
+thank you for reminding me...actually i did not even think i would have any to take to be honest
+
+Claire Thomson 12/22 11:39
+
+you've also got the 26th as the business is closed
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Claire Thomson Chat Files 3morey + a & &
+
+20Jun 12:41 7 8 6 G& Wai @ B100%
+
+Good morning Claire.
+
+| hope my message finds you well.
+
+So, i was fortunate enough to review some of the awaiting tickets we have with Greg a couple of days
+ago and i noticed a couple of them that are dealing with some security issues with a sftp server used
+
+by one of our partners.
+
+So i was wondering if i could may be take a few minutes of your time either today or tomorrow to
+review these tickets together and see if i can begin dealing with them.
+
+Of course i am fully aware that i haven't yet managed to deal with all the issues around knowing the
+company environment but i think this very serious exercise could help me get to know the environment
+
+even faster.
+
+Also as i believe i should be able to bank a little bit on my recent role in cybersecurity to may be offer
+some efficient solutions.
+
+Please let me know what you think about this plan and many thanks in advance.
+
+Workspaces
+
+Chat ~
+
+Applications
+
+rs
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+@6é6000
+
+& @ 0
+
+Laura Cooper 11:41
+Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: Sy GIF
+
+David Moffat 19/06
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+Claire: just jumped in in case an...
+
+AWS VPCs 13/06
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning 08/06
+Claire: we're here but things be...
+
+Digital Team Update 12/05
+Recording is ready
+
+Zoe MacKay 12/05
+
+Ne rah
+
+20Jun 12:41 7 8 6 G& Wai @ B100%
+
+Qs I i _
+Q Search @
+
+Claire Thomson chat Files 3more~ + m|/&] &
+
+mory-marcel.sangare@arnoldclark.com
+
+may be this si the issue
+
+Claire Thomson 13/12/22 16:36
+
+OK I've re-added you with the full email
+
+OK and you should be in the right groups and with access to all now
+
+13/12/22 16:38
+ye si can access the login page now
+
+iam trying now to retrieve my password
+
+Claire Thomson 13/12/22 16:38
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:41 2 BS
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+i think i know
+
+it is the email address
+@1
+Claire Thomson 13/12/22 16:35
+
+wonder if it's due to your email?
+
+3/12/22 16:35
+
+it is not marcel.sangare@arnoldclark.com
+
+it is now:
+
+mory-marceLsangare@arnoldclark.com
+
+may be this si the issue
+
+Claire Thomson 13/12/22 16:36
+
+Ge OK I've re-added you with the full email
+
+Goer COB - a >
+
+OG Wai & G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:41 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 09/12/22 14:52
+
+I'll catch you after this call :) nothing urgent
+
+09/12/22 14:52
+
+aah ok no problem
+13 December 2022
+
+13/12/22 16:04
+
+HI Claire.sorry i was trying to access the Atlassian page given to us by Jason with the configurations but
+iam denied access to the page so i guess i need to ask you to allow me. The URL of the page is:
+
+https://arnoldclark.atlassian.net/wiki/spaces/DS1/pages/3413671984/Jump+Host+Configs
+
+Claire Thomson 13/12/22 16:23
+
+es hmmm your part of the team - give me two min and I'll see why
+
+Claire Thomson 13/12/22 16:28
+
+e can you see if you can see it now?
+)
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search oo
+
+20Jun 12:41 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3 more ~
+
+Marcel Sangare 09/12/2022, 09:56
+Thank you for your help on this.
+
+absolutely no problem!
+
+09/12/22 11:29
+Hi Claire i would have a quick question.
+So as we use Azure internally for our devops pipelines, i wanted to take a quick online course about
+the ways of Azure. So | already bought a course on Udemy for this and wanted to know if you would be
+ok with me going through this for about a week or so. | already went through the links you sent me and
+
+can already see a lot of similarities with AWS and GCP but i thought such a course can only make things
+even easier in the short to long term.
+
+Of course, this course will not take any precedence whatsoever on any other important activities we
+might have at any time of the day.
+
+Thank you in advance
+
+Claire Thomson 09/12/22 11:33
+
+eal No that should be fine, but you didn't need to buy something - we could have gotten you set up with
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:41 = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+SO WNal SNOULG YOUr LIMES De TOF yesterday 10:1/ 12:46 13:4/
+
+10.17 - guess you forgot to do it earlier & - if that happens just leave it and I'll add one, otherwise |
+have to remove that and add a new one
+
+system is silly &
+
+09/12/22 09:53
+for yesterday yes i started earlier but forgot to clock in and for the end of day, i think it was around 5
+
+pm
+
+Claire Thomson 09/12/22 09:53
+
+| see you've added one via the portal - thanks ®
+
+Edited
+
+I'll fix the earlier one to 9?
+that should be it all sorted out now
+
+09/12/22 09:56
+
+Thank you for your help on this.
+
+é1
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20 Jun 12:41
+
+Claire Thomson Chat
+
+re Thomson 08/12/22 12:42
+
+9 December 2022
+
+Claire Thomson
+
+OK, will check what's gone on - did you manage to clock ok this morning?
+
+the system thinks you'll have two days to take
+
+% & Fai & G 100%
+
+ak &
+
+OK | WILL Take a SNort break and get Dack LO these LINKS.
+
+Don't worry, there's plenty of time to get familiar with things, not expecting you to jump right in at the
+deep end on anything - nice and easy over Christmas
+
+09/12/22 09:05
+
+Hi Claire.Sorry but i could not clock out since the app seems to have crashed unfortunately
+
+41
+
+09/12/22 09:13
+
+Good morning Claire. The message above was from yesterday afternoon...but apparently got sent in this
+
+@1
+
+09/12/22 09:49
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:41 ©
+
+Q Search
+
+Claire Thomson Chat Files 3more~ +
+
+ire Thomson 08/12/22 10:51
+
+u
+
+¢; can you send me your github username?
+
+re Thomson 08/12/22 10:57
+
+vs that's you invited to github
+
+Claire Thomson 08/12/22 11:17
+
+€. what would you like your user to be called on servers?
+
+| think everyone else other than me is like jwhite
+
+7 8S DF Oa gd
+
+thank you in advance
+
+08/12/22 10:57
+
+ooh yes
+one moment please
+
+so my github username is : mmshill
+
+41
+
+G 100%
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:41 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+ona demo.it is very good and | Will Surely attend It
+
+Files
+
+Claire Thomson Chat 3 more ~
+
+Claire Thomson 08/12/22 09:49
+
+you forgot to clock in this morning @
+
+if you remember when you go for lunch and when you leave tonight I'll fix that one tomorrow.
+
+08/12/22 09:51
+
+oooh so sorry i got lost into setting up my environment
+
+Claire Thomson 08/12/22 09:52
+
+That's fine, takes a while to get used to - | still forget some days or look at the page and forget to
+actually click the button x
+
+08/12/22 10:48
+
+a marceLid_rsa.pub oo
+
+| have just uploaded right above the public key we spoke about this morning.
+
+it was generated with the command:
+
+Workspaces Applications 20Jun 12:41 © = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Chat ~ = G&
+
+wos 127,22 VOM
+
+Pinned Good morning Claire.
+
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platf... As you know, i was instructed to create an ssh-key and send the public key.
+
+Recent Edited
+
+- So i just wanted to know if i should send you that public key
+Laura Cooper 11:41
+"@ Hi Marcel - i have booked St Geo... Edited
+
+ArchOps Chat 10:20 if my memory is correct, they key has to have a size of 4096 bits.
+Greg: fi GIF
+
+41
+David Moffat
+
+You: Good afternoon D Claire Thomson 08/12/22 09:41
+
+yeah that would be great, you could probably get Jason or Greg to show you where it gets added in the
+Ansible so it get's rolled out
+
+Catch Up 2.0 16/06
+
+There is a demo at 10 - I'm guessing that won't appear in your calendar?
+
+Edited
+
+eats, problem it's a 2hr demo, but will be a good intro to the stuff that's going on in the department
+
+Claire Thomson 13/06 08/12/22 09:44
+You: Good morning Claire.Can i... — a E
+: oh a demo.it is very good and i will surely attend it
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Workspaces Applications 20Jun 12:41 © = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Chat ~ = G&
+
+“famed it's a 2hr demo, but will be a good intro to the stuff that's going on in the department
+
+Marcel Sangare (You) 08/06 08/12/22 09:44
+You: mm@pop-os:~/ac-iac-platt...
+
+oh a demo.it is very good and i will surely attend it
+Recent
+Laura Cooper +1:61 Claire Thomson 08/12/22 09:49
+
+© Hi Marcel - i have booked St Geo you forgot to clock in this mot ng a
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+if you remember when you go for lunch and when you leave tonight I'll fix that one tomorrow.
+
+David Moffat 19
+You: Good afternoon D
+
+08/12/22 09:51
+
+oooh so sorry i got lost into setting up my environment
+
+Catch Up 2.0 16/06
+
+Claire Thomson 08/12/22 09:52
+
+That's fine, takes a while to get used to - | still forget some days or look at the page and forget to
+actually click the button ©
+
+AWS VPCs
+
+You: ah ok no problem
+
+08/
+
+Lid b
+You: Good morning Claire.Can i... i marceLid_rsa.pu o
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+@
+g
+Co
+
+A
+Zoe MacKay 12/05 oe
+
+Workspaces Applications 20Jun 12:41 e -# Be & Wai a
+
+Q Search oo =
+2 @
+
+Chat - = G Claire Thomson Chat Files 3more~ + m &
+
+Pinned i marcel.id_rsa.pub oe
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+| have just uploaded right above the public key we spoke about this morning.
+Recent
+it was generated with the command:
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ssh-keygen -t rsa -b 4096
+ArchOps Chat 10:20 é!
+
+Greg: fy GIF
+
+=: Lisi]
+
+David Moffat 19 thank you in advance
+
+You: Good afternoon D
+
+Claire Thomson 08/12/22 10:51
+
+Catch Up 2.0 16/06
+
+can you send me your github username?
+
+08/12/22 10:51
+
+ooh yes
+
+AWS VPCs
+You: ah ok no problem one moment please
+
+Claire Thomson 13/06
+
+: : F so my github username is : mmshill
+You: Good morning Claire.Can i...
+
+41
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+Claire Thomson Chat
+
+Claire Thomson 08/12/22 11:17
+
+| think everyone else other than me is like jwhite
+
+20 Jun 12:41
+
+Files
+
+3 more
+
+what would you like your user to be called on servers?
+
+= © & OG @ai & B 100%
+
+so my github username is : mmshill
+
+41
+
+mine is clairethomson cause that's what I've always been coming from windows - so why change now
+
+Claire Thomson 08/12/2022, 11:18
+mine is claire.thomson cause that's what I've always been coming
+from windows - so why change now @
+
+08/12/22 11:20
+
+@ (think it is good because at least it does identify the user clearly.
+
+in terms of user. i would like to use:
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:41 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+@ I think it is good because at least it does identify the user clearly.
+in terms of user, i would like to use:
+msangare
+
+if possible. All my usernames have always been in this format
+41
+
+re Thomson 08/12/22 11:22
+
+that's what I'd put then thought | should check
+
+08/12/22 12:06
+
+Sorry Claire i would have one question. Can i please get the link to the pages where the applications we
+support/deal with on a daily basis are documented ?
+
+Thank you in advance
+
+Claire Thomson 08/12/22 12:22
+
+Hiya, | guess we don't really have it documented in any structured way - we have confluence which I'm
+not a massive fan of - this is a link the out area
+https://arnoldclark.atlassian.net/wiki/spaces/DS1/overview
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+DB
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+20Jun 12:41 = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Hiya, | guess we don't really have it documented In any structured way - we have contluence which I'm
+not a massive fan of - this is a link the out area
+httos://arnoldclark.atlassian.net/wiki/spaces/DS1/overview
+
+each team has it's own section and copies of some of the info we provide
+
+this is the easiest way to see e repos
+https://github.com/orgs/arnjAvlark/teams/devops/repositories
+
+we're attempting to try and keep the new stuff to some sort of naming convention
+ac-iac (AC Infra as Code)
+
+platform is... well the platform i)
+
+shared is the terraform that the squads have control over - with us reviewing PRs
+tfmodule - again self explanatory
+
+ansible stuff should start with ansible &
+
+Department Pipelines https://dev.azure.com/ArnoldClark/dpd/ build
+
+we care about the ones under the infrastructure folders
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+3
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+=F aw &
+é4v098
+
+a
+
+platform is... well the platform @
+
+shared is the terraform that the squads have control over - with us reviewing PRs
+tfmodule - again self explanafory
+
+ansible stuff should start withransible &
+
+Department Pipelines https://dev.azure.com/ArnoldClark/dpd/ build
+
+we care about the ones under the infrastructure folders
+https://dev.azure.com/ArnoldClark/dpd/ build?view=folders
+
+08/12/22 12:39
+
+Many thanks.! am having a look right now at these links
+
+Claire Thomson 08/12/22 12:40
+
+Make sure you get some lunch - | know it's enthralling gs (remember to clock out/in too)
+
+08/12/22 12:40
+
+Ooh yes you are right.| did not even realise it was 12:40
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Department Pipelines Nttps://dev.azure.com/AmoldclarkK/apda/ build
+
+we care about the ones under the infrastructure folders
+httos://dev.azure.com/ArnoldClark/dpd/ build?view=folders
+
+Many thanks.! am having a look right now at these links
+
+Claire Thomson 08/12/22 12:40
+
+é
+
+Make sure you get some lunch - | know it's enthralling ® (remember to clock out/in too)
+
+Go
+
+08/12/22 12:40
+
+Ooh yes you are right.I did not even realise it was 12:40
+
+Claire Thomson 08/12/22 12:41
+that's what happens when there is a 2hr meeting!!!
+08/12/22 12:41
+ok i will take a short break and get back to these links.
+
+Claire Thomson 08/12/22 12:42
+
+Nan't worn there's nlantv af tima tn cat familiar with things not avynerting van ta iumn right in at tha
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+09/12/22 11:38
+
+And one last question.
+
+i noticed the icinga alerts by email. Are we the team supposed to write some scripts to
+minimize/resolve some of these issues ? | would say yes since we are in the loop but i wanted to make
+sure of this.
+
+| noticed quite a few alerts around memory issues.Are we making use of packages such as zram for
+memory optimization at all ? | am asking because i know from experience that with zram deployed,
+memory utilization becomes way more efficient and we will see the very same servers doing the same
+job with on average less memory used.
+
+Thank you. The course was not at all expensive as is often the case on udemy
+
+Claire Thomson 09/12/22 12:00
+
+The alerts can be noisy, we're tried optimising the alerts previously but they're never quite right and
+we've warnings set up too. We'll be moving alerts over to icinga2 and with the migration from Centos to
+Ubuntu we're not overly concerned with the memory alerts at the moment - there's also lots of
+resources available should we need to add any. We're not using zram. Those alerts do fluctuate quite a
+bit by email
+
+Most of the issues tend to be with the apps not being optimised, the alerts we care about most are the
+ones we have set up for SMS - the critical ones that would require something to be done immediately
+
+ar hasan ani esll aarean at af heir
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Ss meres =—_
+
+Most of the issues tend to be with the apps not being optimised, the alerts we care about most are the
+ones we have set up for SMS - the critical ones that would require something to be done immediately
+or by an on-call person out of hours
+
+09/12/22 14:51
+
+Hi Claire.I just saw your missed call
+
+shall i call you back ?
+
+Claire Thomson 09/12/22 14:52
+
+vs I'll catch you after this call :) nothing urgent
+
+(22 14:52
+
+aah ok no problem
+13 December 2022
+
+13/12/22 16:04
+
+HI Claire.sorry i was trying to access the Atlassian page given to us by Jason with the configurations but
+iam denied access to the page so i guess i need to ask you to allow me. The URL of the page is:
+
+https://arnoldclark.atlassian.net/wiki/spaces/DS1/pages/3413671984/Jump+Host+Configs
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+
+*@ Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat 19/06
+© You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+@ Claire Thomson 13/06
+We You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+g is ready
+
+Zoe MacKay
+
+20Jun 12:42 = ©: OG Wai & G 100%
+
+Q Search
+
+&: Claire Thomson Chat Files 3more~ +
+
+but i got this help from the page that cannot load:
+
+Each space in Confluence Cloud has its own set of permissions, which can be granted and revoked by a
+space adminigtrator. These permissions determine what users, ,and apps can see and do fora
+specific spac Confluence Cloud.
+
+Confluence Clo¥d has a cascading permissions model: you must have permission to access a site in
+order to access a space on that site, and you must have permission to access a space in order to access
+a page in that space. Individual , limiting who can view or edit a specific
+page in a space.
+
+ire Thomson 13/12/22 16:34
+
+Groups
+
+Pages Comments Atuchments Mail = Space
+
+y 2? ? D
+
+Workspaces Applications 20Jun 12:42 « = fs Oo @dai & G 100%
+
+Q Search oo =
+2 @
+
+Chat ~ = © &: Claire Thomson Chat Files 3morey + a & &
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platf...
+
+Recent
+
+Laura Cooper 11:41
+"@ Hi Marcel - i have booked St Geo
+
+i ArchOps Chat 10:20
+YB Greg: oy Gir
+
+=: Lisi]
+
+David Moffat 19
+© You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+@ Claire Thomson 13/06
+We You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+g
+Co
+
+A
+12/05 ae
+
+Zoe MacKay
+
+Workspaces Applications
+
+20Jun 12:42 ©
+
+Q Search
+
+Chat - = G Claire Thomson Chat Files 3more~ +
+
+Pinned
+Claire Thomson 13/12/22 16:35
+Marcel Sangare (You) 08/06
+
+: if it’ il?
+SETHE tut peas ete LES wonder if it's due to your email?
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Claire Thomson 13/12/22 16:36
+
+es OK I've re-added you with the full email
+
+OK and you should be in the right groups and with access to all now
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Oo Wai & B100%
+
+3/12/22 16:35
+
+it is not marcel. sangare@arnoldclark.com
+it is now:
+
+mory-marcel.sangare@arnoldclark.com
+
+may be this si the issue
+
+13/12/22 16:38
+
+ye si can access the login page now
+
+iam trying now to retrieve my password
+
+Workspaces Applications
+
+Files
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+"@ Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+~~
+
+David Moffat 19/06
+You: Good afternoon David.| am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+C : Just Jumped in in case an...
+
+AWS VPCs 13/06
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+G @ © © &
+
+>]
+Dd
+
+Planning 08/06
+Cc ‘re here but things be ...
+
+Digital Team Update 12/05
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search
+
+Claire Thomson Chat
+
+OK and you should be in the right groups and with access to all now
+
+Claire Thomson 13/12/22 16:38
+
+20 Jun 12:42
+
+Files
+
+3 more
+
+--
+
+Oo Wai & B100%
+
+13/12/22 16:38
+
+ye si can access the login page now
+
+iam trying now to retrieve my password
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+13/12/22 16:39
+it is now working after clicking on the new invite you sent by email
+thank you very much
+Claire Thomson 13/12/22 16:39
+
+ae
+t-]
+
+woop!
+
+14 December 2022
+14/12/22 09:59
+
+Good morning Claire.
+| hope my message finds you well.
+
+So, i was fortunate enough to review some of the awaiting tickets we have with Greg a couple of days
+
+ago and i noticed a couple of them that are dealing with some security issues with a sftp server used
+by one of our partners.
+
+Workspaces
+
+Cha
+
+t v =
+
+Applications 20Jun 12:42 « = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+U, 1 Wes IOTLUTALe EMUUSTI LO PeVIEW SOTTE UF LITE AWAILITIg LICKELS WE Tldave WILT] Urey a COUPLE OF Udys
+
+Pinned ago and i noticed a couple of them that are dealing with some security issues with a sftp server used
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+by one of our partners.
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt... ’ eer, . : .
+So i was wondering if i could may be take a few minutes of your time either today or tomorrow to
+
+ai review these tickets together and see if i can begin dealing with them.
+
+Laura Cooper 11:41 . . , . .
+
+Hi Marcel - i have booked St Geo... Of courseia ly aware that i haven't yet managed to deal with all the issues around knowing the
+company environment but i think this very serious exercise could help me get to know the environment
+
+ArchOps Chat 10:20 even faster.
+
+Greg: fH GIF
+
+=: Lisi]
+
+David Moffat 19 Also as i believe i should be able to bank a little bit on my recent role in cybersecurity to may be offer
+
+You: Good afternoon D am ... some efficient solutions.
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano... Please let me know what you think about this plan and many thanks in advance.
+
+PR Reviews Claire Thomson 14/12/22 10:01
+
+Vs Absolutely! I'm tight on time this morning as I'm on a half day but we can do it tomorrow morning if
+
+AWS VPCs that suits?
+
+You: ah ok no problem
+
+. 14/12/22 10:02
+Claire Thomson 13/06
+You: Good morning Claire.Can i... yes this is absolutely perfect.
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+14/12/22 10:02
+
+yes this is absolutely perfect.
+
+Claire Thomson 14/12/22 10:02
+
+sometimes picking things up and just digging in is the best way to learn how things piece together @
+
+14/12/22 10:02
+i will be impatiently waiting for tomorrow then.
+@1
+
+yes i agree with you !
+
+Claire Thomson 14/12/22 10:05
+
+vs | know some companies these days do expect new hires to pick up anything meaningful in the first 3m
+or so! That is perhaps overkill but taking it easy the first couple of weeks to do some reading setup etc
+seems fine @
+Hope you've not been too bored haha
+
+No i was not bored at all as i interact a lot with the others (Jason, Greg and Zoe)....but really i could not
+help it when i saw these 2 tickets..i thought to myself that this is at least an area where i could offer
+something immediately
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+Zoe MacKay 12/05
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+3 more
+
+No i was not bored at all as i interact a lot with the others (Jason, Greg and Zoe)....but really i could not
+help it when i saw these 2 tickets..i thought to myself that this is at least an area where i could offer
+something immediately
+
+wi
+Claire Thomson 14/12/22 10:08
+
+| do have a plan for somethi
+account to the cloud solution
+
+ope you might like, just waiting on the company transferring the
+
+we use Prisma Cloud (used to be Twistlock) from Palo Alto
+security tool for containers is what we've used it for, but since we purchased it they've added a lot
+
+Zoe has done most of the work with it - but give it's new features and your background I think it would
+be something that's perfect for you to get involved with and see what extra usage we can get from it
+
+Can have a chat about that once they sort the licence though i)
+
+2/22 10:11
+
+oooooh i already like it indeed...cooh my God ...very interesting indeed...
+
+@1
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You)
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10
+
+Greg: fi GIF
+
+=: Lisi]
+
+You: Good afternoon D
+
+AWS VPCs
+
+You: ah ok no problem
+
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+@
+©
+©
+©
+©
+©
+
+Reco is ready
+
+Zoe MacKay 12
+
+David Moffat 19
+
+Catch Up 2.0 16
+
+Claire Thomson 13/
+
+Digital Team Update 12
+
+8/06
+
+11:41
+
+20
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+14/12/22 10:17
+
+2200!
+
+This is a lot!
+
+Claire Thomson 14/12/22 10:17
+
+yes! so | agree a limit is a good thing, but 2200 -> 10 seems drastic
+
+14/12/22 10:21
+
+yes indeed 10 is a bit too low too...there already about 5 people in our team...and that would mean
+that a message could not be forwarded to more than 4 extra persons...may be they could settle for
+something around may be between 30 and 50.Honestly all these subjects are most definitively
+
+interesting...i shall wait for tomorrow impatiently ! Thank you for taking time to explain all of this to me
+!
+
+Claire Thomson 14/12/22 11:36 Edited
+
+you seem like you have two days holiday to use up - so book them into timetastic for whenever you
+fancy
+
+https://timetastic.co.uk/
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+https://timetastic.co.uk/
+
+Timetastic - Online staff leave & holiday planne...
+Timetastic is the super-simple staff leave planner used by
+over 100,000 people to organise their time off work.
+
+/
+
+timetastic k
+
+I'll approve then your supposed to add them in ACE
+or you can just tell me what you want and I'll do it for you - up to you
+
+but just want to make sure you use them and don't loose them i)
+
+12/22 11:38
+
+aah ok no problem at all.! will see which days can be taken this month.
+thank you for reminding me...actually i did not even think i would have any to take to be honest
+
+Claire Thomson 14/12/22 11:39
+
+Ge you've also got the 26th as the business is closed
+
+full dave half dawe whatever van fancy GB
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3morey + a & &
+
+you've also got the 26th as the business is closed
+
+full days, half days whatever you fancy A)
+
+15 December 2022
+15/12/22 12:17
+
+Hi Claire.| wa
+yesterday
+
+ndering if your timetable for today will still allow for the meeting we spoke about
+
+Claire Thomson 15/12/22 12:25
+
+Will give you a call around 2 ag
+
+15/12/22 12:29
+
+Yes this is perfect
+Thank you in advance
+
+19 December 2022
+Claire Thomson 19/12/22 15:36
+
+https: //timetastic.co.uk/
+Pt
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 ©
+
+Q Search
+
+Claire Thomson Chat Files 3more~ +
+
+Claire Thomson 19/12/22 15:36
+
+&. https: //timetastic.co.uk/
+
+Timetastic - Online staff leave & holiday planne...
+Timetastic is the super-simple staff leave planner used by
+over 100,000 people to organise their time off work.
+
+f
+
+timetas
+
+% & Fai & G 100%
+
+12/22 16:16
+
+Hi Claire.So i submitted 2 days off on the system.One for friday the 23rd of december and another one
+
+for friday the 30th of december.
+
+Claire Thomson 19/12/22 16:19
+
+many thanks in advance
+
+that's them approved, you just need to pop them through in ACE now - and set me as the approver and
+I'll approve there (or katie bell from admin as I've approved in timetastic she can do it in ACE) it'sa
+pain having two systems, hopefully one day all the functionality will just be in ace
+
+(12/221
+
+aaah ok i do it right away
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+(12/22 16:19
+
+aaah ok i do it right away
+
+19/12/22 16:29
+
+| just booked the days in ACE.
+But on ACE i see three days of holidays instead of 2 on timetastic
+which one will be considered the system of truth ?
+
+ire Thomson
+
+12/22 16:30
+
+you'd had the 26th booked automatically on timetastic by admin as the company is closed
+
+I'll sort that in ACE
+ACE is the source of truth, it's linked with the wages system
+So your off the 23rd, 26th & 30th
+
+19/12/22 16:48
+
+Thank you so much. 26th of December is the most dangerous day of the year...retailers coming after us
+in the form of massive sales. | will go into a cave on that day to avoid them.
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Thank you so much. 26th of December is the most dangerous day of the year...retailers coming after us
+in the form of massive sales. | will go into a cave on that day to avoid them.
+
+@1
+Claire Thomson 19/12/22 17:15 é ¥ 5) i]
+
+Ah black Friday is worse | thi} <That's extended into a week now, then cyber Monday... That's a week
+too
+
+Don't think I've bought one full price item so year
+
+20 December 2022
+20/12/22 11:54
+
+HI Claire.Sorry but you mentioned on my first day that there would be a new starter soon.Will he/she
+start in the coming days ? | am asking just to make sure i am in the office when this happen to wish
+welcome the same way it was done to myself.
+
+Claire Thomson 20/12/22 11:56
+
+He's due to start at the end of January, he had a 3m notice period, but managed to cut it to 1.5m
+
+20/12/22 11:56
+
+aaaah ok then...so i know and will make sure i am around.
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+20/12 /22 11:56
+
+aaaah ok then...so i know and will make sure i am around.
+
+20/12/22 11:57
+
+@ Thank you
+
+Claire Thomson 20/12/22 11:57
+
+and I'll take you all for lunch again :)
+
+20/12/22 11:59
+
+Thank you in advanceYou are really treating us so wellL....another element besides my laptop i can use
+
+to brag... @
+
+_
+
+20/12/22 15:21
+
+Hi Claire.Sorry a question came to my mind while workng on my current ticket.May i ask it ? i have to
+
+say that this might seem like getting a bit ahead of myself but i wanna just see what you think about
+tha idea
+
+Workspaces
+
+Cha
+
+Pinned Claire Thomson 20/12/22 1
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+t v =
+
+Applications 20Jun 12:42 « = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
++24
+
+Marcel Sangare (You) naiDs I'd say yes but the window cleaners have just arrived and the dog is going mental she's terrified of
+You: mm @pop-os:~/ac-iac-platt... them - that's if you wanted a call i) if you just want to ask in the chat feel free lol
+
+nt
+
+20/12/22 15:25
+
+Laura Cooper 11:41 | lLask in the
+Hi Marcel - | have booked St Geo
+
+and i hope the dog and the visitors will not be on a collision course...not really the
+spirit of Xmas.
+
+ArchOps Chat 10:20 ; ;
+Greg: fm GIF So here is my question:
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+You mentioned last week the fact that the company was in the process of sorting some licence for
+vulnerability scanning on the containers e deploy on the cloud. So i wanted to know if by any chance
+Catch Up 2.0 16/06 you would be interested into an investigation about an alternative which is about combining Nexus
+ime in ano... (Artifact repository) and SonarQube (code vulnerability scanner that is applicable to Docker)
+
+Jason: Ru
+
+ng over
+
+PR Reviews
+
+Of course both Sonarqube and Nexus are Open source but used by banks...the banks i was supported
+not so long ago were using it.
+
+AWS VPCs
+You: ah ok no problem Claire Thomson 20/12/22 15:29
+
+No we've just renewed our contract with Palo Alto, we can use it for scanning on prem stuff too - there's
+lots of bits we don't use
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Workspaces Applications 20Jun 12:42 « = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+Claire Thomson Chat Files 3morey + a & &
+
+No we've just renewed our contract with Palo Alto, we can use it for scanning on prem stuff too - there's
+lots of bits we don't use
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt... it scans our repository too
+
+Recent ,
+20/12/22 15:30
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+aaaah it is too late@®
+
+Q ArchOps Chat 10:20 Claire Thomson 20/12/22 15:30
+. Greg: Si GIF
+
+a
+
+it can do code scanning and stuff and is in the pipelines
+
+David Moffat 19/06
+You: Good afternoon Da am ... 20/12/22 15:30
+
+Catch Up 2.0 16/06 ok then so we shall stick to Palo Alto
+
+Jason: Running over time in ano...
+
+aire Thomson 20/12/22 15:30
+
+PR Reviews 13
+
+: just jumped in in case an... yeah haha
+
+AWS VPCs
+
+You: ah ok no problem
+
+when it comes time again then it may be something we look at
+
+i 7 Dece sr 2022
+Claire Thomson 13/06 27 December 202
+
+You: Good morning Claire.Can i
+
+Claire Thomson 27/12/22 09:39
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You)
+
+Recent
+
+Laura Cooper
+
+8/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+11:41
+
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0
+
+AWS VPCs
+
+You: ah ok no problem
+Claire Thomson
+
+Planning
+
+a e here but
+
+Digital Team Update
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay
+
+10:20
+
+16/06
+
+13/06
+You: Good morning Claire.Can i...
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3 more ~
+
+27 December 2022
+Claire Thomson 27/12/22 09:39
+
+Can you send me your mobile number please and | can let you know what's going on
+
+Hello Claire
+it is
+07 46 66 87 596
+
+27/12/22 11:21
+
+Hello Claire
+| missed your call on teams
+| was in fact waiting by my phone as | sent it to you earlier
+
+| was not told anything yet but it looks as if there is a major incident ...most likely cyber related as
+most systems are turned off.
+
+If there is anything | can do in terms of helping or proposing ideas, please let me know
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+| was not told anything yet but it looks as if there is a major incident ...most likely cyber related as
+most systems are turned off.
+
+If there is anything | can do in terms of helping or proposing ideas, please let me know
+
+Claire Thomson 27/12/22 1
+
+Mory-Marcel Sangare https://pMvnote.com/kDfz7|hASTWkOd8bLX
+
+Claire Thomson 27/12/22 16:05
+
+lain Stewart
+
+28 December 2022
+28/12/22 15:01
+
+Hi Claire...
+i have 2 questions please.
+First how can i get i touch with Andrew Nicol ?
+
+is he on the chat ?
+
+Cr in tha tielent ha nactad in hie muthlic laws ushich «
+
+Goa RF COB - a >
+
+Workspaces
+
+Cha
+
+Pinned
+
+Rece
+
+2 6
+
+@©@@O68O00
+
+t v =
+
+nt
+
+Applications 20Jun 12:42 « = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+So in the ticket he pasted in his public key which:
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Now i am just about to implement the ticket and close it but but when you look at the screenshot you
+
+eal Ral det vile can see at the end of the public key the following words:
+
+Jason: Ru ime in ano...
+
+= BP IH Loader
+
+and i am wondering if these letters are part or not of the puclic key
+AWS VPCs
+
+You: ah ok no problem : . . ae : ..
+
+It looks as if he is trying to indicat to us anything before is in fact part of the key
+Claire Thomson 13/06
+You: Good morning Claire.Can i... | just sent him the question on Atlassian
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+Q Search
+
+Claire Thomson Chat
+
+Now i am jus
+can see at th
+
+Claire Thomson 28/12/22 1
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Files 3morev +
+
+ut to implement the ticket and close it but but when you look at the screenshot you
+d of the public key the following words:
+
+= BP IH Loader
+
+and i am wondering if these letters are part or not of the puclic key
+
+It looks as if he is trying to indicat to us anything before is in fact part of the key
+| just sent him the question on Atlassian
+
+as soon as he responds, i will input the key and close this ticket
+
+oh that's just on at the end so we know who it is - that's generated from the comments
+
+if that's OK to add you'll see some that will have email addresses for people - but that key is for the
+
+Workspaces Applications 20Jun 12:42 « = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+Claire Thomson Chat Files 3morey + a & &
+
+1 POLI ek ae
+
+Pinned
+28/12/22 15:13
+
+Marcel Sangare (You) 08/06 5 5 : : J
+You: mm @pop-os:~/ac-iac-platt... PS: little things like this can make me think a lot Fs)
+
+Recent i) 1
+
+Claire Thomson 28/12/22 15:13
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+don't worry - better to have questions and ideas than none!
+
+Q ArchOps Chat 10:20
+. Greg: 9H GIF 29 December 2022
+
+a
+
+David Moffat 19/06 29/12/22 14:54
+You: Good afternoon Da am ...
+
+HI Claire...ls there anything i can do to help with the current actions taken to get the company systems
+Catch Up 2.0 aie online ? It is true that i dont have access to quite a few systems but still i wont mind bringing even one
+me in ano... more grain of rice to the collective bowl
+
+Jason: Running over
+
+PR Reviews 13
+: just jumped in in case an...
+
+Claire Thomson 29/12/22 14:59
+
+you might be able to assist Greg in scanning the servers, you'll have access to some - and the ones you
+don't you can get your key added at the same time
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06 I'll give him a wee call
+
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:42 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+I'll give him a wee call
+
+29/12/22 15:00
+
+i was on the call with him just a few minutes ago
+
+@1
+
+Claire Thomson 29/12/22 15:06
+
+© yeah, just check the inventory files in ansible, if Greg is focused on the prd ones you can pick up some
+° of the others
+
+re Thomson 29/12/22 15:
+
+any questions or request for access hit up Greg
+
+30 December 2022
+
+Good morning Claire.With the unavaibility of the arnoldclarkemployee site, | thought | would remind
+you that | was meant to be have a day off today.
+
+Claire Thomson 30/12/22 08:53
+
+a
+
+Yes that's fine take your day off there's very little you can do anyway
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Files
+
+Claire Thomson Chat 3 more ~
+
+1. ak &
+
+Yes that's fine take your day off there's very little you can do anyway
+
+Did you manage to get any servers scanned yesterday? Didn't get a chance for catch up
+
+30/12/22 09:44
+
+Actually befo y message, | had a call with Greg who was still in the process of reviewing the script
+sent before rfirMing it.
+
+So after our exchange, the most | could do was to ask to be given access to the servers to be scanned
+from the jump servers(our ansible box).
+
+Unfortunately Jason was busy and Greg too.
+
+But most definitely | will see with them on Monday to be given access to the other servers and see how
+| can help with the task of scanning them from the Jump servers
+
+Claire Thomson 30/12/22 09:45 Edited
+
+yeah it'd be much easier to build a large manifest and do them all at the same time, would let us add
+
+keys to everything too
+that's not a problem - enjoy your day off - sorry it's been such a chaotic start to your AC journey!
+
+30/12/22 09:48
+
+Nooo it was not chaotic...you know it is a large organization and the ransomware thing is very
+
+unfartinataly: camman thaca dawe nn ana ic enarad hut athar than that | fool fartinata ta werk at
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:42 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+Files
+
+Claire Thomson Chat 3 more ~
+
+INFRA-528 - SFTP Server Config Management
+INFRA-98 - HAProxy socket permissions are too open
+Kind regards
+
+Marcel
+
+Claire Thomson 02/01 14:01
+
+Hiya, I'm actually off today (or trying to be it's not working so far!)
+
+looking forward to having a look at what you've come up with though!
+
+this one is def a good one INFRA-1102 - Migrate SFTP Servers to Ubuntu - but Jason was going to take
+you through the work he's been doing and he's still working on the restore stuff at the moment
+
+02/01 14:03
+
+Claire Thomson 02/01/2023, 14:01
+Hiya, I'm actually off today (or trying to be it's not working so far!)
+
+OMG...i am sorry 1G?
+
+Claire Thomson 0?/
+
+14:04
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+3 more
+
+5 January
+05/01 14:35
+
+Hello Claire.
+
+| have a quicl question
+Edited
+so regarding the sftp ticket...i am adding the possibility of having an SSL encrypted communication
+
+between the server and the client
+
+Now i wanted to know if it is ok , in regards to the company policy to have some self signed certificate
+as they present the advantage of being as tough as we can envision them (4096 bits encryption)
+
+6 Janu
+
+Hi Claire.
+| think we now have a robust vsftp server that could be deployed internally.
+
+As soon as the internal environment is a bit more stable, i will deploy it on our internal VMware.
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platf...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+3 more
+
+As soon as the internal environment is a bit more stable, i will deploy it on our internal VMware.
+To test the ftp server, please use Filezilla with the following login credentials:
+
+-Host ip: 144)/17.84.102
+
+-username: @nold
+
+-password: arnold
+
+-port 21
+
+-and accept to use the self signed certificate that will be presented to you.
+
+there is security solution that gets the server to react as soon as low as 1 network packet of hostile
+nature is received.
+
+| am just now finishing to write a script to automate the deployment of this easily and another script
+that will be used to set up user easily (as requested by one fo the backlog ticket)
+
+| am also perfecting the automated configuration and deployment of snort (IDS) and OSSEC so that
+these modules could eventually get deployed on a wider range of linux servers for security reasons.
+
+Many thanks,
+
+Marcel
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 06/01 15:30
+
+that | like the sound of!
+
+In fairness it was Microsofts fault really wasn't it @
+21
+11 January
+
+Pe
+
+HI Claire.
+| would please like to have a chat with you when your timetable does allow for it
+
+it is regarding some bits and pieces i noticed..nothing too major
+
+Claire Thomson 11
+
+Gs I'll try to catch you after lunch if | can! fingers crossed
+
+11/01 12:44
+
+as your timetable seems to be under quite a bit of stress today, we can make it tomorrow if you
+want...it is just a series of proposal i would like to make. Also seizing the opportunity to present the
+solutions implemented on the experimental SFTP and gather your opinion and critics on
+
+fe leanne and anne Fenes neitian ase Don mene ft
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20 Jun 12:43
+
+Q Search
+
+Claire Thomson Chat Files
+
+us your w
+
+% & Fai & G 100%
+
+WR RAR Re A LR QR UU oy
+
+want...it is just a series of proposal i would like to make. Also seizing the opportunity to present the
+solutions implemented on the experimental SFTP and gather your opinion and critics on
+
+it...improvement comes from critics and i do mean it @®
+
+Claire Thomson 12/01 16:15
+
+was it a group question or a me question?
+
+https://saas.zellis.com/arnoldclark/dashboard/dashboard-ui/index.html#/landing
+
+aire Thomson 12/01 16:45
+
+| can hear you
+you can't hear me
+it's the demo curse
+
+can do this tmw if you want?
+
+Sarr Claire hut with the dataile vain cave ma during the dicriiccinn
+
+41
+
+i underctand that mv collaaciua
+
+Workspaces
+
+Cha
+
+t v =
+
+Applications 20Jun 12:43 « = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Pinned 12/01 17:12
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06 Sorry Claire, but with the details you gave me during the discussion, i understand that my colleague
+You: mm@pop-os:~/ac-iac-platf... ason) might be facing some difficult circumstances that are therefore vz
+(Jason) mig g 4v¥09906&
+
+nt
+
+So i think i wil just do like you and try not to pay too much attention to some bits and pieces that are
+
+Laura Cooper 1:41 not done witira bad intention
+Hi Marcel - i have booked St Geo
+ArchOps Chat et So let's just forget about that discussion we had this afternoon...as i was not aware of these challenges.
+Greg: fy GIF
+
+I think it is better to try to support him rather and i will join you in that regard.
+David Moffat 19
+
+You: Good afternoon D
+
+Thank you for taking the time to listen and to help me understand what the situation really is.
+
+Catch Up 2.0 16/06 ;
+Jason: Running over time in ano... Claire Thomson 12/01 17:18
+
+PR Reviews again, it's absolutely fine and I'm glad you feel like you could raise the subject with me!
+
+13 January
+AWS VPCs
+
+You: ah ok no problem 13/01 14:23
+
+. Hi Claire.
+Claire Thomson 13/06
+You: Good morning Claire.Can i... 5 ; ;
+| wanted to send a quick note about the Network Intrusion Detection solution you mentioned
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:43 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+Claire Thomson 24/01 16:18
+
+The sftp work will need to be put in ansible/source control
+
+The HAproxy live/live will E 4é4ve2e0 Q AS
+
+I'll discuss these tmw and wh|\we actually need to do «
+
+24/01 16:21
+
+Yes indeed the code is ready to be put into git.I was waiting to show it to you before doing it but i think
+i wil push it anyway...and will work to improve it with new versions of it.
+
+Claire Thomson 24/01 16:22
+
+Yeah it's best to just get it there, can work on anything else after as you say
+
+Have a look at the naming conventions for the newer things
+Tends to be ac-iac-* or ansible-*
+Zoe can point you in right direction if you need
+
+24/01 16:24
+
+Workspaces Applications 20Jun 12:43 « = © & G& Pai @ 8 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Chat ~ = G&
+
+Pinned Claire Thomson 25/01 10:36
+
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+I've popped some time in tomorrow so you can show David and I the wor 4é-veeg
+
+David said at the moment, just to take some personal development time, so don't worry about those
+
+Recent F 4 : R rf
+Jira tickets - we can discuss jfose when we have some planning time é
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo... 25/01 10
+
+ArchOps Chat 10:20 Hi Claire.
+
+Greg: fi GIF
+
+=: Lisi]
+
+Thank you for this.
+David Moffat 19
+
+You: Good afternoon D am ... 4 1
+
+Catch Up 2.0 16/06 Claire Thomson 25/01 10:40 Edited
+
+half an hour OK or would you like more time?
+
+25/01 10:41
+
+AWS VPCs no 30 minutes will be more than enough
+
+You: ah ok no problem
+Claire Thomson 25/01 10:41
+Claire Thomson 13/06
+
+: . F |
+You: Good morning Claire.Can i... lovely!
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Goa RF COB - a >
+
+Zoe MacKay 12/05
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+Claire Thomson Chat
+
+David is pretty busy too - so tmw seemed best
+
+re Thomson 26/01 13:00
+
+think you need to reset your password to get in - and you should enable 2FA when you get access
+
+20 Jun 12:43
+
+arn:aws:iam::988562618433:user/mory-marcel.sangare@arnoldclark.com
+
+OG Wai & G 100%
+
+25/01 10:44
+
+Claire Thomson 25/01/2023, 10:42
+David is pretty busy too - so tmw seemed best
+
+Absolutely no problems for tomorrow.
+
+26/01
+
+Sorry Claire but i could not login.So i tried as a root user and my account does not exist as such.| also
+
+tried to use the "password reset" functionality but i get the following message:
+
+Account owners, return to the main sign-in page and
+sign in using your email address. [AM users, only your
+
+adminiateatar aan ranatunie nmaneeuinrd Car hala
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search oo =
+2 @
+
+20Jun 12:43 = © & OG @ai & B 100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Account owners, return to the main sign-in page and
+sign in using your email address. [AM users, only your
+administrator can reset your password. For help,
+contact the administrator that provided you with your
+user name. Learn n
+
+PS: From your message, i assumed that :
+
+Account ID: 988562618433
+
+IAM user name: mory-marcel.sangare@arnoldclark.com
+
+Claire Thomson 26/01 14:02
+
+oh no hahah - OK I'll see if | can do something with a password!
+
+https: //988562618433.signin.aws.amazon.com/console
+
+https: //privnote.com/I6EY9icjJ#3C5O0ec0F3
+
+should ask you to change password at next logon
+
+Goa RF COB - a >
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+SHUULU ask YUU LU CIA Ne PasswUlu al IIEAL LUSUIT
+
+Claire Thomson Chat Files 3 more ~
+
+26/01 14:10
+Yes it worked this time.
+e ‘l
+
+Thank you so much!
+
+31 January
+31/01 11:34
+
+Good morning Claire.
+lam very sorry but i think i have a little issue here.
+
+So | just got a phone call from university Hospital Crosshouse where my old uncle was taken to the
+emergencies.
+
+Apparently his condition is serious so i would like to take the afternoon off if you dont mind to go and
+see what is going on asi am his only relative in Scotland.
+
+Claire Thomson 31/01 11:37
+
+No that is absolutely fine, go now, hope everything is OK, will take you a wee while to get to Kilmarnock
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 31/01 11:37
+
+No that is absolutely fine, go now, hope everything is OK, will take you a 4éve20e0
+
+don't worry about logging back on today - and if you need the time tmw just send me a message, either
+here or to my mobile if that's easier 07766557121
+
+31/01 11:39
+
+Thank you for your understanding.| will keep you posted as to how things are .many thanks
+
+Claire Thomson 31
+
+e. if you need anything just let me know
+
+1 February
+01/02 09:15
+Good morning Claire.! just want to let you know that i am back to work this morning.The situation of my
+
+uncle is still critical but at this stage all we can do is hope that the intensive care does help in starting
+up some sort of recovery .I also wanted to say thank you for your understanding and support.
+
+Claire Thomson 01/02 09:17
+
+Ge I'm sorry to hear that, feel free to take any time you need - if you want to visit take longer lunches etc -
+I've been in a similar situation with my parents many a time so understand the stress and toll that it
+
+Workspaces Applications
+
+Chat ~
+
+‘a
+II!
+
+Pinned
+
+Apps
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 4
+Hi rcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+Claire: just jumped in in case an...
+
+AWS VPCs
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+Claire: we're here but things be...
+
+Digital Team Update 12/05
+Recording is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:43 a ©: Oo 8a & GB 100%
+
+Q Search vee @ =
+= (-]
+
+Claire Thomson Chat Files 3more~ + mit] &
+
+some non prod account to make sure the steps completed are not causing any serious issues (which
+they are not)...Now i went ahead and tried to locate from the IAM list of ucare the Tarrafnarm neare and
+
+this si what i get: é 2@ ea —
+
+Workspaces
+
+Files
+
+Chat ~
+
+Applications
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+id
+
+@#6000
+
+&
+
+@ @
+
+Laura Cooper 4
+Hi i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat
+
+You: Good afternoon Da
+
+19/06
+am ...
+
+16/06
+me in ano...
+
+Catch Up 2.0
+Jason: Running over
+
+PR Reviews 13/06
+Claire: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem.
+
+Claire Thomson
+You: Good morning Claire.Can i
+
+Planning
+a e're here but t
+
+08/06
+igs be...
+
+Digital Team Update
+
+g is ready
+
+12/05
+
+12/05
+
+Zoe MacKay
+
+20Jun 12:43 = ©: OG Wai & G 100%
+
+Q Search
+
+»
+
+vs Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+i believe it would be safe to set upa new user called "terraform-user" because you can see below the
+fact that the current user has not been used in more than 2 years
+
+2 February
+Claire Thomson 02/02 16:03
+
+Sorry meant to ask how your Uncle was keeping? any improvement?
+
+02/02 16:06
+
+Hi Claire Thank you so much for asking.Unfortunately the situation has not improved and he is still
+unconscious as we speak.It is a difficult situation but he is in very good hands soi keep hoping for
+some improvement.
+
+Claire Thomson 02/02 16:07
+
+aww, I'm sorry to hear that, | guess the upside is that he's not declined any - so fingers crossed there
+may be improvement soon
+
+asain ctill the same if vai need anv time for visits ete ict let me knaw
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+be improvement soon
+
+may
+
+-+--— —--~---~~— —-—--
+
+again, still the same, if you need any time for visits etc just let me know
+
+Thank you vgly much for your understanding.And yes indeed at least things have remained kind of
+stable until now.
+
+3 February
+03/02 15:25
+
+HI Claire.Sorry i have a quick question.So regarding the FTP Server i was presenting to you last week, is
+it now okj to build it on prem or are we still awaiting for some further work from the security team
+before proceeding ? Many thanks in advance
+
+Claire Thomson 03/02 15:26
+
+| need to get Jason to take you through what he's done with the ansible set up for the new servers
+
+03/02 15:27
+
+ok then no problem.Dont worry i will ask him directly
+
+5 February
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files
+
+3 more
+
+1. ak &
+
+ok then no problem.Dont worry | will ask him directly
+
+5 February
+
+Good morning Claire.| am sending this message while | am at it and to make sure | don't forget
+tomorrow.
+
+So below is a screenshot of the authentication process used on AWS:
+
+W:41
+
+aws Q
+
+AWS > .. > UserGuidef... FL @
+
+English ¥
+
+Amazon EC2 key
+pairs and Linux
+instances
+
+PDF | RSS
+
+A kev r consistina of a nublic kev and
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat
+
+© You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Q Search
+
+Claire Thomson Chat
+
+20Jun 12:43 © 2 BS
+
+Files
+
+OG Wai & G 100%
+
+3more~ +
+
+PDF | RSS
+
+A key pair, cons
+a private key, is a set of security
+credentials that you use to prove your
+identity when connecting to an Amazon
+
+ng of a public key and
+
+EC2 instance. Amazon EC2 stores the
+public key on your instance, and you
+store the private key. For Li
+the private key allows you to securely
+
+instances,
+
+r instance. As an alternative
+
+en AVAIS Core
+
+al ran] docs.aws.amazon.cor
+
+= <
+So as you can see,Amazon does generate 2 keys, one private and one public.
+The public key is kept on the server
+
+And the private key is sent to us for authentication so we get to keep the private key.
+Edited
+
+So | reviewed the code on the sftp server and it is doing exactly the same
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi Marcel - | have booked St Geo
+
+11:41
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+Q. Searc
+
+z.
+iv]
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+h oo
+
+1. ak &
+
+Files
+
+Claire Thomson Chat 3 more ~
+
+| will push the updated code tomorrow
+
+Ok | am now going to enjoy Sunday...and sorry for sending this message on a Sunday....| was running
+the risk of forgetting tomorrow (the ailment of old age as | come to experience it) and | wanted to
+devote tomorrow to a more agile and elastic way of dynamically generate terraform steps for AWS.
+
+Many thanks
+
+Claire Thomson 05/02 12:01
+
+We need to allow multiple users access to the same accounts, and the same users/servers require
+access to multiple accounts which is why them providing the public keys to us is useful, it just gets
+added to the authorised_keys file.
+
+| don't have any issue in reversing that and providing them the private key provided we can do the
+same.
+
+To be honest trying to get users to provide an SSH key at all is often difficult @
+
+Thanks for the message, enjoy the rest of your weekend. Hope your Uncle is still stable x
+
+7 February
+07/02 08:00
+
+Good morning Claire.
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Files
+
+Claire Thomson Chat 3 more ~
+
+1. ak &
+
+POUR WORE PS PP ee GU.
+
+So i would like to please take today off in order to start dealing with all the consequences brought
+forward by the event and i have just sent through the timetastic app a request for the day; | will also
+need to go pick up at the airport some family members who will be leaving Paris this very morning.
+Please allow Ne to thank you for your support throughout this period of ups and downs.
+
+Claire Thomson 07/02 08:22
+
+I'm so sorry to hear that. Yes of course that's absolutely fine, my condolences to you all x
+
+Claire Thomson 08/02 09:59
+
+How are you? | thought you'd be off today - take any time you need
+
+08/02 10:08
+
+Good morning ClaireYes i am back.| decided to come back today.| think it is better. The pain will be
+around but life has to go on.
+
+And i think i have to focus on what i gained from the interaction with my uncle and also all the other
+amazing opportunities i have in life and that includes all of my daily activities and of course duties.
+
+y 2? ? D
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3more~ +
+
+Please find above a copy of the ansible for deploying sftp servers on premises
+There are just 2 little things left really:
+
+-Fixing the odd behaviours i see when execution reaches line 144 (Ansible generation of TLS
+Certificate..w||rks perfectly with bash but is misbehaving completely with Ansible)
+
+-and obviously making use of loops once the issue with the TLS Certificate (a rather trivial task once all
+is operational)
+
+However would you be ok with a creative one liner bash script added to the package ?
+Something like below to eventually circumvent the issue with the TLS generation:
+#!/bin/bash
+
+#running TLS CErtificate generation
+
+openssl req -x509 -nodes -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd.pem -out
+
+/etc/ssl/private/vsftpd.pem -days 3650
+
+Claire Thomson 01/03 12:40
+
+© | bah that's not opening teams is doing something odd with it... would be easier to stick it up in github
+4 ona branch - or in a draft PR and get feedback that way
+
+Goa RF COB - 6 ©
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3morey + a & &
+
+lineinfile:
+path: /etc/vsftpd.conf
+line: pasv_min_port=30000
+create: no
+
+#Adding the option 'pasv_max_port=30500'
+- name: adding the line 'pasv_max_port=30500' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'pasv_max_port=30500' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: pasv_max_port=30500
+create: no
+
+#Adding the option 'userlist_enable=YES'
+- name: adding the line 'userlist_enable=YES' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'userlist_enable=YES' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:43 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+- name: adding the line "userlist_enable=YES' to the file /etc/vsttpd.cont
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: userlist_enable=YES
+create: no
+
+Claire Thomson 01/03 12:44
+
+what is the error your getting? or does it just not work at all?
+
+haha - that's not got line numbers that's no help me
+
+01/03 12:45
+aaaah yes no line number....aaaah teams is playing tricks...
+@1
+
+ok i think i know what i will do
+
+i will have two files...
+
+Claire Thomson 01/03 12:45
+
+put it in github on a branch &
+
+Goa RF COB - a >
+
+Workspaces Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+Claire Thomson Chat
+
+Claire Thomson 01/03 12:47
+nope &
+
+silly teams
+
+20Jun 12:43 ©
+
+Files 3morev +
+
+| always have trouble opening anything in teams
+
+Claire Thomson 01/03 12:47
+
+ma
+6
+
+haha no worries - just stick it ina branch in github
+
+Gere kr 6 OG
+
+Oo ai gd
+
+| VSILP.LAL ale
+
+Could you open above as a txt file ?
+
+01/03 12:47
+
+So sorry Claire
+ok i sent you an email now
+
+one second
+
+01/03 12:50
+
+G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20 Jun 12:43
+
+Claire Thomson Chat
+
+Claire Thomson 01/03 12:51
+
+cool @ | do that with ever - easier to share and checks the linting etc
+
+like this x https://dev.azure.com/ArnoldClark/dpd/ build/results?
+
+% & Fai & G 100%
+
+ok i will..i just sent you an email with the file.! will change slightly the formatting as mentioned above
+and put it in a branch today
+
+r
+
+buildid=963090&view=logs&)=232845a4-80e4-522e-14c9-a1305075e4aa &t=02eb7405-a117-5d22-c80f-
+6f4b9439f22a
+
+02/03 11:32
+
+Good morning Claire.
+
+So i have the following:
+
+https: //github.com/arnoldclark/ac-iac-platform-onprem-ops/pull/196
+
+iam going to send a message to Jason to see when we can review all of thjis together to make the
+necessary amendments
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+2 6
+
+@©@@O68O00
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi Marcel - | have booked St Geo
+
+11:41
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 s+ BS GG Oa gv
+
+Q Search oo
+
+Claire Thomson Chat files 3morey + OI &
+
+Could you open above as a txt file ?
+
+Claire Thomson 01/03 12:47
+nope &
+
+silly teams
+
+| always have trouble opening Shything in teams
+
+01/03 12:47
+
+So sorry Claire
+ok i sent you an email now
+
+one second
+
+év
+
+Claire Thomson 01/03 12:47
+
+a
+
+A haha no worries - just stick it ina branch in github
+
+01/03 12:50
+
+ok i will.i just sent you an email with the file.I will change slightly the formatting as mentioned above
+and put it in a branch today
+
+G 100%
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:43 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3morey + a & &
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:43 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3morey + a & &
+
+lineinfile:
+path: /etc/vsftpd.conf
+line: pasv_min_port=30000
+create: no
+
+#Adding the option 'pasv_max_port=30500'
+- name: adding the line 'pasv_max_port=30500' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'pasv_max_port=30500' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: pasv_max_port=30500
+create: no
+
+#Adding the option 'userlist_enable=YES'
+- name: adding the line 'userlist_enable=YES' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'userlist_enable=YES' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+
+Goer COB - a >
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+ny
+II!
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+
+Greg: fi GIF
+
+ES: Lisl
+
+David Moffat 19/06
+You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning 08/06
+re here but gs be...
+
+Digital Team Update 12/05
+
+Rec is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:43 ©
+
+Q Search
+
+Claire Thomson Chat Files 3more~ +
+
+ona branch - or ina draft PR and get feedback that way
+
+I'm not against the idea if it's needed, to be honest I'm a .net dev at heart - ansible still confuses me
+most of the time haha - but we've got Jason, Greg and Keith who can offer good feedback on it
+
+# Updating the Server
+- name: Updating the Vsftp Server
+
+hosts: all
+
+become: true
+
+tasks:
+
+- name: Update and upgrade apt packages
+apt:
+
+upgrade: yes
+
+update_cache: yes
+
+#Installing the vsftpd package
+
+- name: Installing the package for vsftp
+hosts: all
+become: true
+
+tacke-
+
+Oo Wai & B100%
+
+bah that's not opening teams is doing something odd with it... would be easier to stick it up in github
+
+01/03 12:43
+
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+3 more
+
+create: no
+
+#Adding the option ‘local_root=/home/SUSER/ftp'
+- name: adding the line 'local_root=/home/SUSER/ftp' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'local_root=/home/SUSER/ftp' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: local_root=/home/SUSER/ftp
+create: no
+
+#Adding the option 'pasv_min_port=30000'
+- name: adding the line 'pasv_min_port=30000' to the file /etc/vsftpd.conf
+hosts: all
+tasks:
+- name: adding the line 'pasv_min_port=30000' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: pasv_min_port=30000
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3morey + a & &
+
+- name: adding the line 'userlist_enable=YES' to the file /etc/vsftpd.conf
+become: yes
+lineinfile:
+path: /etc/vsftpd.conf
+line: userlist_enable=YES
+create: no
+
+re Thomson 0
+
+what is the error your getting? or does it just not work at all?
+
+haha - that's not got line numbers that's no help i]
+
+01/03 12:45
+aaaah yes no line number....aaaah teams is playing tricks...
+@1
+
+ok i think i know what i will do
+
+i will have two files...
+
+Claire Thomson 01/03 12:45
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20 Jun 12:44
+
+Claire Thomson Chat
+
+re Thomson 01/03 12:45
+
+put it in github on a branch &
+
+Claire Thomson 01/03 12:45
+
+it give syntax highlighting and everything @
+
+— vsftp.txt
+
+Claire Thomson
+
+% & Fai & G 100%
+
+01/03 12:45
+
+one for regular yaml ansible
+
+and one to be executed with the ansible shell module with that oneliner
+
+01/03 12:46
+
+and later i will try to fix the issue so that i can get on to with the terraform
+
+41
+
+Could you open above as a txt file ?
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat
+Greg: fe GIF
+
+=: Lisi]
+
+10:20
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay
+
+Q. Searc
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+h oo
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+Could you open above as a txt file ?
+
+Claire Thomson 01/03 12:47
+nope @
+silly teams
+| always have trouble openin
+
+ything in teams
+
+01/03 12:47
+
+So sorry Claire
+ok i sent you an email now
+one second
+
+Claire Thomson 01/03 12:47
+
+haha no worries - just stick it in a branch in github
+
+103 12:50
+
+ok i will.i just sent you an email with the file.I will change slightly the formatting as mentioned above
+and put it in a branch today
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+a,
+
+Wo
+
+Claire Thomson Chat Files 3morey + a & &
+
+ok i will..i just sent you an email with the file.! will change slightly the formatting as mentioned above
+and put it in a branch today
+
+r
+Claire Thomson 01/03 12:51 é ¥ i) g ey _
+
+=. cool @ | do that with ever - easier to share and checks the linting etc
+like this i) https://dev.azure.com/ArnoldClark/dpd/ build/results?
+buildid=963090 &view=logs&j=232845a4-80e4-522e-14¢9-a1305075e4aa &t=02eb7405-al17-5d22-c80f-
+6f4b9439f22a
+
+2 March
+02/03 11:32
+
+Good morning Claire.
+
+So i have the following:
+
+https: //github.com/arnoldclark/ac-iac-platform-onprem-ops/pull/196
+
+iam going to send a message to Jason to see when we can review all of thjis together to make the
+necessary amendments
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search
+
+Claire Thomson Chat Files 3morey + a & &
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Claire Thomson 02/03 12:53
+
+3 March
+03/03 10:59
+
+Hello Claire.
+
+So it is just to let you know that i went through the repository as you advised yesterday and i think i
+see what you mean.
+
+Yes the ansible i tried to push yesterday is a massive 400 lines one...that does the job and even set up
+new features but does need to be broken in smaller chunks/roles .
+
+So this is my plan if you dont mind:
+-Have a session with Jason as expressed yesterday.| am just waiting for his availability for today
+-Agree with him on the steps to migrate the centos sftp to ubuntu so that we are all on the same page
+
+-And apply the same principles as above to my aws terraform ; in this regard, i already spoke to Zoe
+and i think a little code reorganization wont hurt anyone. | ll try to emulate what we have under /ac-
+
+tae mlatfn es Hate! Daemeeed
+
+Tenmmnnts Indes clontae ennmhnes
+
+Goa RF COB - 6 ©
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+-And apply the same principles as above to my aws terraform ; in this regard, i already spoke to Zoe
+and i think a little code reorganization wont hurt anyone. | ll try to emulate what we have under /ac-
+iac-platform/aks/.../<environment>/aks-cluster-<number>
+
+And sorry about causing you trouble.I just wanted to solve it ALL and move to something else but your
+approach of qyaall iterative steps is in fact better in the long term.| was just too eager to do too much
+at once..May is time to lessen the shortbread to be less hyperactive
+
+@'
+Claire Thomson 03/03 11:40
+
+=,
+
+Ge shortbread is good!
+how do you feel about tablet though? that's what | like
+
+03/03 11:41
+
+Tablet is an excellent thjing but i think shortbread stole my heart
+
+Claire Thomson 03/03 11
+
+I'll see if we can have a chat with Jason this afternoon, | had planned to put something in - just been
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3more~ +
+
+re Thomson 03/03 11:44
+
+& I'll see if we can have a chat with Jason this afternoon, | had planned to put something in - just been
+
+sucked into other chats so
+
+i been able to see where he's at today
+
+03/03 11:45
+
+no problem at all on my side
+
+6 March
+Claire Thomson 06/03 13:48
+
+Gs Sorry I've had to move that meeting today - I've run out of time and Jason isn't feeling great
+
+I've made it longer just to block out the time so we can move it around and just block anyone else from
+trying to book mea meeting &
+
+people keep overbooking me - it's a pain
+look at my calendar, that's what it's there for - but noooo - "everyone else was free" - really annoys me
+
+so sorry
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+06/03 13:57
+
+Good morning Claire.It is absolutely not a problem at all for me. Actually i am the one sorry that all of
+this is creating some pressure points in your calendar but i have been doing some prep on the side to
+make sure things go as quickly and smoothly as possible this time.
+
+Claire Thomson 06/03 13:58
+
+Not your fault at all! you asked for time and others aren't looking at my calendar - not even had lunch
+
+yet @
+
+all | wanted was some tomato soup too - I'm not asking for much
+
+oh no I've also just remembered I've not taken anything from freezer for dinner
+| fail to adult
+
+06/03 14:04
+
+Oh my God.I am going to let you deal with these important things . Please have some lunch as your
+entire team (me included) needs you for the centuries to come and some nice Scottish food is the
+minimum to get on that road.
+
+@1
+
+y 2? ? D
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20 Jun 12:44 © a & Fy
+
+Claire Thomson Chat Files 3more~ +
+
+ak &
+
+Oo Wai & B100%
+
+Q Search oo
+2 @
+
+Oh my God.I am going to let you deal with these important things . Please have some lunch as your
+entire team (me included) needs you for the centuries to come and some nice Scottish food is the
+
+minimum to get on that road.
+
+BB Howto Create SFTP User in Ubuntu 22.0...
+
+9 March
+Claire Thomson 09/03 12:18
+Hiya, I've passed the AWS User Control ticket over to Greg after our chat with security - they're wanting
+
+MFA on a soon as possible for Cyber Essentials - so Gregs just finishing up what he was working on so
+perfect time for him to pick that up - asked him to have a chat with you to see if you'd started on
+
+anything @
+
+09/03 12:18
+
+Good morning Claire.No problem at all for me
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+1. ak &
+
+Good morning Claire.No problem at all for me
+
+ire Thomson 09/03 12:18
+
+Just so you don't think I'm taking things away without letting you know @ Just spreading the work
+haha
+
+09/03 12:18
+
+And thank you for taking the time to let me know
+
+Claire Thomson 09/03/2023, 12:18
+Just so you don't think I'm taking things away without letting you
+know © Just spreading the work haha
+
+Noi would never think that at all...not from you...You are one of the most considerate person in this
+company by far so never such an idea will even come close to my mind.@®
+
+@1
+
+Claire Thomson 09/03 12:20
+
+Workspaces Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19/06
+You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+Jason: Ru ime in ano...
+
+PR Reviews 13/06
+Claire: just jumped 1 case an...
+
+AWS VPCs 13/06
+
+You: ah ok no problem.
+
+@6é6000
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+is
+
+Planning 08/06
+Claire: we're here but
+
+Digital Team Update 12/05
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3more~ + mit] &
+
+wo
+
+15 March
+15/03 14:03
+
+Hello Claire.| am sorry but i wanna ask for an early finish today.| have been battling these flu like
+symptoms for the past couple of days but it looks as if i am losing this battle and fast.| just want to go
+and speak to my local pharmacist to take a test (possibly for covid too as i start to have my doubts)
+and also see if somethign can be prescribed otherwise i fear my packs of shortbread will end up
+orphans.
+
+Claire Thomson 15/03 14:03
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+Q Search
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+Thank you but i really i really want to finish the current task i am working on asap so i declared war on
+whatever is making me sick now and promise to myself, you as my manager and the world to defeat
+that bug by tomorrow...i am even willing to write a bash script to help in that fight (providing it is at all
+useful)
+
+1
+
+Thank you Claire and see you tomorrow morning
+
+Claire Thomson 15/03 14:08
+
+get some rest, chicken soup and don't rush back if your not feeling up to it - | won't be happy’
+
+16 March
+16/03 09:07
+
+Good morning Claire.! just wanted to inform you that i am back in this morning.The remedies i got from
+the pharmacist yesterday have restored greatly helped.Thank you again for yesterday
+
+Claire Thomson 16/03 09:35
+
+A If you start feeling bad again, just go to bed!
+
+16/03 09:36
+
+Claire Thomson 16/03/2023, 09:35
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q. Searc
+
+a
+
+Vo
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+h -~@Q -
+
+1. ak &
+
+PESseal Lil. WUL Ula LIE ULIIED LanS are ITELEVaIIL VUL I adlWedys Lidve SUITIE LUUSII TESea Ul LITE Salle Way |
+crave shortbread...i hope you wont be too shocked to discover my dark side. @®
+
+Claire Thomson Chat Files 3 more ~
+
+many thanks in advance
+
+11 April
+
+re Thomson 11/04 10:28
+
+Can you remember you need to-clock in and out on the employee portal again please @
+
+11/04 11:01
+
+HI ClaireYes i will do it now..i must admit i forgot
+
+Claire Thomson 12/04 08:50
+
+What should these actually be for yesterday? Remember core hours are 9.30-12 & 2-4 - | don't mind if
+you lunch outside these hours but still swipe for your lunch so | don't get anomalies to correct for you
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+Q Search oo =
+2 @
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+yesterday and to see if she can offer any tips etc ®
+
+2/04 12:01
+
+Hello Claire.No problem at all for me !
+
+18 April
+18/04 11:36
+
+Good morning Claire.! would like to request the coming friday as day off.Sorry for the short notice but i
+just got an email that is literally forcing me to execute asap some important administrative formalities
+
+Claire Thomson 18/04 11:37
+
+A no that's totally fine - you've lots of holidays and they are there to be used!
+
+just pop it in timetastic and I'll approve for you
+
+18/04 11:38
+
+Thank you so much.! am doing it now.
+
+Claire Thomson 18/04 11:46
+
+€ ‘approved - added it into ace so you didn't have to as well since | was already there eS
+°o
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+OD cree: em cir
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+(~)
+AWS VPCs
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Good morning Claire.! am still facing the same issues with the VPN and i still havent got a reply from
+Frank Mc Dade...have you please some suggestions as to whom i can get in touch with for this problem
+? I find it so frustrating to have your precious time wasted clocking for me.@&
+
+aire Thomson 27/04 08:53
+
+httos://teams.microsoft.com NW channel/19%3a0f47f03a89f64d46b981e2b37c10aae9%40thread tacv2/Net
+work?groupld=91e251c6-1c40- -a054-1bec33010e40&tenantid=6980564e-41fc-4d17-b94a-
+c150b0b0125e
+
+you could pop a message in here - | know there is an issue emailing tokens but don't think it should be
+affecting you unless you need a new one
+
+7/04 09:59
+
+no problem i will do that
+
+re Thomson 27/04 11:15
+
+remember to push your work to your branch @
+
+28/04 10:30
+
+Hello Claire.Just to let you know..So we have around 20 vpc on aws..So i just pushed on git the ones
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+Claire Thomson 28/04 10:39
+
+there's 1.vpc and vpc_terraform?
+
+the ones set up in vpc_terraform are looking more like I'd expect
+
+28/04
+
+yes the ones i pushed this morning are the ones in vpc_terraform
+41
+
+There are still improvements to bring to them and it will be done...for now i am trying to deal with the 6
+others with minor issues
+
+Claire Thomson 28/04 10:45
+
+¢ great - that's definitely looking like it's going in a better direction now @
+
+28/04 10:45
+
+Thank you for your patience on this.And rest endured that it will be completed according to plan
+
+Claire Thomson 28/0
+
+No worries, once you get the hang of it it'll come together easily @
+
+Workspaces
+
+Applications
+
+Chat ~
+
+ny
+II!
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+i
+
+(oe
+o"y
+
+Claire Thomson Chat Files 3 more ~
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+1. ak &
+
+28/04 10:43
+yes the ones i pushed this morning are the ones in vpc_terraform
+41
+
+There are stilLimprovements to bring to them and it will be done..for now i am trying to deal with the 6
+
+others with issues
+
+Claire Thomson 28/04 10:45.
+
+great - that's definitely looking like it's going in a better direction now @
+
+28/04 10:45
+
+Thank you for your patience on this.And rest endured that it will be completed according to plan
+
+Claire Thomson 28/
+
+No worries, once you get the hang of it it'll come together easily @
+
+10 May
+10/05 10:55
+
+Good morning Claire.
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+Claire Thomson 10/05 10:59
+Thanks! Cyber basically get to control what is used/not used, so unfortunately we don't get much say in
+it - only when they decide something we have to implement whatever idea they've come up with good
+or bad haha
+
+I'll happily pass on your offej/should they want to take you up on it - it would be good for them to have
+someone with technical imptémentation knowledge of security tools
+10/05 11:00
+® yes i know we just got to execute the overall plan they design..i was mentioning this just in case
+
+they were to some days ask for the opinion of our department some days.
+
+But if you get a chance to get them to listen, please mention to them that the easiest way to disrupt
+
+attacks at the earliest stage is to use the package "psad" in conjonction with iptables
+to disrupt attacks at the ealiest stage
+
+Claire Thomson 10/05 11:02
+
+yeah we have a company called Barrier that deal with intrusion detection
+
+that's how we found out about the incident, but we've (company) a large windows estate to think of
+
+too ®
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+
+3
+
+David Moffat
+You: Good afternoon Da
+
+am ...
+
+16/06
+me in ano...
+
+Catch Up 2.0
+Jason: Running over
+
+PR Reviews
+just jumped in in case an...
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+Q. Searc
+
+a,
+
+Ly
+
+Ve
+
+20 Jun 12:44 © a & Fy
+
+h -~@Q -
+
+Claire Thomson Chat Files 3more~ +
+
+OG Wai & G 100%
+
+ak &
+
+so on the branch "INFRA-675/AWS" under "aws", there will be a folder "vpc terraform version 1.3.7"
+
+with the update to the terraform config for all the vpc using version 1.3.7.
+
+Claire Thomson 19/05 11:33
+
+why? this should all be in on
+It should be along these line:
+AWS
+
+-- main.tf (contains providers, versions, datablocks, locals)
+o> vpe-1.tf
+
+-- vpe-2.tf
+
+-- variables.tf
+
+-- output.tf
+
+older, it's all still in separate folders?
+iscussed
+
+it should be "= 1.3.7"
+
+Claire Thomson 19/05 11:44
+
+and please don't feel like anything has to be absolutely right &
+
+push frequently, get feedback when you need, it ask questions - I'm forever making commits that just
+say "Typo" &
+
+q0/NG 14-AG
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+23/05 11:58
+
+i will push Claire ...i was intending to do so by the end of the day..i am just testign a few bits and pieces
+before doing so...but i will...
+
+é'
+23/05 14:12
+
+Hello Claire.
+
+Please can you have a look at the structure below for the vpc-0232b16b ; It is just os that you have an
+idea before i push this afternoon.
+
+so what i am doing at the moment is pretty much the same for all vpc. So iam breaking them down,
+each of them in their individual folder such as below before then move on to merge them into a single
+folder as requested by you last week:
+
+The reason why i initially opted for a single root project per vpc is because vpc on aws are considered
+isolated units so the idea was to isolate them in into their own individual project for scalability and
+strict isolation from each other.
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You)
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+*@ Hi Marcel - i have booked St Geo
+
+Greg: fi GIF
+
+=: Lisi]
+
+David Moffat
+You: Good afternoon D
+
+AWS VPCs
+
+You: ah ok no problem
+
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+@6éoqo0e0eoe0eeceo0o
+
+Reco is ready
+
+ArchOps Chat 10
+
+Catch Up 2.0 16
+
+Claire Thomson 13/
+
+Digital Team Update 12
+
+Zoe MacKay 12
+
+8/06
+
+11:41
+
+20
+
+Q Search oo =
+2 @
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+| can see import commands
+Edited
+
+it's a datablock - do you have credentials set somewhere for logging into aws?
+or you just logging in via CLI - maybe my creds need refreshed
+
+23/05 14:37
+
+yes we stored them on azure with Zoe, but in my case, i have the following set in my default profile:
+yes i did it via clias mentioned by you and added the above into my default profile
+
+Claire Thomson 23/05 14:38
+
+Ge you'll now need to cycle your key 8
+
+23/05 14:40
+
+yes i think so since i shared them here
+
+on microsft teams i mean
+@'
+
+Claire Thomson 23/05 14:45
+
+Goa RF COB - a >
+
+Workspaces
+
+Applications
+
+Chat ~
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+20 Jun 12:44 © a & Fy
+
+Q Search
+
+Claire Thomson Chat Files 3 more ~
+
+-- ak &
+that was set up by Zoe and myself
+
+for consistency with the simil;ar user on azure but also to enable certain commands so i dont think
+from memmory that the user above was modified
+
+ire Thomson 23/05 15:10
+
+OK, so that key is associated that user? not you?
+
+I'll try that then see if there is a difference, unless you've changed it already?
+
+23/05 15:10
+
+yes trhat user was create specifically for that task of running terraform commands from the cli
+no i havent changed yet
+
+Claire Thomson 23/05 15:11
+
+e I'm an admin, I'd have assumed it would have worked fine for me - but you never know
+
+haha you've deleted them - can you send them again &
+
+23/05
+
+wn
+fs]
+
+one second i send it here:
+
+OG Wai & G 100%
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+a
+
+,O@OQOOQ68 O00
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20 Jun 12:44
+
+Q Search
+
+Claire Thomson 23/05 15:19
+
+cool just delete that again thanks &
+
+such a bad way to share i)
+
+Claire Thomson 23/05 15:22
+z.
+
+& still in the logs, nothing is gone forever ha
+
+Claire Thomson 23/05 15:25
+
+Pea
+
+Claire Thomson Chat Files 3 more ~
+
+= © & OG @ai & B 100%
+
+23/05 15:15
+
+one second i send it here:
+
+23/0
+
+un
+
+15:20
+
+yes but we deleted it quickly enough...
+
+23/05 15:24
+
+so true @
+
+OK so that worked - for whatever reason | don't have permissions, will need to see what's different for
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Claire Thomson Chat Files 3morey + a & &
+
+re Thomson 23/05 15:25
+
+OK so that worked - for whatever reason | don't have permissions, will need to see what's different for
+
+my user @
+
+But | can do a plan woohoo!
+
+23/05 15:28
+
+® ah this is good news indeed.
+
+Claire Thomson 23/05 15:28
+
+yeah I'm guessing you'll have no outputs or variables, so you'll only need the main.tf and the file with
+the VPC and all it's settings
+
+it'll be much tider and easier to understand
+
+once that's done and everything is imported and there's no changes in the plans, it will be easier to
+make a module and pass in the values
+
+yes this is why i am breaking it down for each of them and theen use the broken down files to bukld a
+single configuration
+
+Workspaces Applications
+
+Chat ~
+
+=) Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files aL oO &! &
+
+yes this is why | am breaking it down tor each of them and theen use the broken down files to bukld a
+
+3 more
+
+single configuration
+
+Claire Thomson 23/05 15:31
+
+OK @ just keep remembering to commit - doesn't matter if it's not working or not beautiful’ & | was
+so used to working alone that | had that habit too 3 now | do tiny changes and push all day sg
+
+23/05 15:33
+
+i swear....i lL push the "broken down" configs every day
+
+if not i must dmaned and not allowed to use linux anymore
+
+@1
+
+Claire Thomson 23/05 16:49
+
+Workspaces
+
+Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+@6é6000
+
+& @ 0
+
+Laura Cooper 11:41
+Hi Marcel - i have booked St Geo...
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19/06
+You: Good afternoon D am ...
+
+Catch Up 2.0 16/06
+
+Jason: Ru ime in ano...
+
+PR Reviews 13/06
+Claire: just jumped 1 case an...
+
+AWS VPCs 13/06
+
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning 08/06
+Claire: we're here but
+
+Digital Team Update 12/05
+
+|
+
+Zoe MacKay 12/05
+
+Ne praia
+
+Q Search
+
+Claire Thomson Chat
+
+20Jun 12:44 © s+ BS GG Oa gv
+
+Files 3morev + mm &
+
+i &
+
+30 May
+
+Good morning Claire.| would need your help on a few little things please.
+
+So | learnt last week that i inherited from my uncle total estate and the news came as
+a shock since i did not want that and told him so many times.
+
+But it seems to me my uncle had some surprises for me in store even when not around.
+
+So i inherited from his flat in Paris and his mansion in Abidjan-Cocody .
+
+G 100%
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+© You: mm@pop-os:~/ac-iac-platf...
+
+Recent
+
+Laura Cooper
+@ Hi rcel - i have booked St Geo..
+
+re) “b ArchOps Chat 10:20
+
+Greg: Sf GIF
+
+David Moffat 19/06
+© You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+Jason: Running over time in ano...
+
+Files
+
+PR Reviews
+Claire: just jumped in in case an...
+
+AWS VPCs 13/06
+
+You: ah ok no problem.
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+“0
+éw
+
+Planning 08/06
+re here but things be...
+
+Digital Team Update 12/05
+g is ready
+
+Zoe MacKay
+
+Q Search
+
+&: Claire Thomson Chat Files 3more~ +
+
+20 Jun 12:44 © = fs
+
+OG Wai & G 100%
+
+So i inherited from his flat in Paris and his mansion in Abidjan-Cocody .
+
+So i am forced by the situation to visit both France and the IVory Coast in the coming
+future to deal with all the administrative duties that comes with that and wanted to know
+f i could be authorised to work remotely from outside of the UK for a couple of weeks in
+
+second half of June.
+
+| can obviously ensure you that i will have access to a reliable internet connection in
+both countries and a very safe environment to work in.
+
+In Paris, i will be staying in the area called "La defense" and in the Ivory Coast,
+| will be in Cocody precisely in my late uncle place which is below:
+
+Workspaces Applications
+
+Chat ~
+
+=) Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+Q ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@6éoqo0e0eoe0eeceo0o
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+Claire Thomson Chat Files 3more~ +
+
+Claire Thomson 30/05 10:27
+
+OMG that is amazing, sad and amazing - that's gorgeous @
+
+they will say no - | can ask for you but others have asked and been refused
+
+30/05 10:28
+
+To be honest Claire, i am very sad about this because inheriting from this comes with lots of
+problems...i already have some of my relatives criticizing me and saying all sort of things when i never
+even wanted all of this...
+
+Claire Thomson 30/05 10:28
+
+Ge they'll say holidays or authorised unpaid leave I'm sure
+
+YGoaEe rR COB - a
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+@
+©
+©
+©
+©
+©
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat
+
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay 12/05
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo =
+2 @
+
+Files 3morev + acy &
+
+Marcel Sangare 30/05/2023, 10:28
+To be honest Claire, i am very sad about this because inheriting
+from this comes with lots pf problems...i already have some of my...
+
+that's awful, I've had many fr s have similar situations - families can be mean. Everyone is hurting
+and you've not asked for it
+
+Claire Thomson 30/05 12:29
+
+Can you also remember in addition to pushing changes to git - you also need to pull changes from
+master into your branch to keep it up to date please
+
+you will be OK as no one else is working in the area you are at moment - but if we don't do it elsewhere
+we would get really bad merge conflicts to resolve.
+
+30/05 13:07
+
+@ Sorry Claire...believe me when i say that i was thinking about this this morning. OK i just wrote a
+little script of 10 lines that will take care of that so that i cannot forget no matter what...i now
+completed the incorporation of the changes from master into the branch
+
+6 June
+
+Workspaces
+
+Cha
+
+Applications
+
+t v =
+
+Pinned
+
+Rece
+
+3
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper
+Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Q Search oo =
+2 @
+
+a.
+
+Wo
+
+Claire Thomson Chat Files 3morey + a & &
+
+completed the incorporation of the changes from master into the branch
+
+6 June
+06/06 16:13
+
+Hi Claire.
+
+I think i did nterpret this comment from you the last time we had a chat about the terraform for
+the vpc:
+
+= Claire Thomson 19/05 11
+So why? this should all be in one folder, it's all
+
+It should be along these lines as discussed
+AWS
+
+in separate folders?
+
+(contains providers, versions, datablocks, locals)
+
+vpe-1.tf
+= vpe-2.tf
+- variables.tf
+— output.tf
+
+it should be "= 1.3.7"
+
+This si why i was going that route
+
+but what is finally asked is pretty straightforward
+
+and will ha dana hu tamarrauws i think i am aleasdw an it
+Workspaces
+
+Cha
+
+t~-
+
+Applications
+
+Pinned
+
+Rece
+
+@6éoqo0e0eoe0eeceo0o
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+nt
+
+Laura Cooper 11:41
+Hi Marcel - | have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fi GIF
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i...
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+Zoe MacKay
+
+20Jun 12:44 7 8 6 G& Wai @ B100%
+
+Q Search oo
+
+1. ak &
+
+Claire Thomson Chat Files 3 more ~
+
+but what is finally asked is pretty straightforward
+
+and will be done by tomorrow i think...i am already on it
+
+No worries, | did follow that {\on a catchup and actually make the changes to show you and said we
+had no variables or outputs is time, | dragged a dropped the file into the folder, | thought you
+realised that the variables and outputs would just be empty or even non existent. As long as we're on
+the right page now @
+
+Claire Thomson 06/06 16:16
+
+That's why draft PRs are good and we can discuss what's happening )
+
+06/06 16:17
+
+yes indeed we are and this way is even easier @
+
+Claire Thomson 06/06 16:19
+
+e ‘If we created a module we'd have a single variable file and pass the values into that, but yes definitely
+= not needed at the moment - purely just defined in the tf files for each VPC
+
+12 June
+
+12/06 16:14
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi cel - i have booked St Geo
+
+ArchOps Chat 10:20
+DB
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13/06
+just jumped in in case an...
+
+AWS VPCs 13
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+Digital Team Update 12/05
+
+Rec g is ready
+
+,O@OQOOQ68 O00
+
+Zoe MacKay
+
+Q Search
+
+a.
+
+Ly
+
+re Thomson
+
+20Jun 12:44 = © & F Fai & G100
+
+Claire Thomson Chat Files 3morey + a & &
+
+-The path to the version with all the terraform configs under one folder
+https: //github.com/arnoldclark/ac-iac-platform/tree/INFRA-
+675/AWS/aws/vpc_terraform_version_1.3.7/all-configs-in-one
+
+-The path to ersion with all the terraform configs using modules (work in progress)
+https://github.com/arnoldclark/ac-iac-platform/tree/INFRA-
+675/AWS/aws/vpc_terraform_version_1.3.7/all-vpe-terraform
+
+12/06 16:41
+
+Was looking into the random VPC that were in places that we didn't know about, they are default ones
+
+(says yes under default in the UI ) they are managed differently with terraform
+https: //registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/default_vpc
+
+we can look through all this tmw
+
+12/06 16:42
+
+Claire Thomson 12/06/2023, 16:41
+we can look through all this tmw
+
+No problem at all.Many thanks in advance
+
+Workspaces Applications
+
+Chat ~ = G&
+
+Pinned
+
+Marcel Sangare (You) 08/06
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper
+"@ Hi rcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+a
+
+David Moffat 19/06
+You: Good afternoon Da am ...
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews 13
+: just jumped in in case an...
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13/06
+You: Good morning Claire.Can i
+
+Planning 08/06
+re here butt
+
+,O@OQOOQ68 O00
+
+Q Search
+
+20Jun 12:44 = © & OG @ai & B 100%
+
+Claire Thomson Chat Files 3morey + a & &
+
+Was looking into the random VPC that were in places that we didn't know about, they are default ones
+(says yes under default in the UI ) they are managed differently with terraform
+https: //registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/default vpc
+
+Claire Thomson 12/06 16:41
+
+we can look through all thi
+12/06 16:42
+
+Claire Thomson 12/06/2023, 16:41
+
+we can look through all this tmw
+
+No problem at all.Many thanks in advance
+
+re Thomson 12/06 16:44
+
+e I've popped half an hour in tmw morning, got a few things on my calendar, so can start there and catch
+up again later if we need
+
+13 June
+13/06 09:59
+
+Good morning Claire.Can i call you now ?
+

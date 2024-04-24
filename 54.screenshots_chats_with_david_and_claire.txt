@@ -1,0 +1,597 @@
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+eD ©Claire,° David “ chat Files + m &| &3
+
+& @ Planning 08/06
+
+gs be...
+
+PAL
+
+is ready
+
+Zoe MacKay 12/05
+You: No problem @
+
+Frank McDade 28/04
+no worries - thanks you too Mar...
+
+Ops Catchup 20/04
+Jason: https mpl.com/
+
+Greg Dolan 09/03
+You: ma
+
+Digital Team Update 07/03
+
+Ansible Chat 7/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe
+Kei ep
+
+SMO / CFU / PCP on We... 06/02
+
+Diane: Thanks Cla we worked...
+
+lain Stewart
+yeah that's the or
+
+VPN that's u.
+
+Oe> Ff &© OG 6) ©
+
+€O0@*@@GO386CF2
+
+Claire and Da = A 0
+| ae
+You: | hope this hla, @ 2% 2B
+
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+eD ©Claire,° David “ chat Files + m &| &3
+
+stuart.rourke@arnoldclark.com
+9 PIAnnInS tbr: nee susan.jennings@arnoldclark.com
+sO suzanne.lockett@arnoldclark.com
+2/05 teamspirit@arnoldclark.com
+theHarvester -b all -d arnoldclark.com
+Zoe MacKay ONE Mepecpleteam@amotdclanccom
+You: No problem @ valerie.edwards@arnoldclark.com
+vw.internet@arnoldclark.com
+Frank McDade 28/04 warrington. hiredrive@arnoldclark.com
+Dee a ee Webcustomerservices@arnoldclark.com
+Ops Catchup 20/04 Webrental.reservations@arnoldclark.com
+Jason: https://jimpl.com/ wolverhampton.hiredrive@arnoldclark.com
+york.carrental@arnoldclark.com
+yourfuture@arnoldclark.com
+yourfuture@arnoldclark.com
+
+Chat ~ = G&
+
+is ready
+
+Greg Dolan 09/03
+You: ma
+
+Digital Team Update 07/03
+
+Ansible Chat 7/02
+Jason: https://github.com/arnol...
+
+Edited
+
+Keith and Zoe
+Kei ep
+
+SMO / CFU / PCP on We... 06/02 | hope this help. .
+
+Diane: Thanks Cla we worked...
+
+lain Stewart
+yeah that's the only VPN ...
+
+Claire and David 27/12 A 0
+You: | hope this help. 2 ? ®
+
+€@e* COCOdC#e
+
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+eD ©Claire,° David “ chat Files + m &| &3
+
+S partsap!.arnoldclark.com
+
+Planning | 08/06 pl-exch-as01.aco.arnoldclark.com
+: gs be...
+
+pl-exch-as02.aco.arnoldclark.com
+
+12/05 pl-exch-mb01.aco.arnoldclark.com
+is ready pl-exch-mb02.aco.arnoldclark.com
+sine pl-exch-mb03.aco.arnoldclark.com
+i enh @ esas pl-exch-mb04.aco.arnoldclark.com
+pl-exch-mb05.aco.arnoldclark.com
+
+i=)
+
+Frank McDade 28/04
+
+no worries - thanks you too Mar...
+
+pl-exch-mb06.aco.arnoldclark.com
+pl-exch-mb07.aco.arnoldclark.com
+pl-exch-mb08.aco.arnoldclark.com
+
+i)
+
+Ops Catchup 20/(
+Jason: https://jimpLcom/ pl-exch-oos01.aco.arnoldclark.com
+
+pl-exch-oos02.aco.arnoldclark.com
+prd-aso-eventstore-api.arnoldclark.com
+prd-aso-pventstore.arnoldclark.com
+prd-aso- tstore01.arnoldclark.com
+prd-smo-eVentstore01.arnoldclark.com
+prd-smo-eventstore02.arnoldclark.com
+prdcorpdbprx.arnoldclark.com
+prdcorpdbprx01.arnoldclark.com
+
+Greg Dolan 09/03
+You: ma
+
+Digital Team Update 07/03
+
+Ansible Chat 7/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe
+Kei ep
+
+prdcorpdbprx02.arnoldclark.com
+prdcorpprx.arnoldclark.com
+
+i
+
+SMO / CFU / PCP on We... 06/02
+
+Diane: Thanks Cla we worked...
+
+lain Stewart
+yeah that's the or
+
+VPN that's u.
+
+Claire and David 27/12 A 0
+You: | hope this help. 2 ? ®
+
+€O@O@*@OGOd86CF2
+
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+©Claire,©David “ chat Files + m & &:
+
+& Planning 08/06 Q, 27/12/22 11:54 Call ended 11m 48s
+: gs be...
+
+/22 13:52
+
+12/05
+is ready HI David.
+
+Zoe MacKay 12/05 a7 F 5 r 7 F
+You: No problem @ So i did run two tests...and oen fo them is still going but this is what i have for now:
+
+Frank McDade 28/04 -Results of DNSENUM:
+no worries - thanks you too Mar...
+
+i)
+
+Ops Catchup 20/(
+Jason: https mpl.com/
+
+§ dnsenum arnoldclark.com
+
+Greg Dolan 09/03 dnsenum VERSION:1.2.6
+You: ma
+
+==<-= arn lark.com_ -----
+Digital Team Update 07/03
+
+Ansible Chat 17/02 Host's addresses:
+Jason: https://github.com/arnol...
+
+Keith and Zoe |
+Keith: yep arnoldclark.com. 5 IN A 185.7.231.66
+
+SMO / CFU / PCP on We... 06/02
+Diane: Thanks Claire, we worked...
+
+lain Stewart
+yeah that's the or
+
+VPN that's u.
+
+Claire and David 27/12 A 0
+You: | hope this help. 2 ? ®
+
+€e* COCOdC#
+
+Workspaces Applications 20Jun 12:48 = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+& @ Planning 08/06
+
+gs be...
+
+ny
+II!
+
+sD ©Claire,° David “ chat Files + m &| &3
+
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+
+eu-smtp-inbound-1.mimecast.com. 195.130.217.201
+91.220.42.201
+91.220.42.211
+195.130.217.241
+91.220.42.241
+195.130.217.211
+91.220.42.211
+195.130.217.241
+91.220.42.201
+91.220.42.241
+195.130.217.201
+195.130.217.211
+
+12/05 eu-smtp-inbound-1.mimecast.com.
+eu-smtp-inbound-1.mimecast.com.
+eu-smtp-inbound-1.mimecast.com.
+
+is ready
+Zoe MacKay 12/05 . .
+You: No problem @ eu-smtp-inbound-1.mimecast.com.
+
+eu-smtp-inbound-1.mimecast.com.
+eu-smtp-inbound-2.mimecast.com.
+
+Frank McDade 28/04
+
+no worries - thanks you too Mar...
+
+eu-smtp-inbound-2.mimecast.com.
+Ops Catchup 20/08 eu-smtp-inbound-2.mimecast.com.
+Jason: https://jimpl.com/ eu-smtp-inbound-2.mimecast.com.
+
+i)
+
+eu-smtp-inbound-2.mimecast.com.
+eu-smtp-inbound-2.mimecast.com.
+
+Jfotetgatatgatettataatdcea
+nHnnnnnh own nw
+
+Greg Dolan 09/03
+You: ma
+
+Digital Team Update 07/03 . . . .
+Trying Zone Transfers and getting Bind Versions:
+
+Ansible Chat 7/02
+Jason: https://github.com/arnol...
+
+Keith and Zoe
+Kei ep
+
+Trying Zone Transfer for arnoldclark.com on ns2.demysdns.net ...
+AXFR record query failed: NOTIMP
+
+SMO / CFU / PCP on We... 06/02
+Diane: Thanks Claire, we worked...
+
+lain Stewart
+yeah that's the or
+
+VPN that's u.
+
+Claire and David 27/12 A 0
+You: | hope this help. 2 ? ®
+
+€e* COCOdC#
+
+Workspaces Applications 20 Jun 12:49 © = © & G& Pai @ 8 100%
+
+: Q Search i _
+2 @
+
+Chat ~
+
+ny
+II!
+
+sD ©Claire,° David Chat Files + m & &:3
+r=) ~ webmail.aco.arnoldclark.com
+
+Planhiig maine SEIN: webmail.arnoldclark.com
+
+workapprovalapi.aftersales.arnoldclark.com
+12/05 www.arnoldclark.com:185.7.231.66
+
+is ready
+
+www.careers.arnoldclark.com
+
+Zoe MacKay 12/05 a
+You: No problem @ www.insurance.arnoldclark.com
+
+www. internalvacancies.arnoldclark.com
+
+Frank McDade 28/04 www2.arnoldclark.com
+no worries - thanks you too Mar...
+
+i)
+
+Ops Catchup 20/
+Jason: https mpl.com/
+
+So these are the hosts/nodes that can be accessed from the internet...
+
+Greg Dolan 09/03
+You: ma
+
+5° And the next step would have been for those causing us trouble now to run:
+Digital Team Update 07/03 Claire Thomson 27/12/22 14:03
+
+things like prdintappsprx.arnoldclark.com shouldn't be available externally?
+
+Ansible Chat 7/02
+Jason: https://github.com/arnol...
+
+27/12/22 14:03
+Keith and Zoe
+Kei ep
+
+the NSE vulnerability script from Nmap to get the vulnerabilities of these hosts/nodes
+
+SMO / CFU / PCP on We... 06/02 But i did not run it as there is an ongoing incident
+Diane: Thanks Claire, we worked...
+
+lain Stewart
+yeah that's the or
+
+VPN that's u.
+
+Claire and David 27/12 A 0
+You: | hope this help. 2 ? ®
+
+€e* COCOdC#
+
+Workspaces
+
+Chat ~
+
+©
+)
+@
+)
+@
+2)
+‘B
++
+e
+”
+
+Applications
+
+ny
+II!
+
+Planning
+: e here butt
+
+Reco
+
+ing is ready
+
+Zoe MacKay 2/05
+You: No problem @
+
+Frank McDade
+no \ -th
+
+5 you too
+
+Ops Catchu
+Jason: https://jimpl.com/
+
+Greg Dolan
+You: many thanks Greg !
+
+09/03
+
+Digital Team Update
+
+Ansible Chat
+Jason: http
+
+17/02
+
+‘om/arnal...
+
+SMO | CFU / PCP on We...
+Diane: Thanks Claire,
+
+lain Stewart
+yeah that's the on
+
+that's u.
+
+Claire and David
+You: | hope this help.
+
+27/12
+
+Q Search
+
+sD © Claire, © David
+
+20Jun 12:49 = © & OG @ai & B 100%
+
+Chat Files
+
+ah a & &3
+
+the NSE vulnerability script from Nmap to get the vulnerabilities of these hosts/nodes
+But i did not run it as there is an ongoing incident
+
+The script for the email is still running so i will post here its result as soon as it is completed
+
+Claire Thomson 27/12/2022, 14:03
+things like prdintappsprx.arnoldclark.com shouldn't be available
+externally?
+
+| am not sure as i don't yet know all the environments
+
+| have the results from the Harvester for the emails
+
+Please find the list of emails available with a search engine below:
+Edited
+
+>>>"$ theHarvester -b all -d arnoldclark.com"
+acautoparts@arnoldclark.com
+aftersalesfeedback@arnoldclark.com
+
+allan dnhhiamarnaldclarl eam
+
+Workspaces
+
+Applications
+
+Look for messdpes, files, and more. Or type / for a list of commands. or
+
+People
+
+Chat ~ = G&
+
+Pinned Jason Claire David
+Moffat
+
+White Thomson
+Marcel Sangare (You) 08/06
+
+You: mm@pop-os:~/ac-iac-platt...
+
+Recent
+
+Laura Cooper 11:41
+*@ Hi Marcel - i have booked St Geo
+
+ArchOps Chat 10:20
+Greg: fe GIF
+
+=: Lisi]
+
+David Moffat 19
+You: Good afternoon D
+
+Catch Up 2.0 16/06
+
+Jason: Running over time in ano...
+
+PR Reviews
+
+AWS VPCs
+
+You: ah ok no problem
+
+Claire Thomson 13
+You: Good morr
+
+Planning
+
+a e here but
+
+Digital Team Update 12/05
+
+Reco is ready
+
+@
+©
+©
+©
+©
+©
+
+Zoe MacKay 12/05
+
+20 Jun 12:49 © = FB
+
+Oo Wai & B100%
+
+rt
+
+Laura David
+Cooper Middleton
+
+rourke@arnoldclark.com
+
+jennings@arnoldclark.com
+
+ie.lockett@arnoldclark.com
+teamspirit@arnoldclark.com
+theHarvester -b all -d arnoldclark.com
+thepeopleteam@arnoldclark.com
+valerie.edwards@arnoldclark.com
+vw.internet@arnoldclark.com
+warrington. hiredrive@arnoldclark.com
+Webcustomer.services@arnoldclark.com
+Webrental.reservations@arnoldclark.com
+wolverhampton.hiredrive@arnoldclark.com
+york.carrental@arnoldclark.com
+yourfuture@arnoldclark.com
+yourfuture@arnoldclark.com
+
+| hope this help.
+

@@ -1,0 +1,93 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 34.seven_anti_patterns_of_terraform__why_not_to_skip_modularity.pdf
+
+7 Anti-Patterns of Terraform: Why Not to Skip Modularity
+
+Terraform's power lies in its ability to manage infrastructure as code. However, neglecting
+modularity can lead to spaghetti code and maintenance headaches. Here's why a non-
+modular approach can be detrimental, explained with relatable analogies:
+
+1. The Monolithic Monster: One Terraform File to Rule Them All
+
+¢ Analogy: Imagine building a skyscraper with a single blueprint. Changes in
+One section affect the entire structure.
+¢ Terraform Antidote: Break down infrastructure into smaller, reusable modules
+representing specific functionalities. This promotes maintainability and easier
+updates. (https://developer.hashicorp.com/terraform/tutorials)
+2. The Chained Reactions: Domino Effect of Terraform Code
+
+¢ Analogy: Picture a row of dominoes. Pushing one topples all. A change in
+one interdependent resource can trigger unintended consequences
+throughout the infrastructure.
+
+¢ Terraform Antidote: Define clear dependencies between resources using
+depends_on meta-arguments. This isolates changes and prevents
+cascading failures.
+(https://developer.hashicorp.com/terraform/tutorials/configuration-language/
+
+dependencies)
+3. The Code Cobweb: Tangled Dependencies in Terraform
+
+¢ Analogy: Imagine a tangled web of cobwebs. Tracing connections and
+making modifications becomes a nightmare. Intertwined resources in
+Terraform code create similar complexity.
+¢ Terraform Antidote: Use well-defined modules with clear inputs and outputs.
+This promotes loose coupling and simplifies dependency management.
+(https://developer.hashicorp.com/terraform/language/values/outputs )
+4. The Copy-Paste Catastrophe: Duplicating Terraform Code
+
+¢ Analogy: Imagine replicating the same paragraph throughout a book. Edits
+become tedious and error-prone. Copying Terraform code for similar
+resources leads to redundancy and maintenance difficulties.
+¢ Terraform Antidote: Leverage Terraform modules for reusable configurations.
+This eliminates duplication and simplifies updates across the infrastructure.
+(https://developer.hashicorp.com/terraform/tutorials)
+5. The Hardcoded Horror: Embedding Sensitive Data in Terraform
+
+¢ Analogy: Imagine writing your password on every login page. It's risky and
+impractical. Hardcoding secrets like API keys directly in Terraform code
+poses security vulnerabilities.
+
+¢ Terraform Antidote: Utilize Terraform Cloud Workspaces and state
+management with backend stores like Vault or AWS Secrets Manager. This
+secures sensitive information and facilitates collaboration.
+(https://developer.hashicorp.com/terraform/cloud-docs/workspaces)
+
+358
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 34.seven_anti_patterns_of_terraform__why_not_to_skip_modularity.pdf
+
+6. The Remote State Swamp: Centralized State Management Woes
+
+¢ Analogy: Imagine everyone in a city sharing a single mailbox. Chaos ensues.
+Storing Terraform state remotely in a single location creates a bottleneck and
+potential data loss risks.
+¢ Terraform Antidote: Consider backend options like Terraform Cloud or remote
+state with S3 bucket versioning. This distributes state management and
+improves reliability. (https://developer.hashicorp.com/terraform/tutorials)
+7. The Testing Tightrope: Fragile Infrastructure Testing
+
+¢ Analogy: Imagine testing a complex machine by poking individual
+components. It's inefficient and misses interactions. Testing monolithic
+Terraform code can be cumbersome and miss edge cases.
+
+¢ Terraform Antidote: Embrace infrastructure as code testing tools like Terratest
+or Kitchen. These tools facilitate automated and modular testing of Terraform
+configurations. (You can find more information on Terratest at
+https://github.com/gruntwork-io/terratest and Kitchen Cl at
+https://www.americastestkitchen.com/)
+
+ 
+
+By adopting a modular approach with these considerations in mind, you can build resilient,
+maintainable, and secure infrastructure with Terraform. Remember, clear separation of
+concerns and well-defined dependencies are key to Terraform mastery
+
+359
+

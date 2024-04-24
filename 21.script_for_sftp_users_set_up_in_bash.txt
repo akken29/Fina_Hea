@@ -1,0 +1,884 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+19/05/2023, 1O.14 Pushing Script for stp wsers setup with passworts by mmstill «Pull Request +1 - amolictarkivsttp bulk ws,
+
+@amoldclark / vsftp_bulk_users creation paver
+
+“a
+
+<2Cade  Olssues  TyPullrequests 2 @Acions fFProjess 2 Wiki OSeamty  [winagl
+
+Bai | <> Cade ~ Jump to bottom
+
+pushing script for sftp users setup with
+passwords #1
+
+Tl Open mushill wants i» merge 1 commit into from me
+main users_setup
+
+Conversation 0 Commits 1 Checks 0 Files changed 2
+
+@@ -6,0 +1,253 @6
+#!/usr/bin/bash
+
+Script written on January 2023
+
+#The purpose of this script is to easily set up new users in bulk on the
+sftp server
+
+#The users will be set up with regular passwords
+
+#making sure we install -the program pwgen as it is needed to generate random
+passwords
+
+#sudo apt-get install pwgem
+
+#pwgen -B -s -1 -N 2? 36
+
+#where -B make sure characters dont confuse users
+#-s for secure passwords
+
+#-1 is one password per line
+
+#-N is the number of passwords and here 2 Passwords
+# 30 = length of the password
+
+#if the expression below is not equal to 0
+installed ; we thus install it
+
+sudo dpkg -l|grep pwgen
+
+if [$? -nee ]
+
+then
+
+clear
+
+, then the packahe pwgen is not
+
+echo ">>> Installing necessary dependancy: pwgen"
+sudo apt-get install pwgen
+
+ittps://github.com/amoldctark/vsftp_bulk_users_creation/pull/L/files #diff-4b2fd52294 G2bf07470bc7f7 4ddbeScca828S2ZbeGb49.,. 1/14
+
+153
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+29/06/2023, 1014 Rushing soript for sftp SETS Setup with passwords iby mmmreshill - Poll Pecpuest +i - arnolidiarivesttp tock ws
+
+Ti
+
+rT fating an empty List named List_of_users_to_create_on_sfup_server
+>List_of_users_to_create_on_sfip_server
+
+#clearing the screen and displaying some messages to guide the user
+clear
+
+echo "> Please enter in the text file that will be displayed shortly
+the list of users to create on this vsftp server"
+
+echo * a
+
+echo “> Please note that you will need to input one user per Line"
+echo " -
+
+echo ">
+
+Also do make sure that are no spaces in the names given to
+the users to be created"
+
+echo ” .
+
+echo "> For example to create the following three users john, jack
+
+and joe, enter them one after the other such as below into the file that
+follows :"
+
+echo "john"
+echo “jack"
+echo "joe"
+
+read -p *
+
+>>>>>> PRESS ENTER TO CONTINUE <<<ccc™ </dev/tty
+
+#creating some comments that will appear at the top of the file
+list_of_users_to_create_on_sftp_server to further guide users
+
+echo "# Please write after the first three Lines starting by the ‘#'
+>> list_of_users_to_create_on_sftp_server
+
+echo “# As previously stated enter the users one after the other" s>
+list_of_users_to_create_on_sftp_server
+
+symbol"
+
+echo "# or if you prefer one user per line" >>
+list_of_users_to_create_on_sftp_server
+
+#displaying the file list_of_users_to_create_on_sftp_-
+users can be created
+
+nana list_of_users_to_create_on_sftp_server
+
+server so that list of
+
+#safety step taken by the server to remove eventual spaces in the names of
+the users in case that remark would have been missed
+cat list_of_users_to_create_on_sftp_server |sed "s/ /_/g' > transfer
+
+cat transfer > list_of_users_to_create_on_sftp_server
+rm transfer
+
+#creating a new list that will remove the empty lines and the comments from
+
+the previous list list_of_users_to_create_on_sftp_server
+
+cat list_of_users_to_create_on_sftp_server|grep civ *S[grep -iv A"¥#" >
+list_users
+
+https://github.com/arnaldctark/vsftp_bulk_users_creation/pull/ L/files#diff-4 b2fd5229402bf07470bc7f7 4ddbeSccaa2852be6b49... 2/14
+
+154
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+TASA20Z3, 10.324 Pushing script for sitp users setup with passwords by anenshill - Pull Request #7 - arnolddiarkAvsttp bulk wus.
+
+We now have to make sure the users requested do not already exist
+
+se we have to display the list of users that are requested but that already
+exist (therefore wont be created again)
+
+#Below we create a list of users already existing on the system called
+List_existing _users
+
+cat fetc/vsftpd.userlist > list_existing_ users
+
+#Wde are then taking the list of new user (List_users) from which we will
+remove the List of existing users (List_existing_users) and to achieve this,
+
+#we are going to create a script on the fly that will get executed with the
+final list of users to create
+
+#getting the current directory
+
+working _directory= "pwd"
+
+#initializing the on the fly script
+>script_on_the_fly
+
+#creating the first line of script_on_the_fly
+
+echo ‘#!/usr/bin/bash' > script_on_the_fly
+#creating the 2nd line of the script_on_the_fly
+echo “cd “"$working_directory" >> script_on_the_fly
+#initializing diff_file
+
+echo ">diff_file” >> script_on_the_fly
+
+#creating a line that will compare the two files and remove elements they
+have in common
+
+#So we go for a cat of list_users from which we remove anything that is to
+do with list_existing_users
+
+Cat list_existing_users|sed "s/4/\"/g'|sed 'S/$/\$/g' | sed *s/A/grep -iv
+fg'|tr '\n' " 'lawk ‘{print $0}'|sed 's/ grep/[grep/g'|sed ‘s/4/cat
+list_users|/g'|sed 's/$/ >> diff_file/g' >> script_on_the_fly
+
+#making script-on_the_fly executable
+
+sudo chmod u+x script_on_the_fly
+
+#executing script_on_the_fly
+bash script_on_the_fly
+
+#using the content of file diff_file to populate list_users
+cat diff_file > list_users
+
+https //github.com/amoldctark/vsftp_bulk_users_creation/pull/1/files#diff-4b2fd5229402bf07470bc7#74dd beSccaB2652be6b49... 3/14
+
+155
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+39/05/2023. 10.18 pushing Sorigt for stip wsers setup with passwords toy memshill- Pull Request #2 - arncildcarkArsttp tbcitk ws.
+
+#creating a variable named length_list_users in which will be pushed a
+numerical value representing the number of users to be created
+length_list_users= "cat List_users[we -1°
+
+if [ Slength_List_users -gt 9 j
+then
+
+#AL1 that follows can only be executed if list_users has at least one user
+to be created
+
+#So an if condition if there appropriate below
+
+fwe now use the program pwgen to generate a list of passwords to be used by
+users
+
+# below Slength_list_users is the number of Passwords generated randomly
+#70 is the length/complexity of the Password generated
+Pwgen -B -S -2 -N “Slength_list_users" 70 > list_passwords
+
+#Now that we have a list of users (list_users) and a list of Passwords
+(list_passwords), we can without user interaction set up both the users and
+passwords
+
+#The number of iterations id the same as the length of list_users. Therefore
+we use Slength_list_users for the number of iterations
+
+#The loop below is concerned with set up the users, their passwords and all
+the necessary folders and configs for use on the vsftp server
+
+#creating the users if the variable $length_list_users is greater than 6
+if [ $length_list_users -gt 0 j
+then
+
+https://github.com/amoldclark/vsftp_bulk_users_creation/pull/1 /files#diff-4b2fd5229402b/07470bc7f7 4ddbeScca62852be6b49 .. 4/14
+
+156
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ISPS L023, 1D14 pushing script for sttp wsers setup with passevords toy omereshill Ped Request #10 - amnaldcharkéysttp tote ws...
+
+for 2 an “seq Slength_List_wsers”
+do
+
+#getting the user
+
+user="Cat List_usersjsed -n "Si"p~
+
+#getting the password
+
+password="cat list_passwords|sed -n *si"p”
+
+#adding the user and its home directory
+
+sudo adduser --quiet --disabied-password --shell /bin/bash --home
+/home/"Suser™ --gecos “User” Suser
+
+#setting the password for the user
+
+echo “Suser:Spassword” | sudo chpasswd
+
+#treating ftp folder for user
+
+sudo mkdir /home/“Suser°/ftp
+
+#change ownership of root ftp server
+
+sudo chown nobody:nogroup /hame/"$user"/ftp
+
+#remove the root ftp folder writable permissions
+
+sudo chmod a-w /home/"Suser°/ftp
+
+#Create directory to upload files
+
+sudo mkdir /home/"Suser"/ftp/upload
+
+#give created upload folder ownership to our ftp user
+sudo chown “Suser™: "$user" f/home/"$user"/ftp/upload
+#prompt to telit whioch user is being created
+
+echo ">>> Creating following user:"
+
+#adding user to the userlist of users allowed to use the ftp service
+echo “Suser" | sudo tee -a /etc/vsftpd.userlist
+
+#restart vsftpd server
+#sudo systemectl restart vsftpd
+
+done
+
+#restarting server after loop is created to avoid overtoading it
+sudo systemctl restart vsftpd
+
+Fi
+
+#defining the variable date_now that will contain the date and precise time
+at the moment of execution
+
+date_now="date '+%Y-%m-%d XH:%M:KS'|sed 's/ /_/g'|sed 's/:/_/g'"
+
+#creating the folder names after the variable date_now
+mkdir “$date_now"
+
+#moving files list_users and List_passwords into the newly created folder
+"$date_now"
+
+mv tist_users "$date_now”
+mv list_passwords "$date_now"
+
+https://github.com/amoldclark/vsftp_bulk_users_creation/pull/1/files#diff-4b2fd5229402b(07470bce7f7 4ddbe5cca82852be6b49 5/14
+
+157
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+19/06/2073, 10.14 pushing soript for sftp (USES Setup wvith passwords iby mamsthill - Pall Request +1 - amatddlark/wsttp tbellk ors.
+
+#moving into the folder created above
+
+cd "$date mow"
+
+#once into that new directory, we meed to create tany Tiles each containing
+the username and password of an individual user
+
+#50 that these individual files can be sent by email to the end user_
+
+paste list_users List_passwords > List_users with passwords
+
+#Tthe last step is to compress the folder “$date_now"
+can scp it to his/her desktop
+
+#but before that we need to change the permissions on the file
+echo ">>>Compressing folder $date_now"" ...."
+
+#maving one level up
+
+cd ..
+
+#compressing files
+tar -cvf “$date_now"". tar" “$date_now™
+#once we know the script is working, we need to delete the folder
+"Sdate_naw"
+
+sweet emt wea wae ewe eee ee
+
+to make sure the user
+
+echo "Please run the following command to scp to your current working
+directory the file" $date_now"". tar”
+echo "scp ubuntu@prdsftpe1.arnotdclark.com:/home/ubuntu/""$date_naw""
+
+-tar""
+
+TTR eww new wen wee meen meen ween
+
+else
+
+echo "There are no users to create since the list you entered contains only
+
+https //github.com/arnoldclark/vsftp_bulk_users_creation/pull/L/files#diff-4b2fd5229402bf07470bc7f74ddbeScca82852be6h49 . G/14
+
+158
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+ 
+
+23/06/2075, 1b.14 Ipusihimg Script for sttp wsers setup with passwords lby mrmshill » Pull Regoest #1 - arnodciarkesitp ibsilk ws.
+
+USETS that already exist on tthe system...Sonry 1"
+
+i
+
+wv 253
+
+Scrapts_bulk_sftp_user_setup/script_set_up_new_users_with passwords_sftp_server a
+
+€8 -8,6 41,299 26
+#!/usr/bin/bash
+
+#this script will create sftp users in bulk with their associated protected
+ssh keys
+
+#Script written in January 2623
+
+#The purpose of this script is ta easily set up new users in bulk
+sftp server
+
+on the
+
+#The users will be set up with Password protected ssh keys
+#The purpose of this script is to easily set Up new users on the sftp server
+
+#making sure we install the Program pwgen as it is needed to generate random
+passwords
+
+#sudo apt-get install pwgem
+
+#pwgen -B -5 -1 -N 2 36
+
+#where -B make sure characters dont confuse users
+#-s for secure passwords
+
+#-1 is one password per Line
+
+#-N is the number of passwords and here 2 Passwords
+# 38 = length of the password
+
+#if the expression below is not equal to 6, then the Package pwgen is not
+installed ; we thus install it
+
+Sudo dpkg -l{grep pwgen
+
+if [$? -neo j
+
+then
+
+clear
+
+echo ">>> Installing necessary dependancy: pwgen"
+sudo apt-get install pwgen
+
+fi
+Changes from alf commits ‘File filter | Conversations Jump to o
+
+#we also need to make sure the right configuration is in place inside
+v 299 /etc/ssh/sshd_config
+
+#We need to make sure the option “PubkeyAuthentication yes" is ipgeed
+Scripts bulk_sftpwSpapfetup/script_set_up_new_users_with_ssh_keys_sftp. server CG
+
+cat /etc/ssh/sshd_config{grep -i “PubkeyAuthentication|grep -i yes
+
+https Hgithub.com/arnoldctark/vsftp_bulk_users_creation/pull/ L/files#diff-4b2fdS 229402bf07470bc7f7 4ddbeScca82B52 be6b49... 7/14
+
+159
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+ISO 2023, 214 nushing script tor sitp weers setup with passwords by mimshill - Pell Request 41 - @rngiddiark/wsttp tbeitk ws
+
+if [ 3? -ne oo ]
+
+then
+
+echo “Pubkeyauthentication Yes" >> etc/ssh¥sstd_contig
+fi
+
+#tTeating an empty List named List_of_users_to_create_on_sftp_server
+>List_of_users_to_create_on_sfip_server
+
+#clearing the screen and displaying some messages to guide the user
+clear
+
+echo “> Please enter in the text file that will be displayed Shortly
+
+the list of users to create on this vsftp server*
+echo “
+
+echo “>
+echo ”
+
+echo ">
+
+Please note that you will need to input one user per Line"
+
+Also do make sure that are no Spaces in the names given to
+the users to be created"
+echo "
+
+echo ">
+
+For example to create the following three users john, jack
+
+and joe, enter them one after the other such as below into the fi
+follows:"  — :
+
+echo "john"
+echo “jack"
+echo "joe"
+read -p "
+
+le that
+
+>>>>>> PRESS ENTER TO CONTINUE <<<ece" </dev/tty
+
+#creating some comments that will appear at the top of the file
+list_of_users_to_create_on_sftp_server to further guide users
+
+echo "# Please write after the first three lines starting by the '#’
+>> list_of_users_to_create_on_sftp_server
+
+echo "# AS previously stated enter the users one after the other" >>
+list_of_users_to_create_on_sftp_server
+
+echo "# or if you prefer one user per line" >>
+list_of_users_to_create_on_sftp_server
+
+symbol"
+
+#displaying the file list_of_users_to_create_on_sftp_
+
+server so that list of
+users can be created
+
+nano list_of_users_to_create_on_sftp_server
+
+#Safety step taken by the server to remove eventual spaces in the names of
+the users in case that remark would have been missed
+cat list_of_users_to_create_on_sftp_server|sed 's/ /_/g'
+Cat transfer > list_of_users_to_create_on_sftp_server
+
+> transfer
+
+https Higithub.com/arnoldclark/vsftp_bulk_users_creation/pull/1/files#uiff-4b2fd5229402b/07470b¢ 77 4ddbeSccaBZB852be6b49.. 8/14
+
+168
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+19/05/2023, 1024 pushing Script for sitp weers setup with masswords by mmshill Pull Request #1 - amoiddlatkhcttp bulk ws.
+
+im toransiter
+
+#oreating a mew List that will remove the empty Lines and the comments from
+the previous List List_of_users_to_create_on_sftp_server
+
+tat list_of_users_to_create_on_sftp_server|grep -iv *3)grep -iv *"#" >
+List_users
+
+we now have to make sure the users requested do not already exist
+#We we have to display the List of users that are requested but that already
+exist (therefore wont be created again)
+
+#Below we create a list of users already existing on the system called
+List_existing _users
+
+cat /etc/vsftpd.userlist > List_existing_users
+
+#We are then taking the list of new user (list_users) from which we will
+remove the list of existing users {list_existing_users) and to achieve this,
+
+#we are going to create a script on the fly that will get executed with the
+final List of users to create
+
+#getting the current directory
+
+working _directory=" pwd"
+
+#initializing the on the fly script
+>script_on_the_fly
+
+#creating the first line of script_on_the_fty
+
+echo '#!/usr/bin/bash' > script_on_the_fly
+#creating the 2nd line of the script_on_the_fly
+echo "cd ““$working_directary” >> script_on_the_fly
+#initializing diff_file
+
+echo “sdiff_file" >> script_on_the_fly
+
+#creating a line that will compare the two files and remove elements they
+have in common
+
+#So we go for a cat of tist_users from which we remove anything that is to
+do with list_existing_users
+
+cat list_existing_users{sed "s/A/\A/g'|sed 'sS/$/\S/g' {sed *s/A/grep -iv
+/g'|tr '\n' ' "Jawk '{print $0}'[sed 's/ grep/|grep/g'|[sed ‘s/4/cat
+list_users|/g'}sed 's/$/ >> diff_file/g' >> script_on_the_fly
+
+#making script-on_the_fly executable
+
+Sudo chmod u+x script_on_the_fly
+
+#executing script_on_the_fly
+bash script_on_the_fly
+
+https://github.com/amoldclark/vsftp_butk_users_creation/pull/L/files#d ff-4b2fd5229402bf07470bc7F7 4ddbeSccaB2852be6b49... 9/14
+
+161
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+19/06/2073. 10.14 pushing soript for sity wears setup with passwords by momshill - Fill Request #1 - amnotddiarkéeste ibolk ws _,
+
+fusing the content of file diff_tile t populate List_usars
+cat cdifffile > List_users
+
+#creating a variable named length_list_users in which will be pushed a
+fumerical value representing the number of users to be created
+length_list_users= ‘cat list_users|[we -1"
+
+if [ Slength_list_users -gt 6 J
+then :
+
+ae eae EE ee
+
+#AlLL that follows can only be executed if list_
+to be created
+
+users has at least one user
+
+#50 an if condition if there appropriate below
+
+#we noW use the program pwgen to generate a list of passwords to be used by
+users
+
+# below Slength_list_users is the number of passwords generated randomly
+#30 is the length/complexity of the Password generated
+pwgen -B -s -1 -N "Slength_list_users" 39 > list_passwords
+
+#Now that we have a list of users (list_users) and a list of passwords
+
+(list_passwords), we can without user interaction set up both the users and
+passwords
+
+#The number of iterations id the same as the length of list_users. Therefore
+we use Slength_list_users for the number of iterations
+
+https://github.com/amoldclark/vsftp_bulk_users_creation/pull/1/files# diff-4b2d5229402b(07470bc7f7 4ddbeScca@2852be6b4.. 10/14
+
+162
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+13M e0P3, 1014 pushing sonipt for sttp wsers setup with passwords iby mmshill - Pull Request #7 - amalldctarkivsthp tbl ws.
+
+*#The loop below is concerned with ser Wp the wsers, their passwords and all
+the necessary folders and configs for ose on the wsTtp server
+
+#oreating the users if the variable Slength_Uist_users is greater than 6
+af [ Slength_List_users -gt @ j
+then
+
+#creating the folder named after the current date and time and that will
+contain all the users and their associated keys.
+
+#defining the variable date_now that will contain the date and precise time
+at the moment of execution
+
+date_now="date '+xy-%m-xd SH:EMIXS"|sed "s/ /_/q"{sed "s/:/_/g'~
+mkdir “S$date_now™
+
+for 2 in ‘seq Stength_list_users
+do
+
+#getting the user
+
+user="Cat List_users|sed -n "Si"p-
+#getting the password
+
+Ppassword="cat List_passwords|sed -n “sip
+#adding the user and its home directory
+
+sudo adduser --quiet --disabled-password --shell /bin/bash ~+home
+/home/"$user" --gecos “User" $user
+
+#creating the .ssh hidden folder for the given user
+sudo mkdir -p /home/"$user"/.ssh/
+
+#setting permissions for .ssh folder
+
+sudo chown -R "$user": "$user" /home/"$user"/.ssh/
+#creating ssh keys (private and public)
+
+yes "y" [sudo ssh-keygen -f /home/"$user"/.ssh/"Suser"". key"
+“Spassword"
+
+-t rsa -N
+
+#pushing the public key into the file “authorized_keys'
+cat /nome/"$user"/.ssh/“$user"™ key". pub" >>
+/home/"$user"/, ssh/authorized_keys
+
+#setting up permissions on newly created keys.Necessary in spite of previous
+steps
+
+sudo chown -R "$user": "$user" /home/"Suser'"'/,ssh
+sudo chmod -R 70@ /home/"$user"/.ssh
+sudo chmod 600 /home/"Suser"/.ssh/authorized_keys
+
+#copying the ssh private key under /home/"Suser"/.ssh/ to the
+created previously
+
+sudo mkdir -p ./"$date_now"/"$user"/
+sudo cp /home/"$user"/.ssh/"$user"" key" ./"$date_now"/"$user"/"$user"” key”
+
+#copying username and passphrase to the user credentials directory created
+just above
+
+"date_now'
+
+httns:/igithub com/arnoldctark/vsftp_bulk_users_creation/pull/L/files#diff-4b2fd5229402b(07470bc717 4ddbeSccaa2852be6bs ~ 114
+
+163
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+IDS 20rs. 1074 pushing script for stp wsers setup with passwords by mmshill - Pull Request #1 - amnolddiark/vsttp tbullk ws
+
+echo “Wsenname: "$user “'ssh-key passphrase: '" ">
+7? "Sdate mows "Seser"s"Suser""_ "credentials"
+
+#creating ftp folder for user
+
+sudo mkdir /hone/*Suser“/ftp
+
+#change ownership of root ftp server
+
+sudo chown nobody:nogroup /home/"Suser"/ftp
+
+#remove the root ftp folder writable permissions
+sudo chmod a-w /home/“Suser“/ftp
+
+#create directory to upload files
+
+sudo mkdir /home/“Suser"/ftp/upload
+
+#give created upload folder ownership to our ftp user
+sudo chown “Suser":"“Suser® /nome/"Suser"/ftp/upload
+#prompt to tell whioch user is being created
+
+echo ">>> Creating following user:*
+
+#adding user to the userlist of users allowed to use the ftp service
+echo "$user" | sudo tee -a f/etc/vsftpd.userlist
+
+ws ee kw eee eee ewe
+
+#restart vsftpd server
+#sudo systemctl restart vsftpd
+
+done
+
+#restarting server after loop is executed entirely to avoid overloading the
+vsftpd server
+
+sudo systemctl restart vsftpd
+
+fi
+
+#moving files list_users and list_passwords into the newly created folder
+"$date_now"
+
+#mv list_users "$date_now"
+#mv list_passwords "$date_now"
+
+#moving into the folder created above
+#ed "$date_now"
+
+#once inta that new directory, we need to create many files each containing
+the username and password of an individual user
+
+#S0 that these individual files can be sent by email to the end user.
+
+https.//github.com/arnoldclark/vsftp_bulk_users_creation/pull/ Lifiles#diff-4b2fd5229402bf07470be7#74ddbeSccaQ2 BS2be6b4... 12/14
+
+164
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+ 
+
+19/06/2023. 10.14 Pushing soript for stp wsers setup with passwords iby mimshill ~ Pull Receeest 0 - arndidclarkévsttp tol wes...
+
+#paste List_users List_passwords > List_users_with passwords
+
+#The last step is to compress the folder “$date_now" to make sure the user
+can scp it to his/her desktop
+
+#but before that we need to change the permissions on the file
+
+echo “>>>Compressing folder $date_now™"
+#moving one level up
+
+fed ..
+
+#compressing files
+
+tar -cvf “$date_now"®.tar™ "Sdate_now"
+
+echo “Please run the following command to scp to your current working
+
+directory the file" Sdate_now"". tar”
+echo "scp ubuntu@prdsftp81.arnoldclark. com: /home/ubuntu/""$date_now"”
+
+na
+°
+
+-tar“"
+#once we know the script is working, we need to delete the folder
+"$date_now"
+
+RO meee eee ewe wen een ee een ween een ee,
+
+weet te em ee ewe ee ween
+
+echo "There are no users to create since the list you entered contains onty
+
+users that already exist on the system...Sorry !"
+
+fi
+
+https://github.com/amoldclark/vsftp_butk_users_creation/pull/1/files# diff-4b2fd5229402bf07470b¢7f7 addbeSccaB28S2heGha - 13/14
+
+165
+
+
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 21.script_for_sftp_users_set_up_in_bash.pdf
+
+tO
+
+13/06/2023, 10-04 RUSKing script for sthp wsers setup with Rasswordts by anmshill - Aull Request #1 - amolddistkAvsttp tou us _
+
+https: //github.com/a roldclark/vsftp_bulk_users_creation/pull/1/files#diff-4b2fd5229402bf07470bc7f74ddbeScca82852be6b4.. . 1414
+
+166
+

@@ -1,0 +1,124 @@
+Workspaces Applications 20Jun 12:53 e
+
+€) ac-iac-platform/aw x | €) arnoldclark/ac-iac x | €) Your Repositories x | €) mmshill/setup_use x  €) script set_up_new x iH Email-MarcelSane x | + v x
+
+€ C @ github.com/mmshill/script_set_up_new_users_with_passwords_sftp_server/blob/main/script_set_up_hew_users_with_passwords_sftp_server < + %® O sg:
+
+pe P main ~ script_set_up_new_users_with_passwords sftp_server / script_set_up_new_users_with_passwords sftp server Top
+
+Code Blame 218 Lines (134 loc) + 7.29 KB Raw (Oo & ie =
+
+196
+197
+
+198
+
+199 #once we know
+200
+
+201
+
+202
+
+203
+
+204
+
+205
+
+206 #
+
+207
+
+208 else
+
+209
+
+, we need to delete the folder
+
+date_now"
+
+2 SChIpE 15
+
+210 echo "There are no users to create since the List you entered contains only users that already exist on the system...Sorry !"
+alls
+
+212 tral
+
+213
+
+214
+
+215
+
+216
+
+217
+
+218
+
+1158
+Workspaces Applications 20Jun 12:53 « Oo @dai & G 100%
+
+€) ac-iac-platform/aw x | €) arnoldelark/ac-iac x | C€) Your Repositories €) mmshill/setup_use x  €) seript_set_up_new x | Gm Email - Marcel Sane x | + v x
+
+€ C @ github.com/mmshill/setup_users_vsftp < + * O 2 :
+
+e
+= ©) mmshill / setup_users_vsftp & Q Type [/] to search >a +~ © 7 B ==
+
+<> Code ©) Issues {4 Pullrequests ©) Actions fF Projects © Security |~ Insights © Settings
+— ;
+-. setup_users_vsftp Private
++
+8B 2
+
+Set up GitHub Copilot Invite collaborators
+Use GitHub's AI pair programmer to autocomplete suggestions as you code. Find people using their GitHub username or email address.
+
+HTTPS SSH git@github.com:mmshill/setup_users_vsftp.git
+
+..or create a new repository on the command line
+
+echo "# setup_users_vsftp" >> README.md (oO
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+1159
+Workspaces Applications 20Jun 12:53 « Bos Oo @dai & G 100%
+
+©) ac-iac-platform/aw x  €) arnoldclark/ac-iac x €) Your Repositories x €) mmshill/setup_use x | €) script_set_up_new x | Gm Email - Marcel Sane x | + v _
+
+C a github com/mmnshilttaRtpostores < + *# OF 2:
+
+= ©) mmshill Q Type [/] to search bes + ~ Oo! Na =
+
+(1 Overview ({ Repositories 4 fH Projects & Packages vy Stars
+
+Type ~ Language ~ Sort + New
+
+test-2 | Private ty star | +
+
+test-2
+
+Updated on Jan 31
+
+setup_users_vsftp Private Ww Star +
+
+Updated on Jan 31
+
+script_set_up_new_users_with_passwords_sftp_server | Private area
+
+script used on the sftp server to create ftp users authenticated with
+Edit profile passwords
+
+mm~shill
+
+@Shell Updated onJan 31
+
+Organizations
+
+1160

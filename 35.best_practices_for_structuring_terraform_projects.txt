@@ -1,0 +1,89 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 35.best_practices_for_structuring_terraform_projects.pdf
+
+Best Practices for Structuring Terraform
+Projects with Multiple VPCs
+
+Introduction
+
+Imagine orchestrating a vast symphony, akin to managing multiple Virtual Private Clouds
+(VPCs) across AWS regions. This scenario requires a harmonious and structured
+approach, much like conducting a musical performance with different sections. This guide
+explores the recommended modular approach for managing Terraform code, reflecting the
+complexity and coordination of a symphony.
+
+Clarity and Organization
+
+Analogy: Think of the orderliness of a library, facilitating easy location of genres or
+authors, contrasted with disarray.
+
+Solution & Reference: Implement a filing system for your Terraform code, similar to a
+library's organization. This ensures project clarity and order. Marcel Zehner provides
+detailed insights at https://marcelzehner.ch/2019/05/25/terraform-using-multiple-files-for-
+configurations-and-variables/.
+
+Reusability and Modularity
+
+Analogy: Envision a kitchen's organization, where ingredients are stored in clear, reusable
+containers for efficiency.
+
+Solution & Reference: Utilize reusable Terraform modules for infrastructure patterns, akin
+to a well-stocked kitchen. This promotes efficiency and consistency. More on this approach
+can be found in the Modern Technologist Guide at
+https://moderntechnologist.com/provisioning-vpcs-using-terraform-vpc-module-step-by-
+step-guide-for-common-use-cases/.
+
+Reduced Complexity
+
+Analogy: Compare the coherence of a well-structured essay to the confusion of a text
+wall.
+
+Solution & Reference: Organize your Terraform into focused files, paralleling an essay's
+structure. This facilitates easier updates and comprehension. Insights can be gained from
+https://discuss.hashicorp.com/t/multiple-plan-apply-stages-terraform/20572.
+
+ 
+
+Improved Team Collaboration
+
+Analogy: Reflect on the efficiency of a relay race, with each participant contributing to the
+final outcome.
+
+368
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 35.best_practices_for_structuring_terraform_projects.pdf
+
+Solution & Reference: Distribute Terraform tasks among team members, mirroring a relay
+race's teamwork. Effective strategies for this are outlined at FreeCodeCamp:
+https://www.freecodecamp.org/news/learn-basic-terraform-syntax-in-20-minutes/.
+
+Better State Management
+
+Analogy: Similar to individual accounts for distinct financial goals, separate state files offer
+clearer oversight.
+
+Solution & Reference: Apply distinct state files for different environments, akin to using
+separate accounts for financial management. Charity Majors discusses this in depth at
+https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/.
+
+ 
+
+Conclusion
+
+Adopting a modular approach for Terraform, especially in multi-VPC AWS region projects,
+is akin to orchestrating a grand musical performance or managing a well-structured library.
+By implementing best practices, your infrastructure becomes as orderly, scalable, and
+maintainable as possible, ensuring smoother operations and enhanced collaboration.
+
+These methodologies are not just about maintaining order; they empower your team to
+build and manage infrastructure with the clarity, precision, and harmony of a well-
+conducted symphony.
+
+361
+
