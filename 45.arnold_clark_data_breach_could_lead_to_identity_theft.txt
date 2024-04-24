@@ -1,0 +1,71 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 45.arnold_clark_data_breach_could_lead_to_identity_theft.pdf
+
+Arnold Clark data breach leads to
+identity theft
+
+By Naveen Goud
+
+ 
+
+A few days ago, the servers of car dealer ‘Arnold Clark’ were breached by
+hackers and the information of 1000sof motorists was stolen that can lead to
+identity thefts and online frauds. The threat actors are adamant in their
+demand for charging cryptocurrency in millions and are not ready to entertain
+
+any negotiation of hackers.
+
+As the company failed to pay them the demanded ransom, the cyber crooks
+have leaked addresses, passports, and national insurance numbers and are
+threatening to leak more sensitive information in the coming weeks, if the
+
+victim cannot pay them the demanded ransom.
+
+Play Ransomware gang is suspected to be behind the incident. But the news
+
+is yet to be confirmed by the sources from the Britain’s biggest car dealers.
+Cybersecurity Insiders has learnt from its resources that the threat actors
+have so far leaked 15GB of information out of the 467GB that they siphoned
+
+from the servers last month.
+
+On Sunday, they leaked a portion of data onto the dark web that contained
+
+438
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 45.arnold_clark_data_breach_could_lead_to_identity_theft.pdf
+
+bank statements details and the car registration number associated with the
+
+car owner.
+
+Security analysts state that such information can easily be misused, leading
+to frauds and identity thefts where criminals pose as a person and commit
+
+frauds without the permission of the victim.
+
+NOTE- Play Ransomware aka PlayCrypt is a kind of file encrypting malware
+that was first identified in June 2022. Last year, the said group of criminals
+hacked into cloud service provider Rackspace, that happens to be the first
+renowned victim in their list of targets. According to a research conducted by
+Trend Micro, Play has some connection with Quantum Ransomware, a
+malware linked to the Conti Ransomware gang that has an established
+business of conducting online crime and has a team of research and
+development, spammers, negotiators tied up with a legal firm and a call center
+
+to conduct negotiations with representatives of victims.
+
+Naveen Goud
+
+Naveen Goud is a writer at Cybersecurity Insiders covering topics such as Mergers &
+
+Acquisitions, Startups, Cyber Attacks, Cloud Security and Mobile Security
+
+439
+

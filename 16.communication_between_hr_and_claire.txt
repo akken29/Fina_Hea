@@ -1,0 +1,210 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 16.communication_between_hr_and_claire.pdf
+
+From: Emma Glass
+
+Sent: Tuesday, June 13, 2023 5:04 PM
+
+To: Laura Cooper <Laura.Cooper@arnoldclark.com>
+
+Cc: Geraldine Bjonness <Geraldine.Bjonness@arnoldclark.com>; Charlotte Hutchieson
+<Charlotte.Hutchieson@arnoldclark.com>
+
+Subject: FW: Statement
+
+ 
+
+ 
+
+ 
+
+Hi Laura
+
+Can you pick up an U23month for 75078 Mory-Marcel Sangare, | have spoken to David Middleton re this case and
+Claire has sent over a statement of the issues that they have experienced. Can you review the statement which ill
+pass over a printed copy of as the link wont send and arrange meeting?
+
+Thanks
+Emma
+
+Emma Glass
+Senior People Operations Manager
+Arnold Clark Automobiles Ltd
+
+Tel: 0141 6481390
+Mobile: 07785993043
+
+Cx i disabil ————a
+Think | vay “@ a
+Employee © confident aio rr
+
+ 
+
+At Arnold Clark we work flexibly. I’m sending this message now because it suits my working hours. However, |
+don’t expect that you will read, respond to, or action this message outside of your usual working hours.
+
+From: Claire Thomson <Claire. Thomson@arnoldclark.com>
+
+Sent: Monday, June 12, 2023 3:01 PM
+
+To: Emma Glass <Emma.Glass@arnoldclark.com>
+
+Cc: David Middleton <David.Middleton@arnoldclark.com>; David Middleton <David.Middleton@arnoldclark.com>
+Subject: Statement
+
+ 
+
+ 
+
+ 
+
+ 
+
+137
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 16.communication_between_hr_and_claire.pdf
+
+01230612_statement.docx
+
+Hi Emma,
+
+David Middleton requested that | send this over to you.
+Please let me know if you require anything further
+
+Thanks
+Claire Thomson
+
+138
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 16.communication_between_hr_and_claire.pdf
+
+Marcel was hired as a replacement headcount for an experienced engineer in the team. The
+roles and responsibilities of the role he applied for made clear he would “Utilize
+infrastructure-as-code to deliver automated, predictable and scalable solutions,
+infrastructure and services” and “Evangelise automated, fault-tolerant and secure
+developments and practices”. Of the work Marcel has produced to date we don’t believe he
+has the competencies to complete these two responsibilities in particular.
+
+Marcel continues to struggle with distributed version control systems. The team has
+provided multiple repeated explanations in 1-2-1 sessions and in written Teams chats on
+how these systems should be used to enable the team to collaborate. Our using of version
+control systems is the standard industry way of working namely to work in a feature branch
+and commit small changes continually. It is critical for everyone in the team to work in the
+same way especially when we the team works in a hybrid of office and home working. After
+multiple reminders most days Marcel is still not able to follow this process and rather sends
+screenshots and emails which slows down and distracts the Team Lead and the other
+members of the team.
+
+As explained at interview the focus of the ArchOps team where Marcel applied and
+currently sits is to support the delivery of our strategic objective to move our software
+deployment infrastructure architecture to that known as “Infrastructure as Code”. The tools
+we use to deliver this are Terraform and Ansible. Both tools are industry standard tools for
+this work and Marcel stated on his cv and at interview that he had experience with. Marcels
+performance to date indicates that his competencies with these tools are at best limited and
+not up to the requirements for the role he was hired to undertake. Tasks which take other
+members of the team days to complete are taking Marcel weeks which is well below the
+performance level expected of someone with his stated experience. Of particular concern is
+Marcel’s inability to not use raw scripts but create reusable modules to complete work. This
+is a fundamental principal of the strategy we as a department are looking to follow and is
+having a significant negative impact on the team’s ability to operate and the work that
+Marcel is producing.
+
+Given the above we believe there isn’t a role for Marcel in the department given the natural
+way Marcel likes to work and his level of exposure to the tools we use. Marcel was brought
+in as an experienced senior engineer and as such we would expect him to take autonomous
+ownership of some of the tasks of the team. Given our time with Marcel to date we don’t
+believe that is going to be possible.
+
+Current Task - Identify all AWS resources and add to source control.
+The task originally was to identify all AWS resources and add them to our source control
+system. Marcel was instructed to work from a branch in a designated repo, look at our
+
+existing structure, create a new AWS folder and add the code to it.
+
+The first concern in this task arose when Marcels first attempt at lead him to try and script
+the creation of the terraform.
+
+139
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 16.communication_between_hr_and_claire.pdf
+
+Terraform is a tool to create Infrastructure as Code. The end goal of this task — all our tasks,
+is to use the tools to automate the creation of the infrastructure.
+
+Marcel was course corrected to make sure he understood that his thinking was incorrect, he
+reasoned that if someone was to spin up new resources we could run the script to capture it
+in terraform — | corrected that by reinforcing that no one should be clicking the buttons to
+create the resources manually — that they will be created in the code, approved and ran via
+a pipeline.
+
+Realising that the task needed to be more focused it was then broken down further to focus
+solely on VPCs (Virtual Private Cloud)
+
+Marcel tried to create the VPCs but created each part of them individually, reasoning that it
+would allow us to manage each bit separately. | had to correct his course again — | explained
+that a VPC consisted of multiple parts that were linked and should exist and be managed
+within the same file — as we could not possibly recreate a VPC without destroying all the
+resources that existed within this. | highlighted this by showing Marcel the Resource Map
+that exists in AWS.
+
+Marcel has had ample time to review our repos and look at the AWS interface and with his
+experience realise how infrastructure has dependencies on each other.
+
+Macel had another attempt to restructure his work and then paired with his colleague Zoe
+to review it. Zoe highlighted issues with the structure, the version being used and how the
+state file worked (that we did not want them individual)
+Following that Marcel then called me, questioning what Zoe had said. | reiterated that she
+was correct — and this is what t had previously explained that we wanted a single VPC folder
+with them all in it.
+
+Having explained on calls and in the chat the folder structure that was expected, what parts
+of the code had to go where, screen sharing and dragging and dropping files as an example
+to show this had now turned in to a drag and drop exercise to refactor what was there, | was
+still met with having to go over it yet again on our catchup — that the settings were to
+remain in the file and not in the variables file.
+
+Marcel did say that he’d misinterpreted a previous comment in the chat (19 folder
+structure) but it had been followed with the example on the call, and the comments in the
+chat on the (23)
+
+Throughout this as previously mentioned, I’ve had to remind him to push changes to github,
+not to send screen shots when asking me to assist, these are just the reminders in chat,
+others were issued verbally.
+
+Commits were infrequent and often one or two lines or words were changed in a period of a
+
+few days — this work rate is below what | would expect, even from a graduate or
+apprentice.
+
+140
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 16.communication_between_hr_and_claire.pdf
+
+If | had given this task to anyone else on the team it would have been completed within a
+few weeks.
+
+This is in addition to a previous attempt at a task which had similar course corrections and
+misunderstanding of the tool and how it should be used (ansible), that while it can runa
+bash script — that we should use the collections and roles designed for it and only use
+custom scripts where absolutely necessary.
+
+| feel that at this point I’d have no confidence that Marcel could perform a task that came in
+on our BAU board without a lot of support and guidance.
+
+141
+

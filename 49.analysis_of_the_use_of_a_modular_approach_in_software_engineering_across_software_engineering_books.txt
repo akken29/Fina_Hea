@@ -1,0 +1,2123 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Analysis of the Use of a Modular Approach in Software Engineering Across
+Software Engineering Books
+
+1.
+
+- Discusses different design approaches for software architecture, mentioning that an application doesn't need to stick with a single
+architecture and can mix different design approaches, implying a modular design.
+
+- Highlights the decomposition process in the V-Model, aligning with modular design principles by breaking the application down into
+manageable pieces.
+
+In the book "Beginning Software Engineering,” the concept of a modular approach, while not explicitly labeled as "modular approach,” is
+discussed in the context of software architecture and design. Here are the relevant sections:
+
+High-Level Design (Page 100): The book discusses different design approaches for software architecture. It mentions that an
+application doesn't need to stick with a single architecture and can mix different design approaches. Specifically, it states, "Some of the
+larger services might use a component-based approach to break their code into decoupled pieces." This is a principle of modular design,
+where software is divided into separate modules that can be developed, tested, and maintained independently.
+
+V-Model (Page 275): In the context of the V-Model, the book discusses decomposition, which is the process of breaking the application
+down from its highest conceptual level into more and more detailed tasks. This concept aligns with modular design as it involves dividing
+software into smaller, manageable pieces.
+
+Although the term "modular approach" is not used directly, the principles of modular design are implied in the discussions of component-
+based approaches and the decomposition process. The book emphasizes the importance of breaking down software into manageable,
+decoupled pieces, which is a core aspect of modular design.
+
+ 
+
+ 
+
+813
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+2. "Fundamentals of Software Engineering, Fourth Edition" by Rajib Mall:
+
+- Explicitly discusses modularity, stating that a modular design effectively decomposes a problem into a set of modules with limited
+interactions.
+
+- Emphasizes the importance of high cohesion within modules and low coupling between modules as characteristics of a highly
+modular design solution.
+
+- Advocates for modular design to improve understandability, reusability, and manageability of software.
+
+In the book "Fundamentals of Software Engineering, Fourth Edition" by Rajib Mall, the modular approach is explicitly discussed in several
+sections:
+
+Definition of Module (Page 65): The book defines a module as "a collection of procedures and data structures... forming an
+independently compilable unit" that can be linked with other modules to form a complete application. This definition underlines the
+concept of modularity in software engineering.
+
+Modularity and Design (Page 627): The book elaborates on the concepts of modularity, stating that "A modular design is an effective
+decomposition of a problem" and is a key characteristic of good design. It explains that modularity involves decomposing a problem into
+modules with limited interactions, which simplifies understanding and reduces complexity.
+
+Measuring Modularity (Page 628): It discusses the difficulty in quantitatively measuring the modularity of a design but suggests that a
+design can be considered highly modular if it exhibits high cohesion within modules and low coupling between modules.
+
+Advantages of Modular Design (Page 634): The text outlines the benefits of modular design, including reusability, understandability,
+and reduced complexity, by ensuring that modules are functionally independent.
+
+Layered Design and Modularity (Page 646): It mentions that a layered design, which is a form of modular design, achieves control
+abstraction and simplifies understanding and debugging.
+
+Assessment and Improvement of Modularity (Page 672): The book poses questions regarding the assessment of modularity in design,
+factors affecting modularity, and ways to improve designs with low cohesion and high coupling.
+
+Function-Oriented Design and Modularity (Page 675): It discusses how top-down decomposition in function-oriented design leads to a
+modular structure that embodies good design characteristics.
+
+814
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Integration Testing and Modularity (Pages 1213, 1214, 1217): The book explains how integration testing strategies, such as the big-
+bang, bottom-up, and mixed approaches, relate to the modular structure of software systems.
+
+These sections collectively provide a comprehensive overview of the modular approach in software engineering, highlighting its
+importance, implementation, and benefits in the context of design and testing.
+
+ 
+
+ 
+
+3. "Introduction to Software Engineering":
+
+- Describes how the development of the Linux operating system benefits from modularity, with each source code module being
+reviewed by many programmers.
+
+- Discusses the importance of modular requirements for the flexibility of design and code development.
+
+- Explains different approaches to software integration (big bang, bottom-up, and top-down) and their relation to modularity.
+
+In the book "Introduction to Software Engineering," the modular approach is discussed in various contexts:
+Open Source Development and Modularity (Page 207): The book describes how the development of the Linux operating system
+benefits from modularity, as each source code module is reviewed by many programmers, which enhances the quality and maintainability
+
+of the code.
+
+Requirements and Modularity (Page 331): It discusses how having modular requirements allows for the design and code to be
+developed in a modular manner, which adds flexibility and makes it easier to incorporate new requirements with minimal changes.
+
+Software Integration Approaches (Pages 851, 853, 854, 855, 857): The text explains different approaches to software integration (big
+bang, bottom-up, and top-down) and how they relate to modularity. The big bang approach, for example, is more feasible if the system
+design is sufficiently modular, allowing individual software components to adhere to appropriate interface and performance standards.
+
+Advocacy for Higher Modularity (Page 866): The book advocates for a higher degree of modularity, especially in software that
+combines procedural and object-oriented portions, to simplify integration and maintenance.
+
+Hybrid Integration Approach (Page 909): It describes a hybrid approach to software integration that combines top-down and bottom-up
+techniques, which relies on the modularity of the system to be effective.
+
+815
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+References to Modularity Research (Page 1102): The book cites works by D.L. Parnas, a pioneer in software engineering, who has
+written extensively on the modular structure of complex systems, highlighting the importance of modularity in software design.
+
+These sections collectively underscore the importance of the modular approach in software engineering, particularly in terms of system
+integration, flexibility in design, and the ability to handle changes effectively.
+
+ 
+
+ 
+
+4. "Software Engineering, 10th Edition":
+
+- Mentions the incremental approach to software development, which implies the need for a modular approach to maintain the system's
+structure.
+
+- Discusses Component-Based Software Engineering (CBSE) and service-oriented approaches, highlighting the move towards more
+modular systems.
+
+- Emphasizes the importance of architectural design in successful reuse, focusing on the selection and integration of individual
+components into the system architecture.
+
+In "Software Engineering, 10th Edition," the modular approach is discussed indirectly through various software engineering practices and
+principles:
+
+Incremental Approach and Structural Degradation (Page 112): The book mentions the incremental approach to software development,
+which can lead to structural degradation and code messiness as new increments are added. This implies the need for a modular
+approach to maintain the system's structure and manageability.
+
+Agile Methods and Plan-Driven Development (Page 164): While not directly mentioning modularity, the discussion contrasts agile
+methods with plan-driven approaches, highlighting the challenges of applying heavyweight, plan-driven development to smaller systems.
+This suggests the importance of adaptability and modularity in software development practices.
+
+Components and Component Models (Page 1103): The book discusses Component-Based Software Engineering (CBSE) and service-
+
+oriented approaches, which replace traditional embedded components. This section highlights the move towards more modular, service-
+oriented systems in software development.
+
+816
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Architectural Design and Reuse (Page 1130): It emphasizes the importance of architectural design in successful reuse, which involves
+identifying and validating components for reuse. This process is inherently modular, focusing on the selection and integration of individual
+components into the system architecture.
+
+Systems of Systems (SoS) and Architectural Frameworks (Page 1442): The text discusses the architectural design of systems of
+systems (SoS) and the use of architectural frameworks. These frameworks support the development of complex systems by promoting a
+modular approach, where the system is viewed as a collection of interconnected components.
+
+While the term "modular approach" is not explicitly used, the principles of modularity underpin many of the discussed concepts, such as
+incremental development, component-based engineering, and the architectural design of complex systems.
+
+ 
+
+ 
+
+5. "Software Engineering: Modern Approaches":
+- Highlights that software should be modular, facilitating easier planning, development, modification, documentation, and testing.
+- Lists modularity as one of the principal goals of software design, involving dividing the software into well-defined parts.
+- Discusses the importance of decomposing software into modules that maximize cohesion and minimize coupling.
+- Advocates for incremental integration over big bang integration, emphasizing the modular assembly of software systems.
+
+In "Software Engineering: Modern Approaches," the modular approach is discussed in several contexts:
+
+Design Simplification and Modularity (Page 842): The book emphasizes that software should be modular, allowing parts to be replaced
+without affecting others, facilitating easier planning, development, modification, documentation, and testing. It also highlights that
+modularity enables assigning different people to work on different parts of the software.
+
+Principles of Software Design (Pages 842-843): Modularity is listed as one of the principal goals of software design, alongside
+sufficiency, understandability, cohesion, coupling, robustness, flexibility, reusability, information hiding, efficiency, and reliability. The book
+
+explains that modularity involves dividing the software into well-defined parts.
+
+Software Decomposition (Page 844): The text discusses the importance of decomposing software into modules that maximize
+cohesion within each module and minimize coupling between modules. This approach helps simplify complex tasks.
+
+817
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Good Design and Modularization (Page 1329): It states that good design requires modularization, which should ideally be performed in
+advance but can also be beneficial when done after the fact. The book mentions the Facade design pattern as a means of handling
+modularity on a larger scale.
+
+Integration Strategies (Pages 1414-1416): The book contrasts big bang integration with incremental integration, advocating for the
+latter as it allows for the system to be built step by step in small increments, making it easier to isolate integration problems.
+
+Summary of Integration (Page 1439): It summarizes the integration process, emphasizing the advantages of incremental integration
+over big bang integration and highlighting the use of the Facade design pattern to facilitate interface testing between modules.
+
+These sections collectively provide a comprehensive view of the modular approach in software engineering, highlighting its importance in
+design, development, and integration processes. The book underscores the benefits of modularity in terms of simplification,
+understandability, and maintainability of software systems.
+
+ 
+
+ 
+
+Overall, these ebooks collectively underscore the significance of the modular approach in software engineering, highlighting its benefits
+in terms of design simplicity, maintainability, and flexibility. The modular approach is presented as a fundamental principle across different
+aspects of software development, from architectural design to integration strategies.
+
+ 
+
+ 
+
+818
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+ 
+
+Beginning
+
+i
+Engineering
+Eee oS eons
+
+819
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+100 | CHAPTERS HIGH-LEVEL DESIGN
+
+ 
+
+application. Some of the larger services might use a component-based approach to break their code into
+decoupled pieces. Other services might use a multitier approach to separate their features from the data
+storage layer. (Combining different architectures can also sound impressive at cocktail parties. “Yes, we
+decided to go with an event-driven multitier approach using rule-based distributed components.”)
+
+CLASSYDRAW ARCHITECTURE
+
+ 
+
+Suppose you want to pick an architecture for the ClassyDraw application described
+in Chapter 4. (Recall that this is a drawing program somewhat similar to MS Paint
+except it lets you select and manipulate drawing objects.) One way to do that is to
+think about each of the standard architectures and decide whether it would make
+sense to use while building the program.
+
+1. Monolithic—This is basically the default if none of the more elaborate archi-
+tectures apply. We'll come back to this one later.
+
+2.  Client/server, multitier—ClassyDraw stores drawings in files, not a database,
+so client/server and multitier architectures aren’t needed. (You could store
+drawings in a database if you wanted to, perhaps for an architectural frm
+or some other use where there would be some benefit. For a simple drawing
+application, it would be overkill.)
+
+3. Component-based—Y ou could think of different pieces of the application as
+components providing services to each other. For example, you could think of
+a “rectangle component” that draws a rectangle. For this simple application,
+it’s probably just as easy to think of a Rectangle class that draws a rectangle,
+so I’m not going to think of this as a component-based approach.
+
+4. — Service-oriented—This is even less applicable than the component-based approach.
+PP P PP
+Spreading the application across multiple computers connected via web services
+(or some other kind of service) wouldn't help a simple drawing application.
+
+5. Data-centric—The user defines the drawings, so there’s no data around which
+to organize the program. (Although a more specialized program, perhaps a
+drafting program for an architectural firm or an aerospace design program,
+might interact with data in a meaningful way.)
+
+6.  Event-driven—The user interface will be event-driven. For example, the user
+selects a tool and then clicks and drags to create a new shape.
+
+7. Rule-based—There are no rules that the user must follow to make a drawing,
+so this program isn’t rule-based.
+
+8. Distributed—This program doesn’t perform extensive calculations, so distrib-
+uting pieces across multiple CPUs or cores probably wouldn't help.
+
+Because none of the more exotic architectures applied (such as multitier or service-
+
+oriented), this application can have a simple monolithic architecture with an event-
+driven user interface.
+
+ 
+
+820
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+V-model | 275
+
+ 
+
+Figure 12-4 and Figure 12-5 show projects that use three increments, but you can use as many
+as you like. In fact, for an application with a long useful life, you could use an open-ended series
+of increments. You would just keep adding new increments whenever you wanted to make a new
+version of the application to add new features.
+
+REFACTORING REQUIRED
+
+ 
+
+Sometimes, programs that grow incrementally become strange creatures with
+illogical interfaces, inconsistent mechanisms, and code as strange as anything
+H.P. Lovecraft could have written (if he’d been a programmer). I’ve worked
+with programs that had been used and modified for decades, and it was nearly
+impossible to make any significant changes without breaking something.
+
+At some point, you may need to slip in a refactoring increment to clean house. That
+increment might add little or no new functionality, but it will let you move forward
+with future increments more efficiently.
+
+The incremental waterfall model is actually somewhat adaptive because it lets you reevaluate your
+direction at the start of each increment, but I’ve included it in this chapter for three reasons. First,
+this is a waterfall variation, so | want to put it with the other waterfall models.
+
+Second, it’s not all that adaptive. You can change direction when you start a new increment, but
+within each increment the model runs predictively. You can make only small changes allowed
+by whichever particular waterfall model you use for the increments (waterfall with feedback or
+sashimi).
+
+The fact that you’re building on a previous increment also gives the project some inertia that limits
+the amount of change you can add to the next release. For example, you can add, remove, and
+tweak features in a new increment, but you probably shouldn’t radically change the user interface.
+That would be more like a completely new project rather than an incremental change to the ongoing
+series.
+
+Finally, increments tend to run over a longer scale than the stages in most adaptive models. For
+example, a long-running project might use a new increment every year or two. That gives the users
+a nice, steady, predictable release schedule. In contrast, some adaptive models produce new builds
+of an application every month or even every week. You probably wouldn’t release all of those builds
+to the users, but the pace is definitely more frenetic. The incremental waterfall model is somewhat
+adaptive, but usually over long timescales.
+
+V-MODEL
+
+V-model is basically a waterfall that’s been bent into a V shape, as shown in Figure 12-6.
+
+The tasks on the left side of the V break the application down from its highest conceptual level into
+
+more and more detailed tasks. This process of breaking the application down into pieces that you
+can implement is called decomposition.
+
+ 
+
+821
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Fundamentals of
+
+Software
+
+Engineering
+Protas scr mee Edition
+
+RAJIB MALL
+
+Professor
+
+Department of Computer Science and Engineering
+Indian Institute of Technology Kharagpur
+
+ 
+
+PHI Learning (aivcie Uinitiec
+
+Delhi-110 092
+2014
+
+822
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+explain how these two principles help tackle the complexity associated
+with developing large programs.
+
+31. What does the control flow graph (CFG) of a program represent? Draw
+the CFG of the following program:
+
+main () {
+int y=1;
+if (y<0)
+if(y>0) y=3;
+else y=0;
+
+printf (“Sd\n",y);
+}
+
+32. Discuss the possible reasons behind supersession of the data structure-
+oriented design methods by the control flow-oriented design methods.
+
+33. What is a data structure-oriented software design methodology? How is
+it different from the data flow-oriented design methodology?
+
+34. Discuss the major advantages of the object-oriented design (OOD)
+methodologies over the data flow-oriented design methodologies.
+
+35. Explain how the software design techniques have evolved in the past.
+How do you think shall the software design techniques evolve in the near
+future?
+
+36. What is computer systems engineering? How is it different from
+software engineering?
+
+Give examples of some types of product development projects for which
+systems engineering is appropriate.
+
+37. What do you mean by software service? Explain the important
+differences between the characteristics of a software service
+development project and a software product development project.
+
+1 In this text, we shall use the terms module and module structure to loosely mean the folowing—A module is a
+
+collection of procedures and data structures. The data structures mn a module are accessible only to the procedures
+defined inside the module. A module forms an independently compilable unit and may be linked to other modules to
+form a complete application. The term module structure will be used to denote the way in which different modules
+invoke each other’s procedures.
+
+ 
+
+823
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+characteristics to be easily understandable:
+
+e It should assign consistent and meaningful names to various design
+components.
+
+e It should make use of the principles of decomposition and abstraction
+in good measures to simplify the design.
+
+We had discussed the essential concepts behind the principles of
+abstraction and decomposition principles in Chapter 1. But, how can the
+abstraction and decomposition principles are used in arriving at a design
+solution? These two principles are exploited by design methodologies to
+make a design modular and layered. (Though there are also a few other
+forms in which the abstraction and decomposition principles can be used in
+the design solution, we discuss those later). We can now define the
+characteristics of an easily understandable design as follows: A design
+solution is understandable, if it is modular and the modules are arranged in
+distinct layers.
+
+ 
+
+A design solution should be modular and layered to be understandable.
+We now elaborate the concepts of modularity and layering of modules:
+
+ 
+
+Modularity
+
+A modular design is an effective decomposition of a problem. It is a basic
+characteristic of any good design solution. A modular design, in simple
+words, implies that the problem has been decomposed into a set of
+modules that have only limited interactions with each other.
+Decomposition of a problem into modules facilitates taking advantage
+of the divide and conquer principle. If different modules have either no
+interactions or little interactions with each other, then each module can
+be understood separately. This reduces the perceived complexity of the
+design solution greatly. To understand why this is so, remember that it
+may be very difficult to break a bunch of sticks which have been tied
+together, but very easy to break the sticks individually.
+
+It is not difficult to argue that modularity is an important characteristic of a
+good design solution. But, even with this, how can we compare the
+modularity of two alternate design solutions? From an inspection of the
+module structure, it is at least possible to intuitively form an idea as to which
+design is more modular For example, consider two alternate design solutions
+
+ 
+
+824
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+to a problem that are represented in Figure 5.2, in which the modules M1 ,
+M2 etc. have been drawn as rectangles. The invocation of a module by
+another module has been shown as an arrow. It can easily be seen that the
+design solution of Figure 5.2(a) would be easier to understand since the
+interactions among the different modules is low. But, can we quantitatively
+measure the modularity of a design solution? Unless we are able to
+quantitatively measure the modularity of a design solution, it will be hard to
+say which design solution is more modular than another. Unfortunately, there
+are no quantitative metrics available yet to directly measure the modularity
+of a design. However, we can quantitatively characterise the modularity of a
+design solution based on the cohesion and coupling existing in the design.
+
+ 
+
+A design solution is said to be highly modular, if the different modules in the solution
+have high cohesion and their inter-module couplings are low.
+
+ 
+
+A software design with high cohesion and low coupling among modules is
+the effective problem decomposition we discussed in Chapter 1. Such a
+design would lead to increased productivity during program development by
+bringing down the perceived problem complexity.
+
+Mil
+
+ 
+
+ 
+
+ 
+
+     
+
+a
+
+(a) A modular and hierarchical design (b) A design solution exhibiting poor
+modularity and hierarchy
+
+ 
+
+Figure 5.2: Two design solutions to the same problem.
+
+Based on this classification, we would be able to easily judge the cohesion
+and coupling existing in a design solution. From a knowledge of the cohesion
+and coupling in a design, we can form our own opinion about the modularity
+of the design solution. We shall define the concepts of cohesion and coupling
+and the various classes of cohesion and coupling in Section 5.3. Let us now
+discuss the other important characteristic of a good design solution—layered
+
+825
+
+
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+of shared data, the modules are tightly coupled.
+
+e If the interactions occur through some shared data, then also we say
+that they are highly coupled.
+
+If two modules either do not interact with each other at all or at best
+interact by passing no data or only a few primitive data items, they are said
+to have low coupling.
+
+Cohesion: To understand cohesion, let us first understand an analogy.
+Suppose you listened to a talk by some speaker. You would call the speech to
+be cohesive, if all the sentences of the speech played some role in giving the
+talk a single and focused theme. Now, we can extend this to a module in a
+design solution. When the functions of the module co-operate with each other
+for performing a single objective, then the module has good cohesion. If the
+functions of the module do very different things and do not co-operate with
+each other to perform a single piece of work, then the module has very poor
+cohesion.
+
+Functional independence
+
+By the term functional independence, we mean that a module performs a
+single task and needs very little interaction with other modules.
+
+ 
+
+A module that is highly cohesive and also has low coupling with other modules is said
+to be functionally independent of the other modules.
+
+Functional independence is a key to any good design primarily due to the
+following advantages it offers:
+
+Error isolation: Whenever an error exists in a module, functional
+independence reduces the chances of the error propagating to the other
+modules. The reason behind this is that if a module is functionally
+independent, its interaction with other modules is low. Therefore, an error
+existing in the module is very unlikely to affect the functioning of other
+modules.
+
+Further, once a failure is detected, error isolation makes it very easy to
+locate the error On the other hand, when a module is not functionally
+independent, once a failure is detected in a functionality provided by the
+module, the error can be potentially in any of the large number of modules
+and propagated to the functioning of the module.
+
+Scope of reuse: Reuse of a module for the development of other
+applications becomes easier. The reasons for this is as follows. A functionally
+
+ 
+
+826
+
+
+--- New Page 15 ---
+Page number: 15
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+tested in another module.
+
+Common coupling: Two modules are common coupled, if they share some
+global data items.
+
+Content coupling: Content coupling exists between two modules, if they
+share code. That is, a jump from one module into the code of another module
+can occur Modern high-level programming languages such as C do not
+support such jumps across modules.
+
+The different types of coupling are shown schematically in Figure 5.5. The
+degree of coupling increases from data coupling to content coupling. High
+coupling among modules not only makes a design solution difficult to
+understand and maintain, but it also increases development effort and also
+makes it very difficult to get these modules developed independently by
+different team members.
+
+5.4 LAYERED ARRANGEMENT OF MODULES
+
+Thecontrol hierarchyrepresents the organisation of program
+components in terms of their call relationships. Thus we can say that
+the control hierarchy of a design is determined by the order in which
+different modules call each other. Many different types of notations
+have been used to represent the control hierarchy. The most common
+notation is a tree-like diagram known as a structure chart which we
+shall study in some detail in Chapter 6. However, other notations such
+as Warnier-Orr [1977, 1981] or Jackson diagrams [1975] may also be
+used. Since, Warnier-Orr and Jackson’s notations are not widely used
+nowadays, we shall discuss only structure charts in this text.
+
+In a layered design solution, the modules are arranged into several layers
+based on their call relationships. A module is allowed to call only the modules
+that are at a lower layer. That is, a module should not call a module that is
+either at a higher layer or even in the same layer. Figure 5.6(a) shows a
+layered design, whereas Figure 5.6(b) shows a design that is not layered.
+Observe that the design solution shown in Figure 5.6(b), is actually not
+layered since all the modules can be considered to be in the same layer. In
+the following, we state the significance of a layered design and subsequently
+we explain it.
+
+Ce ,
+
+827
+
+
+--- New Page 16 ---
+Page number: 16
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+(a) The essence of any good function-oriented design technique is to
+map the functions performing similar activities into a module.
+
+(b) Traditional procedural design is carried out top-down whereas
+object-oriented design is normally carried out bottom-up.
+
+(c) Common coupling is the worst type of coupling between two
+modules.
+
+(d) Temporal cohesion is the worst type of cohesion that a module can
+have.
+
+(e) The extent to which two modules depend on each other determines
+the cohesion of the two modules.
+
+14. Compare relative advantages of the object-oriented and function-
+oriented approaches to software design.
+
+15. Name a few well-established function-oriented software design
+techniques.
+
+16. Explain the important causes of and remedies for high coupling
+between two software modules.
+
+17. What problems are likely to arise if two modules have high coupling?
+
+18. What problems are likely to occur if a module has low cohesion?
+
+19. Distinguish between high-level and detailed designs. What documents
+should be produced on completion of high-level and detailed designs
+respectively?
+
+20. What is meant by the term cohesion in the context of software design?
+Is it true that in a good design, the modules should have low cohesion?
+Why?
+
+21. What is meant by the term coupling in the context of software design?
+Is it true that in a good design, the modules should have low coupling?
+Why?
+
+22. What do you mean by modular design? What are the different factors
+that affect the modularity of a design? How can you assess the
+modularity of a design? What are the advantages of a modular design?
+
+23. How would you improve a software design that displays very low
+cohesion and high coupling?
+
+24. Explain how the overall cohesion and coupling of a design would be
+impacted if all modules of the design are merged into a single module.
+25. Explain what do you understand by the terms decomposition and
+abstraction in the context of software design. How are these two
+
+principles used in arriving good procedural designs?
+
+26. What is an ADT? What advantages accrue when a software design
+
+828
+
+
+--- New Page 17 ---
+Page number: 17
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+function that the system needs to perform is analysed and hierarchically
+decomposed into more detailed functions. On the other hand, during
+structured design, all functions identified during structured analysis are
+mapped to a module structure. This module structure is also called the high-
+level design or the software architecture for the given problem. This is
+represented using a structure chart.
+
+The high-level design stage is normally followed by a detailed design stage.
+During the detailed design stage, the algorithms and data structures for the
+individual modules are designed. The detailed design can directly be
+implemented as a working system using a conventional programming
+language.
+
+ 
+
+It is important to understand that the purpose of structured analysis is to capture the
+detailed structure of the system as perceived by the user, whereas the purpose of
+structured design is to define the structure of the solution that is suitable for
+implementation in some programming language.
+
+ 
+
+The results of structured analysis can therefore, be easily understood by
+the user. In fact, the different functions and data in structured analysis are
+named using the user's terminology. The user can therefore even review the
+results of the structured analysis to ensure that it captures all his
+requirements.
+
+In the following section, we first discuss how to carry out structured
+analysis to construct the DFD model. Subsequently, we discuss how the DFD
+model can be transformed into structured design.
+
+6.2 STRUCTURED ANALYSIS
+
+We have already mentioned that during structured analysis, the major
+
+processing tasks (high-level functions) of the system are analysed, and
+thedata flow among these processing tasks are represented
+graphically. Significant contributions to the development of the
+structured analysis techniques have been made by Gane and Sarson
+[1979], and DeMarco and Yourdon [1978]. The structured analysis
+technique is based on the following underlying principles:
+
+e Top-down decomposition approach.
+
+e Application of divide and conquer principle. Through this each high-
+level function is independently decomposed into detailed functions.
+
+e Graphical representation ofthe analysis results usingdata flow
+
+829
+
+
+--- New Page 18 ---
+Page number: 18
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+During integration testing, different modules of a system are integrated in a The primary purpose of carrying out the integration testing a subsystem is
+
+planned manner using an integration plan. The integration plan specifies the to test whether the interfaces among various modules making up the
+steps and the order in which modules are combined to realise the full system. subsystem work satisfactorily. The test cases must be carefully chosen to
+After each integration step, the partially integrated system is tested. exercise the interfaces in all possible manners.
+
+An important factor that guides the integration plan is the module In a pure bottom-up testing no stubs are required, and only test-drivers are
+dependency graph. required. Large software systems normally require several levels of
+
+We have already discussed in Chapter 6 that a structure chart (or module
+dependency graph) specifies the order in which different modules call each
+other. Thus, by examining the structure chart, the integration plan can be
+developed. Any one (or a mixture) of the following approaches can be used to
+develop the test plan:
+
+subsystem testing, lower-level subsystems are successively combined to form
+higher-level subsystems. The principal advantage of bottom- up integration
+testing is that several disjoint subsystems can be tested simultaneously.
+Another advantage of bottom-up testing is that the low-level modules get
+tested thoroughly, since they are exercised in each integration step. Since the
+
+¢ Big-bang approach to integration testing low-level modules do I/O and other critical functions, testing the low-level
+© Top-down approach to integration testing modules thoroughly increases the reliability of the system. A disadvantage of
+¢ Bottom-up approach to integration testing bottom-up testing is the complexity that occurs when the system is made up
+© Mixed (also called sandwiched ) approach to integration testing of a large number of small subsystems that are at the same level. This
+
+extreme case corresponds to the big-bang approach.
+In the following subsections, we provide an overview of these approaches . . .
+to integration testing. Top-down approach to integration testing
+
+. : . : Top-down integration testing starts with the root module in the structure
+Big bang approach to integration testing | | | chart and one or two subordinate modules of the root module. After the
+Big-bang testing is the most obvious approach to integration testing. In top-level ‘skeleton’ has been tested, the modules that are at the
+this approach, all the modules making up a system are integrated in a immediately lower layer of the ‘skeleton’ are combined with it and
+single step. In simple words, all the unit tested modules of the system tested. Top-down integration testing approach requires the use of
+ae a enone ane ested. However ‘ns een program stubs to simulate the effect of lower-level routines that are
+. grul'y - y ry sm y : Probie called by the routines under test. A pure top-down integration does not
+with this approach Js that one 3 failure has been detected during require any driver routines. An advantage of top-down integration
+integration testing, it is very difficult to localise the error as the error testing is that it requires writing only stubs, and stubs are simpler to
+
+7
+
+may potentially lie in any of the modules. Therefore, debugging errors > . . : .
+reported during big-bang integration testing are very expensive to fix. write compared to drivers. A disadvantage of the top-down integration
+
+As a result, big-bang integration testing is almost never used for large testing approach is that in the absence of lower-level routines, it
+programs. becomes difficult to exercise the top-level routines in the desired
+| . . manner since the lower level routines usually perform input/output
+
+Bottom-up approach to integration testing (I/O) operations.
+
+Large software products are often made up of several subsystems. A
+
+subsystem might consist of many modules which communicate among Mixed approach to integration testing
+
+each other through well-defined interfaces. In bottom-up integration The mixed (also called sandwiched ) integration testing follows a
+testing, first the modules for the each subsystem are integrated. Thus, combination of top-down and bottom-up testing approaches. In top-
+the subsystems can be integrated separately and independently. down approach, testing can start only after the top-level modules have
+
+been coded and unit tested. Similarly, bottom-up testing can start only
+
+present in procedural programs. Therefore additional test cases are
+needed to be designed to detect these. We examine these issues as
+well as some other basic issues in testing object-oriented programs in
+the following subsections.
+
+10.11.1 What is a Suitable Unit for Testing
+
+Object-oriented Programs?
+
+For procedural programs, we had seen that procedures are the basic units of
+testing. That is, first all the procedures are unit tested. Then various tested
+procedures are integrated together and tested. Thus, as far as procedural
+programs are concerned, procedures are the basic units of testing. Since
+methods in an object-oriented program are analogous to procedures in a
+procedural program, can we then consider the methods of object-oriented
+programs as the basic unit of testing? Weyuker studied this issue and
+postulated his anticomposition axiom as follows:
+
+ 
+
+Adequate testing of individual methods does not ensure that a dass has been
+satisfactorily tested.
+
+The main intuitive justification for the anticomposition axiom is the
+following. A method operates in the scope of the data and other methods of
+its object. That is, all the methods share the data of the class. Therefore, it is
+necessary to test a method in the context of these. Moreover, objects can
+have significant number of states. The behaviour of a method can be different
+based on the state of the corresponding object. Therefore, it is not enough to
+test all the methods and check whether they can be integrated satisfactorily.
+A method has to be tested with all the other methods and data of the
+corresponding object. Moreover, a method needs to be tested at all the
+states that the object can assume. As a result, it is improper to consider a
+method as the basic unit of testing an object-oriented program.
+
+ 
+
+ 
+
+An object is the basic unit of testing of object-oriented programs. |
+
+ 
+
+Thus, in an object oriented program, unit testing would mean testing each
+object in isolation. During integration testing (called cluster testing in the
+object-oriented testing literature) various unit tested objects are integrated
+and tested. Finally, system-level testing is carried out.
+
+830
+
+
+--- New Page 19 ---
+Page number: 19
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+ 
+
+Pircdiviction to
+_ Software
+
+Er Evo ineering
+
+ie) ‘Second Edition i
+
+ 
+ 
+    
+ 
+ 
+ 
+
+ 
+
+/
+or
+
+se Ronald J. | Leach
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+wal | 4 |
+Peis io. | |
+ai |
+
+anen| my
+
+4 i
+|
+My
+
+
+--- New Page 20 ---
+Page number: 20
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+46 @ Introduction to Software Engineering
+
+any special system constraints, such as the system having a real-time response to certain
+inputs; unusual features of the project, such as being the first time that a new technology,
+programming language, or software development environment is used; any interoperable
+software systems that may impact the cost of the software; and, of course, the cost of the
+software itself. In many organizations, the baseline information may be broken down into
+the cost of different subsystems.
+
+The determination of “similarity” or “sameness” is made by examining the character-
+istics of projects in the baseline database and selecting the projects for which information
+is deemed to be relevant. The effective determination of “similarity” is largely a matter of
+experience.
+
+Ideally, the cost estimation will be developed in the form of a cost for the system (and
+each subsystem for which cost estimates are to be made) and an expected range in which
+the costs are likely to be for the system whose cost is being estimated.
+
+1.8.5 Reviews ancl Inspections
+
+Different organizations have developed different approaches to ensure that software proj-
+ects produce useful, correct software. Some techniques appear to work better in certain
+development environments than others and, thus, there is difficulty in simply adapting one
+successful approach to a totally different environment.
+
+However, there is one thing that has been shown to be highly successful in every organi-
+zation in which it is carried out properly: the design review. Reviews should be held at each
+major milestone of a project, including requirements, design, source code, and test plans.
+For a software life cycle that uses an iterative process, a review should be held at each itera-
+tion of the creation of major items within the software life cycle.
+
+‘The basic idea is simple: each artifact produced for a specific milestone during develop-
+ment must be subjected to a formal review in which all relevant documents are provided;
+a carefully designed set of questions must be answered; and the results of the review must
+be written down and disseminated to all concerned parties.
+
+The following will describe several kinds of reviews for requirements, design, source
+code, and test plans. In the sense in which they are used here, the two terms review and
+inspection are synonymous. In the general literature, the term inspection may be used in
+this sense or may instead refer to a procedure for reading the relevant documents.
+
+There is one other point that should be made about reviews and inspections. This book
+emphasizes systematic methods that attempt to determine problems in requirements and
+design well before the software is reduced to code. This emphasis is consistent with experi-
+ences across a Wide variety of software projects in nearly every application area.
+
+‘The open source approach of the development of the Linux operating system avoids
+reviews of requirements and designs, and instead relies on the efforts of a large number
+of programmers who review source code posted on line. Thus each source code module
+is intensively reviewed, often by hundreds of programmers. Modifications to the source
+
+code are controlled by a much smaller team of experts. Of course, there is also configura-
+tion management and testing, just in different order. Consult the article by McConnell
+(McConnell, 1999) for an overview of the open source approach.
+
+ 
+
+832
+
+
+--- New Page 21 ---
+Page number: 21
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+90 @ Introduction to Software Engineering
+
+this stage of their academic careers, and hence such familiarity will not be assumed in the
+discussion in this book.
+
+Two topics are often missing from the typical education of computer science students
+(prior to taking a course emphasizing software engineering principles): detailed, practical
+instruction in (1) requirements and (2) design.
+
+Unfortunately, most of the other software engineering activities are irrelevant if the
+requirements are wrong, incomplete, or vague. One way in which the term “wrong” here
+is used is the sense of being inconsistent; one requirement contradicts another. Let us con-
+sider what can happen in each of these three cases.
+
+If the requirements for a project are wrong, then the rest of the software engineering
+activities will have to be redone, assuming that someone recognizes the error or errors in the
+requirements. This is extremely expensive, and often means that much of the subsequent work
+is wrong and has to be discarded. In the worst case, all the project effort must be scrapped.
+
+What else can “wrong” mean? It may mean that the requirements do not fit the desired
+system’s initial use. This is called “building the system wrong.” “Wrong” might also mean
+that the requirements are for a system that is obsolete or completely the opposite of what
+most customers want. This is called “building the wrong system.”
+
+‘There are two possibilities if the requirements are incomplete. The best-case scenario
+when the requirements are incomplete is that the requirements are so modular that the
+project’s design and code also can be developed in a modular manner. In this case, it is
+possible that the missing requirement can be fulfilled by additions both to the design and
+the source code implementation with relatively few changes needed to incorporate the new
+requirements. This flexibility is one of the main advantages of iterative approaches such as
+the rapid prototyping or spiral development life cycle models. ‘The flexibility is even greater
+in projects using agile methods.
+
+If the requirements were complete but not modular, then it is unlikely that the design
+and the resulting source code will be modular. In this case, major portions of the design
+and source code will have to be scrapped because they are difficult to create given the lack
+of consistency with modern programming techniques and the software engineering goal
+of modularity. The experience of many failed software projects strongly indicates that the
+lack of modular requirements is very expensive.
+
+The third category of poor requirements occurs when the requirements are vague. In
+this situation, it is difficult to know if the design is correct, because the software designers
+do not know precisely what requirements mean. The designers may make some unwar-
+ranted assumptions about the intentions of the requirements engineer. These assumptions,
+if not correct, can be the major source of disaster for projects. The most common problem
+is that the unwarranted assumptions become part of the culture of the project and there-
+fore are never questioned.
+
+‘There is one more thing to keep in mind about vague requirements. If the requirements
+are vague as stated, but the software engineers working on the project are highly knowl-
+edgeable in a particular application domain and have the unquestioned capability to fill in
+the gaps and complete them in a clear, unambiguous manner, an agile software develop-
+ment process may work, provided there is support from senior management.
+
+ 
+
+833
+
+
+--- New Page 22 ---
+Page number: 22
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+290 @ Introduction to Software Engineering Testing and Integration = 293
+
+Module 2 Module 7
+
+FIGURE 6.4 Illustration of the first step in the bottom-up approach to software integration: deter-
+mination of bottom-level modules and linking each of them to an artificial driver module.
+
+6.9 SOFTWARE INTEGRATION
+
+Suppose that we have tested each of the software modules individually for a program writ-
+ten in a procedural language such as C or Ada. Alternatively, suppose that we have tested
+each of the classes that are to be used in an object-oriented program written in C++, Java,
+Swift, or similar. The same issue occurs if the program contains multiple classes. We have
+to have some assurance that the entire program works correctly as a unit.
+
+In addition, we have to make sure that our program functions correctly as a system.
+‘That is, we have to make certain that our program works properly with any software pack-
+age that we intend to use with our program. Recall that this property, which is known as
+interoperability, was one of the goals of software engineering discussed in Chapter 1.
+
+‘The process of ensuring that programs that are created from individual program mod-
+ules that work together as a unit is called software integration.
+
+Of course, many software systems, including the one we are developing as part of our
+major software engineering example, consist of both object-oriented and procedural por-
+tions. Hence, it may be necessary to employ both procedurally and object-based software
+integration techniques. The beginning software engineer may be surprised at the formality FIGURE 6.5 Illustration of the second step in the bottom-up approach to software integration:
+in which many organizations approach the issue of software integration. Software integra- integration of modules that are just above the bottom level with artificial driver modules.
+
+tion is much more than simply getting the individual modules to compile and link together
+
+into a complete system. The final software system must meet the requirements that were set
+
+for it initially. This testing of the final software is called system testing to distinguish it from
+
+the topic of unit testing, which is what was discussed in Sections 6.1 through 6.8.
+Software integration is not always a smooth process, particularly in modern develop-
+FIGURE 6.6 Illustration of the third step in the bottom-up approach to software integration: inte-
+
+ment environments in which efficiency requires reuse of existing software modules or even
+gration of the next level of modules with artificial driver modules.
+
+ 
+
+ 
+  
+
+    
+   
+
+ 
+
+   
+  
+
+Module 8
+
+  
+ 
+
+  
+  
+  
+
+    
+
+Module 1
+
+ 
+
+existing COTS packages. A major problem can occur if one or more modules are extremely
+difficult to integrate with others. If the project’s management has determined that the rea-
+son is the lack of adherence to standards or the low quality of the module in the sense of a
+large number of software defects, then the original coding team, design team, or require-
+ments team may be called on to help with the problem.
+
+‘There are three common approaches to software integration:
+
+ 
+ 
+  
+
++ Big bang
++ Bottom-up
+
++ Top-down
+
+Each of these approaches has considerable advantages and disadvantages and, therefore,
+each has its proponents and detractors. We describe each of these approaches in turn.
+
+The big bang approach to software integration is so named because it attempts to inte-
+grate the previously tested software modules and existing COTS products into a complete
+system without any preliminary software integration activities. The basic idea is to see if the
+system works as an entirety without any changes to individual modules or configuration.
+
+   
+
+Ideally, the newly created system will work perfectly. The big bang approach is illustrated FIGURE 6.7 Illustration of the final step in the bottom-up approach to software integration: inte-
+in Figure 6.3. In the figure the boxes represent individual software modules, subsystems, gration of the top-level module into the system with all artificial driver modules replaced by actual
+modules.
+
+ 
+
+834
+
+
+--- New Page 23 ---
+Page number: 23
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+296 @ Introduction to Software Engineering
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Module 5
+Module 1 Module 6
+Module Module 4 Module §
+Module 7
+
+ 
+
+ 
+
+( Stub ) { Stub }
+
+FIGURE 6.10 Illustration of the next step in the top-down approach to software integration: inte-
+gration of all software modules at the next level down with artificial stub modules.
+
+‘The bottom-up approach is best suited to reuse of software components that are fairly
+fine grained in the sense that they have a clearly defined, but narrowly limited, function-
+ality. The likelihood of having a large number of such functions to characterize, catalog,
+maintain, and access is small if there is not a large reuse library of such components.
+
+‘The top-down approach is best suited to a situation in which there are a few, higher-level
+components. This can avoid the overhead of maintenance of a reuse library. Reusing large,
+high-level components has the potential to reduce system costs. However, finding an exact
+match of an existing high-level software component to an actual set of requirements is
+relatively rare.
+
+We now turn to a discussion of integration issues for object-oriented programs. It is
+clear that complete testing of all possible interactions of objects is essentially impossible.
+
+‘The source code we used for some simple arithmetic with complex numbers that was
+given in Example 6.5 illustrates this effective impossibility. Consider the possibilities: each
+complex, real, double, or integer operand must be paired with a second operand of the
+same set of types. This is a minimum of sixteen possible cases, each of which must be tested
+to have even one example of each type tested. There are sixty-four cases if we allow multiple
+types of the results of the arithmetic operations, with one test case for each pair of possible
+argument types and four basic arithmetic operations. This is entirely too much.
+
+Of course, integration issues are even more complex for software that has both pro-
+cedural and object-oriented portions. We advocate striving for even a higher degree of
+modularity than norma] in this situation. Considering the portions separately as much as
+possible seems to be the best approach, but there is little research to guide the practitioner.
+
+In some circumstances, another integration technique, known as plug and play, may
+be used. It is easiest to explain the technique by an example. Some software systems, such
+as those used for aircraft control, can never be taken off-line. For such systems, new mod-
+ules that add functionality or modules that are replacements for faulty ones must be inte-
+grated during regular operation. This requires a very careful integration process that we
+
+ 
+
+835
+
+
+--- New Page 24 ---
+Page number: 24
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+Testing and Integration = 309
+
+testing the “glueware” used to combine these utilities. It is clear that black-box testing is a
+natural choice for most of our system.
+
+What about white-box testing? This method appears to be especially appropriate when
+there are many execution paths and complex internal logic. This seems to characterize the
+software intended to provide an interface to the operating system for the linking of the
+names of input files to later routines in the program. Recall that this was to be done by
+means of command-line arguments. The requirement to allow wild cards in the input file
+names and to treat multilevel directories properly suggests a complexity that makes check-
+ing each path especially important.
+
+Of course some object-oriented methods must be applied to the back end of the system.
+It seems as if the main questions to be answered about this subsystem’s correctness are the
+completeness of the member functions of the appropriate classes and the proper assign-
+ment of default values to member functions.
+
+‘This section will close with the following two changes to the requirements for the major
+project. You willbe asked to modify the testing and integration processes in order to reflect
+the new requirements in the exercises. ‘The first change is that the customer now wants a
+web-based user interface instead of one that is PC based. What changes need to be made to
+the testing and integration processes? The second change is that the customer now wants to
+use a cloud for data storage instead of one that is PC based. What changes need to be made
+to the testing and integration process?
+
+6.18 INTEGRATING THE MAJOR SOFTWARE PROJECT
+
+We will now apply the techniques of software integration to the large running software
+example that we have been considering throughout this book. The assumption is that all
+the modules have been tested individually and that all have passed their tests.
+
+In order to avoid writing a large number of artificial drivers or stubs, we will follow
+an integration approach that is a hybrid of top-down and bottom-up techniques. We will
+start with a top-down approach. ‘The interface will be checked to see if the file names are
+properly handled. Each input source code file will be checked to see if the first subsystem
+recognizes the files and the appropriate directories. This is little removed from the testing
+techniques that we would apply to this subsystem if we tested it by itself.
+
+Once we have tested the initial subsystem properly and linked to the operating system
+by means of command-line arguments, we will then begin linking the analysis subsystem
+modules in groups. Naturally, we will consider each of the analysis tools as a single entity
+for the purpose of software integration.
+
+‘There is one point to be discussed before we begin. MS/DOS has a facility to connect the
+output of one executable file to the input of another using pipes, in much the same way that
+UNIX allows the pipe method of interprocess communication. Commands such as
+
+ 
+
+type file.txt |more
+
+allow multiple actions to take place with simple commands. It is conceivable that we could
+link file analysis tools by using a command such as
+
+ 
+
+836
+
+
+--- New Page 25 ---
+Page number: 25
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+384 © References
+
+Miller, G., The magic number seven, plus or minus two: Some limits on our capacity for processing
+information, The Psychological Review, vol. 63, 81-97, March 1956.
+
+Miller, R. B., Response time in man-computer conversational transactions, AFIPS Conference Pro-
+ceedings, vol. 22, 267-277, December 1968.
+
+Miller, E., and Howden, W. E., Software Testing and Validation Techniques, IEEE Computer Society,
+Long Beach, California, 1978.
+
+Miller, E., and Howden, W. E., Software Testing and Validation Techniques, 2nd ed., IEEE Computer
+Society, Long Beach, California, 1983.
+
+Mills, H. D., Dyer, M., and Linger, R. C., Cleanroom software engineering, [EEE Software, vol. 4,
+19-24, September 1987.
+
+Milner, R., A Calculus of Communicating Systems, Springer-Verlag, New York, 1980.
+
+Montgomery, D. C., Introduction to Statistical Quality Control, John Wiley & Sons, New York, 1991.
+
+Moore, J. M., and Bailin, 8. C., Domain analysis: Framework for reuse, in Domain Analysis and Software
+Systems Modeling, R. Prieto-Diaz and G. Arango, eds., IEEE Press, Los Alamitos, California, 1991.
+
+Murphy, G. C., Townsend, P., and Wong, P. $., Experiences with cluster and class testing, Commi-
+nications of the ACM, vol. 37, no. 9, 39-47, September 1994.
+
+Musa, J. D., lannino, A., and Okumoto, K., Software Reliability: Measurement, Prediction, Application,
+McGraw-Hill, New York, 1987.
+
+Musa, J. D., Operational profiles in software reliability engineering, [EEE Software, vol. 10, no. 2,
+14-32, March 1993.
+
+Musen, M. A., Dimensions of knowledge sharing and reuse, Computers and Biomedical Research,
+vol. 25, 435-467, 1992.
+
+Myers, G. J., Software Reliability: Principles and Practices, Wiley, New York, 1976.
+
+Myers, G. J., The Art of Software Testing, John Wiley & Sons, New York, 1979.
+
+Myers, W., Taligent’s Common Point: The promise of objects, EEE Computer, vol. 28, no. 3, 77-83,
+March 1995.
+
+NASA, Software reuse issues, Proceedings of the 1988 Workshop on Software Reuse, sponsored by
+NASA Langley Research Center, Melbourne, Florida, November 17-18, 1988.
+
+NASA, Proceedings of the Second NASA Workshop on Software Reuse, Research ‘Triangle Park, North
+Carolina, May 5-6, 1992a.
+
+NASA, Software engineering program: Profile of software within Code 500 at Goddard Space Flight
+Center, NASA SEP Report ROI-92, December 1992b.
+
+National Institute for Standards and Technology, Management Information Catalog, Issue 1.0, NIST,
+OIW, and Network Management Forum, Gaithersburg, Maryland, June 1992. (There are sub-
+sequent catalogs. )
+
+National Institute for Standards and Technology, Glossary of Software Reuse Terms, S$. Katz, C.
+Dabrowski, K. Miles, and M. Law, eds., Gaithersburg, Maryland, 1995.
+
+Navarro, J. J., Organization design for software reuse, Proceedings of the Fifth Workshop on Software
+Reuse, WISR-5, 1992.
+
+Neville-Neil, G., Kode Vicious: A lesson in resource management, Communications of the ACM,
+vol. 56, no. 12, 32-33, December 2013.
+
+Neville-Neil, G., Kode Vicious: This is the foo field, Communications of the ACM, vol. 57, no. 4,
+20-21, April 2014.
+
+Nielsen, J., Usability Engineering, Academic Press, San Diego, California, 1994.
+
+Nielsen, J., and Budiu, R., Mobile Usability, New Riders, Berkeley, California, 2012.
+
+Olsen, D. R., MIKE: The menu interaction kontrol environment, ACM Transactions on Graphics,
+vol. 5, no. 4, 318-344, October 1986.
+
+Parnas, D. L., On the criteria for decomposing systems into modules, Communications of the ACM,
+vol. 15, no. 12, 1052-1058, 1972.
+
+Parnas, D. L., ‘The modular structure of complex systems, JEEE Transactions on Software Engineering,
+259-266, March 1985.
+
+837
+
+
+--- New Page 26 ---
+Page number: 26
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+< Nes
+Teed. at eae
+
+ 
+
+‘Software Engineering
+
+TENTH EDITION
+
+lan Sommerville
+
+ 
+
+838
+
+
+--- New Page 27 ---
+Page number: 27
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+2.1 © Software process models 51
+
+ 
+
+Problems with incremental development
+
+Although incremental development has many advantages, itis not problem free. The primary cause of the
+difficulty is the fact that large organizations have bureaucratic procedures that have evolved over time and
+there may be a mismatch between these procedures and a more informal iterative or agile process.
+
+Sometimes these procedures are there for good reasons. For example, there may be procedures to ensure
+that the software meets properly implements extemal regulations (e.g., in the United States, the Sarbanes
+Oxley accounting regulations). Changing these procedures may not be possible, so process conflicts may
+be unavoidable.
+
+http:/ /software-engineering-book.com/web/incremental-development/
+
+much has been implemented. Customers find it difficult to judge progress from
+software design documents.
+
+3. Early delivery and deployment of useful software to the customer is possible,
+even if all of the functionality has not been included. Customers are able to use
+and gain value from the software earlier than is possible with a waterfall process.
+
+From a management perspective, the incremental approach has two problems:
+
+1. The process is not visible. Managers need regular deliverables to measure pro-
+eress. If systems are developed quickly, it is not cost effective to produce docu-
+ments that reflect every version of the system.
+
+2. System structure tends to degrade as new increments are added. Regular change
+leads to messy code as new functionality is added in whatever way is possible.
+It becomes increasingly difficult and costly to add new features to a system. To
+reduce structural degradation and general code messiness, agile methods sug-
+gest that you should regularly refactor (improve and restructure) the software.
+
+The problems of incremental development become particularly acute for large,
+complex, long-lifetime systems, where different teams develop different parts of the
+system. Large systems need a stable framework or architecture, and the responsi-
+bilities of the different teams working on parts of the system need to be clearly
+defined with respect to that architecture. This has to be planned in advance rather
+than developed incrementally.
+
+Incremental development does not mean that you have to deliver each increment
+to the system customer. You can develop a system incrementally and expose it to
+customers and other stakeholders for comment, without necessarily delivering it
+and deploying it in the customer's environment. Incremental delivery (covered in
+Section 2.3.2) means that the software is used in real, operational processes, so user
+feedback is likely to be realistic. However, providing feedback is not always possi-
+ble as experimenting with new software can disrupt normal business processes.
+
+ 
+
+839
+
+
+--- New Page 28 ---
+Page number: 28
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+3.1 © Agilemethods 75
+
+ 
+
+activities apart from programming and testing. Itis perfectly feasible, in a plan-driven
+process, to allocate requirements and plan the design and development phase as a
+series of increments. An agile process is not inevitably code-focused, and it may
+produce some design documentation. Agile developers may decide that an iteration
+should not produce new code but rather should produce system models and documentation.
+
+Agile methods
+
+In the 1980s and early 1990s, there was a widespread view that the best way to
+achieve better software was through careful project planning, formalized quality
+assurance, use of analysis and design methods supported by software tools, and con-
+trolled and rigorous software development processes. This view came from the soft-
+ware engineering community that was responsible for developing large, long-lived
+software systems such as aerospace and government systems.
+
+This plan-driven approach was developed for software developed by large teams,
+working for different companies. Teams were often geographically dispersed and
+worked on the software for long periods of time. An example of this type of software
+is the control systems for a modern aircraft, which might take up to 10 years from
+initial specification to deployment. Plan-driven approaches involve a significant
+overhead in planning, designing, and documenting the system. This overhead is jus-
+tified when the work of multiple development teams has to be coordinated, when the
+system is a critical system, and when many different people will be involved in
+maintaining the software over its lifetime.
+
+However, when this heavyweight, plan-driven development approach is applied
+to small and medium-sized business systems, the overhead involved is so large that
+it dominates the software development process. More time is spent on how the sys-
+tem should be developed than on program development and testing. As the system
+requirements change, rework is essential and, in principle at least, the specification
+and design have to change with the program.
+
+Dissatisfaction with these heavyweight approaches to software engineering
+led to the development of agile methods in the late 1990s. These methods allowed
+the development team to focus on the software itself rather than on its design and
+documentation. They are best suited to application development where the sys-
+tem requirements usually change rapidly during the development process. They
+are intended to deliver working software quickly to customers, who can then pro-
+pose new and changed requirements to be included in later iterations of the sys-
+tem. They aim to cut down on process bureaucracy by avoiding work that has
+dubious long-term value and eliminating documentation that will probably never
+be used.
+
+The philosophy behind agile methods is reflected in the agile manifesto (http://
+agilemanifesto.org) issued by the leading developers of these methods. This mani-
+festo states:
+
+ 
+
+840
+
+
+--- New Page 29 ---
+Page number: 29
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+3.1 © Agilemethods 75
+
+ 
+
+activities apart from programming and testing. Itis perfectly feasible, in a plan-driven
+process, to allocate requirements and plan the design and development phase as a
+series of increments. An agile process is not inevitably code-focused, and it may
+produce some design documentation. Agile developers may decide that an iteration
+should not produce new code but rather should produce system models and documentation.
+
+Agile methods
+
+In the 1980s and early 1990s, there was a widespread view that the best way to
+achieve better software was through careful project planning, formalized quality
+assurance, use of analysis and design methods supported by software tools, and con-
+trolled and rigorous software development processes. This view came from the soft-
+ware engineering community that was responsible for developing large, long-lived
+software systems such as aerospace and government systems.
+
+This plan-driven approach was developed for software developed by large teams,
+working for different companies. Teams were often geographically dispersed and
+worked on the software for long periods of time. An example of this type of software
+is the control systems for a modern aircraft, which might take up to 10 years from
+initial specification to deployment. Plan-driven approaches involve a significant
+overhead in planning, designing, and documenting the system. This overhead is jus-
+tified when the work of multiple development teams has to be coordinated, when the
+system is a critical system, and when many different people will be involved in
+maintaining the software over its lifetime.
+
+However, when this heavyweight, plan-driven development approach is applied
+to small and medium-sized business systems, the overhead involved is so large that
+it dominates the software development process. More time is spent on how the sys-
+tem should be developed than on program development and testing. As the system
+requirements change, rework is essential and, in principle at least, the specification
+and design have to change with the program.
+
+Dissatisfaction with these heavyweight approaches to software engineering
+led to the development of agile methods in the late 1990s. These methods allowed
+the development team to focus on the software itself rather than on its design and
+documentation. They are best suited to application development where the sys-
+tem requirements usually change rapidly during the development process. They
+are intended to deliver working software quickly to customers, who can then pro-
+pose new and changed requirements to be included in later iterations of the sys-
+tem. They aim to cut down on process bureaucracy by avoiding work that has
+dubious long-term value and eliminating documentation that will probably never
+be used.
+
+The philosophy behind agile methods is reflected in the agile manifesto (http://
+agilemanifesto.org) issued by the leading developers of these methods. This mani-
+festo states:
+
+ 
+
+841
+
+
+--- New Page 30 ---
+Page number: 30
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+478 Chapter16 © Component-based software engineering
+
+ 
+
+Figure 16.8 The Component Component Component
+
+search selection validation
+
+component
+identification process
+
+ 
+
+to be unsuitable or may not work properly with other chosen components. You
+may have to find alternatives to these components. Further requirements changes
+may therefore be necessary, depending on the functionality of these components.
+
+4. Development is a composition process where the discovered components are
+integrated. This involves integrating the components with the component model
+infrastructure and, often, developing adaptors that reconcile the interfaces of
+incompatible components. Of course, additional functionality may also be
+required over and above that provided by reused components.
+
+The architectural design stage is particularly important. Jacobsen et al. (Jacobsen,
+Gniss, and Jonsson 1997) found that defining a robust architecture is critical for suc-
+cessful reuse. During the architectural design activity, you may choose a component
+model and implementation platform. However, many companies have a standard
+development platform (e.g.,.NET), so the component model is predetermined. As |
+discussed in Chapter 6, you also establish the high-level architecture of the system at
+this stage and make decisions about system distribution and control.
+
+An activity that is unique to the CBSE process is identifying candidate compo-
+nents or services for reuse. This involves a number of subactivities, as shown in
+Figure 16.8. Initially, your focus should be on search and selection. You need to
+convince yourself that components are available to meet your requirements.
+Obviously, you should do some initial checking that the component is suitable, but
+detailed testing may not be required. In the later stage, after the system architecture
+has been designed, you should spend more time on component validation. You need
+to be confident that the identified components are really suited to your application; if
+not, then you have to repeat the search and selection processes.
+
+The first step in identifying components is to look for components that are available
+within your company or from trusted suppliers. There are few component vendors, so
+you are most likely to be looking for components that have been developed in your own
+organization or in the repositories of open-source software that are available. Software
+development companies can build their own database of reusable components without
+the risks inherent in using components from extemal suppliers. Alternatively, you may
+decide to search code libraries available on the web, such as Sourceforge, GitHub, or
+Google Code, to see if source code for the component that you need is available.
+
+Once the component search process has identified possible components, you have to
+select candidate components for assessment. In some cases, this will be a straightforward
+task. Components on the list will directly implement the user requirements, and there will
+not be competing components that match these requirements. In other cases, however,
+the selection process is more complex. There will not be a clear mapping of requirements
+onto components. You may find that several components have to be integrated to meet a
+
+ 
+
+842
+
+
+--- New Page 31 ---
+Page number: 31
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+600 Chapter 20 © Systems of systems
+
+ 
+
+important that these interfaces are not too restrictive so that the system elements
+can evolve and continue to be useful participants in the SoS.
+
+4. Provide collaboration incentives. When the system elements are independently
+owned and managed, it is important each system owner have incentives to continue
+to participate in the system. These may be financial incentives (pay per use or reduced
+Operational costs), access incentives (you share your data and I'll share mine), or
+community incentives (participate in a SoS and you get a say in the community).
+
+Sillitto (Sillitto 2010) has added to these principles and suggests additional
+important design guidelines. These include the following:
+
+1. Design a SoS as node and web architecture. Nodes are sociotechnical systems
+that include data, software, hardware, infrastructure (technical components),
+and organizational policies, people, processes, and training (sociotechnical).
+The web is not just the communications infrastructure between nodes, but it also
+provides a mechanism for informal and formal social communications between
+the people managing and running the systems at each node.
+
+2. Specify behavior as services exchanged between nodes. The development of
+service-oriented architectures now provides a standard mechanism for system
+operability. [fa system does not already provide a service interface, then this
+interface should be implemented as part of the SoS development process.
+
+3. Understand and manage system vulnerabilities. In any SoS, there will be unex-
+pected failures and undesirable behavior. It is critically important to try to
+understand vulnerabilities and design the system to be resilient to such failures.
+
+The key message that emerges from both Maier’s and Sillitto’s work is that 50S
+architects have to take a broad perspective. They need to look at the system as a
+whole, taking into account both technical and sociotechnical considerations.
+Sometimes the best solution to a problem is not more software but changes to the
+rules and policies that govern the operation of the system.
+
+Architectural frameworks such as MODAF (MOD 2008) and TOGAF (TOGAF
+is a registered trademark of The Open Group 2011) have been suggested as a means
+of supporting the architectural design of systems of systems. Architectural frame-
+works were originally developed to support enterprise systems architectures, which
+are portfolios of separate systems. Enterprise systems may be organizational systems
+of systems, or they may have a simpler management structure so that the system
+portfolio can be managed as a whole. Architectural frameworks are intended for the
+development of organizational systems of systems where there is a single govern-
+ance authority for the entire SoS.
+
+An architectural framework recognizes that a single model of an architecture does
+not present all of the information needed for architectural and business analysis.
+Rather, frameworks propose a number of architectural views that should be created
+and maintained to describe and document enterprise systems. Frameworks have
+much in common and tend to reflect the language and history of the organizations
+
+ 
+
+843
+
+
+--- New Page 32 ---
+Page number: 32
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+PL) E/E)
+
+SOFTWARE
+ENGINEERING
+
+Modern Approaches Second Edition
+
+Eric J. Braude
+Michael E. Bernstein
+
+ 
+
+844
+
+
+--- New Page 33 ---
+Page number: 33
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+THE GOALS OF SOFTWARE DESIGN 351
+
+only the code. The benefits of a fully detailed design are balanced against the time required to document and
+maintain detailed designs. For large efforts, levels in between high level and detailed design may be identified.
+
+This chapter introduces the concepts, needs, and terminology of software design. It sets the stage for
+the remaining chapters in this part of the book, which include various concrete examples.
+
+15.1 THE GOALS OF SOFTWARE DESIGN
+
+The first goal of a software design is to be sufficient for satisfying the requirements. Usually, software designs must
+also anticipate changes in the requirements, and so a second goal is flexibility. Another goal of software design is
+robustness: the ability of the product to anticipate a broad variety of input. These and other goals are summarized in
+Figure 15.2.
+
+These goals sometimes oppose one another. For example, to make a design efficient it may be necessary
+to combine modules in ways that limit flexibility. In fact, we trade off goals against each other in ways that
+depend on the project's priorities.
+
+A software design is sufficient if it provides the components for an implementation that satisties the
+requirements. To assess such sufficiency, one needs to be able to understand it. This fact is obvious, but it has
+profound consequences. It can be difficult to create an understandable design for applications due to the large
+number of options that are typically available. OpenOffice, for example, is a very complex application when
+viewed in complete detail. Yet OpenOffice is simple when viewed at a high level, as consisting of a few
+subapplications: word processing, spreadsheet, presentations, and database.
+
+Modularity is thus a key to understandability. Software is modular when it is divided into separately named
+and addressable components. Modular software is much easier to understand than monolithic software, and
+parts can be replaced without affecting other parts. It is easier to plan, develop, modify, document, and test.
+When software is modular you can more easily assign different people to work on different parts.
+
+A design isa form of communication. In its most elementary form, it documents the result of a designer's
+thought process, and is used to communicate back to himself thereafter when he needs to know what he
+designed. This is fine if the designer is to be the only person who has this need, but a project usually involves
+several people throughout its lifetime. If a design is not understandable for them, it is of limited value, and the
+project's health is at risk. Design simplification, in particular, frequently results in a better design.
+Understandability is usually achieved by organizing the design as a progression from a high level with a
+manageable number of parts, then increasing the detail on the parts.
+
+A good software architect and designer forms a clear mental model of how the application will work at
+an overall level, then develops a decomposition to match this mental model. She first asks the key modularity
+
+ 
+
+* Sufficiency: handles the requirements
+
+* Understandability: can be understood by intended audience
+
+* Modularity: divided into well-defined parts
+
+* Cohesion: organized so like-minded elements are grouped together
+
+* Coupling: organized to minimize dependence between elements
+
+* Robustness: can deal with wide variety of input
+
+* Flexibility: can be readily modified to handle changes in requirements
+* Reusability: can use parts of the design and implementation in other applications
+* Information hiding: module internals are hidden from others
+
+* Efficiency: executes within acceptable time and space limits
+
+* Reliability: executes with acceptable failure rate
+
+ 
+
+Figure 15.2 Principal goals of software design
+
+ 
+
+845
+
+
+--- New Page 34 ---
+Page number: 34
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+352 CHAPTER 15 PRINCIPLES OF SOFTWARE DESIGN
+
+ 
+
+High cohesion Low coupling
+(parts belong together) (minimal contact)
+
+Figure 15.3 High cohesion and low coupling—bridge example
+
+question such as: What five or six modules should we use to decompose a personal finance application? What
+four or five modules neatly encompass a word processing application? After deciding this, she turns to
+decomposing the components, and so on. This process is sometimes called “recursive design" because it
+repeats the design process on design components at successively fine scales. Software decomposition itself
+involves consideration of cohesion and coupling.
+
+Cohesion within a module is the degree to which the module's elements belong together. In other
+words, itis a measure of how focused a module is. The idea is not just to divide software into arbitrary parts
+(ie., modularity), but to keep related issues in the same part. Coupling describes the degree to which modules
+communicate with other modules. The higher the degree of coupling, the harder it is to understand and
+change the system. To modularize effectively, we maximize cohesion and minimize coupling. This principle helps to
+decompose complex tasks into simpler ones.
+
+Software engineering uses Unified Modeling Language (UML) as a principal means of explaining
+design. Understand ing software design concepts by means of analogous physical artifacts is helpful to some,
+and we will employ this means on occasion. Figure 15.3, for example, suggests coupling/cohesion goals by
+showing an architecture for a bridge, in which each of the six components has a great deal of cohesion and
+where the coupling between them is low. The parts of each bridge component belong together (e.g., the
+concrete and the embedded metal reinforcing it this is high cohesion. On the other hand, each component
+depends on just a few other components—two or three, in fact. This is low coupling.
+
+The ‘Steel truss” in Figure 15.4, on the other hand, shows many components depending on each other at
+one place. We would question this high degree of coupling.
+
+  
+
+\ Component
+
+High coupling
+
+Figure 15.4 A questionable architecture—high coupling n a truss
+
+ 
+
+846
+
+
+--- New Page 35 ---
+Page number: 35
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+616 CHAPTER24 REFACTORING
+
+24.6 INTRODUCING MODULES
+
+Good design requires modularization: a process of separating its essential elements. Whenever feasible, this
+should be performed in advance. However, it is very useful to modularize after the fact as well—in other
+words, to recognize useful modularization as the application grows and transitions into maintenance.
+
+Classes by themselves are a means of modularization, but an application can contain hundreds of classes,
+and so classes need organizing to enable designers to manage and apply them. A useful way to handle
+modularity on this scale is via the Facade design pattern. Simplifying matters, the problem can be reduced to
+thatshown in Figure 24.21, in which the design involves classes U, V, and W, where U references (mentions)
+classes V and W. An example is U=Transaction, V=Customer, and W=Loan pool. Suppose that we want to
+avoid multiple references like this (think of many classes instead of just the two in this simplification, and you
+can imagine the resulting complexity). Class LJ must be modified because it should no longer reference both
+classes V and W.
+
+The refactoring in Figure 24.21 is simpleif U does not need to instantiate V objects or W objects. Thisis
+the case when U needs only static methods of V or W. (Example: A transaction needs only a generic customer
+functionality such as getting average assets of all customers; and the total amount in the loan pool.) In that
+case, U references functionality in F only, and F does the work of translating such function calls into the static
+calls on V or W.
+
+The situation may be more involved, however. Suppose that U requires V instances in order to operate
+(such as is usually the case when a transaction involves a customer). Ifwe want to protect V within a package,
+then U has to depend on the facade interface F and no longer on V directly. Figure 24.22 shows how this can
+be dealt with. First, Vis provided with an abstract interface VI (Step 1) that abstracts its public methods.
+The Extract Interface refactoring can be used for this. Next, in Step 2, V is enclosed in a module (or package)
+
+ 
+
+1
+1
+_{w %
+
+ 
+
+Figure 24.21 Refactoring by introducing facade
+ub - ty] UAV
+“ |
+4) a !
+a
+x et
+-y @
+
+ 
+
+Figure 24.22 “Introduce module” refactoring, 1 of 2
+
+ 
+
+847
+
+
+--- New Page 36 ---
+Page number: 36
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+674 CHAPTER 27 MODULE AND INTEGRATION TESTING
+
+uses
+
+uses.
+
+uses. uses.
+
+Figure 27.12 Module self-dependency—consider its effect on integration
+
+handles the collection of data from patients, one that analyzes data for specific diseases, one that handles
+emergency notifications such as calls to the police, and so on. It makes a great deal of sense to develop these
+modules separately. For example, why not develop the diabetic analysis in an organization specializing in that
+field, and have emergency notification developed by a company with experience in writing such software
+reliably? Some modules may be effectively written by skilled teams working anywhere, geographically
+speaking. Although continual integration, described below, is preferable in general, it may not be practical in
+a case like this. Each high-level module and its subsidiaries may have to be developed separately, and then
+integrated in big bang fashion.
+
+The integration and testing of modules illustrates the wisdom of designing so that dependencies are
+noncyclic. In other words, we try to avoid architectures in which a module depends on itself. Figure 27.12
+illustrates such an architecture. We can't fully test any pair of modules alone. Our only choice is to use stubs or
+to test all of them together, which multiplies the potential for hard-to-find and hard-to-fix defects.
+
+27.3.2 Incremental Integration
+
+Nowadays, software integration typically proceeds in an incremental manner in which software modules are
+developed and assembled into progressively larger parts of the system. This is known as incremental integration
+[1]. Gradually building the system means complexity increases incrementally, making it easier to isolate
+integration problems. Incremental integration commences when the first two parts of an application are
+developed, and continues until all its parts have been integrated into acomplete system, at which time system
+testing commences. Stubs and drivers are employed during this process.
+
+Throughout the integration process, software “builds” may be created that form the emerging system, as
+illustrated in Figure 27.13. Before adding new modules, integration tests are executed against each build,
+ensuring that the build works correctly. Figure 27.2 implies that modules are developed and integrated in
+some order, but does not suggest how the order is determined. We usually determine the integration order by
+basing it on the design of the system. Two common methods are bottom-up and top-down, and each must
+account for dependencies between the modules making up the design.
+
+27.3.3 Bottom-Up Integration
+
+Suppose that an application consists of the modules and dependencies as shown in Figure 27.14.
+
+In bottom-up integration, modules that are most depended on are developed and integrated first. Then
+the modules that de pend on them are integrated next, and soon. In Figure 27.14, this implies thatModule 3 is
+developed first, since it is at the “bottom" of the dependency tree. Modules 1 and 2 are integrated next with
+
+ 
+
+848
+
+
+--- New Page 37 ---
+Page number: 37
+Title of ebook of origin: 49.analysis_of_the_use_of_a_modular_approach_in_software_engineering_across_software_engineering_books.pdf
+
+680 CHAPTER2/ MODULE AND INTEGRATION TESTING
+
+ 
+
+Run
+Regression
+tests
+development 6pm 7am development
+time
+Freeze additions Confirm baseline or
+fo baseline revert io previous baseline
+
+Figure 27.23 Daily builds
+
+the new build between 6 PM and? Am. Ifa problem is found with the new build, it is assumed the defect lies in
+the code that was checked in during the previous day. This makes the job of problem isolation and resolution
+easier than if a longer time interval had elapsed between builds.
+
+27.5 INTERFACE TESTING
+
+Interface tests validate the interface of each module from the viewpoint of their usage by a client. These can be
+conducted, to the extent possible, prior to the integration of a module (with necessary stubs), and then after
+the integration of the module (with, typically, a reduced set of stubs). The Facade design pattern can be used
+to facilitate interface testing. A facade object is created for each class or package, providing an implementa-
+tion of its public interface. Each method in the facade checks its input parameters to ensure they are passed
+correctly and returns a predetermined response. Thus, the caller can test its interface with a module without
+knowledge of whether it is using the facade or the real implementation. This makes problem discovery and
+isolation easier. Let's return to the video store as an example. Figure 27.24 shows the module decomposition
+for this application.
+
+ 
+
+DVDs
+DVDRentals
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DVDAccess
+sae VideoStore
+¥
+VSCustomers DVDsRented
+DVDCustomerAccess a
+facade» -
+DVDRental
+
+ 
+
+ 
+
+ 
+
+Figure 27.24 Video store module interfaces
+
+ 
+
+849
+

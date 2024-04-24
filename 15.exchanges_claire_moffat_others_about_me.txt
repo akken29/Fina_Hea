@@ -1,0 +1,365 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+[25/05/2023 10:37] David Moffat
+Hey folks, off a call with Dave K.
+
+We have made the decision to Under 23 month dismiss Marcel - he's not worked out and we
+have no room for passengers right now.
+
+David Middleton: Are you good to start the conversation with the People team?
+Claire : DK asking if we need to replace but we can think about that and come back to him.
+Cheers
+
+[25/05/2023 10:50] David Middleton
+
+Hi, | see Claire is off today but before | talk to people team does marcel know from explicit
+conversations there is an issue with his work because that will be their first question
+[25/05/2023 10:52] Claire Thomson
+
+Hiya, just saw this
+[25/05/2023 10:58] Claire Thomson
+
+I've had chats with him to commit his work various times, That what he's attempted to do wasn't
+in line with what we were trying to do, so | tried to be more explicit in what | was asking. | guess
+it's more of an overall thing. I've had occasions where Zoe has discussed how to structure the
+terraform but then he asks me after it, He seemed to take it personally when Jason said that we
+shouldn't be writing bash in ansible - that we should be using ansible modules for example...
+Marcels reaction was to say there was a module for bash - but that doesn't mean it's right - it's
+not what we should be doing - use the tools the way they are intended
+
+[25/05/2023 10:59] Claire Thomson
+
+| guess it's everything as a whole - with so much experience | don't think we should need to
+guide him so much
+
+[25/05/2023 11:00] Claire Thomson
+
+| don't know exactly what | should have said to say there was an issue, | couldn't go no that's
+totally wrong, it's been trying to course correct | guess
+
+[25/05/2023 11:02] David Middleton
+Thanks Claire, from an HR perspective we haven't had an explicit 1-2-1 that he isn’t meeting
+
+expectations was what | was meaning. | thought that was the case but want to just be sure of my
+
+facts is all
+[25/05/2023 11:03] Claire Thomson
+
+No I've not had an explicit 1-2-1 in that regard
+
+129
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+[25/05/2023 11:05] Claire Thomson
+
+if your both free just now it might be easier to have a call?
+
+[25/05/2023 11:06] David Moffat
+
+Back to bed and get better Claire- can talk more on Tuesday on this. Can wait till then.
+[25/05/2023 11:10] Claire Thomson
+
+| guess this is the most recent chat in teams | had with him
+
+[Tuesday 11:55] Claire Thomson
+
+remember to push your changes to your branch
+
+[Tuesday 11:56] Claire Thomson
+I'm gonna stick a recurring meeting in your calendar for the end of the days hahaha (I won't
+
+really )
+
+[Tuesday 11:58] Marcel Sangare
+
+(will push Claire ...i was intending to do so by the end of the day..i am just testign a few bits and
+pieces before doing so...but i will...
+
+like 7
+
+[Tuesday 14:12] Marcel Sangare
+
+Hello Claire.
+
+Please can you have a look at the structure below for the vpc-0232b16b ; It is just os that you have
+an idea before i push this afternoon.
+
+130
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+so what i am doing at the moment is pretty much the same for all vpc. So iam breaking them
+down , each of them in their individual folder such as below before then move on to merge them
+into a single folder as requested by you last week:
+
+[Tuesday 14:12] Marcel Sangare
+
+Selection 418.png
+
+[Tuesday 14:13] Marcel Sangare
+The reason why | initially opted for a single root project per vpc is because vpc on aws are
+
+considered isolated units so the idea was to isolate them in into their own individual project for
+scalability and strict isolation from each other.
+
+[Tuesday 14:15] Claire Thomson
+so there should only be one variables file and one outputs file - these are going to be the same
+
+inputs and outputs across all VPCs - this is why pushing to git helps - then! can pull the branch
+and look at the code and discuss it rather than looking at some file names on a screenshot
+
+[Tuesday 14:20] Marcel Sangare
+
+yes indeed...it will be as you mentioned below:
+
+[Tuesday 14:20] Marcel Sangare
+
+-- main.tf (contains providers, versions, datablocks, locals)
+-- vpc- 1.tf
+
+-- vpc-2.tf
+
+-- variables.tf
+
+-- output.tf
+
+[Tuesday 14:20] Marcel Sangare
+
+so there will be a single main.tf, a single variables.tf and a single output.tf
+
+131
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+[Tuesday 14:21] Marcel Sangare
+
+But in order to make this easier, iam breaking the individual configs along these lines before
+merging into a single folder
+
+[Tuesday 14:23] Claire Thomson
+
+most of the variables will be in your files to start with anyway as it's not a module so it's defined in
+the code
+
+[Tuesday 14:26] Claire Thomson
+
+we don't need things isolated, | get the original idea - but we want to be able to run a pipeline
+across them all - check for changes etc - no manual running of anything
+
+[Tuesday 14:27] Claire Thomson
+
+terraform has -target to allow you to specify which parts of state you want to change/destroy if we
+need to
+
+[Tuesday 14:28] Marcel Sangare
+
+yes i understood the idea you had in mind when mentionign this.
+
+[Tuesday 14:28] Marcel Sangare
+
+{ pushed just now the changed on three vpc so that you can see
+
+[Tuesday 14:29] Marcel Sangare
+
+it is on branch INFRA-675/AWS, for vpc-010c0d84db3 1a1d1b, vpc-0232b16b, vpc-439e2c26
+
+[Tuesday 14:29] Marcel Sangare
+
+132
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+insiode each there is a folder called "config_broken_down"
+
+Selection 418.png
+
+[25/05/2023 11:11] David Middleton
+
+Thanks Claire, sorry i didn;t know you weren't well. I'm all good here
+[25/05/2023 11:12] Claire Thomson
+
+and this was from the Friday.
+
+[Friday 09:29] Claire Thomson
+
+Please remember to push your local commits to git it's good practice to push at a minimum
+at the end of the day, if you were off sick for example someone could pick up where you left off
+
+[Friday 11:07] Marcel Sangare
+Good morning Claire.Sorry you are absolutely right.It is just me and my silly habit of pushing only
+what appears to be the best...bad habits die hard but something i do need to rectify indeed. i was
+
+trying t make the comments as consistent as possible. | am just finishing the vpc_accounting script
+that will be pushed today as well
+
+[Friday 11:09] Marcel Sangare
+so on the branch "INFRA-675/AWS'", under "aws", there will be a folder
+
+"vpc terraform version 1.3.7" with the update to the terraform config for all the vpc using version
+7.3.7.
+
+[Friday 11:33] Claire Thomson
+
+why? this should all be in one folder, it's all still in separate folders?
+
+It should be along these lines as discussed
+
+133
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+AWS
+
+-- main.tf (contains providers, versions, datablocks, locals)
+-- vpc- 1.tf
+
+-- vpc-2.tf
+
+-- variables.tf
+
+-- output.tf
+
+[Friday 11:35] Claire Thomson
+
+it should be "= 1.3.7"
+
+[Friday 11:44] Claire Thomson
+
+and please don't feel like anything has to be absolutely right
+
+[Friday 11:45] Claire Thomson
+push frequently, get feedback when you need, it ask questions - I'm forever making commits that
+
+just say "Typo"
+
+[Friday 11:45] Marcel Sangare
+
+yes indeed.So i first rewrote all the individual terraform configs using 1.3.7, tested them thoroughly .
+
+[Friday 11:46] Marcel Sangare
+
+the organization you mentioned above was mentioned by Zoe.i will do that next ..
+
+[Friday 11:46] Marcel Sangare
+
+tam on it now as well as the vpc accounting
+
+[Friday 11:47] Claire Thomson
+
+134
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+Thanks! makes it so much easier to read, then we should be pretty close to that PR and getting
+VPCs out the way and on to the next resource
+
+[25/05/2023 11:12] Claire Thomson
+
+no worries
+
+[25/05/2023 11:15] Claire Thomson
+
+As | said it's more of an overall thing, for his experience, we expected more - sorta what |
+mentioned to you already. it's like he's at a junior level, and | get not understanding Ansible or
+Terraform, and things taking a bit longer - but everything seems to be so long and just the
+though process around things seems odd, even just the basics like pushing to git...
+
+[25/05/2023 11:16] Claire Thomson
+
+the whole thing makes me feel bad - he's such a nice guy and the start he had was terrible with
+the incident but where do you stop - | don't think | could trust him to do BAU.
+
+[25/05/2023 11:18] Claire Thomson
+
+maybe that's what | need to do - | don't know how long we have - but put him on BAU only for a
+couple of weeks and prove he can't even do the basics
+
+[25/05/2023 11:18] Claire Thomson
+take ansible/terraform out the equation
+[25/05/2023 11:19] David Moffat
+
+I'm looking back at his CV - he's not showing us any of the things he listed under his skills
+
+Marcel Sangare - CV 1.pdf
+
+ 
+
+[25/05/2023 11:19] Claire Thomson
+
+| now feel even sicker than | did It's not nice, | want people to do well and it feels like a
+failure on me that I've not assisted him enough
+
+[25/05/2023 11:20] David Middleton
+It's cool don't be stressing claire! | will talk to people team and you can focus on getting better
+
+[25/05/2023 11:22] Claire Thomson
+
+135
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 15.exchanges_claire_moffat_others_about_me.pdf
+
+| mean he can write a bash script, | don't think he's not capable of that
+[25/05/2023 11:22] Claire Thomson
+OK, I'm gonna try a cuppa
+
+[25/05/2023 11:30] David Moffat
+Claire Thomson
+
+| mean he can write a bash script, | don't think he's not capable of that @)
+
+This is the kicker:
+
+SKILLS
+
+-~Change Management, Project
+Management
+
+-Cloud (Openstack, Google Cloud, AWS)
+
+-Cybersecurity (Cybersecurity Strategy,
+Network Security, Cyber Defense
+Automation, Penetration Testing,
+
+OWASP, PCI-DS5S, NIST Framework,
+50C management, Firewalls, Exploit
+Reverse Engineering...)
+qm - DevOps (Gir, Ansible, Nagios, Jenkins,
+Gradle, Maven, Terraform)
+-Big Data (Hadoop, Pig, Hive, Flume)
+-Advaneed System Administration UNIX
+(BSD), Linux (Red Hat, Debian)
+
+-Seripting (Python, BASH)
+
+We've seen nothing from him in "DevOps" - given experience / salary it's not been good enough.
+He knew he was coming to a DevOps role - made very clear to him in interview so please don't
+feel bad Claire - sometimes it just doesn't work out, we're not going to get 100% success rate
+
+136
+

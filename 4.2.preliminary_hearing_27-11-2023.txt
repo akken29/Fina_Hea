@@ -1,0 +1,430 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+ 
+
+EMPLOYMENT TRIBUNALS (SCOTLAND)
+Case No: 8000485/2023
+Preliminary Hearing held by Cloud Video Platform on 27 November 2023
+
+Employment Judge M Kearns
+
+Mr M Sangare Claimant
+In person
+Arnold Clark Automobiles Limited Respondent
+
+Represented by:
+Mr J Meechan
+
+Solicitor
+
+ORDERS OF THE EMPLOYMENT TRIBUNAL
+
+Under Schedule 1 of the Employment Tribunals (Constitution and Rules of Procedure)
+Regulations 2013, the Tribunal makes the following case management Orders:-
+
+Full Hearing in person
+
+ 
+
+(1) Date listing stencils will be sent out for a full hearing in person in the listing period
+February, March or April 2024. The hearing will determine liability only.
+
+Documents for Hearing
+
+ 
+
+(2) Not later than six weeks before the first day of the hearing, the claimant is
+ordered to send to the respondent all documents he wishes to have incorporated
+
+into the joint hearing bundle.
+
+(3) Not later than four weeks before the first day of the hearing, the respondent
+is ordered to send to the claimant a copy of the draft joint bundle for agreement.
+
+50
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 2
+
+(4) Not later than two weeks before the first day of the hearing, the respondent
+is ordered to send to the claimant a copy of the final agreed joint bundle of
+documents for the hearing.
+
+(5) | The respondent is ordered to provide five copies of the joint hearing bundle for
+use by the Tribunal and witnesses at the Hearing.
+
+Amendment
+
+(6) Not later than 7 days from the date of receipt of this Note, the respondent is
+ordered to send to the claimant (copied to the Tribunal) a document setting out
+
+the claims the respondent argues are not foreshadowed in the claimant’s ET1.
+
+(7) Not later than 14 days after the respondent’s document under paragraph
+(6) above is sent to him, the claimant is ordered to make any amendment
+application he wishes to make in respect of claims not foreshadowed in his ET1.
+The application should set out the terms of the amendment and the facts upon
+which each additional claim is based. The claimant should also explain why the
+amendment is being made at this stage and why the claim was not set out in the
+ET1. Finally, he should also state any prejudice he would suffer if the
+
+amendment were not accepted.
+
+Compliance with Orders of the Tribunal
+
+If any of these orders is not complied with, the Tribunal may: (a) waive or vary
+the requirement; (b) strike out the claim or the response; (c) bar or restrict
+participation in the proceedings; and/or (d) award expenses in accordance
+with Schedule 1 of the Employment Tribunals (Constitution and Rules of
+
+Procedure) Regulations 2013.
+
+Anyone affected by any of these orders may apply for it to be varied,
+suspended or set aside.
+
+51
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 3
+
+NOTE FOLLOWING PRELIMINARY HEARING
+
+1. The claimant was employed by the respondent as a Dev Ops Engineer from 7
+December 2022 until 22 June 2023. He worked remotely from home. Following
+the termination of his employment, the claimant notified ACAS of his intention
+to make an application to the Employment Tribunal on 31 July 2023. The
+claimant received an early conciliation certificate from ACAS on 4 September
+2023 and presented an application to the Employment Tribunal on 25
+September 2023 in which he claimed unfair dismissal, wrongful dismissal, race
+discrimination and subjection to detriment and dismissal by reason of having
+
+made a protected disclosure.
+
+List of Issues Claimant wishes to raise
+
+ 
+
+2. | went through the issues the claimant had raised in his ET1 and PH Agenda.
+On behalf of the respondent, Mr Meechan submitted that the claimant had
+raised issues in his PH Agenda and at the PH today which were not in his ET1.
+Mr Meechan submitted that these additional issues would require to be the
+subject of an application by the claimant to amend the ET1 and that the
+respondent would be likely to oppose such an application. This was discussed
+and we agreed that | would issue this Note setting out the claimant's claims as
+understood following today’s discussions. Mr Meechan would then have 7 days
+from his receipt of this Note within which to indicate which claims he challenged
+as not foreshadowed in the ET1. Thereafter, the claimant would have 14 days
+from Mr Meechan’s challenge within which to make any application to amend.
+The issues raised were as follows:
+
+Direct Discrimination
+
+ 
+
+1. Did the respondent, because of the claimant’s race, treat the claimant less
+favourably than it would have treated others? The less favourable treatment
+alleged by the claimant is as follows. The claimant will say that:
+
+a. Jason White, Dev Ops Engineer was permitted by the claimant’s line
+manager Claire Thomson and second line manager, David Moffat to
+behave in an aggressive and disrespectful way towards the claimant
+in the manner described below at video meetings at which they were
+present and to humiliate the claimant without any steps being taken
+
+52
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 4
+
+to challenge his behaviour. By contrast, the claimant was subjected to
+the respondent’s performance procedure and dismissed.
+
+b. On or about 13 June 2023 the claimant’s line manager, Claire
+Thomson misrepresented to HR what had happened at a meeting with
+the claimant that day.
+
+c. HR did not follow the respondent’s performance procedure in relation
+to the claimant;
+
+d. The claimant sent the code he had written to David Moffat to check.
+Despite being a software developer, Mr Moffat did not check the
+claimant’s code.
+
+e. The claimant’s employee benefits were cancelled the day before the
+meeting at which he was dismissed indicating prejudgment.
+
+f. The claimant was dismissed on grounds of poor performance. He will
+argue that, as his performance was not poor, he was dismissed
+because of his race.
+
+2. The claimant’s comparators are Jason White and other white employees of
+the respondent.
+
+Harassment
+
+3. Did the claimant suffer unwanted conduct as follows? The claimant will say
+that:
+
+a. Over a period between 12 January and around 19 June 2023 Jason
+White, Dev Ops Engineer shouted at the claimant repeatedly at daily
+team meetings, would not let the claimant speak, told him: “shut up,
+I’m speaking”; belittled the claimant and criticised his work in front of
+others. In particular, at a meeting in early June 2023, Mr White
+criticised a code the claimant had written for AWS which involved a
+modular approach. He laughed at the claimant in front of those
+present and mocked him with the words: “You don’t know what you're
+doing. Let me tell you one more time..”
+
+4. Was this related to the claimant’s race?
+
+53
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 5
+
+5. If so, did this conduct have the purpose or effect of violating his dignity,
+or creating an intimidating, hostile, degrading, humiliating or offensive
+
+environment for the claimant?
+
+Indirect Discrimination
+
+ 
+
+6. Did the respondent apply the practice of not adequately evaluating
+performance in the claimant's department, so as to obtain objective
+
+information upon which performance could be assessed with transparency ?
+
+7. Was that practice applied to white and non-white employees in the claimant's
+department?
+
+8. Did the practice put (or would it put) non-white employees in the claimant’s
+department at a particular disadvantage compared with white employees in
+that the lack of transparency and objective information about performance
+fostered an environment where racial prejudices may influence employment
+
+decisions?
+
+9. Did it put the claimant at that disadvantage?
+
+10.If so, was the practice a proportionate means of achieving a legitimate aim?
+
+Victimization
+
+11.Did the claimant do the following act and if so, was it a protected act under
+section 27(2)(c) or (d) Equality Act 2010? The claimant will say that:
+
+a. On or about 12 January 2023, following a video meeting, the claimant
+told his manager Claire Thomson that the way in which Jason White
+had spoken to him at the meeting was insulting, abusive and violent,
+was contributing to insecurity in the department and was having an
+
+effect on his own health and safety and on that of the whole team.
+
+b. He submitted a formal written grievance complaining of direct
+discrimination and an overall atmosphere of bias and prejudice.
+[Claimant’s PH Agenda paragraph S.8(f).]
+
+54
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 6
+
+12.Was the claimant subjected to the following detriment, and if so, was it
+because he had done the protected act?
+
+a. Dismissing the claimant for alleged poor performance.
+
+Whistleblowing
+
+13.Did the claimant make the following disclosures and if so, were they
+protected disclosures as defined in sections 43B and 43C Employment
+Rights Act 1996 (“ERA”)?: The claimant will say that:
+
+a. On or about 12 January 2023, following a video meeting, the claimant
+told his manager Claire Thomson that the way in which Jason White
+had spoken to him at the meeting was insulting, abusive and violent,
+was contributing to insecurity in the department and was having an
+
+effect on his own health and safety and on that of the whole team.
+
+b. On or about 12 January 2023, following a cyber-security breach of the
+respondent’s systems in December 2022, the claimant told his
+manager Claire Thomson that the action of Jason White in copying
+passwords from the old system to the new one was contrary to the
+respondent's legal obligations following a cyber security breach.
+
+c. On or about 19 June 2023, the claimant emailed Claire Thomson,
+David Moffat and the respondent’s HR department to report on-going
+verbal abuse by Mr White as well as alleged IT malpractice and
+breach of the respondent's legal obligations relating to data
+protection.
+
+14.Was the claimant subjected to the following detriment? The claimant will say
+that:
+
+a. Management and HR terminated his employment in a way that was
+predetermined and not in accordance with the respondent's
+
+55
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 4.2.preliminary_hearing_27-11-2023.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 7
+
+procedures for managing performance without any proper basis for
+
+doing so.
+
+15.Was the claimant subjected to the above detriment contrary to section 47B
+
+ERA because he had made one or more of the above protected disclosures?
+
+Automatically Unfair Dismissal
+
+ 
+
+16. The claimant does not have the necessary two years’ qualifying service to
+claim ‘ordinary’ unfair dismissal. Thus, the questions is whether his dismissal
+
+was for an inadmissible reason making it automatically unfair:
+
+17.Was the claimant dismissed for the reason or principal reason that he made
+
+a protected disclosure contrary to section 103A ERA?
+
+Wrongful Dismissal
+
+18. Was the claimant’s dismissal in breach of his contract?
+
+3. Unrepresented parties may be able to seek advice without charge from the
+Faculty of Advocates Free Legal Service Unit or the following law clinics:
+Glasgow Caledonian University Law Clinic; University of Strathclyde Law Clinic;
+Aberdeen Law Project; The University of Edinburgh Free Legal Advice Centre;
+
+Edinburgh Napier Law Clinic; Or the law clinic at Robert Gordon University.
+
+MU Kearns
+
+Employment Judge
+
+28 November 2023
+Date
+
+Date sent to parties 01 December 2023
+
+| confirm that this is my PH Note in the case of Mr M Sangare v Arnold Clark
+Automobiles Limited 8000485/2023 and that | have signed the Note by electronic
+
+signature.
+
+56
+

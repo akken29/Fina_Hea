@@ -1,0 +1,1313 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+Arnold Ciark
+
+CYBER SECURITY POLICY
+
+This document is the property of Arnold Clark Automobiles Limited and its subsidiaries (“Arnold Clark
+Group”) and is for the use of Arnold Clark Group personnel only.
+
+This document shall not affect the legal relationship or liability of the Arnold Clark Group with nor to any
+third party and neither shall such third party be entitled to rely upon it.
+
+The Arnold Clark Group shall have no liability for technical or editorial errors or omissions in this
+document; nor for any damage, including but not limited to direct, punitive, incidental or consequential
+damages resulting from or arising out of its use by the Arnold Clark Group’s directors, officers,
+employees, agents, representatives, owners or others.
+
+Document Classification: Internal
+108
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+‘a
+Arnold Clark C2 S2e5ity
+
+ 
+
+Arnold Clark Group Cyber Security Policy
+
+ 
+
+This policy document defines the cyber security requirements to ensure the application of
+technologies, processes and controls to protect Arnold Clark’s systems, networks, programs, devices
+and data from cyber attacks.
+
+ACCOUNTABILITY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Executive Sign Off Jim Graham - Group Finance Director
+
+Sponsor MT McGhee - Arnold Clark Chief Implementation Officer
+Owner Stephen McPhail - Arnold Clark Head of Cyber Security
+Approver David Keenan - Arnold Clark Chief Technology Officer
+Approver David Moffat — Arnold Clark Head of Reliability Engineering
+Approver Iain Gibson — Arnold Clark Head of Digital Infrastructure
+Approver Laura Logan — Arnold Clark Head of Digital Service Operations
+Approver Zbigniew Kwecka —- Chief Information Security Officer
+Reviewer Andy Prior — AoN Consultancy
+
+Reviewer Stuart Thorpe / George Gilfillan
+
+Review Period Biennially
+
+Next Review 2025
+
+ 
+
+DISTRIBUTION CONTROL
+
+ 
+
+ 
+
+ 
+
+ 
+
+Method Arnold Clark Employees & External Parties with NDA
+Contractors
+Intranet No special requirements NA
+Email Internal to Arnold Clark addresses Encrypt
+only
+Removable Media Encrypt Encrypt
+Hardcopy Uncontrolled when printed Sealed Envelope
+
+ 
+
+VERSION CONTROL
+
+ 
+
+ 
+
+Version Date Author Description
+0.1 Sep 2021 | Emma McAuslan and Paul Irons Draft
+0.2 Sep 2021 | Paul Irons Feedback from NM Update of PCI-
+
+DSS reference from 3.2 to 3.2.1,
+removal of ISO reference A.6.1.2
+0.3 Sep 2021 | Paul Irons Feedback from PB, update section
+4 General Principles to include
+integrity. Update section 4.4 to
+replace precedent to precedence
+
+1.0 Sep 2021 | Pat Malloy Approved Document
+
+ 
+
+ 
+
+ 
+
+1.1 Nov 2023 | Natasha Muldoon Draft for update
+
+ 
+
+a
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 2 of 9
+109
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark C3 svec'.y
+
+ 
+
+ 
+
+2.0 Dec 2023 | Natasha Muldoon Approved Document
+
+ 
+
+Table of Contents
+
+1 INTRODUCTION 4
+2 SCOPE 4
+3 OBJECTIVES 4
+4 GENERAL PRINCIPLES 4
+4.1 Commitment to Cyber Security ....... ccc cece ceee eee eee ence enna eenaee nase tans enaees 5
+4.2 RoleS And RESPONSIDIitieS ........ cece eee neers ene enna eae 6
+4.3 Legal, Regulatory and Contractual COMPIIANCE ....... ccc eee cece seen eee eeeeeeaees 7
+4.4 Business Continuity MANAGEMENL ...... cece teeter eee eee eden eee e eee 7
+4.5 Review and MONItoring ........cccecceeee cece eect eee eee eee eee eee eee eee ea eae eee tates 7
+5 ENFORCEMENT 8
+6 CONTROL REFERENCES 9
+7 RELATED DOCUMENTS 9
+
+ee)
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 3 of 9
+1106
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+ft”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+1 Introduction
+
+The purpose of this policy is to demonstrate how we (a) protect Arnold Clark Group data and
+infrastructure, (b) outline the protocols and guidelines that govern cyber security measures, (c) define
+the rules for company and personal use, and (d) list the company's disciplinary process for policy
+violations.
+
+Arnold Clark’s information and relevant assets must be protected against both internal and external
+threats. Security requirements must be established to ensure adequate protection of Arnold Clark
+information. These requirements may be obtained (via) as a result of:
+
+e Risk assessments
+e Legal, regulatory, statutory and contractual requirements
+e Principles and objectives as a result of business requirements for information processing
+
+Maintaining the security of information (our data) is essential to ensure that Arnold Clark can maintain
+profitability, legal compliance, competitive edge and reputation.
+
+This Cyber Security Policy outlines the specific rules and guidelines needed to fulfil the cyber security
+requirements.
+
+2 Scope
+
+This policy shall apply to all Arnold Clark Group employees, contractors, third-party organisations and
+business partners working in support of the Arnold Clark Group. This policy document and all other
+policies, standards and procedures underpin the Arnold Clark Group’s Cyber Security principles.
+
+The Arnold Clark Cyber Security Policy must be implemented in conjunction with the Acceptable Use
+Policy.
+
+Any identified failure to comply with this policy or supporting standards must be reported to the Arnold
+Clark Group’s Cyber Security department cybersecurity@arnoldclark.com
+
+ 
+
+3 Objectives
+
+The objective of the Cyber Security Policy is to:
+
+e Manage cyber security risks to an acceptable level, as directed by the business owners.
+
+e Support Arnold Clark strategy by facilitating efficient use of information in a safe and
+responsible manner.
+
+e Provide a framework for compliance with recognised cyber security standards and legal and
+regulatory requirements.
+
+4 General Principles
+
+Arnold Clark Group acknowledges its responsibility to protect the confidentiality, integrity and
+availability of information, through the application of adequate cyber security to all areas of the
+business operations.
+
+Arnold Clark Group also understands that the correct implementation and management of cyber
+security within the organisation is essential for the protection of the wider Arnold Clark environment
+and the services delivered to customers.
+
+Arnold Clark employees, contractors and third-party organisations and business partner users will be
+governed by this cyber security policy and supporting standards.
+
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 4 of 9
+
+111
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr
+Arnold Clark Seo erity
+
+ 
+
+4.1 Commitment to Cyber Security
+
+Arnold Clark Cyber Security team is led by the Head of Cyber Security reporting to the Chief
+Information Security Officer (CISO). The Chief Information Security Officer is fully supported by the
+Arnold Clark Board of Directors, who in turn advocate that all employees have a responsibility to protect
+the company’s assets and information.
+
+The cyber security requirements are aligned to the strategic objectives of Arnold Clark Group and the
+risk management framework. Arnold Clark adopts a ‘Three Lines of Defence’ model to ensure that risks
+and controls are properly managed by its businesses, functions and digital teams on an ongoing basis.
+
+Diagram 1: Three Lines of Defence
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Internal Audit provides independent assurance over risk management,
+governance and internal controls.
+
+ale=laar-] AVC Lelie
+
+ 
+
+ 
+
+Cyber Security Team design and own the Risk Management
+Framework and associated policies and standards. Monitors
+and facilitates the implementation of effective risk 2LOD
+management practices across Arnold Clark.
+
+OV ol-yei-lo Ul ei nvan (=t-]a0
+
+ 
+
+ 
+
+Employees take ownership, responsibility and
+accountability for directly assessing,
+controlling and mitigating risks and issues. 1LOD
+
+All Employees
+
+The Arnold Clark Cyber Security team are responsible for leading the risk assessment with all relevant
+stakeholders involved to identify, quantify and manage risks within their areas of responsibility whilst
+achieving business objectives.
+
+All risks identified must be captured in the Arnold Clark Digital Risk Register with an action plan in place
+detailing how the risk will be managed in line with the risk rating, who will be responsible for ensuring
+the mitigating controls are implemented and the date for completion. All risks are subject to continuous
+review, aligned with our Risk Management Framework.
+
+Risk assessments are performed periodically on a variety of assets within the organisation to address
+changes in Arnold Clarks risk appetite or when significant changes occur. These assets may be physical
+assets, people, processes, software and information to assess all aspects of risks, threats and
+vulnerabilities.
+
+The risks identified must be captured in the AC Digital Risk Register. Actions taken to mitigate the risks
+must be captured and reported on a periodic basis.
+
+The Arnold Clark Cyber Security team must lead the risk assessment and involve all business managers
+to identify and manage risks within their areas of responsibility.
+
+ee)
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 5 of 9
+112
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+ft”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+4.1.1 Risk Assessment Methodology
+
+Security risks must be assessed using the cyber risk management framework. The assessment must
+include the potential business impact of the risk in terms of compromise of the information asset. The
+assessment must also include the likelihood of the impact occurring. The two factors must contribute to
+the overall risk score.
+
+Based on the risk score, appropriate risk treatment methods must be deployed to reduce the impact of
+the risk. The following risk treatment methods may be used:
+
+e Transfer — this method involves transferring the risk to a third party to help reduce the impact
+of the risk.
+
+e Accept - it may be that the cost or impact of implementing a control to mitigate a given risk
+exceeds the benefits the control has on the risk, in which case, the management may decide to
+accept the risk as-is.
+
+e Reduce - this method involves implementing controls to mitigate the risk, thereby reducing
+both the impact and likelihood of exploitation.
+
+e Avoid - this method involves avoiding / stopping the business process to eliminate the risk
+from occurring.
+
+4.2 Roles and Responsibilities
+
+All Arnold Clark Group - employees, contractors and third party users must report security risks and
+incidents to the Service Desk and / or to their line managers. The individual(s) responsible /
+accountable for managing the risk may not be from the same business unit.
+
+The Arnold Clark Cyber Security team will coordinate with the individual(s) providing assistance where
+required.
+
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 6 of 9
+113
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+ft”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+4.3 Legal, Regulatory and Contractual Compliance
+
+The Arnold Clark Group is subject to various compliance streams that require cyber security to be
+managed and complete cyber assurance on an annual basis. These include, but not limited to:
+
+Prudential Regulation Authority (PRA)
+Financial Conduct Authority (FCA)
+Financial Ombudsman Service (FOS)
+Prudential Regulation Committee (PRC)
+Association of British Insurers (ABI)
+Cyber Essentials Plus v2.0
+
+UK GDPR
+
+PCI-DSS v4
+
+In cases where the Arnold Clark Cyber Security Policy conflicts with laws or regulations; those laws or
+regulations take precedence. In such cases the conflict must be documented and reported to the Arnold
+Clark Cyber Security team. cybersecurity@arnoldclark.com
+
+ 
+
+Arnold Clark is subject to various compliance streams that require security to be properly managed.
+
+In cases where the Arnold Clark Cyber Security Policy conflicts with laws or regulations; those laws or
+regulations take precedence. In such cases the conflict must be documented and reported to the Arnold
+Clark Cyber Security team.
+
+4.3.1 Payment Card Industry
+
+Where Arnold Clark is engaged with payment card transactions for any number of direct or indirect
+customers it is required to comply with the most recent version of the Payment Card Industry Data
+Security Standard (PCIDSS).
+
+Specific rules and requirements are detailed within the Arnold Clark Cyber Security Payment Card Data
+Handling Standard.
+
+4.4 Business Continuity Management
+
+Arnold Clark Group must have in place a Business Continuity Plan to maintain essential operational
+activities during adverse conditions, from coping with major disasters to minor local issues.
+
+4.5 Review and Monitoring
+
+The Cyber Security policy (and standards) is subject to continuous, systematic review and
+improvement. The Cyber Security policies will be reviewed every two years unless an ad hoc
+occurrence occurs.
+
+The Arnold Clark Chief Information Security Officer is the owner of this document and is responsible for
+ensuring that this policy document is reviewed at the defined intervals.
+
+A controlled version of this document must be made available to all Arnold Clark Group employees,
+contractors and third-party users.
+
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 7 of 9
+
+114
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+ft”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+5 Enforcement
+
+For the Arnold Clark Group to maintain its high standards and reputation all employees, contractors and
+third parties are responsible for their own actions and ensuring they remain in compliance with the
+requirements of all Cyber Security Policies and Standards. Breaches or suspected breaches of the
+Arnold Clark Policies must be reported. Breaches of the Arnold Clark Policies may lead to disciplinary
+sanctions up to and including dismissal.
+
+Arnold Clark Group has a Whistleblowing Policy and will not tolerate any kind of retaliation against
+anyone who, in good faith, reports a violation of Arnold Clark policy or law.
+
+ee)
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 8 of 9
+115
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr
+Arnold Clark Seo erity
+
+ 
+
+6 Control References
+
+Standard Control(s)
+
+PCI-DSS v4.0 PCI.12
+NiST CSF ID.GV-1, ID.GV-2
+
+ 
+
+ 
+
+7 Related Documents
+
+Document Name
+
+ 
+
+Arnold Clark Cyber Security | Arnold Clark Cyber Security Policy
+Policies Arnold Clark Cyber Security Acceptable Usage Policy
+
+ 
+
+Appendix
+
+The Cyber Essentials scheme is a UK government-backed certification scheme that helps organizations of all sizes
+protect themselves against common online threats. It provides a set of basic cybersecurity controls that
+organizations can implement to reduce their risk of cyber attacks.
+
+Under the UK GDPR, individuals have a number of rights with respect to their personal data, including the right to
+be informed about how their data is being used, the right to access their data, the right to have their data corrected,
+the right to have their data deleted, and the right to object to the processing of their data in certain circumstances.
+
+Organizations that process personal data are required to comply with a number of principles, including the
+principles of transparency, fairness, and accountability. They must also implement appropriate technical and
+organizational measures to ensure the security of personal data and report data breaches to the appropriate
+authorities.
+
+The PCI-DSS is a set of security standards established by the major credit card companies to protect against credit
+card fraud and data breaches. It applies to all organizations that process, store or transmit cardholder data. The
+standard outlines a set of requirements for securing cardholder data and ensuring that it is processed and stored in
+a secure manner.
+
+The PCI Security Standards Council, which oversees the development and maintenance of the PCI-DSS, regularly
+updates the standard to address new threats and vulnerabilities. However, the core principles and requirements of
+the standard remain largely unchanged from version to version. It is important for organizations to stay up to date
+with the latest version of the standard and implement any necessary changes to their security practices to ensure
+compliance.
+
+ee)
+Arnold Clark Cyber Security Policy v1.1 Version Date: Nov 2023
+Classification: Internal
+
+This Document is uncontrolled when printed. Page 9 of 9
+116
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+Arnold Clark
+
+CYBER SECURITY
+
+ACCEPTABLE USE POLICY
+
+This document is the property of Arnold Clark Automobiles Limited and its subsidiaries (“Arnold Clark
+Group”) and is for the use of Arnold Clark Group personnel only.
+
+This document shall not affect the legal relationship or liability of the Arnold Clark Group with nor to
+any third party and neither shall such third party be entitled to rely upon it.
+
+The Arnold Clark Group shall have no liability for technical or editorial errors or omissions in this
+document; nor for any damage, including but not limited to direct, punitive, incidental or
+consequential damages resulting from or arising out of its use by the Arnold Clark Group’s directors,
+officers, employees, agents, representatives, owners or others.
+
+Document Classification: Internal
+
+117
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark a Cyber
+
+Security
+
+ 
+
+ 
+
+Arnold Clark Group Cyber Security
+
+ 
+
+Acceptable Use Policy
+
+This document details the mandatory baseline standards required to meet the Arnold Clark company
+Cyber Security Policies.
+
+ACCOUNTABILITY
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Executive Sign Off Jim Graham - Group Finance Director
+
+Sponsor MT McGhee - Arnold Clark Chief Implementation Officer
+Owner Stephen McPhail - Arnold Clark Head of Cyber Security
+Approver David Keenan - Arnold Clark Chief Technology Officer
+Approver David Moffat —- Arnold Clark Head of Reliability Engineering
+Approver Iain Gibson —- Arnold Clark Head of Digital Infrastructure
+Approver Laura Logan - Arnold Clark Head of Digital Service Operations
+Approver Zbigniew Kwecka — Arnold Clark Chief Information Security Officer
+Reviewer Andy Prior - Aon Consultancy
+
+Reviewer Stuart Thorpe — Arnold Clark Company Secretary
+
+Reviewer Biennially
+
+Review Period 2023
+
+Next Review 2025
+
+ 
+
+DISTRIBUTION CONTROL
+
+ 
+
+ 
+
+ 
+
+ 
+
+Method Arnold Clark Employees & > 4C-t eT AN
+Contractors
+Intranet No special requirements NA
+Email Internal to Arnold Clark addresses Encrypt
+only
+Removable Media Encrypt Encrypt
+Hardcopy Uncontrolled when printed Sealed Envelope
+
+ 
+
+VERSION CONTROL
+
+ 
+
+ 
+
+Version Date Author Description
+0.1 Aug 2021 | Emma McAuslan and Paul Irons Draft
+0.2 Sep 2021 | Paul Irons Feedback from PB: update scope to
+
+include the last line starting with
+‘Any detected breaches...’, update
+section 4.1 from ‘Report security &
+data breaches and incidents
+immediately to the IT Support
+Desk, management or Cyber
+
+ 
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 2 of 10
+
+118
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark Cyber
+
+Security
+
+Security team’ to ‘Report security &
+data breaches and incidents
+immediately to the IT Service Desk
+on 0141 648 1999 or management
+team, or Cyber Security team if
+you are unable to contact the IT
+Service Desk.
+
+1.0 Sep 2021 | Laura Logan Approved Document
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1 Nov 2023 | Natasha Muldoon Review Draft - wording updated to
+reflect changes — IT support Desk
+changed to Digital Support Desk.
+New data classifications added.
+Not share account credentials
+added.
+
+1.2 Nov 2023 | Andy Prior Review Draft —- updated (1)
+terminology e.g. “Company
+Messaging Systems” so
+encapsulates all company
+messaging mediums like email,
+SMS, Teams etc
+(2) Expanded on what
+“defamatory, offensive or harassing
+language” section to expand with
+copyright infringement.
+
+ 
+
+ 
+
+2.0 Dec 2023 | Natasha Muldoon Approved Document
+
+ 
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 3 of 10
+
+119
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark a Cyber
+
+Security
+
+ 
+
+Contents
+1 INTRODUCTION 5
+2 SCOPE 5
+3 OBJECTIVES 5
+4 GENERAL PRINCIPLES 5
+4.1. Physical Security of Facilities, Devices and Information .............:ccceceeeeeeeeee eee eeeeee teense eaes 6
+4.2 “Clear” Desk and Screen GUidance.........ccccece cece eee eee eee eerste eae ene eae 6
+4.3 Internet USC oo. EEE EEE enn EEE 7
+4.3.1 Unacceptable Use 7
+4.4 Company Messaging SyStEMS USEC oo. nena 8
+4.5 Social Media USC 22... cece eee ene eae ee ened 9
+5 ENFORCEMENT 9
+6 CONTROL REFERENCES 9
+7 RELATED DOCUMENTS 9
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 4 of 10
+
+120
+
+
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+tf”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+1 Introduction
+
+This policy defines the minimum-security requirements for acceptable use of information, data and
+information systems within Arnold Clark. It applies to whatever device is used to process Arnold Clark
+company data: whether a desktop, laptop, mobile phone, tablet, etc. and whether personally owned or
+issued by Arnold Clark or a third party.
+
+This policy aims to build a culture of trust and integrity by communicating acceptable behaviours in
+Arnold Clark employees, contractors, third-party organisations and business partners working in
+support of Arnold Clark who use Arnold Clark company information, data and information systems.
+
+2 Scope
+
+This policy applies to all Arnold Clark employees, contractors, third-party organisations and business
+partners working in support of Arnold Clark.
+
+This policy shall apply to all information, data and infrastructure that is either owned by or operated in
+support of Arnold Clark.
+
+Any identified failure to comply with this policy must be reported to the Arnold Clark Cyber Security
+department cybersecurity@arnoldclark.com where it can be recorded, entered into a risk register, and a
+formal risk assessment carried out. Any detected breaches of this policy are thoroughly investigated by
+the relevant teams and are escalated to the appropriate management streams where necessary.
+
+ 
+
+3 Objectives
+
+This policy defines the acceptable usage requirements for cyber security to be implemented and
+accepted to ensure ongoing commitments to preserving the confidentiality, integrity, and availability of
+Arnold Clark company information and information processing systems. The key areas include the use
+of Arnold Clark IT systems, the internet and email, as well as guidance on physical security and the
+“clear” desk and screen requirements.
+
+4 General Principles
+
+Everyone with access to Arnold Clark company information or information processing systems must
+actively accept responsibility for being aware of and abiding by Arnold Clark cyber security policies and
+standards.
+
+Requirements include:
+
+e Only use Arnold Clark company approved electronic devices and information for the
+intended business purposes.
+
+e That personal media (e.g., Photos, Music, Videos) will not be transferred onto or used by
+Arnold Clark IT equipment unless there is a genuine business requirement.
+
+e Respect the rights, privacy, and property of Arnold Clark company and its employees,
+customers, and suppliers.
+
+e §=6Classifying all electronic data as either “Highly Confidential”, “Internal” or “External”.
+
+e Using strong, unique passwords or pins, keeping them confidential, changing them annually
+utilising them as detailed within the Arnold Clark Cyber Security User Access Management
+Standard.
+
+e Do not interfere with or attempt to circumvent any of the Arnold Clark company IT technical
+controls. Examples of these controls include periodic scanning, monitoring framework or
+essential software updates.
+
+e Do not install any software or applications onto Arnold Clark company IT equipment that
+would bypass or otherwise diminish security software or technical controls (this includes the
+deliberate introduction of nefarious software designed to damage, self-replicate or hinder
+the performance of the Arnold Clark company IT infrastructure).
+
+e Do not share any Arnold Clark company login credentials or information with others.
+
+e Comply with all applicable legal and regulatory standards (e.g., PCI-DSS, GDPR, Cyber
+Essentials).
+
+e For applications that are installed on personal devices such as authenticators, MS Teams or
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 5 of 10
+
+121
+
+
+--- New Page 15 ---
+Page number: 15
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+tf”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+M365 controls must be implemented to ensure that all Arnold Clark data processed or
+viewed is containerised within these applications and not stored locally.
+
+4.1 Physical Security of Facilities, Devices and Information
+
+Individuals working on behalf of Arnold Clark must:
+
+e Ensure Arnold Clark company devices and information in their possession are safeguarded,
+especially in public places or during travel.
+
+e Secure portable devices when not in use.
+
+e Be aware of your surroundings:
+
+o Care must be taken to ensure that conversations involving confidential and/ or personal
+information cannot be overheard.
+
+o Information must never be given out over the phone unless it is absolutely clear who it
+is being given to and that they are entitled to the information and are ready and able to
+accept it.
+
+o When accessing systems or data be aware of people standing behind you that can see
+information whilst looking over your shoulder.
+
+o Voicemail messages containing personal information should only be left after due
+consideration has been given to any security and confidentiality risks involved.
+
+e Adhere to physical entry controls in the offices:
+
+o Always use your security pass where required.
+
+o Ensure that you are not followed by unauthorised persons when entering an Office.
+
+o Be prepared to challenge others when following another into a secured office area.
+
+e Manage visitors and third parties safely by ensuring they have dedicated workplaces and access to
+business information only on a need-to-know basis.
+
+e Return Arnold Clark devices to your line manager and information that are no longer required or
+upon leaving employment. They remain the property of Arnold Clark.
+
+e Report security & data breaches and incidents immediately to the Digital Support Desk on
+0141 648 1999.
+
+4.2 “Clear” Desk and Screen Guidance
+
+Individuals working with Arnold Clark company information must:
+
+e Secure sensitive media and documentation when not in use.
+
+e Log-off or lock the screen when leaving a device unattended.
+
+e =Only print “Highly Confidential” or “Internal” information if required and collect such documents
+immediately from the printer/fax.
+
+e Securely dispose of Highly Confidential or “Internal information when it is no longer needed.
+
+e Printing from home should be avoided especially where information is classified as Highly
+Confidential or Internal.
+
+e If you do need to print from home, you must ensure this material is disposed of securely by visiting
+your nearest branch or office and disposing in the confidential waste bins.
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 6 of 10
+
+122
+
+
+--- New Page 16 ---
+Page number: 16
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+tf”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+4.3 Internet Use
+
+ 
+
+NOTE: Internet access from a corporate device is provided for business use. All traffic transmitted or
+data stored within the Arnold Clark corporate network can be inspected for security purposes.
+
+ 
+
+Everyone with access to the internet must:
+
+e Understand that the internet use within the Arnold Clark company is continuously monitored.
+
+e All company information assets are primarily for the purpose of company business.
+
+e Limited personal use of the internet is provided and monitored by the company is allowed (such as
+lunchtime or breaks
+
+e Only use the internet legally and in accordance with the Arnold Clark values.
+
+e Not upload any Arnold Clark company information externally to the internet, including to web-based
+storage or cloud services (e.g., Google Drive), unless it is an Arnold Clark company-approved
+service.
+
+e Only company-approved software should be installed on company devices.
+
+e You must only use removable media once approval from senior management is provided.
+
+e Not represent or discuss the Arnold Clark company on Internet discussion groups or forums without
+prior authorisation. For more information, see the Arnold Clark Social Media Policy.
+
+e Only download or accept files from trusted sources.
+
+e Not bring into disrepute the Arnold Clark brand, customers, employees or business partners.
+
+e Only stream content from the internet for genuine training or business purposes.
+
+4.3.1 Unacceptable Use
+
+The following are deemed as unacceptable use, regardless of whether it is for business or personal
+reasons:
+
+e =Any activity that may adversely impact or damage the reputation of Arnold Clark.
+
+e Unauthorised streaming or downloading of material which infringes any copyright, trademark,
+patent, trade secret or other proprietary rights of a third-party. This includes unauthorised copying
+of copyright material, digitisation and distribution of copyright photographs, software and illegal
+sports streaming.
+
+e Unauthorised downloading and installation of any unlicensed, unapproved or ‘hacked’ illegal
+software such as but not limited to VPN software, Torrent clients, Gaming platforms or software,
+Uplay, Steam.
+
+e Unauthorised downloading of any TV streaming applications
+
+e Copying of personal files and media onto an Arnold Clark company device.
+
+e Using peer-to-peer software or services without senior management approval
+
+e Knowingly accessing or sending:
+
+o  ©Material likely to facilitate an illegal act.
+
+o Information about, or software designed for, breaching technical security controls or
+creating nefarious computer software applications.
+
+o material that is obscene, sexually explicit, defamatory, incites or depicts violence, or
+describes techniques for criminal or terrorist acts.
+
+o Material that is illegal under domestic or international law.
+
+e Compromising or circumventing company technical or physical security controls of that in Arnold
+Clark or any other organisation.
+
+e Knowingly circumventing any system that protects privacy or security.
+
+e Accessing information or traffic not intended for you.
+
+e = Any activities that intentionally adversely affect the ability of others to use Arnold Clark services.
+
+e Deliberately propagating any nefarious software intended to cause disruption.
+
+e Making any statement on your own behalf or behalf of Arnold Clark that may cause offence, libel, or
+damage the reputation of others.
+
+e Use third-party messaging systems such as but not limited to Messenger, Telegram, Signal, etc. on
+Arnold Clark devices.
+
+e Using an Arnold Clark user account ID or email address to subscribe or register for personal
+newsletters, websites or internet forums.
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 7 of 10
+
+123
+
+
+--- New Page 17 ---
+Page number: 17
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+tf”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+If in doubt about whether an activity is considered unacceptable, then do not do it. If you
+require advice, then please contact the Arnold Clark Cyber Security Team
+cybersecurity@arnoldclark.com
+
+4.4 Company Messaging Systems Use
+
+Everyone with access to messaging systems such as email, phone, instant messaging, etc. must:
+
+e Only use approved Arnold Clark company messaging systems for business use and understand that
+usage may be subject to monitoring for audit and compliance purposes. This includes recording and
+retaining telephone calls and instant messaging applications (e.g., Teams, Jabber, Slack, etc.)
+
+e Understand that the content of messages may be legally and contractually binding and should be
+given the same importance as written correspondence.
+
+e Understand that messages are not secure unless additional measures are taken, such as sensitivity
+labelling or encryption.
+
+e Not use personal messaging accounts for Arnold Clark company-related business purposes.
+
+e Not forward Arnold Clark data externally out of the company.
+
+e Only open attachments or click on links in messages from senders that you trust are legitimate.
+
+e Be aware of the risk of phishing and report any suspicious emails WhatsApp or Text messages or to
+
+the Digital Support Desk or Spoof@arnoldclark.com.
+
+e Not send bulk or unsolicited messages to other recipients.
+
+Everyone with access to Arnold Clark company messaging systems must not:
+
+e Use any electronic medium for personal financial gain, political purposes or personal advertising.
+
+e Configure messages for automatic forwarding unless there is a justified business requirement.
+
+e Use company messaging systems to store or transmit:
+
+o defamatory, offensive or harassing language, fraudulent material, sexually explicit
+images or language, material that infringes copyright or other intellectual property
+rights of third parties, or offensive cartoons or jokes or otherwise involve lawful or
+wrongful conduct. Nor should they contain any remarks that might be potentially
+embarrassing to the Arnold Clark company, its employees or the general public.
+
+o Chain letters, frivolous and joke emails. If a chain letter is received that requests a user
+to forward it to other users, ignore it and delete the message.
+
+o unsolicited messages (known as spam), hoaxes and nuisance emails. If such emails are
+received, never open them, reply to them, or forward them to other users. Replying to
+them is likely to lead to the receipt of further such emails.
+
+«Send to spoof@arnoldclark.com or contact the Cyber Security team
+cybersecurity @arnoldclark.com if in doubt.
+
+e Knowingly access or transmit malicious software, e.g., viruses and spyware. (Spyware is software
+that is installed and used in an unauthorised way to capture information, including keystrokes, bank
+details, credit card details and passwords).
+
+e Attempt to disable or circumvent Arnold Clark's technical controls.
+
+e Circulate information received about computer viruses. In many cases, these messages are hoaxes.
+If in any doubt about a received message, contact the Cyber Security Team
+cybersecurity@arnoldclark.com for advice; otherwise, delete the message immediately.
+
+e Attempt to either ‘spoof’ messages, transmit anonymous messages, or change the origin or content
+of messages that have been sent or received on the Arnold Clark company IT messaging systems.
+
+e Use the Arnold Clark company IT messaging systems to store and transmit any illegal or
+unauthorised software, including games, music and screensavers.
+
+ 
+
+ 
+
+Any content sent on the Arnold Clark company IT messaging systems is not private and is the property
+of Arnold Clark. It should be noted that the Arnold Clark IT network and systems are subject to
+monitoring, and inappropriate use of the Arnold Clark company IT messaging systems may result in
+disciplinary action and the involvement of law enforcement.
+
+Phishing
+The identity of an email’s sender can be faked (known as spoofing), and the content of an email can be
+changed in an unauthorised way between the email being sent and received.
+
+Compromised Account
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 8 of 10
+
+124
+
+
+--- New Page 18 ---
+Page number: 18
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+A compromised email account is when an email address has been accessed and used by a malicious
+external user.
+
+This email will ask you to access a link which will look to steal your credentials such as email addresses,
+usernames, and passwords.
+
+If you receive an email which you suspect is phishing or contains malicious content, this must be
+
+forwarded to spoof@arnoldclark.com
+
+If you have clicked on a suspicious link and have entered your credentials this must be reported to
+
+spoof@arnoldclark.com immediately!
+4.5 Social Media Use
+
+All use of Web-based Email and Social Networking applications must be compliant with UK legislation. In
+addition:
+
+e Social networking applications, including but not limited to Twitter, Facebook and Instagram,
+must only be used in line with the Arnold Clark social media policy unless explicitly permitted as
+part of your roles within Arnold Clark. Any Arnold Clark company information, classified as “Highly
+Confidential” or “Internal”, must never be communicated over this medium.
+
+e Messaging interactions and the applications used to transmit any Arnold Clark company
+information must be formally approved by the Heads of function or Director.
+
+e Messaging communications which transmit Arnold Clark company information must be secured,
+including but not limited to encrypting communications and managing file transfers in compliance
+with Arnold Clark IT security guidelines.
+
+5 Enforcement
+
+For Arnold Clark to maintain its high standards and reputation, we each need to assume responsibility
+for our actions and react if something is not done in accordance with our Arnold Clark Policies and other
+business standards. Breaches or suspected breaches of the Arnold Clark Policies should be reported to
+your line manager. If this is not appropriate in the circumstances, you should report the matter directly
+to Cyber Security cybersecurity@arnoldclark.com. Breaches of the Arnold Clark Policies may lead to
+disciplinary actions (up to and including dismissal) and the involvement of law enforcement.
+
+The Arnold Clark “Whistleblowing” policy states it will not tolerate any retaliation against anyone who,
+in good faith, reports a violation of the law or Arnold Clark company policy. The “Whistleblowing” policy
+can be found on The People Team ACE Page under the “Employee Conduct” tab.
+
+6 Control References
+
+Standard Control(s)
+
+DE.CM-7, ID.AM-1 ID.AM-2, PR.AC-2, PR.AT-1, PR.MA-1, PR.PT-2,
+NIST RS.AN-3
+
+CIS Control 2.3, 4.10, 14.2
+
+ 
+
+ 
+
+7 Related Documents
+
+Document Name
+
+ 
+
+Arnold Clark Cyber Arnold Clark Cyber Security Policy
+Security Policies
+
+ 
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 9 of 10
+
+125
+
+
+--- New Page 19 ---
+Page number: 19
+Title of ebook of origin: 12.arnold_clark_cyber_security_policy.pdf
+
+fr”
+Arnold Clark Cyber
+
+Security
+
+ 
+
+ 
+
+Arnold Clark Cyber
+Security Standards Arnold Clark Cyber Security User Access Management Standard
+Arnold Clark Cyber Security Information Classification and Handling Standard
+
+ 
+
+Internal Resources
+
+(only accessible Arnold Clark Human Resources Policy
+from within Arnold Arnold Clark Social Media Policy
+Clark)
+
+ 
+
+Arnold Clark Cyber Security Acceptable Use Policy v2.0 Version Date: Nov 2023
+
+Classification: Internal
+This Document is uncontrolled when printed. Page 10 of 10
+
+126
+

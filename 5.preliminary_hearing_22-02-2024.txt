@@ -1,0 +1,779 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+ 
+
+EMPLOYMENT TRIBUNALS (SCOTLAND)
+Case No: 8000485/2023
+Preliminary Hearing held by Cloud Video Platform on 22 February 2024
+
+Employment Judge M Kearns
+
+Mr M Sangare Claimant
+In person
+Arnold Clark Automobiles Limited Respondent
+
+Represented by:
+Mr J Meechan
+
+Solicitor
+
+ORDERS OF THE EMPLOYMENT TRIBUNAL
+
+Under Schedule 1 of the Employment Tribunals (Constitution and Rules of Procedure)
+Regulations 2013, the Tribunal makes the following case management Orders:-
+
+Amendment
+
+(1) The claimant’s application to amend is allowed in respect of the following
+heads of claim: direct race discrimination; race related harassment; race
+related victimisation; whistleblowing detriment; and automatically unfair
+dismissal all as set out in paragraphs 3 and 4 of the Note below. The
+application to amend is refused in respect of the claims of indirect
+discrimination and wrongful dismissal (also set out in paragraph 3 of the Note
+below).
+
+(2) The respondent has leave to amend the ET3 in response within 21 days from
+the date this Note is sent to the parties if so advised.
+
+57
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 2
+
+1.
+
+NOTE FOLLOWING PRELIMINARY HEARING
+
+The claimant was employed by the respondent as a ‘Dev Ops Engineer’ from 7
+December 2022 until 22 June 2023. He worked remotely from home. Having
+notified Acas of his intention to bring this claim on 31 July 2023 and having
+received from them an early conciliation certificate on 4 September 2023, he
+presented an application to the Employment Tribunal on 25 September 2023 in
+which he claimed automatically unfair dismissal, race discrimination and
+subjection to detriment and dismissal by reason of having made a protected
+disclosure.
+
+A case management preliminary hearing took place on 27 November 2023 at
+which the issues the claimant had raised in his ET1 and PH agenda were
+discussed. On behalf of the respondent, Mr Meechan submitted that the claimant
+had raised issues in his PH Agenda and at the PH itself which were not in his ET1.
+Mr Meechan submitted that these additional issues would require to be the subject
+of an application by the claimant to amend the ET1 and that the respondent would
+be likely to oppose such an application. This was discussed and it was agreed
+that | would issue the PH Note recording the claimant’s claims as understood
+following our discussions. Mr Meechan would then have 7 days from his receipt
+of the PH Note within which to indicate which claims he challenged as not
+sufficiently foreshadowed in the ET1 and thereby requiring amendment.
+Thereafter, the claimant would have 14 days from Mr Meechan’s challenge within
+which to make any application to amend.
+
+. Mr Meechan sent an email to the tribunal, copied to the claimant on 8 December
+
+2023 in which he accepted that the ET1 contained claims of whistleblowing
+detriment (section 47B Employment Rights Act 1996 (“ERA”)) and automatically
+unfair dismissal (section 103A ERA) and that the information recorded in the PH
+Note amounted to further and better particulars of those claims. However, he
+argued that the remaining claims were not grounded in the ET1 and submitted
+that the claimant would require to amend to incorporate them. In correspondence
+dated 22 December 2023, the claimant disputed that the claims in question were
+not grounded in the ET1. He argued that they were so grounded. This PH was
+fixed to (i) determine that issue; and (ii) if amendment was held to be required, to
+determine the claimant’s application to amend, which he confirmed was in the
+
+terms recorded in the PH Note of 27 November 2023 as detailed in the next two
+
+58
+
+
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 3
+
+numbered paragraphs below. The issues the claimant seeks to have determined
+and the particulars the claimant seeks to add, and to which Mr Meechan objects
+
+are as follows:
+
+“Direct Discrimination
+
+A. Did the respondent, because of the claimant’s race, treat the claimant less
+favourably than it would have treated others? The less favourable treatment
+alleged by the claimant is as follows. The claimant will say that:
+
+a. Jason White, Dev Ops Engineer was permitted by the claimant's line
+manager Claire Thomson and second line manager, David Moffat to
+behave in an aggressive and disrespectful way towards the claimant
+in the manner described below at video meetings at which they were
+present and to humiliate the claimant without any steps being taken
+to challenge his behaviour. By contrast, the claimant was subjected to
+the respondent's performance procedure and dismissed.
+
+b. On or about 13 June 2023 the claimant’s line manager, Claire
+Thomson misrepresented to HR what had happened at a meeting with
+the claimant that day.
+
+c. HR did not follow the respondent’s performance procedure in relation
+to the claimant;
+
+d. The claimant sent the code he had written to David Moffat to check.
+Despite being a software developer, Mr Moffat did not check the
+claimant’s code.
+
+e. The claimant’s employee benefits were cancelled the day before the
+meeting at which he was dismissed indicating prejudgment.
+
+f. The claimant was dismissed on grounds of poor performance. He will
+argue that, as his performance was not poor, he was dismissed
+because of his race.
+
+The claimant’s comparators are Jason White and other white employees of
+the respondent.
+Harassment
+
+B. Did the claimant suffer unwanted conduct as follows? The claimant will say
+that:
+
+59
+
+
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 4
+
+a. Over a period between 12 January and around 19 June 2023 Jason
+White, Dev Ops Engineer shouted at the claimant repeatedly at daily
+team meetings, would not let the claimant speak, told him: “shut up,
+I’m speaking”; belittled the claimant and criticised his work in front of
+others. In particular, at a meeting in early June 2023, Mr White
+criticised a code the claimant had written for AWS which involved a
+modular approach. He laughed at the claimant in front of those
+present and mocked him with the words: “You don’t know what you’re
+
+doing. Let me tell you one more time..”
+
+Was this related to the claimant’s race?
+
+If so, did this conduct have the purpose or effect of violating his dignity,
+or creating an intimidating, hostile, degrading, humiliating or offensive
+
+environment for the claimant?
+
+Indirect Discrimination
+
+C. Did the respondent apply the practice of not adequately evaluating
+performance in the claimant’s department, so as to obtain objective
+
+information upon which performance could be assessed with transparency?
+
+Was that practice applied to white and non-white employees in the claimant’s
+department?
+
+Did the practice put (or would it put) non-white employees in the claimant’s
+department at a particular disadvantage compared with white employees in
+that the lack of transparency and objective information about performance
+fostered an environment where racial prejudices may influence employment
+
+decisions?
+
+Did it put the claimant at that disadvantage?
+
+If so, was the practice a proportionate means of achieving a legitimate aim?
+
+68
+
+
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 5
+
+Victimization
+
+D. Did the claimant do the following act and if so, was it a protected act under
+section 27(2)(c) or (d) Equality Act 2010? The claimant will say that:
+
+a. Onorabout 12 January 2023, following a video meeting, the claimant
+told his manager Claire Thomson that the way in which Jason White
+had spoken to him at the meeting was insulting, abusive and violent,
+was contributing to insecurity in the department and was having an
+
+effect on his own health and safety and on that of the whole team.
+
+b. He submitted a formal written grievance complaining of direct
+discrimination and an overall atmosphere of bias and prejudice.
+[Claimant’s PH Agenda paragraph S.8(f).]
+
+Was the claimant subjected to the following detriment, and if so, was it
+
+because he had done the protected act?
+
+c. Dismissing the claimant for alleged poor performance.
+
+Wrongful Dismissal
+
+E. Was the claimant’s dismissal in breach of his contract?”
+
+4. The following issues and particulars are not objected to by Mr Meechan and are
+received as issues for determination at the hearing and as the claimant’s further
+particulars of his ET1. The following amendments to the ET1 are allowed without
+objection:
+
+“Whistleblowing
+
+F. Did the claimant make the following disclosures and if so, were they
+protected disclosures as defined in sections 43B and 43C Employment
+Rights Act 1996 (“ERA”)?: The claimant will say that:
+
+a. Onor about 12 January 2023, following a video meeting, the claimant
+told his manager Claire Thomson that the way in which Jason White
+had spoken to him at the meeting was insulting, abusive and violent,
+
+61
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 6
+
+was contributing to insecurity in the department and was having an
+
+effect on his own health and safety and on that of the whole team.
+
+b. Onor about 12 January 2023, following a cyber-security breach of the
+respondent’s systems in December 2022, the claimant told his
+manager Claire Thomson that the action of Jason White in copying
+passwords from the old system to the new one was contrary to the
+respondent's legal obligations following a cyber security breach.
+
+c. On or about 19 June 2023, the claimant emailed Claire Thomson,
+David Moffat and the respondent’s HR department to report on-going
+verbal abuse by Mr White as well as alleged IT malpractice and
+breach of the respondent’s legal obligations relating to data
+protection.
+
+Was the claimant subjected to the following detriment? The claimant will say
+that:
+
+d. Management and HR terminated his employment in a way that was
+predetermined and not in accordance with the respondent’s
+procedures for managing performance without any proper basis for
+
+doing so.
+
+Was the claimant subjected to the above detriment contrary to section 47B
+ERA because he had made one or more of the above protected disclosures?
+
+Automatically Unfair Dismissal
+
+G. The claimant does not have the necessary two years’ qualifying service to
+claim ‘ordinary’ unfair dismissal. Thus, the questions is whether his dismissal
+
+was for an inadmissible reason making it automatically unfair:
+
+Was the claimant dismissed for the reason or principal reason that he made
+a protected disclosure contrary to section 103A ERA?”
+
+62
+
+
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 7
+
+Issue (i) - Whether the claims objected to are in the claimant’s ET1.
+
+5. | am required to consider the claimant’s ET1 as a whole. In his ET1, the claimant
+ticked the following boxes in section 8.1: ‘unfair dismissal’, ‘race discrimination’,
+‘whistleblowing’ and ‘another type of claim’, which he stated was “harassment”. In
+section 8.2, which asks for the details of the claim, the claimant typed two
+paragraphs. After some background about the claimant’s job, the following detail
+was given: “Just a week prior to my unexpected dismissal, my manager expressed
+satisfaction with my work and awaited my code submission. However, | received
+an abrupt HR letter alleging poor performance - a matter never discussed with my
+manager. | can corroborate this with comprehensive digital records of all
+managerial interactions, made possible due to my remote work nature. //
+Suspiciously, my dismissal followed a complaint | raised about a colleague's
+violent behaviour, endorsed by my manager. HR was made aware but seemed
+unresponsive, with their demeanour suggesting they weren't interested in a fair
+appraisal. Throughout, | felt dehumanised and witnessed a constructed narrative
+to unjustly terminate me. | observed racial undertones in the actions of HR and
+my manager, which | can substantiate. The ordeal left me mentally shattered,
+questioning my self-worth and life. Notably, I'm aware of others in the company
+whose genuine incompetence endangered the business and staff, yet they remain
+shielded.”
+
+6. In section 9.2, the ET1 contains the following statements so far as relevant to the
+current dispute: “Compensation: “My claims to this tribunal are for the following
+facts: - direct and indirect discrimination - wrongful and unfair dismissal —
+
+organized harassment.”
+
+7. Put shortly, Mr Meechan argues that the claims of direct and _ indirect
+discrimination, harassment, victimization and wrongful dismissal set out above are
+not sufficiently foreshadowed or grounded in the ET1 so as to form heads of claim.
+He cites the case of Baker v Commissioner of Police of the Metropolis
+
+ 
+
+UKEAT0201/09 in support of his argument. In that case, an employment tribunal
+at first instance had stated: “We reached the view that although the Claimant
+ticked the box marked 'Disability' in section 6 of that claim form, nowhere in the
+notes attached to the claim form (which as mentioned above, contain a list of
+events in reverse chronological order) does the Claimant make a complaint which
+
+63
+
+
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 8
+
+is recognisably a complaint of disability discrimination.” At paragraph 54 of the
+Judgment on appeal, the EAT held: “/n our judgment the ET correctly considered
+the first ET1 as a whole. It came to a conclusion which was open to it. Whilst the
+particulars given in the ET1 raised a recognisable case of race discrimination, the
+Claimant did not say that the discrimination alleged had anything to do with his
+learning difficulties or dyslexia. Neither did the Claimant say that any or any
+specific adjustments should have been made for him by reason of his disability.
+Accordingly whilst recognising that a technical approach to the question of
+whether a particular claim is raised in an ET1 is inappropriate, on the facts of this
+case the ET did not err in law or come to a perverse conclusion in holding that,
+read as a whole, the first ET1 did not include a claim of disability discrimination.”
+Mr Meechan submitted that the Baker case made clear that in order for a claim to
+be in an ET1 a claimant needed to do more than tick a box. There needed to be
+a nexus between the factual allegations and the protected characteristic. Applying
+that to this case, Mr Meechan submitted that there was no nexus between the
+claimant’s factual allegations and his race. | considered the ET1 as a whole. The
+claimant has ticked the box for race discrimination. In the compensation section
+he refers to “direct and indirect discrimination, wrongful and unfair dismissal and
+organized harassment”. No further relevant details are given in section 9.2. In
+section 8.2 where he is asked to include the details of his claim, the claimant
+indicates that poor performance was suddenly alleged out of the blue by HR in
+circumstances where his manager had expressed satisfaction with his work. He
+states that his dismissal followed a complaint he made about a colleague’s
+behaviour, of which HR was made aware but seemed unresponsive. He states
+that there was “a constructed narrative to unjustly terminate me’ and continues: “/
+observed racial undertones in the actions of HR and my manager which | can
+substantiate.” He suggests that he was less favourably treated than others in the
+
+company.
+
+8. The IDS Handbook on Employment Tribunal Practice and Procedure (November
+2023 Edition) states at paragraph 9.15: “Whether a formal amendment is required
+will depend essentially on whether the claim form...sufficiently particularises the
+essential complaint.. that the claimant ... seeks to make.” Commenting on the
+Judgment of the Court of Appeal in Ali v Office of National Statistics 2005 IRLR
+201 CA, the paragraph goes on “/t was necessary for claimants to set out the
+specific acts complained of, as tribunals were only able to adjudicate on specific
+
+64
+
+
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 9
+
+complaints. A general description of the complaint in the ET1 will therefore not
+
+y
+
+suffice...” In paragraph [293.04] of Harvey on Industrial Relations and
+Employment Law (Division PI Practice and Procedure; 1. Employment Tribunals;
+|. The claim, its presentation to the tribunal and amendments to the claim; (2)
+Presenting the claim; (b) The requirements for and importance of pleading the
+claim), the learned authors say this: “A balance is to be struck. As observed by
+DHCJ Michael Ford KC in the EAT in Veizi v Glasgow City Council [2022] EAT
+182 (8 December 2022, unreported), the ratio of Chandhok is that the parties are
+only required to set out the essence of their case in the pleadings. They do not
+
+need to set out every fact and evidential matter in support of their case.”
+
+9. Having considered parties’ submissions, | have come to the conclusion that the
+bare bones of the claims of direct race discrimination and race related
+victimisation are present in the ET1. The claimant complains about his treatment
+by HR and his manager. He says that he witnessed a “constructed narrative to
+unjustly terminate me”. He states: “/ observed racial undertones in the actions of
+HR and my manager, which | can substantiate.” He then compares his treatment
+
+to that of others. However, the claims require further particularisation.
+
+10.With regard to the claim of race related harassment, the claimant refers to “a
+complaint about a colleague’s violent behaviour”. When | inquired what this meant
+at the PH on 27 November 2023 (standing the fact that the claimant was a remote
+worker), the claimant said that he was talking about ‘verbal violence’. The
+particulars of this provided by the claimant in his PH agenda and in discussion at
+the PH suggested that the alleged speech complained of was rude, disrespectful,
+mocking or patronising rather than violent. In any event, it is clear from the ET1
+that the claimant had had issues with a colleague’s behaviour but it is not clear
+that this aspect was said to be related to race. Thus, | do not find that the complaint
+of race related harassment was in the ET1.
+
+11.1 agree with Mr Meechan that the ET1 does not contain sufficient to amount to
+even the essence of a claim of indirect race discrimination and that that claim as
+now particularised is not discernible from the ET1. The same goes for the claim
+
+of wrongful dismissal.
+
+65
+
+
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 10
+
+Issue (ii) - The claimant’s application to amend
+
+12.The claimant confirmed that the substance of his application to amend is as
+recorded in the Note of the 27 November PH and set out at paragraph 3 A to G
+above. Applying the Selkent test, having regard to the interests of justice, |
+considered the submissions of the parties and all the relevant circumstances of
+the case. | weighed the relative injustice and hardship that would be caused to the
+parties by allowing or refusing the amendment application. | have addressed the
+
+relevant circumstances below:
+
+The nature of the proposed amendments
+
+13. With regard to the nature of the claimant’s proposed amendments, for the reasons
+given above, | have concluded that the claims of less favourable treatment
+because of race (direct race discrimination) and race related victimisation are
+discernible from the ET1. Thus in relation to those claims, the amendment
+provides significant further particularisation of existing claims. With regard to the
+claim of race related harassment, although the word ‘harassment’ appears in the
+ET1, the ET1 does not contain a discernible claim of harassment related to race
+for the reasons explained above. The indirect discrimination claim is also not
+discernible, nor is wrongful dismissal. Thus the nature of these latter amendments
+is that they are substantial amendments which plead new heads of claim. (| would
+add here that, in addition to being foreshadowed in the ET1, the race related
+victimisation claim seeks to place an alternative label on some of the facts
+accepted without objection in relation to the whistleblowing claim. Whilst, as Mr
+Meechan submitted, those two cases may be inconsistent, it appeared to me that
+they ascribe to the respondent alternative reasons for the conduct complained of
+and are being put forward as alternative cases.)
+
+The applicability of time limits
+
+14. Although the claims identified above as being new heads of claim were set out in
+the PH agenda presented on 5 November 2023, amendment was not discussed
+until the PH itself on 27 November. New claims sought to be introduced by an
+application to amend on 27 November 2023 would be out of time. The reason
+given by the claimant for not including basic information regarding these claims in
+
+66
+
+
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 11
+
+the ET1 was that he had encountered an error message when completing online
+the answer to the “other types of claim’ question at the end of the tick boxes in
+section 8.1. He enclosed a screenshot stating: “Description must be 100
+characters or less” and telling him he had 8 characters remaining. He said that
+this error had had an impact on his approach to filling out the form in that it had
+led him to adopt a more concise and focused approach to completing the form.
+He said he was compelled to focus his claims to their most essential elements.
+Whilst | understood that the claimant had been constrained in answering the
+question about other types of claims, | did not understand him to indicate that he
+had faced a similar character limit in answering question 8.2 (which asks for the
+details of the claims) and he did not produce an error message for that question.
+For those reasons, | did not find this explanation especially persuasive. However,
+it is fair to note that the claimant is representing himself. He does not have a legal
+background and this is a complex area of law. | accept that the legal issues arising
+in relation to the different heads of discrimination are easier to address with the
+help of the PH agenda. Treated as a discrete claim, the race related harassment
+claim would have had to be notified to Acas by 18 September 2023. The wrongful
+dismissal and indirect discrimination claims would have had to be notified by 21
+September 2023. The application to amend was on 27 November 2023, thus it
+
+was just over two months out of time.
+
+The timing and manner of the application
+
+15.With regard to the timing and manner of the application, the claimant first notified
+the content of these heads of claim to the respondent in his PH agenda sent on 5
+November 2023. This content was then discussed and recorded in the Note of
+the PH on 27 November 2023. Although the claims were presented two months
+out of time, the case was at an early stage. At the time of presenting his ET1, the
+claimant did not have the benefit of legal representation or assistance. Some of
+the facts put forward for the harassment claim are also pled in the whistleblowing
+detriment and automatically unfair dismissal claims and are already accepted for
+amendment without objection in relation to those claims. The same witnesses
+would be required to talk about the same basic allegations. The specific details of
+the harassment claim would be likely to be covered in the evidence of the relevant
+witnesses anyway because they are the details of the complaint about a colleague
+referred to by the claimant in the ET1.
+
+67
+
+
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Case No: : 8000485/2023 Page 12
+
+16.With regard to the balance of injustice and hardship, the claimant submitted that
+the prejudice to him if the amendment were refused would be massive. He would
+lose the opportunity to make a claim of discrimination. Mr Meechan submitted that
+the proposed amendment contained new and distinct heads of claim. If the
+respondent had to answer the new claims this would involve much more work and
+expense. He said the new claims would involve different evidence and different
+witnesses. He pointed out that even if the amendment were refused, the claimant
+would still have his whistleblowing detriment and dismissal cases and if
+successful, he would be entitled to a remedy. Mr Meechan said that the indirect
+discrimination claim was inconsistent with the direct discrimination claim in relation
+to whether HR had followed the performance procedure. He also submitted that
+the claims the claimant now sought to introduce had little reasonable prospect of
+success. Mr Meechan said that with regard to the direct discrimination and
+harassment claims, the claimant’s case was that the person concerned acted in
+the same way to everyone. He submitted that if that was the claimant’s position,
+he would be unlikely to show that he had been treated less favourably than others
+because of his race. Whilst this may be so, as the higher courts continually remind
+us, it is difficult and inadvisable to make try to an assessment of the facts of a
+
+discrimination claim without hearing the evidence.
+
+17.1 considered the interests of justice in this case and the balance of injustice and
+hardship. | concluded that in relation to the claims of direct discrimination and race
+related victimisation, the amendments should be allowed. | considered that these
+claims were discernible from the ET1. For the reasons given above, it appeared
+to me that it was just discernible from the ET1 that the claimant was claiming that
+he had been treated less favourably and that his race was a reason for that. |
+accept, as Mr Meechan submitted that this would sound in expense and extra
+work for the respondent. However, it appeared to me that the witnesses the
+respondent would require to call and the facts alleged for these claims and also
+for the harassment claim were similar to those of the whistleblowing detriment and
+automatically unfair dismissal claims. With regard to the victimization claim, this
+is really an alternative label for some of the facts of the whistleblowing claim (as
+Mr Meechan pointed out). Thus, on balance, | concluded that the amendments in
+respect of the claims of direct race discrimination, race related harassment and
+race related victimisation should be allowed. In my view the relevant evidence
+
+would require to be led at the hearing anyway. The balance of injustice and
+
+68
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 5.preliminary_hearing_22-02-2024.pdf
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Case No: : 8000485/2023 Page 13
+
+hardship favours the claimant in relation to these claims. It would be a greater
+hardship for him to be denied the opportunity to have potentially valid claims heard
+than it would be for the respondent to defend them.
+
+18.However, | concluded that the balance of injustice and hardship favoured refusing
+the application to amend in respect of the remaining claims of indirect
+discrimination and wrongful dismissal. These claims, although mentioned in the
+ET1 were not foreshadowed in it to the extent required. The indirect discrimination
+claim would require new evidence to be gathered which would not otherwise be
+required. The claimant will have the opportunity to have his other discrimination
+claims heard. The wrongful dismissal claim is not particularised to any extent and
+the respondent doe not have fair notice of the particulars of this claim.
+Furthermore, as Mr Meechan points out, since a contract can be terminated at
+common law by means of the notice clause, contractual notice is normally the
+extent of the measure of loss in such a claim. If either of the claimant’s claims of
+automatically unfair or race related dismissal were to succeed, the notice period
+would be covered by the corresponding remedy for loss in any event.
+
+19.The case will now proceed to the full hearing on 25 April 2024. Orders for
+preparation for that hearing have already been issued.
+
+M Kearns
+
+Employment Judge
+
+2/ February 2024
+Date
+
+Date sent to parties 29 February 2024
+
+| confirm that this is my PH Note in the case of Mr M Sangare v Arnold Clark
+Automobiles Limited 8000485/2023 and that | have signed the Note by electronic
+
+signature.
+
+69
+
