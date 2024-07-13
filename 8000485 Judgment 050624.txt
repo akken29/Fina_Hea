@@ -1,783 +1,790 @@
+
+
+--- New Page 1 ---
+Page number: 1
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+ 
+
 EMPLOYMENT TRIBUNALS (SCOTLAND)
 Case No: 8000485/2023
-5
 
 Held in the Glasgow Tribunal on 25, 26, 29, 30 April and 1 May 2024
 Employment Judge L Murphy
 Tribunal Member D McDougall
 Tribunal Member J Gallacher
-10
 
-Mr M Sangare
-60 Glentye Drive
+Mr M Sangare Claimant
+
+60 Glentye Drive In Person
 Tullibody
+
 Alloa
+
 FK10 2 UR
 
-Claimant
-In Person
+Arnold Clark Automobiles Limited Respondent
+454 Hillington Road Represented by:
+Glasgow Mr J Meechan -
+G52 4FH Solicitor
 
-Arnold Clark Automobiles Limited
-454 Hillington Road
-Glasgow
-G52 4FH
+JUDGMENT OF THE EMPLOYMENT TRIBUNAL
+The unanimous judgment of the Tribunal is that:
 
-Respondent
-Represented by:
-Mr J Meechan Solicitor
+(i) the claimant’s complaint of automatically unfair dismissal because of a
+
+protected disclosure is not well founded and is dismissed.
+
+(ii) the claimant’s complaint of detriment on the grounds that he made a
+
+protected disclosure is not well founded and is dismissed.
+
+(iii) | the claimant's complaint of victimisation is not well founded and is
+
+dismissed.
+
+(iv) the claimant’s complaint of direct race discrimination is not well
+
+founded and is dismissed.
+
+(v) the claimant’s complaint of harassment related to race is not well
+founded and is dismissed.
+
+
+--- New Page 2 ---
+Page number: 2
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
 
 15
 
 20
 
-JUDGMENT OF THE EMPLOYMENT TRIBUNAL
-The unanimous judgment of the Tribunal is that:
-(i)
-
-the claimant’s complaint of automatically unfair dismissal because of a
-protected disclosure is not well founded and is dismissed.
-
 25
-
-(ii)
-
-the claimant’s complaint of detriment on the grounds that he made a
-protected disclosure is not well founded and is dismissed.
-
-(iii)
-
-the claimant’s complaint of victimisation is not well founded and is
-dismissed.
-
-(iv)
-
-the claimant’s complaint of direct race discrimination is not well
-founded and is dismissed.
 
 30
 
-(v)
+8000485/2023 Page 2
 
-the claimant’s complaint of harassment related to race is not well
-founded and is dismissed.
-
-35
-
-8000485/2023
-
-Page 2
 REASONS
-
 Introduction
-1.
 
-The claimant is of Black ethnicity. He was employed by the respondent as
+1. The claimant is of Black ethnicity. He was employed by the respondent as
 Dev Ops Engineer from 7 December 2022 until he was dismissed on 22
 June 2023. He complains direct race discrimination under section 13 of the
-
-5
-
 Equality Act 2010 (“EA”) and harassment related to race under section 26
 of the EA. He complains of victimisation because he did a protected act
 under section 27 of EA. He also complains that he made protected
 disclosures for the purposes of Part IVA of the Employment Rights Act
 1996 (“ERA”) and says he suffered a detriment on the ground that he did
-
-10
-
 so as well as being dismissed by reason of having done so.
-2.
 
-The respondent denies the allegations in their entirety.
+2. The respondent denies the allegations in their entirety.
 
-3.
-
-A final hearing took place at the Glasgow Tribunal over 5 days. One
+3. A final hearing took place at the Glasgow Tribunal over 5 days. One
 witness, Jason White, gave his evidence via a video link. All other
 witnesses attended the Tribunal in person. The claimant gave evidence on
-
-15
-
 his own behalf. The respondent led evidence from Jason White, Dev Ops
 Engineer, Claire Thomson, the claimant’s line manager, David Moffet, Ms
-Thomson’s line manager and Laura Cooper, HR Assistant. Evidence was
+Thomson's line manager and Laura Cooper, HR Assistant. Evidence was
 taken orally from the witnesses. The Tribunal was referred to a joint set of
 productions running to approximately 1,500 pages. Most documents in the
-
-20
-
 file were not, in the event, referred to in evidence. Among others, around
 600 pages of screenshots were included the file, the majority of which were
 not referred to. There were also around 50 pages of gitlogs which were not
 admitted into evidence.
-25
 
-4.
+4. The claimant was permitted to play recordings of certain excerpts of
 
-The claimant was permitted to play recordings of certain excerpts of
 conversations he had made. He also asked but was not ultimately
 permitted to play a covertly made recording of a meeting he held with Ms
 Thomson on 13 June 2024. This request was ultimately refused on the
 grounds of relevance / proportionality. Oral reasons were given. An
-
-30
-
 adjournment was given for CT to listen to the recording after which the
 claimant was able to cross examine her on the discussions during that
 meeting. In the event, the facts of that meeting were not materially
 disputed.
+
 
-8000485/2023
-5.
-
-Page 3
-
-The following abbreviations are used in this judgment for witnesses and
-others referred to in the evidence and findings in fact.
-The claimant
-
-C
-
-The respondent
-
-R
-
-Claire Thomson, Lead Engineer on CT
-the ArchOps Team and C’s line
-manager
-David Moffet, line manager of CT
-
-DM
-
-David Middleton, Head of Digital DMn
-Talent Development and attendee
-at the meetings of 20 and 22 June
-2023
-Jason White, Dev Ops Engineer in JW
-C’s team
-Laura Cooper, People Advisor and LC
-attendee at the meetings of 20 and
-22 June 2023
-The claimant
-
-C
-
-Issues to be decided
-6.
-5
-
-The updated and final list of issues in the case, following permitted
-amendments to the claim, is as follows:
-Time bar
-(i)
-
-Early conciliation with R was notified to ACAS on 31 July
-2023. The EC Certificate was issued on 4 September 2023.
-The ET1 was presented on 25 September 2023. Given the
+--- New Page 3 ---
+Page number: 3
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
+8000485/2023 Page 3
+
+5. The following abbreviations are used in this judgment for witnesses and
+others referred to in the evidence and findings in fact.
+
+ 
+
+The claimant C
+
+ 
+
+The respondent R
+
+ 
+
+Claire Thomson, Lead Engineer on | CT
+the ArchOps Team and C’s line
+
+manager
+
+ 
+
+David Moffet, line manager of CT | DM
+
+ 
+
+David Middleton, Head of Digital ;) DMn
+Talent Development and attendee
+
+at the meetings of 20 and 22 June
+
+2023
+
+ 
+
+Jason White, Dev Ops Engineer in | JW
+
+C’s team
+
+ 
+
+Laura Cooper, People Advisor and | LC
+attendee at the meetings of 20 and
+22 June 2023
+
+ 
+
+The claimant C
+
+ 
+
+Issues to be decided
+
+6. The updated and final list of issues in the case, following permitted
+
+amendments to the claim, is as follows:
+Time bar
+
+(i) Early conciliation with R was notified to ACAS on 31 July
+2023. The EC Certificate was issued on 4 September 2023.
+The ET1 was presented on 25 September 2023. Given the
 date the claim form was presented and the dates of early
 conciliation, any complaint about something that happened
 before 1 May 2023 may not have been brought in time.
+
 
-8000485/2023
-(ii)
+--- New Page 4 ---
+Page number: 4
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 4
-Were the discrimination, harassment and victimisation
+10
+
+15
+
+20
+
+25
+
+8000485/2023 Page 4
+
+(ii) Were the discrimination, harassment and_ victimisation
 complaints made within the time limit in section 123 of the
 Equality Act 2010? The Tribunal will decide:
+
 1. Was the claim made to the Tribunal within three months
 (plus early conciliation extension) of the act to which the
 
-5
-
 complaint relates?
 2. If not, was there conduct extending over a period?
+
 3. If so, was the claim made to the Tribunal within three
 months (plus early conciliation extension) of the end of
 that period?
 
-10
-
 4. If not, were the claims made within a further period that
 the Tribunal thinks is just and equitable? The Tribunal
-will decide:
-i.
 
-Why were the complaints not made to the
+will decide:
+
+i. Why were the complaints not made to the
+
 Tribunal in time?
 
-15
+ii. In any event, is it just and equitable in all the
 
-ii.
-
-In any event, is it just and equitable in all the
 circumstances to extend time?
 
 Victimisation
+
 7.
-20
 
 Did C do the following act and if so, was it a protected act under section
 27(2)(c) or (d) Equality Act 2010? C avers that:
-(i)
 
-On or about 12 January 2023, following a video meeting, C
+(i) On or about 12 January 2023, following a video meeting, C
 told his manager CT that the way in which JW had spoken to
 him at the meeting was insulting, abusive and violent, was
 contributing to insecurity in the department and was having an
 effect on his own health and safety and on that of the whole
 
-25
-
 team.
-(ii)
 
-He submitted a formal written grievance complaining of direct
+(ii) He submitted a formal written grievance complaining of direct
 discrimination and an overall atmosphere of bias and
+
 prejudice.
+
 
-8000485/2023
-8.
+--- New Page 5 ---
+Page number: 5
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 5
-
-Was C subjected to the following detriment, and if so, was it because he
-had done the protected act?
-
-
-Dismissing C for alleged poor performance.
-
-Whistleblowing detriment
 5
-
-9.
-
-Did C make the following disclosures and if so, were the protected
-disclosures as defined in sections 43B and 43C ERA?
-(i)
-
-On or about 12 January 2023, following a video meeting, C told
-his manager CT that the way in which JW had spoken to him at
-the meeting was insulting, abusive and violent, was contributing
-to insecurity in the department and was having an effect on his
 
 10
 
-own health and safety and on that of the whole team.
-(ii)
+15
 
-On or about 12 January 2023, following a cyber-security breach
+20
+
+25
+
+30
+
+8000485/2023 Page 5
+
+8. Was C subjected to the following detriment, and if so, was it because he
+had done the protected act?
+
+e Dismissing C for alleged poor performance.
+Whistleblowing detriment
+
+9. Did C make the following disclosures and if so, were the protected
+
+disclosures as defined in sections 438B and 43C ERA?
+
+(i) On or about 12 January 2023, following a video meeting, C told
+his manager CT that the way in which JW had spoken to him at
+the meeting was insulting, abusive and violent, was contributing
+to insecurity in the department and was having an effect on his
+own health and safety and on that of the whole team.
+
+(ii) On or about 12 January 2023, following a cyber-security breach
 of R’s systems in December 2022, C told his manager CT that
 the action of JW in copying passwords from the old system to the
 new one was contrary to R’s legal obligations following a cyber
-
-15
-
 security breach.
-(iii)
 
-On or about 19 June 2023, C emailed CT, DM and R’s HR
+(iii) On or about 19 June 2023, C emailed CT, DM and R’s HR
 department to report on-going verbal abuse by JW as well as
 alleged IT malpractice and breach of R’s legal obligations
 relating to data protection.
 
-20
-
-10.
-
-Was C subjected to the following detriment? C says that Management
+10. Was C subjected to the following detriment? C says that Management
 and HR terminated his employment in a way that was predetermined and
 not in accordance with R’s procedures for managing performance without
+
 any proper basis for doing so.
 
-25
-
-11.
-
-Was C subjected to the above detriment contrary to section 47B of ERA
+11. Was C subjected to the above detriment contrary to section 47B of ERA
 because he had made one or more of the above protected disclosures?
 
 Whistleblowing Automatically Unfair Dismissal
-12.
 
-Was C dismissed for the reason or principal reason that he made a
+12. Was C dismissed for the reason or principal reason that he made a
 protected disclosure contrary to section 103A ERA?
+
+
+--- New Page 6 ---
+Page number: 6
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-8000485/2023
-
-Page 6
+8000485/2023 Page 6
 
 Harassment related to race
+
 13.
 
-Did C suffer unwanted conduct, as follows:
-(i)
+14.
 
-Over a period between 12 January and around 19 June
+15.
+
+16.
+
+Did C suffer unwanted conduct, as follows:
+
+(i) Over a period between 12 January and around 19 June
 2023 JW, Dev Ops Engineer, shouted at C repeatedly at daily
 team meetings, would not let C speak, told him: “shut up, I’m
-
-5
-
 speaking”; belittled C and criticised his work in front of others.
 In particular, at a meeting in early June 2023, JW criticised a
 code C had written for AWS which involved a modular
 approach. He laughed at C in front of those present and
 mocked him with the words: “You don’t know what you’re
 
-10
-
-doing. Let me tell you one more time…”
-14.
-
+doing. Let me tell you one more time...”
 Was this related to C’s race?
-
-15.
 
 If so, did this conduct have the purpose or effect of violating his dignity,
 or creating an intimidating, hostile, degrading, humiliating or offensive
+
 environment for C?
-
-15
-
-16.
 
 If not, did it have that effect? The Tribunal will take into account C’s
 perception, the other circumstances of the case and whether it is
 reasonable for the conduct to have had that effect.
 
 Direct race discrimination
-20
 
 17.
 
 Did R, because of C’s race, treat C less favourably than it would have
-treated others? The less favourable treatment alleged by C is as follows.
-(i)
 
-JW, Dev Ops Engineer was permitted by C’s line manager, CT,
+treated others? The less favourable treatment alleged by C is as follows.
+
+(i) | JW, Dev Ops Engineer was permitted by C’s line manager, CT,
 and second line manager, DM, to behave in an aggressive and
 disrespectful way towards C in the manner described below at
 video meetings at which they were present and to humiliate C
-
-25
-
 without any steps being taken to challenge his behaviour. By
 contrast, C was subjected to R’s performance procedure and
 dismissed.
-(ii)
-30
 
-On or about 13 June 2023 C’s line manager, CT,
+(ii) On or about 13 June 2023 C’s line manager, CT,
 misrepresented to HR what had happened at a meeting with C
 that day.
+
 
-8000485/2023
-(iii)
-
-Page 7
-HR did not follow R’s performance procedure in relation to C.
-
-(iv) C sent the code he had written to DM to check. Despite being
-a software developer, DM did not check C’s code.
-(v)
-
-C’s employee benefits were cancelled the day before the
-meeting at which he was dismissed indicating prejudgment.
-
-5
-
-(vi) C was dismissed on grounds of poor performance. He will
-argue that, as his performance was not poor, he was dismissed
-because of his race.
+--- New Page 7 ---
+Page number: 7
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
+15
+
+20
+
+25
+
+8000485/2023 Page 7
+
 18.
 
-C’s comparators are JW and other white employees of R.
-
 19.
+
+(iii) HR did not follow R’s performance procedure in relation to C.
+
+(iv) C sent the code he had written to DM to check. Despite being
+a software developer, DM did not check C’s code.
+
+(v) C’s employee benefits were cancelled the day before the
+meeting at which he was dismissed indicating prejudgment.
+
+(vi) C was dismissed on grounds of poor performance. He will
+argue that, as his performance was not poor, he was dismissed
+
+because of his race.
+C’s comparators are JW and other white employees of R.
 
 Prior to the final hearing it had been ordered that the hearing would decide
 liability only and that, if successful, a separate hearing on remedy would
 be listed.
 
 Findings in Fact
+
 20.
 
-The following facts, and any further facts set out in the ‘Discussion and
-Decision’ section, are found to be proved on the balance of probabilities or
-
-15
-
-have been agreed by the parties. The facts found are those relevant and
-necessary to my determination of the issues. They are not intended to be
-a full chronology of events.
 21.
 
-C applied for a Dev Ops Engineer post with R after seeing it advertised. R
-was impressed with C’s CV and, following a single interview conducted by
-
-20
-
-CT and DM, he was appointed to the role.
 22.
-
-C is of Black ethnicity. He was employed as a Dev Ops from 7 December
-2022 until he was dismissed on 22 June 2023. He worked remotely from
-home in his role with occasional attendance at R’s offices in Hillington.
-
-25
 
 23.
 
+The following facts, and any further facts set out in the ‘Discussion and
+Decision’ section, are found to be proved on the balance of probabilities or
+have been agreed by the parties. The facts found are those relevant and
+necessary to my determination of the issues. They are not intended to be
+a full chronology of events.
+
+C applied for a Dev Ops Engineer post with R after seeing it advertised. R
+was impressed with C’s CV and, following a single interview conducted by
+CT and DM, he was appointed to the role.
+
+C is of Black ethnicity. He was employed as a Dev Ops from 7 December
+2022 until he was dismissed on 22 June 2023. He worked remotely from
+
+home in his role with occasional attendance at R’s offices in Hillington.
+
 C was issued with a contract of employment on or about 24 November
+
 2022. It included the following clauses, so far as relevant:
-…
+
 Probationary period
+
 
-8000485/2023
-
-Page 8
-
-You shall be employed for an initial probationary period of three months.
-During this time the company will monitor your performance and conduct
-and either party may terminate your employment with one week’s notice.
-If at any time during or at the end of your probationary period the Company
-is not satisfied with your performance, it may, at its discretion, either
-
-5
-
-increase the probationary period or terminate your employment in
-accordance with the notice provisions set out above.
-…
-Notice
-During the probationary period, the amount of notice to be given and
+--- New Page 8 ---
+Page number: 8
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 8
+
+24.
+
+You shall be employed for an initial probationary period of three months.
+During this time the company will monitor your performance and conduct
+
+and either party may terminate your employment with one week’s notice.
+
+If at any time during or at the end of your probationary period the Company
+is not satisfied with your performance, it may, at its discretion, either
+increase the probationary period or terminate your employment in
+
+accordance with the notice provisions set out above.
+
+Notice
+
+During the probationary period, the amount of notice to be given and
 received by both parties shall be not less than one week. After successful
 completion of the probationary period or any extension of it, you will be
 required to give the company one month’s written notice and you shall be
 entitled to receive one week’s notice for each full year of continuous
-service up to a maximum of 12 weeks... … The company also reserves the
-
-15
-
+service up to amaximum of 12 weeks... ... The company also reserves the
 right to terminate your employment with immediate effect by letting you
 know it is exercising its right to do so under this contract and that it will pay
 you in lieu of the basic salary you would have received had you worked
-your notice...
-…
 
-20
+your notice...
 
 Disciplinary and Grievance Procedures
-The Company’s disciplinary and grievance procedures are to be found on
+
+The Company's disciplinary and grievance procedures are to be found on
 ACE. If you are dissatisfied with any disciplinary or dismissal decision you
 should refer to the disciplinary procedure. If you have a grievance about
 your employment, you are entitled to raise a complaint in terms of the
 
-25
-
 company’s grievance procedure.
-24.
 
 R published a Disciplinary Procedure in the following terms, so far as
+
 relevant:
 Disciplinary Procedure
 
-30
-
 This policy does not form part of the employee's contract of
 employment and may be amended by the company from time to time.
+
 
-8000485/2023
+--- New Page 9 ---
+Page number: 9
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 9
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 9
+
+25.
+
+26.
 
 Introduction
+
 In Arnold Clark it is essential to maintain standards of performance to
 assist in the smooth running of the business. This procedure is designed
 to help and encourage you to achieve and maintain standards of conduct,
 job performance and attendance. Its aim is also to ensure consistent and
 
-5
-
 fair treatment of all employees.
-….
-3.4
 
-If improvement is required in your conduct, performance or
+3.4 If improvement is required in your conduct, performance or
 attendance as part of this procedure, you will be informed of this
 fact in writing, as well as the period during which it will be monitored
-
-10
-
 and the consequences of failing to carry it out satisfactorily. It is
 important that you participate in this process, so that any additional
 training or support can be discussed. The position will normally be
 reviewed with immediate effect and you will be advised of the
+
 timescale for improvement in writing.
 
-15
+7.0 Dismissal for employees with less than 24 months’ service
 
-…
-7.0
-
-Dismissal for employees with less than 24 months’ service
-
-7.1
-
-in the case of employees with less than 24 months’ service, the
+7.1 in the case of employees with less than 24 months’ service, the
 above procedure will not normally apply. Please contact the People
+
 Team in the first instance for further information.
-
-20
-
-25.
 
 C was employed in a team known as the ArchOps Team which comprised
 4 or 5 Dev Ops Engineers and their line manager, CT (the Lead Engineer
 for the team). The other Dev Ops Engineers in the team were called Zoe
 Mackie, Greg Dolan and Jason White (JW). They were all of white
 ethnicity, other than C. CT had a daily team meeting with her team
-
-25
-
-members
-
-every
-
-afternoon
-
-for
-
-around
-
-an
-
-hour
-
-by
-
-Teams
+members every afternoon for around an hour by’ Teams
 
 videoconferencing. CT reported to DM, Head of Reliability Engineering.
-26.
 
 In around December 2022, R suffered a significant cyber security breach.
 R employs a separate cyber security team and C was not recruited to work
-
-30
-
 in that team or specifically on that matter. Nevertheless, the ‘ripples’ from
 that incident were felt in C’s team and their work was affected by what had
 happened. R brought in specialist third party consultants to assist them in
+
 
-8000485/2023
+--- New Page 10 ---
+Page number: 10
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 10
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 10
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
 
 dealing with the matter. In the period between December 2022 and June
 2023, C’s colleague, Greg Dolan was deployed for significant periods to
 work generated by the cyber security incident.
-27.
 
 JW, another of C’s team mates, had ADHD. He had a direct and forthright
 manner that might be perceived as brusque. He regularly swore and used
-
-5
-
 the f word during the team meetings, especially when expressing his
 dissatisfaction about the work or approach taken by other teams who were
 not present. There was another team for which JW had particular disdain
 about whom he often swore and who he described using language like
 “incompetent idiots”. They were a team of mostly white employees of
-
-10
-
 British or European white ethnicity. CT also had a tendency to swear and
 sometimes used the f word during team meetings. The swearing was not
+
 directed at anyone present.
-28.
 
 In December 2022, C had conversations with Greg Dolan about JW and
 his experience of working for R. G Dolan said words along the lines, “Jason
-
-15
-
-comes off as rash and opinionated … you have to fight your corner. It’s a
-good place to work. Very Chilled. Different to where I was previously.”
-29.
+comes off as rash and opinionated ... you have to fight your corner. It’s a
+good place to work. Very Chilled. Different to where | was previously.”
 
 Although C was surprised and troubled by JW’s mode of interacting during
 team meetings, he did not experience any interaction with JW directed at
 him personally which caused him concern until 12 January 2023. He did
-
-20
-
 witness JW making criticisms of approaches at times by others within the
 team before that date and, more commonly, of others outside the team.
-30.
 
 On the morning of 12 January, C was participating in a Group Chat on
 Teams. This was not by audio or video but was conducted in text format.
 C, CT, JW, Zoe and Greg could see the chat. C explained he had finished
-
-25
-
 work on the design of a new server. In it, JW was critical of C’s approach.
 He made blunt comments to the effect that it was useless and not the way
 he would do things and not the way things were done at R. He did not use
-swear words.
-30
 
-31.
+swear words.
 
 C was unhappy at JW’s comments and messaged CT to request a call to
 discuss it. CT and JW (only) then had an audio call with C. JW dominated
 the call and CT said relatively little. JW explained again that C’s proposed
 solution did not fit with the way R did things. JW expressed his point of
+
 
-8000485/2023
+--- New Page 11 ---
+Page number: 11
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 11
+8000485/2023 Page 11
 
 view robustly. When C sought to speak, JW insisted that he was speaking.
 JW said words like, “I’ve told you this before”. C felt upset about the way
 JW spoke to him. He felt that JW did not let him or CT get a word in
 edgewise. C felt shut down by JW’s words to the effect “I’m speaking”, and
-C became withdrawn. He did not try to contribute any further comments
-
-5
-
+5 C became withdrawn. He did not try to contribute any further comments
 but remained quiet until the end of the call. The call lasted no more than
+
 around 20 minutes.
-32.
 
-C felt strongly that the criticisms of JW were unwarranted. He believed his
+32. C felt strongly that the criticisms of JW were unwarranted. He believed his
 approach to the work was preferable to that advocated by JW and CT. C
-considered JW’s suggestion to be out of touch with the latest best practice.
-
-10
-
+10 considered JW’s suggestion to be out of touch with the latest best practice.
 C had been working on a solution that would create new passwords for R’s
 partners using the system which C felt was the correct approach following
 the cyber security breach R had experienced. CT and JW disagreed with
 C that this was either required or helpful. CT did not regard JW’s tone on
-the call to be as serious as C did though she felt he had been forthright.
+15 the call to be as serious as C did though she felt he had been forthright.
 
-15
-
-33.
-
-After the three-way call, C sent a message to CT asking for a discussion.
+33. After the three-way call, C sent a message to CT asking for a discussion.
 CT then had a separate call with C alone. C complained he had found JW
 to be insulting and condescending in their earlier call. He said he found the
 way JW spoke to him unacceptable. He told her he felt JW’s language was
-condescending and insulting. C did not tell CT that he felt JW had been
-
-20
-
+20 condescending and insulting. C did not tell CT that he felt JW had been
 ‘abusive’ or ‘violent’, nor did he use words to that effect. He did not tell CT
 that JW was “contributing to insecurity in the department” or that JW was
 “having an effect on C’s health and safety and that of the whole team”. Nor
 did he use words to that effect.
-25
 
-34.
-
-During the call, CT explained to C that JW had ADHD. She acknowledged
+25 34. During the call, CT explained to C that JW had ADHD. She acknowledged
 that JW could, at times, come across in a way that was not intended; that
 he could say things in “the wrong way”. She explained that on one
 occasion he had told a member of another team they should ‘go and
 educate themselves’, and that she had been a bit surprised by that. She
 
-30
-
-told C not to worry, that she would talk to JW but that C needed to know
+30 told C not to worry, that she would talk to JW but that C needed to know
 that this was the way he was and that he was not a bad person. CT said
 because of his ADHD, JW had challenges in managing his anger. C
 appeared to be pacified on learning about JW’s ADHD.
+
 
-8000485/2023
+--- New Page 12 ---
+Page number: 12
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 12
+
 35.
 
-Page 12
+36.
+
+37.
 
 In that call or in another call early in 2023, C also discussed the
 methodology he was following which was a modular approach to the
 coding. CT told him he should give up on that modular approach and make
 sure the configurations he was working on could go in a single file. C was
 not in agreement that this was the better approach but he did not refuse to
-
-5
-
 work as CT had instructed.
-36.
 
 In the same call or another one in early 2023, C also raised with CT the
 practice of copying old passwords to the new server about which he had
 concerns. CT disagreed. She said words to the effect that the passwords
 were encrypted and were not captured by the cyber breach because the
-
-10
-
 particular server was not live. C did not refuse to follow CT’s instruction
 about the approach to be taken. C did not tell CT during this call or any
 other that the action of JW in copying passwords from the old system to
 the new one was contrary to R’s legal obligations following a cyber security
 breach. Nor did he use any words to similar effect.
 
-15
-
-37.
-
 After the call, C sent a message to CT asking for a discussion. Excerpts
 are reproduced below.
+
 [12/01/2023 17:12] Marcel Sangare
-Sorry Claire, but with the details you gave me during the discussion, I
+
+Sorry Claire, but with the details you gave me during the discussion, |
+understand that my colleague (Jason) might be facing some difficult
+
+circumstances that are therefore valid.
+[12/01/20231 7:13] Marcel Sangare
+
+So | think | will just do like you and try not to pay too much attention to
+
+some bits and pieces that are not done with a bad intention
+[12/01/2023 17:13] Marcel Sangare
+
+So let's just forget about that discussion we had this afternoon... as | was
+
+not aware of these challenges.
+[12/01/2023 17:15] Marcel Sangare
+| think it is better to try to support him rather and | will join you in that regard.
+
+[12/01/2023 17:15] Marcel Sangare
+
+
+--- New Page 13 ---
+Page number: 13
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
 
 20
 
-understand that my colleague (Jason) might be facing some difficult
-circumstances that are therefore valid.
-[12/01/202317:13] Marcel Sangare
-So I think I will just do like you and try not to pay too much attention to
-some bits and pieces that are not done with a bad intention
-
 25
-
-[12/01/2023 17:13] Marcel Sangare
-So let's just forget about that discussion we had this afternoon... as I was
-not aware of these challenges.
-[12/01/2023 17:15] Marcel Sangare
-I think it is better to try to support him rather and I will join you in that regard.
 
 30
 
-[12/01/2023 17:15] Marcel Sangare
-
-8000485/2023
-
-Page 13
-
-Thank you for taking the time to listen and to help me understand what the
-situation really is.
-[12/01/2023 17:15] Claire Thomson
-again, it's absolutely fine and I'm glad you feel like you could raise the
-subject with me!
-
-5
+8000485/2023 Page 13
 
 38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+Thank you for taking the time to listen and to help me understand what the
+
+situation really is.
+[12/01/2023 17:15] Claire Thomson
+
+again, it's absolutely fine and I'm glad you feel like you could raise the
+subject with me!
 
 CT understood from that exchange that C did not wish her to raise his
 concerns with JW about JW’s behaviour that day and she did not do so.
@@ -785,18 +792,10 @@ She did not feel that JW’s conduct warranted an intervention where C did
 not wish to insist on one. C did not contact CT at any time thereafter to ask
 for action to be taken or to enquire if action had been taken.
 
-10
-
-39.
-
 On 3 February 2023, C had a discussion with Zoe Mackie about JW. ZM
 said words to the effect that the team used to be worse; that there were
 lots of strong opinions; and that only JW remained of those who had been
 in the time during the period she was referring to.
-
-15
-
-40.
 
 There were no further interactions between C and JW which caused him
 concern after 12 January until a Team meeting at some point in February
@@ -804,598 +803,585 @@ or early March 2023. C had been discussing with CT and DM a proposal
 to install a firewall solution on a system. This had been C’s idea and he
 believed it was a good one and a cost effective one. During the team
 meeting that proposal came up and JW disagreed with it. He said, “We will
-
-20
-
 not install a firewall on that server.” He did not shout these words. C felt
 furious. He felt he had been undermined by JW and that so too had his
 managers, CT and DM. However, C wished to avoid any conflict or
 confrontation, and did not engage in an exchange about it. C did not install
 the proposed firewall.
 
-25
-
-41.
-
 On 7 March 2023, C’s probationary period expired. R conducted no
 probationary review meeting with C. He was not informed if he had passed
 his probationary period or if it had been extended. R did not discuss with
 him any monitoring of his performance or conduct throughout the
+
 probationary period.
-
-30
-
-42.
 
 Neither CT nor any other manager sought formally or informally to discuss
 with C his performance in his role until the events of June 2023.
+
 
-8000485/2023
+--- New Page 14 ---
+Page number: 14
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 14
+
 43.
 
-Page 14
+44,
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
 
 However, from March / April 2023, CT had a number of conversations or
 text chats with C about projects he was working on.
 
-44.
-
 The Dev Ops Engineer role which C held was concerned with managing
 some of R’s server estate. It is primarily a coding role. The ArchOps team
 uses languages Ansible and Terraform to code. These allow the Dev Ops
-
-5
-
 Engineers to articulate in code how the server estate should look. If
 someone writes the wrong code, there is an error in production so R has
+
 processes and pipelines in place for peer review.
-45.
 
 A frequent issue which CT raised was that C was not uploading the code
 he had created to a repository with sufficient frequency. This was referred
-
-10
-
 to as ‘pushing code’ or ‘committing’. R worked in this way so that the code
 would be visible to the rest of the team and subject to a degree of review
 and comments or suggestions from others about the approach taken. The
 practice would also allow CT visibility of progress being made with the
 projects team members were working on. The repository to which C was
-
-15
-
 required to ‘push’ was called GitHub. A Dev Ops Engineer was expected
 to push code to a branch. It could then be peer reviewed and ultimately
 merged into the ‘main branch’ which was a protected branch to go out to
-production through the pipeline.
-20
 
-46.
+production through the pipeline.
 
 CT sent a number of text reminders on Teams to C to commit [his code].
 She sent a message on 1 March 2023 asking C to put his work on GitHub
 on a branch with a smiley face. She sent a further message on 27 April
 2023: “Remember to push your work to branch [smiling emoji]”.
 
-47.
-
 On 11 May 2023 during a team meeting, JW made comments about
 another department. He said, ‘people are so fucking dumb in that
 
-25
-
 department.’
-48.
 
 Around mid-May, there was a daily team meeting where C’s work was
 discussed. There had been no further interactions between C and JW
 which caused C concern since the occasion in February / March when JW
 said C should not build a firewall.
 
-30
-
-49.
-
 C, CT, JW, G Dolan and a new colleague (name unknown) attended. C
+
 was working on a project using AWS (Amazon Web Services). He had
+
 
-8000485/2023
+--- New Page 15 ---
+Page number: 15
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 15
+8000485/2023 Page 15
 
 passed an exam to be a certified solutions architect for AWS. He was firmly
+
 of the view that the modular approach he was taking was best practice and
+
 was the approach recommended by Amazon. This meant he was building
+
 up the code for the project (using the Terraform coding language) in
-discrete modules.
+5 discrete modules.
 
-5
-
-50.
-
-During the meeting, C explained what he was doing. JW said to him words
+50. During the meeting, C explained what he was doing. JW said to him words
 along the lines: ‘Oh no. This is not the way we’re doing this. Let me explain
-to you…” JW indicated it was important to take a so-called ‘single file’
+to you...” JW indicated it was important to take a so-called ‘single file’
 approach. C did not argue with JW or respond to his comments during the
-meeting. C felt JW was condescending. JW did not intend to sound
 
-10
-
+10 meeting. C felt JW was condescending. JW did not intend to sound
 condescending but he did feel strongly that the approach C was taking was
 inappropriate in the context of R’s business. CT did not share C’s view of
 JW’s conduct. Though she felt he was forthright in how he expressed
 himself, she did not consider his conduct inappropriate or feel that she, as
-manager, needed to intervene.
 
-15
+15 manager, needed to intervene.
 
-51.
-
-After the meeting, C had a conversation with CT about his methodology
+51. After the meeting, C had a conversation with CT about his methodology
 on the project. CT repeated that C needed to give up on the modular
 approach and to make sure that his configurations could go into a single
+
 file.
 
-20
-
-52.
-
-On 19 May 2023 CT and C had an exchange of messages on Teams. CT
+20 52. On19 May 2023 CT and C had an exchange of messages on Teams. CT
 said: “Please remember to push your local commits to git [thumbs up
 emoji] it’s good practice to push at a minimum at the end of the day. If you
 were off sick for example someone could pick up where you left off.” C
-apologized in his text reply and acknowledged CT was right. He said “…it
-is just me and my silly habit of pushing only what appears to be best…”
+apologized in his text reply and acknowledged CT was right. He said “.../t
 
-25
+25 is just me and my silly habit of pushing only what appears to be best...”
 
-53.
-
-Later that day he sent a message on Teams telling CT there was a folder
+53. Later that day he sent a message on Teams telling CT there was a folder
 on the branch with an update to the Terraform configuration he was
 working on. CT replied less than half an hour later:
+
 Why? This should all be in one folder, it's all still in separate folders? It
+30 should be along these lines as discussed
 
-30
-
-should be along these lines as discussed
 AWS
+
 --main.tf (t contains providers, versions, data blocks, locals)
+
 
-8000485/2023
+--- New Page 16 ---
+Page number: 16
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 16
+8000485/2023 Page 16
 
 --vpc-1.tf
---vpc-2.tf
---variables.tf
--- output.tf
-[CT, around 10 mins later]
-
-5
+--vpc-2. tf
+--variables. tf
+-- output. tf
+5 [CT, around 10 mins later]
 
 and please don't feel like anything has to be absolutely right [smiling emoji]
 push frequently, get feedback when you need, ask questions - I'm forever
 making commits that just say “typo” [laughing emoji]
-54.
 
-On 23 May 2023, C messaged CT in Teams and asked her to look at some
-coding which he had screenshotted. He said it is just so that you have an
-
-10
-
-idea before I push this.”. This was a source of frustration to CT, though she
+54. On23 May 2023, C messaged CT in Teams and asked her to look at some
+10 coding which he had screenshotted. He said it is just so that you have an
+idea before | push this.”. This was a source of frustration to CT, though she
 didn’t display her impatience to C. She did not wish to receive code
 structures in this way. Her preferred practice was to view it once pushed
 in GitHub since that platform allowed review and collaboration in a way
-that sharing screenshots did not. CT replied:
+15 that sharing screenshots did not. CT replied:
+
+“so there should only be one variables file and one outputs file — these are
+going to be the same inputs and outputs across all VPCs — this is why
+pushing to git helps — then | can pull the branch and look at the code and
+discuss it rather than looking at some file names on a screenshot.”
+
+20 55. C replied regarding the approach and ended with the words, “But in order
+to make this easier, | am breaking down configs along these lines before
+merging into a single folder.” CT replied:
+
+“most of the variables will be in your files to start with anyway as it's not a
+
+module so it's defined in the code
+
+25 we don't need things isolated, | get the original idea - but we want to be
+able to run a pipeline across them all - check for changes etc - no manual
+
+running of anything”.
+
+56. CT made further comments on the technicality of the task to which C
+replied: “yes this is why | am breaking it down for each of them and then
+30 use the broken down files to build a single configuration.” CT responded,
+
+
+--- New Page 17 ---
+Page number: 17
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+5
+
+10
 
 15
 
-“so there should only be one variables file and one outputs file – these are
-going to be the same inputs and outputs across all VPCs – this is why
-pushing to git helps – then I can pull the branch and look at the code and
-discuss it rather than looking at some file names on a screenshot.”
 20
-
-55.
-
-C replied regarding the approach and ended with the words, “But in order
-to make this easier, I am breaking down configs along these lines before
-merging into a single folder.” CT replied:
-“most of the variables will be in your files to start with anyway as it's not a
-module so it's defined in the code
-we don't need things isolated, I get the original idea - but we want to be
 
 25
 
-able to run a pipeline across them all - check for changes etc - no manual
-running of anything”.
-56.
-
-CT made further comments on the technicality of the task to which C
-replied: “yes this is why I am breaking it down for each of them and then
-
 30
 
-use the broken down files to build a single configuration.” CT responded,
-
-8000485/2023
-
-Page 17
-
-“ok [thumbs up emoji] just keep remembering to commit – doesn’t matter
-if it’s not working or not ‘beautiful’ [smiling emoji] I was so used to working
-alone that I had the habit too [smiling emoji] now I do tiny changes and
-push all day [smiling emoji].”
-5
+8000485/2023 Page 17
 
 57.
 
-C replied to the effect that he would push the “broken down” configurations
-every day.
-
 58.
+
+59.
+
+60.
+
+61.
+
+“ok [thumbs up emoji] just keep remembering to commit — doesn’t matter
+if it’s not working or not ‘beautiful’ [smiling emoji] | was so used to working
+alone that | had the habit too [smiling emoji] now | do tiny changes and
+
+push all day [smiling emoji].”
+
+C replied to the effect that he would push the “broken down” configurations
+
+every day.
 
 CT’s interactions on Teams Chat with C were peppered with smiley faces,
 but she had developed significant concerns about C’s performance and
 approach in the role. She did not raise these concerns with C either in her
 calls with him or in the Teams Chat beyond gentle directions and
-
-10
-
 corrections of the kind reproduced above. Her managerial style was to
+
 seek to avoid confrontation or difficult conversations.
-59.
 
 Nevertheless, she had concerns that she had to ‘course correct’ C
 regarding a task he was set to identify all AWS resources and add them to
 R’s source control system. CT was concerned that C initially approached
-
-15
-
 this by trying to script to capture manual changes. The end goal of the task
 as far as CT was concerned was to use the Terraform tool to automate the
 creation of the infrastructure. She had messaged C and explained what
 she wished. She decided the task was too open ended and reduced its
 scope. C did not challenge CT or refuse to approach it in the matter that
-
-20
-
 CT had asked, though he felt strongly his own initial approach was
 defensible.
-60.
 
 CT was also frustrated that C then approached the task using the latest
 version of the coding language. Although her original ‘ticket’ which
 allocated the work did not specify the exact version to be used, she was
-
-25
-
 frustrated that C had reviewed R’s existing repository yet had decided to
 use a more recent version. CT felt that, even without specifying it, it should
 have been obvious to an experienced Dev Ops Engineer that they should
 take account of the ‘prior body of art’ created by R and ensure the structure
 and versioning was consistent throughout. CT asked C to change to the
 
-30
-
 previous version which had been in use.
-61.
 
 CT’s direction at the time regarding the version was characteristically
 gentle. C did not argue with CT or refuse to use the version subsequently
+
 
-8000485/2023
+--- New Page 18 ---
+Page number: 18
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 18
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 18
+
+62.
+
+63.
+
+64.
+
+65.
 
 specified, though again he had firm views that his initial choice to use the
 latest version was logical and defensible. It was not a debate which was
 had at the time, and C agreed to proceed as CT directed.
-62.
 
 CT also had a concern about the length of time C was taking on the project
 allocated. She didn’t raise this with C at the time. C felt there were
-
-5
-
 justifiable reasons for the length of time taken having regard to the
 complication of having to change the programming version and more
 significantly to change his approach from a modular one to a single file
 one. No debate was had on the question of C’s speed at the time because
 CT didn’t raise it with him.
 
-10
-
-63.
-
 Although CT did not raise directly with C the various concerns she had
 about his work, or otherwise reveal her exasperation to C, she was by May,
 regularly discussing her concerns with her manager, DM. She told DM she
 had been having conversations with C to try to guide him to the right path
+
 and that other team members were also trying to assist him.
-
-15
-
-64.
 
 On 25 May 2023, DM escalated CT’s complaints about C and discussed
 these with a senior manager, D Keenan. The two had a call in which they
 discussed dismissing C. Following the call, DM sent a message to CT and
 David Middleton (DMn), as follows:
+
 Hey folks, off a call with Dave K.
 
-20
-
 We have made the decision to Under 23 months dismiss Marcel - he's not
+
 worked out and we have no room for passengers right now.
-65.
 
 DMn asked if they were good to start the conversation with the People
 Team and CT then had a series of messages with DM and DMn that day.
-
-25
-
 These, so far as relevant, are reproduced below.
+
 [25/05/ 2023 10: 38] CT
+
 I've had chats with him to commit his work various times, That's [sic] what
-he's attempted to do wasn't in line with what we were trying to do, so I tried
-to be more explicit in what I was asking. I guess it's more of an overall
-
-30
-
+he's attempted to do wasn't in line with what we were trying to do, so | tried
+to be more explicit in what | was asking. | guess it's more of an overall
 thing. I've had occasions where Zoe had discussed how to structure the
 terraform but then he asks me after it, He [sic] seems to take it personally
 when Jason said that we shouldn't be writing bash in ansible - we should
+
 
-8000485/2023
-
-Page 19
-
-be using ansible modules for example... Marcel's reaction was to say there
-was a module for bash - but that doesn't mean it's right – it’s not what we
-should be doing – use the tools the way they're intended
-[25/05/2023 10:59] CT
-5
-
-I guess it's everything's as a whole - with so much experience I don't think
-we should need to guide him so much
-[25/05/2023 11:00] CT
-I don't know exactly what I should have said to say there was an issue, I
-couldn't go no that's totally wrong, it's been trying to course correct I guess
+--- New Page 19 ---
+Page number: 19
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-[25/05/2023 11:02] DMn
-Thanks Claire from an HR perspective we haven't had an explicit 1-2-1
-that he isn't meeting expectations was what I was meaning. I thought that
-was the case but want to be sure of my facts is all
-[25/05/2023 11:03] CT
-
 15
 
-No I've not had an explicit 1-2-1 in that regard
-… [CT then pastes in recent Teams Chat she had with C on 23 May 2023]
-[25/05/2023 11:12] CT
-As I said it's more of an overall thing, for his experience, we expected more
-- sorta what I mentioned to you already. It's like he's at a junior level, and
-
 20
-
-I get not understanding Ansible or Terraform, and things taking a bit longer
-- but everything seems to be so long and just the though [sic] process
-around things seems old, even just the basics like pushing to git...
-[25/05/2023 11:16] CT
-The whole thing makes me feel bad - he's such a nice guy and the start he
 
 25
 
-had was terrible with the incident but where do you stop - I don't think I
+8000485/2023 Page 19
+
+be using ansible modules for example... Marcel's reaction was to say there
+was a module for bash - but that doesn't mean it's right — it’s not what we
+should be doing — use the tools the way they're intended
+
+[25/05/2023 10:59] CT
+
+| guess it's everything's as a whole - with so much experience | don't think
+
+we should need to guide him so much
+[25/05/2023 11:00] CT
+
+| don't know exactly what | should have said to say there was an issue, |
+
+couldn't go no that's totally wrong, it's been trying to course correct | guess
+[25/05/2023 11:02] DMn
+
+Thanks Claire from an HR perspective we haven't had an explicit 1-2-1
+that he isn't meeting expectations was what | was meaning. | thought that
+was the case but want to be sure of my facts is all
+
+[25/05/2023 11:03] CT
+
+No I've not had an explicit 1-2-1 in that regard
+
+... [CT then pastes in recent Teams Chat she had with C on 23 May 2023]
+[25/05/2023 11:12] CT
+
+As | said it's more of an overall thing, for his experience, we expected more
+- sorta what | mentioned to you already. It's like he's at a junior level, and
+| get not understanding Ansible or Terraform, and things taking a bit longer
+- but everything seems to be so long and just the though [sic] process
+around things seems old, even just the basics like pushing to git...
+
+[25/05/2023 11:16] CT
+
+The whole thing makes me feel bad - he's such a nice guy and the start he
+had was terrible with the incident but where do you stop - | don't think |
+
 could trust him to do BAU [Business As Usual, meaning routine tasks].
+
 [25/05/2023 11:18] CT
+
 
-8000485/2023
-
-Page 20
-
-Maybe that's what I need to do - I don't know how long we have - but put
-him on BAU only for a couple of weeks and prove he can't even do the
-basics
-[25/05/2023 11:18] CT
-Take ansible / terraform out of the equation
-
-5
-
-[25/05/2023 11:19] DM
-I'm looking back at his CV - he's not showing as any of the things he listed
-under his skills
-[25/05/2023 11:19] CT
-I now feel even sicker than I did It's not nice, I want people to do well and
+--- New Page 20 ---
+Page number: 20
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-it feels like a failure on me that I've not assisted him enough
-…
-[25/05/2023 11:22] CT
-I mean he can write a bash script, I don't think he's not capable of that
-…
-
 15
-
-[25/05/2023 11:30] DM
-…
-This is the kicker:
-[pastes in excerpt from C’s CV skills section and highlights part that says
-“- Dev Ops – (Git, Ansible, Nagios, Jenkins, Gradle, Maven, Terraform)”]
 
 20
 
-66.
+25
 
-On 12 June 2023, CT sent a document to Emma Glass, Senior People
+8000485/2023 Page 20
+
+Maybe that's what | need to do - | don't know how long we have - but put
+him on BAU only for a couple of weeks and prove he can't even do the
+basics
+
+[25/05/2023 11:18] CT
+Take ansible / terraform out of the equation
+[25/05/2023 11:19] DM
+
+I'm looking back at his CV - he's not showing as any of the things he listed
+under his skills
+
+[25/05/2023 11:19] CT
+
+| now feel even sicker than | did It's not nice, | want people to do well and
+it feels like a failure on me that I've not assisted him enough
+
+[25/05/2023 11:22] CT
+
+| mean he can write a bash script, | don't think he's not capable of that
+
+[25/05/2023 11:30] DM
+
+This is the kicker:
+
+[pastes in excerpt from C’s CV skills section and highlights part that says
+“. Dev Ops — (Git, Ansible, Nagios, Jenkins, Gradle, Maven, Terraform)”]
+
+66. On 12 June 2023, CT sent a document to Emma Glass, Senior People
 Operations Manager, attaching a document setting out concerns about C.
 That document had been prepared in part by DMn who wrote the first
 section, and in part by CT, who wrote the second part in which she set out
-
-25
-
 examples of C’s work where she had concerns. In DMn’s section he
 summarised concerns about C including his failure to commit code
 frequently and a concern that C’s competencies with Terraform and
+
 Ansible were limited. He ended his initial section:
+
 
-8000485/2023
+--- New Page 21 ---
+Page number: 21
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 21
+8000485/2023 Page 21
 
 “Given the above we believe there isn't a role for Marcel in the department
 given the natural way Marcel likes to work and his level of exposure to the
 tools we use. Marcel was brought in as an experienced senior engineer
 and as such we would expect him to take autonomous ownership of some
-of the tasks of the team. Given our time with Marcel to date we don't believe
 
-5
-
+5 of the tasks of the team. Given our time with Marcel to date we don't believe
 that is going to be possible.”
-67.
 
-CT’s section then listed her concerns about C’s approach to his current
+67. CT’s section then listed her concerns about C’s approach to his current
 task of identifying all AWS resources and adding them to source control.
-These were, essentially the concerns that have been described in previous
-paragraphs. She referred to the input of C’s colleague Zoe in relation to
 
-10
+These were, essentially the concerns that have been described in previous
+
+10 paragraphs. She referred to the input of C’s colleague Zoe in relation to
 
 reviewing the work at one stage, as follows:
+
 Marcel had another attempt to restructure his work and then paired with
 his colleague Zoe to review it. Zoe highlighted issues with the structure,
 the version being used and how the state file worked (that we did not want
-them individual)
 
-15
+15 them individual)
 
-Following that Marcel then called me, questioning what Zoe had said. I
-reiterated that she was correct - and this is what I had previously explained
+Following that Marcel then called me, questioning what Zoe had said. |
+reiterated that she was correct - and this is what | had previously explained
 that we wanted a single VPC folder with them all in it.
-Having explained on calls and in the chat the folder structure that was
-expected... I was still met with having to go over it yet again on our catch
 
-20
+Having explained on calls and in the chat the folder structure that was
+20 expected... | was still met with having to go over it yet again on our catch
 
 up - that the settings were to remain in the file and not in the variables file.
-…
+
 Throughout this as previously mentioned, I've had to remind him to push
 changes to GitHub, not to send screenshots when asking me to assist,
-these are just reminders in chat, others were issued verbally.
-
-25
+25 these are just reminders in chat, others were issued verbally.
 
 Commits were infrequent and often one or two lines or words were
-changed in a period of a few days - the work rate is below what I would
+changed in a period of a few days - the work rate is below what | would
+
 expect, even from my graduate or apprentice.
-…
-30
 
-68.
-
-As CT saw it, C’s performance issues having been escalated to HR, it was
+30 68. AsCT sawit, C’s performance issues having been escalated to HR, it was
 for HR and DMn to take forward and she did not take further involvement
+
 
-8000485/2023
+--- New Page 22 ---
+Page number: 22
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 22
+8000485/2023 Page 22
 
 in that process, other than to respond to queries from HR when they were
 made. R routinely operated a practice whereby HR Team members rather
 than line employees’ managers chaired and took decisions in relation to
 the outcomes of processes of the sort R then pursued in relation to C which
-was referred to as a ‘continued employment meeting’. ‘Continued
-
-5
-
+5 was referred to as a ‘continued employment meeting’. ‘Continued
 Employment Meetings’ was the (somewhat misleading) name given to the
 meetings R held with employees with less than 23 months’ service about
 whom management had raised performance concerns. This practice of HR
 leading the process and deciding outcomes was in place across R’s
-business; it was not unique to C’s case. CT understood a meeting would
-
-10
-
+10 business; it was not unique to C’s case. CT understood a meeting would
 be held with C, chaired by a member of HR and DMn. DMn had an
+
 understanding of the technical aspects of the DevOps Engineer role.
-69.
 
-CT met with C on 13 June 2023 about work matters. Although she knew a
+69. CT met with C on 13 June 2023 about work matters. Although she knew a
 process was shortly to be progressed by HR, she did not discuss this with
-C. She did not raise with C the performance issues she had raised with
-
-15
-
+15 C. She did not raise with C the performance issues she had raised with
 DM, DMn and the People Team. She did not give him any warning that his
 performance required to improve. She discussed the current work and
 talked about future work to be allocated to C. The tone of the meeting gave
 no reason for C to fear his performance was of concern. CT was
-inexperienced at managing poor performance with her team members and
-
-20
-
+20 inexperienced at managing poor performance with her team members and
 reluctant to do so. She had never had a 1-2-1 with C or any other team
 member where she had warned them about their performance or otherwise
 made it clear she was dissatisfied with their work. In C’s case at least, CT
+
 regarded this as something to be done by others.
-25
 
-70.
-
-Following that meeting with C, CT did not misrepresent the discussions
+25 70. Following that meeting with C, CT did not misrepresent the discussions
 that took place to LC, DM or DMn. She did not suggest to these individuals
 or to anyone else that she had given C a warning during that meeting. She
 did not tell HR that she had used the meeting to raise concerns with C
 about his performance.
 
-30
-
-71.
-
-On 14 June 2023, LC, People Adviser, emailed C a letter inviting him to a
+30 71. On14 June 2023, LC, People Adviser, emailed C a letter inviting him to a
 meeting to discuss his continued employment with R. The meeting was to
 take place on 20 June 2023, in-person, in Hillington and the invite
 confirmed that she and DMn would be present. The letter ended with the
 following paragraph:
+
 
-8000485/2023
+--- New Page 23 ---
+Page number: 23
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 23
+10
 
-Legally, I have to make you aware that a possible outcome is the
-termination of your employment therefore may I remind you that you are
-entitled to be accompanied by a work colleague or any accredited trade
-union representative of your choice. Please contact me if you require any
-assistance in making arrangements.
+15
 
-5
+20
+
+25
+
+30
+
+8000485/2023 Page 23
 
 72.
 
-C was shocked and upset to receive the email.
-
 73.
+
+7A.
+
+75.
+
+Legally, | have to make you aware that a possible outcome is the
+termination of your employment therefore may | remind you that you are
+entitled to be accompanied by a work colleague or any accredited trade
+union representative of your choice. Please contact me if you require any
+
+assistance in making arrangements.
+C was shocked and upset to receive the email.
 
 On 19 June 2023, C sent an email to LC and DMn. He cc’d in DM and CT.
 His email was of significant length. When printed to be produced to the ET,
 it ran to five pages of tight text. C expressed his shock in the email. He
 gave considerable detail about the tasks which he had been allocated
-
-10
-
 during his employment and the approach he had taken. He embedded
 links to coding which he had worked on. The email did not expressly ask
 that DM (or any other recipient) check the code linked within it. DM did not
 do so. He did not understand that C was requesting him to do so.
-15
-
-74.
 
 In the email, C also referred to his qualifications and experience. The
 position C took was, in essence, that his approach and performance were
@@ -1403,1319 +1389,1180 @@ strong that that his output was acceptable in the circumstances. He argued
 he had carried out the tasks successfully and explained he considered his
 approach was preferable to that which he had been steered to take by CT,
 JW and others. He gave detailed explanations of the reasons for the route
-
-20
-
 he had taken. He nonetheless noted he had changed direction when asked
 to do so. With respect to his latest task, he observed that CT seemed
 satisfied that they were now approaching the end of the road with it and
 that she had even suggested to him what the next step would be when the
 present stage was complete.
 
-25
-
-75.
-
 C’s email of 19 June 2023 included the following excerpts, so far as
+
 relevant:
+
 In light of the cyberattack our company suffered in December and in the
 name of the basic principles of digital security hygiene, it is not right to
-
-30
-
 copy the passwords from an old server when rebuilding a server in a
 company setting and even more so right after a horrible cyberattack.
 Instead, a dutiful devops engineer should use a secure method to reset all
+
 
-8000485/2023
-
-Page 24
-
-the passwords on the new server and this is what I had in mind as a matter
-of dutiful care towards the interest of my employer.
-…
-But the story does not end there: despite the violence with which I was
-5
-
-treated and in spite of the fact that copying over old passwords to new
-servers in an environment which had suffered a recent attack was clearly
-wrong and not in the best interest of the company in my modest opinion, I
-nonetheless accepted the verdict and went ahead to implement the
-solution of Mr White.
+--- New Page 24 ---
+Page number: 24
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-…
-…
-3/
-
-The interaction to date with my direct manager
-
-So taken into account the fact that I never got direct complaints or warning
-from my manager... you can now imagine... the extent of my surprise...
 15
-
-The only thing I can remember that might have triggered this was at the
-end of the discussion last week when she asked me if I had had the help
-of Mr White for the then ongoing merging process. I responded that I
-hadn't... I must say that I am not too fond of getting anywhere near Mr
-White as he is most likely the most verbally abusive, brutal, loud and
 
 20
 
-disrespectful person I ever came across and I once complained about him
+25
+
+30
+
+8000485/2023 Page 24
+
+the passwords on the new server and this is what | had in mind as a matter
+of dutiful care towards the interest of my employer.
+
+But the story does not end there: despite the violence with which | was
+treated and in spite of the fact that copying over old passwords to new
+servers in an environment which had suffered a recent attack was clearly
+wrong and not in the best interest of the company in my modest opinion, |
+nonetheless accepted the verdict and went ahead to implement the
+solution of Mr White.
+
+3/ The interaction to date with my direct manager
+
+So taken into account the fact that | never got direct complaints or warning
+
+from my manager... you can now imagine... the extent of my surprise...
+
+The only thing | can remember that might have triggered this was at the
+end of the discussion last week when she asked me if | had had the help
+of Mr White for the then ongoing merging process. | responded that |
+hadn't... | must say that | am not too fond of getting anywhere near Mr
+White as he is most likely the most verbally abusive, brutal, loud and
+disrespectful person | ever came across and | once complained about him
+
 and his absolutely terrible manners to my direct manager.
+
 Between his never ending rather vulgar insults, during team meetings,
 about the other teams who are always systematically qualified after the
 use of, you will excuse me, the “F” word, his total lack of respect for
-
-25
-
 everyone including our manager whom he would systematically interrupt
 during team meetings to my disbelief to this day, the fact that he once
 allowed himself to shush her in front of everyone, his systematic attempts
 to belittle me in particular and some of his comments about my direct
-manager during one of our meetings, I developed and you would
+manager during one of our meetings, | developed and you would
+understand an attitude of total avoidance. | know that my direct manager
 
-30
-
-understand an attitude of total avoidance. I know that my direct manager
 is valid very tolerant but the issue is that by being too tolerant of his
+
 
-8000485/2023
-
-Page 25
-
-excessive behaviour, it is not only reinforcing them but leading to an
-atmosphere I personally consider rather toxic and discouraging.
-…
-Also and I would like to emphasise that, I have never had any problems I
-can remember of with my manager Mrs Thomson whom I appreciate both
-
-5
-
-as a manager and a person of very good character.
-…
-Also finally, with my constant effort to be not only mindful but respectful of
-the interest of the company, my attempt to apply the generally admitted
-rules for the task required of me, the fact that the goals set for me were not
+--- New Page 25 ---
+Page number: 25
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-a failure and my real respect for my manager from whom I never received
-a warning from my work, I think it is extremely unfair for me to be in this
-situation now. Also we have and I have detailed it above some characters
-in the team with an attitude that would guarantee in other settings, an
-immediate dismissal for gross misconduct; but these characters are
-
 15
-
-instead left in peace when they terrorise everyone around them with open
-brutality and verbal abuse and this is not right to me.
-76.
-
-On 20 June 2023, C attended the meeting with LC and DMn. The meeting
-that day lasted around 3 hours or more and was ultimately adjourned
-because of the late hour. During that meeting, C explained in detail the
 
 20
 
+25
+
+30
+
+8000485/2023 Page 25
+
+excessive behaviour, it is not only reinforcing them but leading to an
+
+atmosphere | personally consider rather toxic and discouraging.
+
+Also and | would like to emphasise that, | have never had any problems |
+can remember of with my manager Mrs Thomson whom | appreciate both
+
+as a manager and a person of very good character.
+
+Also finally, with my constant effort to be not only mindful but respectful of
+the interest of the company, my attempt to apply the generally admitted
+rules for the task required of me, the fact that the goals set for me were not
+a failure and my real respect for my manager from whom | never received
+a warning from my work, | think it is extremely unfair for me to be in this
+situation now. Also we have and | have detailed it above some characters
+in the team with an attitude that would guarantee in other settings, an
+immediate dismissal for gross misconduct; but these characters are
+instead left in peace when they terrorise everyone around them with open
+
+brutality and verbal abuse and this is not right to me.
+
+76. On 20 June 2023, C attended the meeting with LC and DMn. The meeting
+that day lasted around 3 hours or more and was ultimately adjourned
+because of the late hour. During that meeting, C explained in detail the
 technicality of his approach and why he considered it to be optimal. He
 explained his reasons for adopting a modular approach. He explained that,
 so far as the frequency of commits to GitHub was concerned, pushing
 every two hours was not feasible because of the complexity of reassessing
 the variable to put what he had initially written in a modular fashion into a
-
-25
-
 single folder. DMn suggested that R would be expecting code to be pushed
 around 5 or 6 times per day. C said because of the mental analysis
 required to undertake the task pushing with such frequency was not
 practicable but that he was neither stupid nor lazy and that the code was
+
 there and was working.
+
+77. C pointed out he had written more than 1000 lines of code in a few days
+
+which was working and which he said very few people would be able to
+
+
+--- New Page 26 ---
+Page number: 26
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-77.
+8000485/2023 Page 26
 
-C pointed out he had written more than 1000 lines of code in a few days
-which was working and which he said very few people would be able to
+78.
 
-8000485/2023
+79.
 
-Page 26
+80.
+
+81.
+
+82.
 
 manage. During the meeting, C refuted that he was in any way deficient in
 Ansible and pointed out he had not refused to do anything asked of him.
-78.
 
 DMn summarized at one point during the meeting the situation as follows:
-“…fundamentally what the team were saying was you weren’t following the
-strategy of the team and your position is that it wasn’t right.”
+“...fundamentally what the team were saying was you weren't following the
 
-5
-
-79.
+strategy of the team and your position is that it wasn't right.”
 
 On 20 June, following the meeting, LC emailed CT to ask her a series of
 questions arising from points C had made. CT responded by email on 21
 June with answers to the queries and screenshot examples to illustrate her
 views. The queries and responses concerned the technical issues raised
 by C about the tasks. CT maintained her concerns about the approach
-
-10
-
 taken by C in her responses.
-80.
 
 On 22 June 2023, the ‘continued employment meeting’ with C resumed.
 Once again, it was chaired by LC and DMn was also present. LC outlined
 the detail of some of CT’s concerns. C was given the opportunity to
 respond and did so. LC adjourned the meeting when matters had been
-
-15
-
 discussed in detail. When the meeting reconvened, LC told C that C had
 failed to follow instructions, that there were concerns about his overall
 performance, and that she had decided to dismiss him.
-81.
 
 On 22 June 2023, LC wrote to C confirming the dismissal with effect from
 22 June 2023 on payment in lieu of 4 weeks’ notice. Her letter said:
 
-20
-
-“… I write to inform you that your contract of employment... will be
+. | write to inform you that your contract of employment... will be
 terminated with immediate effect due to your overall capability within your
 role as DevOps Engineer specifically in relation to your failure to perform
 tasks in a timely manner, to utilise our systems efficiently and to perform
 the tasks expected in your role to the standards expected.”
 
-25
-
-82.
-
 On the same date, at 4.39 pm, LC informed her colleagues in payroll of the
 dismissal and they proceeded to process C’s departure from R for pay and
 benefit purposes. That included informing AXA Health of C’s departure to
 cancel C’s access to the health care scheme. AXA issued a letter on 31
-
-30
-
 August 2023 confirming to C that his access had ended on 21 June 2023.
 AXA had not been informed by payroll of the cancellation on 21 June 2023.
+
 R’s payroll informed AXA of the cancellation on or after 22 June 2023 but
+
 
-8000485/2023
+--- New Page 27 ---
+Page number: 27
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 27
+8000485/2023 Page 27
 
 AXA cancelled the policy with retrospective effect from 21 June 2023. This
 retrospective approach was in line with a policy of R and / or AXA that
 employees should be precluded from submitting a claim for the benefit on
+
 their final day of employment.
-5
 
-83.
-
-After his dismissal, C did some analysis of the relevant GitHub repository
+5 83. After his dismissal, C did some analysis of the relevant GitHub repository
 logs. From his analysis, he identified that no one in his team was pushing
 code as frequently as five times per day as DMn had suggested would be
 expected. This analysis of the logs had not been presented to R prior to
 dismissing C. He analysed the commits in the period from 5 December
-2022 to 22 June 2023 and calculated that, across that period, he did on
 
-10
-
+10 2022 to 22 June 2023 and calculated that, across that period, he did on
 average 0.38 commits per day. His analysis demonstrated he was not the
 least frequent to push in the team in the period. Greg Dolan and CT
 committed code less frequently to the repository across the same period.
 G Dolan was deployed at times in this period on other work which did not
-entail committing code to GitHub. At the start of the year, Mr Dolan was
 
-15
-
+15 entail committing code to GitHub. At the start of the year, Mr Dolan was
 working with the Cyber Team and other squads investigating databases.
 JW committed most frequently (on average 4.41 times per day). Zoe
 Mackie also committed more frequently than C.
+
 Observations on the evidence
-20
 
-84.
-
-As the evidence transpired at the hearing, there was surprisingly little fatual
+20 84. Asthe evidence transpired at the hearing, there was surprisingly little fatual
 dispute between the parties. The distance between C and R evidentially
 was far smaller than might have been anticipated based on their pleadings.
 C’s evidence in Tribunal differed to his amended pleaded case in a number
+
 of respects, bringing it much closer to the account given by R’s witnesses.
 
-25
-
-85.
-
-The later events in June 2023 were substantially documented and in
+25 85. The later events in June 2023 were substantially documented and in
 relation to most of them, there was no factual dispute. The correspondence
 in June 2023 were agreed; the content of the meeting between C and CT
 on 13 June 2023 was not materially disputed; the content of the two
 meetings between C and DMn and LC on 20 and 22 June was set out
-extensively in notes that were verbatim or close to verbatim.
+
+30 extensively in notes that were verbatim or close to verbatim.
+
+86. C’s account in the witness box of his interactions with JW in the period
+from January to June 2023 was markedly different to the facts averred in
+his amended ET1. The occasions complained of by C involving conduct
+
+
+--- New Page 28 ---
+Page number: 28
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-86.
+8000485/2023 Page 28
 
-C’s account in the witness box of his interactions with JW in the period
-from January to June 2023 was markedly different to the facts averred in
-his amended ET1. The occasions complained of by C involving conduct
+87.
 
-8000485/2023
-
-Page 28
+88.
 
 directed at him by JW were less frequent than his pleaded case might
 suggest. He gave evidence of three such interactions. When encouraged
 to recall the actual words used, C recounted the encounters in much more
 moderate terms than the adjectives used in his pleadings to describe them.
 He was candid about not being able to recall the precise words used.
-
-5
-
 Likewise, his evidence of what exactly he said to CT on 12 January 2024
 was not as averred in his pleadings.
-87.
 
 JW generally had a poor memory of any of the encounters which did not
 stand out for him. CT, who was also present on each occasion, recalled
 the exchanges with some relatively small differences between her
-
-10
-
 recollection and C’s about the nature of the interactions. On the whole we
 preferred CT’s account in relation to those relatively small differences. C
 couldn’t recall the specifics of the words used and his account was
 undermined somewhat by the significant inconsistencies as between his
 evidence and his pleaded case. The evidential differences between the
-
-15
-
 parties were relatively minor. We accepted the evidence of JW and CT that
 in the January incident JW did not tell C to shut up or to keep quiet as C
 claimed. We accepted he did, however, fend off comment from C by saying
 “I’m speaking” or similar. We accepted that in the February / March
 incident, JW did not shout the words that they would not instal a firewall
 
-20
-
 (as C said) but that he did say these words firmly and sternly.
-88.
 
 The principal dispute lay in the interpretation of words and events. C, when
 encouraged to recall the actual words and tone used in the incident, did so
 as best he could. We do not find he deliberately sought to mislead the
-
-25
-
 Tribunal on these individual interractions, albeit that at times his
 recollection was not wholly reliable. A striking feature of the evidence,
 however, was that we observed a notable difference when C characterised
 the incidents generally or referred to them in an evaluative way, as
 opposed to recounting the specifics. Here, he was inclined to using emotive
-
-30
-
 and extravagant language, regularly describing JW as ‘violent’ and
 ‘abusive’ among other adjectives. This echoed his approach in his email of
 19 June 2023 and in his pleadings. C’s reaction to JW’s critical comments
 on his work was one of considerable offence and outrage.
+
 
-8000485/2023
+--- New Page 29 ---
+Page number: 29
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
+
+8000485/2023 Page 29
+
 89.
-
-Page 29
 
 The other striking feature of the evidence was C’s focus on persuading us
 of the superiority of his favoured modular approach to the coding task over
 the single file approach advocated by R. He took a smilar approach when
 advocating for himself during his June meetings with R and in his email of
 19 June. While we heard some evidence from C (and from CT) on this
-
-5
-
 matter, we required to manage the hearing so as to ensure that this was
 kept within proportionate parameters. We explained we were unlikely to
 come to any finding in fact about which was the optimal coding practice
 (assuming indeed that there is an objectively ‘correct’ answer) and we have
 not done so. We did not consider it necessary or of particular assistance in
-
-10
-
 deciding the issues before us.
+
 Relevant Law
+
 Whistleblowing: what disclosures qualify for protection?
+
 90.
-15
 
 Section 43B of the Employment Rights Act 1996 (“ERA”) sets out 6
-categories of qualifying disclosure.
-‘(1)
 
-In this Part a “qualifying disclosure” means any disclosure of
+categories of qualifying disclosure.
+
+(1) — In this Part a “qualifying disclosure” means any disclosure of
 information which, in the reasonable belief of the worker making the
 disclosure, is made in the public interest and tends to show one or
 more of the following—
 
-20
+(a) that a criminal offence has been committed, is being
+committed or Is likely to be committed,
 
-(a)
-
-that a criminal offence has been committed, is being
-committed or is likely to be committed,
-
-(b)
-
-that a person has failed, is failing or is likely to fail to comply
+(b) _ that a person has failed, is failing or is likely to fail to comply
 with any legal obligation to which he is subject,
 
-(c)
+(c) that a miscarriage of justice has occurred, is occurring or is
 
-that a miscarriage of justice has occurred, is occurring or is
 likely to occur,
 
-25
+(d) — that the health or safety of any individual has been, is being
 
-(d)
+or Is likely to be endangered,
 
-that the health or safety of any individual has been, is being
-or is likely to be endangered,
-
-(e)
-
-that the environment has been, is being or is likely to be
+(e) that the environment has been, is being or Is likely to be
 damaged, or
+
 
-8000485/2023
-(f)
+--- New Page 30 ---
+Page number: 30
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 30
-that information tending to show any matter falling within any
+8000485/2023 Page 30
+
+(f) that information tending to show any matter falling within any
 one of the preceding paragraphs has been, or is likely to be
 deliberately concealed.
 
-(2)
-
-For the purposes of subsection (1), it is immaterial whether the
-relevant failure occurred, occurs or would occur in the United
-
-5
+(2) For the purposes of subsection (1), it is immaterial whether the
+5 relevant failure occurred, occurs or would occur in the United
 
 Kingdom or elsewhere,
-91.
 
-In the case of Cavendish Munro Professional Risks Management
+91. In the case of Cavendish Munro Professional Risks Management
 Limited v Geduld 2010 ICR 325, the EAT held that to be a disclosure of
 information, it must contain facts rather than simply make an allegation. As
-long as the worker ‘reasonably believes’ that the information tends to show
 
-10
-
+10 long as the worker ‘reasonably believes’ that the information tends to show
 one of the matters required in section 43B(1), the disclosure will be
+
 qualified even if the information turns out to be untrue or inaccurate.
-92.
 
-In the case of Soh v Imperial College of Science Technology and
+92. In the case of Soh v Imperial College of Science Technology and
 Medicine EAT 0350/14 it was confirmed that there was a distinction
-between the worker saying “I believe X is true ” and “I believe that this
-
-15
-
+15 between the worker saying “I believe X is true ” and “I believe that this
 information tends to show that X is true” . It may be impossible for a worker
 to assess whether information from a third party is true or not. As long as
 the worker ‘reasonably believes’ that the information tends to show one of
 the matters required in section 43B (1), the disclosure will qualify even if
-the information turns out to be untrue or inaccurate. In Kraus v Penna PLC
-
-20
-
+20 the information turns out to be untrue or inaccurate. In Kraus v Penna PLC
 and anor 2004 IRLR 260 EAT said that ‘likely’ should be construed as
 ‘requiring more than a possibility, or a risk, that an employer (or other
 person) might fail to comply with the relevant legal obligation.
+
 Whistleblowing: automatic unfair dismissal under section 103A of ERA
-25
 
-93.
-
-Employees may claim a dismissal is automatically unfair if the reason or
+25 93. Employees may claim a dismissal is automatically unfair if the reason or
 principal reason for the dismissal is that they made a protected disclosure.
 The relevant provision is section 103A of ERA which is in the following
+
 terms:
 103A Protected disclosure
 
-30
-
-An employee who is dismissed shall be regarded for the purposes of this
+30 An employee who is dismissed shall be regarded for the purposes of this
 Part as unfairly dismissed if the reason (or, if more than one, the principal
 reason) for the dismissal is that the employee made a protected disclosure
+
 
-8000485/2023
-94.
+--- New Page 31 ---
+Page number: 31
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 31
+8000485/2023 Page 31
 
-The question of whether the principal reason for dismissal was a protected
+94. The question of whether the principal reason for dismissal was a protected
 disclosure is a question of fact for the Tribunal. Where multiple disclosures
 are made, the approach is to ask whether the disclosures, taken as a
 whole, were the principal reason for dismissal (El-Megrisi v Azad
-University (IR) in Oxford [2009] UKEAT 0448/08/0505).
+5 University (IR) in Oxford [2009] UKEAT 0448/08/0505).
 
-5
-
-95.
-
-If the employee does not have 2 years’ service, the burden of showing, on
+95. ‘If the employee does not have 2 years’ service, the burden of showing, on
 the balance of probabilities, that the reason for dismissal was an
 automatically unfair one rests with the claimant (Ross v Eddie Stobart
 Ltd UKEAT/0068/13/RN).
 
-10
+10 96. A Tribunal must ask two questions:
+i. firstly, what is the reason for the dismissal? and
 
-96.
+il. secondly, (if it was because of a disclosure or disclosures),
 
-A Tribunal must ask two questions:
-i.
-
-firstly, what is the reason for the dismissal? and
-
-ii.
-
-secondly, (if it was because of a disclosure or disclosures),
 were those disclosures protected?
 
-97.
+97. It was confirmed in Croydon Health Services NHS Trust v Beatt [2017]
 
-It was confirmed in Croydon Health Services NHS Trust v Beatt [2017]
-ICR 1240 CA that the first question requires the Tribunal to consider what
+15 ICR 1240 CA that the first question requires the Tribunal to consider what
+facts or beliefs caused the decision maker to dismiss. The second question
+
+about whether the disclosure is protected is a matter of objective
+determination by the Tribunal and the belief of the decision maker is
+
+irrelevant.
+20  Whistleblowing: right not to suffer a detriment
+
+98. The right not to suffer a detriment on the ground of having made a
+protected disclosure is set out in section 47B of ERA as follows:
+
+(1) A worker has the right not to be subjected to any detriment by any
+act, or any deliberate failure to act, by his employer done on the
+25 ground that the worker has made a protected disclosure.
+
+(2)... This section does not apply where—
+(a) the worker is an employee, and
+
+(b) the detriment in question amounts to dismissal (within the
+30 meaning of Part X).
+
+
+--- New Page 32 ---
+Page number: 32
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
 
 15
 
-facts or beliefs caused the decision maker to dismiss. The second question
-about whether the disclosure is protected is a matter of objective
-determination by the Tribunal and the belief of the decision maker is
-irrelevant.
 20
-
-Whistleblowing: right not to suffer a detriment
-98.
-
-The right not to suffer a detriment on the ground of having made a
-protected disclosure is set out in section 47B of ERA as follows:
-(1)
-
-A worker has the right not to be subjected to any detriment by any
-act, or any deliberate failure to act, by his employer done on the
-ground that the worker has made a protected disclosure.
 
 25
 
-…
-(2)… This section does not apply where—
-
-30
-
-(a)
-
-the worker is an employee, and
-
-(b)
-
-the detriment in question amounts to dismissal (within the
-meaning of Part X).
-
-8000485/2023
-(3)
-
-Page 32
-
-For the purposes of this section, and of sections 48 and 49 so far
-as relating to this section, “worker ”, “ worker’s contract ”,
-“ employment ” and “ employer ” have the extended meaning given
-by section 43K.
-
-5
+8000485/2023 Page 32
 
 99.
+
+100.
+
+(3) For the purposes of this section, and of sections 48 and 49 so far
+as relating to this section, “worker”, “worker's contract ”,
+“employment ” and “ employer ” have the extended meaning given
+
+by section 43K.
 
 The term detriment is not defined in ERA. Interpretive assistance is
 available from discrimination law. See paragraph 111 below for information
 regarding what constitutes a detriment in that context.
 
-100. It is not sufficient to demonstrate that, "but for" the protected disclosure,
+It is not sufficient to demonstrate that, "but for" the protected disclosure,
 the detriment would not have taken place. The test is similar to the
-10
-
 "because of" test used in direct discrimination cases, except that there is
 no statutory requirement for a comparator. (See paragraph 107 below on
-the test of causation in direct discrimination and victimisation cases.)
-Harassment related to race (s.26 EA)
-101. Section 26 of EA deals with harassment and is in the following terms, so
 
-15
+the test of causation in direct discrimination and victimisation cases.)
+
+Harassment related to race (s.26 EA)
+
+101.
+
+Section 26 of EA deals with harassment and is in the following terms, so
 
 far as material:
-26
+26 Harassment
+(1) A person A harasses another (B) if —
 
-Harassment
-
-(1)
-
-A person A harasses another (B) if –
-(a)
-
-A engages in unwanted conduct related to a relevant
+(a) A engages in unwanted conduct related to a relevant
 protected characteristic, and
 
-(b)
+(b) the conduct has the purpose or effect of —
+(i) violating B’s dignity, or
 
-20
-
-the conduct has the purpose or effect of –
-(i)
-
-violating B’s dignity, or
-
-(ii)
-
-creating
-
-an
-
-intimidating,
-
-hostile,
-
-degrading,
+(il) creating an_ intimidating, hostile, degrading,
 
 humiliating or offensive environment for B.
-…
-25
 
-(4)
+(4) In deciding whether conduct has the effect referred to in subsection
+(1)(b) each of the following must be taken into account —
 
-In deciding whether conduct has the effect referred to in subsection
-(1)(b) each of the following must be taken into account –
-(a)
+(a) the perception of B;
 
-the perception of B;
+(b) the other circumstances of the case;
+
 
-(b)
-
-the other circumstances of the case;
-
-8000485/2023
-(c)
-
-Page 33
-whether it is reasonable for the conduct to have that effect.
-
-…
-102. Section 136 of EA deals with the burden of proof. It is set out in full below
-under the heading ‘Burden of Proof (EA claims)’, where the provisions are
-5
-
-discussed. Although the provisions are most commonly invoked in relation
-to direct discrimination complaints, they are equally applicable to
-harassment and victimisation complaints.
-Victimisation
-103. Section 27 EA is concerned with victimisation and provides, so far as
+--- New Page 33 ---
+Page number: 33
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-material, as follows:
-“27
-
-Victimisation
-
-(1)
-
-A person (A) victimises another person (B) if A subjects B to a
-detriment because –
-
 15
-
-(2)
-
-(a)
-
-B does a protected act, or
-
-(b)
-
-A believes that B has done, or may do, a protected act.
-
-Each of the following is a protected act—
-(a)
-
-bringing proceedings under this Act;
-
-(b)
-
-giving
-
-evidence
-
-or
-
-information
-
-in
-
-connection
-
-with
-
-proceedings under this Act;
-(c)
 
 20
 
-doing any other thing for the purposes of or in connection
-with this Act;
-
-(d)
-
-making an allegation (whether or not express) that A or
-another person has contravened this Act.
-
-(3)
-
-Giving false evidence or information, or making a false allegation,
-is not a protected act if the evidence or information is given, or the
-
 25
 
+8000485/2023 Page 33
+
+(c) whether it is reasonable for the conduct to have that effect.
+
+102. Section 136 of EA deals with the burden of proof. It is set out in full below
+under the heading ‘Burden of Proof (EA claims)’, where the provisions are
+discussed. Although the provisions are most commonly invoked in relation
+to direct discrimination complaints, they are equally applicable to
+
+harassment and victimisation complaints.
+Victimisation
+
+103. Section 27 EA is concerned with victimisation and provides, so far as
+
+material, as follows:
+“27 Victimisation
+
+(1) | A person (A) victimises another person (B) if A subjects B to a
+
+detriment because —
+
+(a) B does a protected act, or
+
+(b) A believes that B has done, or may do, a protected act.
+(2) Each of the following is a protected act—
+
+(a) bringing proceedings under this Act;
+
+(b) giving evidence or information in connection with
+
+proceedings under this Act;
+
+(c) doing any other thing for the purposes of or in connection
+with this Act;
+
+(d) making an allegation (whether or not express) that A or
+another person has contravened this Act.
+
+(3) Giving false evidence or information, or making a false allegation,
+is not a protected act if the evidence or information is given, or the
+
 allegation is made, in bad faith.
-(4)
 
-This section applies only where the person subjected to a detriment
+(4) This section applies only where the person subjected to a detriment
+
 is an individual.
+
 
-8000485/2023
+--- New Page 34 ---
+Page number: 34
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 34
+8000485/2023 Page 34
 
-…
-(4)
+(4) This section applies only where the person subjected to a detriment
 
-This section applies only where the person subjected to a detriment
 is an individual.”
 
 104. For discussion on the meaning of ‘a detriment’, see paragraph 111 below.
-5
+5 The detriment must be 'because' of the protected act. The protected act
 
-The detriment must be 'because' of the protected act. The protected act
-must be 'the reason' for the treatment.
+must be 'the reason’ for the treatment.
 Direct discrimination
+
 105. Section 13 of the EA is concerned with direct discrimination and provides
+
 as follows:
+10 “13 Direct discrimination
 
-10
-
-“13
-
-Direct discrimination
-
-(1)
-
-A person (A) discriminates against another (B) if, because of a
+(1) | A person (A) discriminates against another (B) if, because of a
 protected characteristic, A treats B less favourably than A treats or
 would treat others.”
 
 106. Section 9 EA deals with the protected characteristic of race. It provides:
-15
-
-“9 Race
+15 “9 Race
 Race includes
+(a) colour
+(b) nationality;
+(c) ethnic or national origins.”
 
-20
-
-(a)
-
-colour
-
-(b)
-
-nationality;
-
-(c)
-
-ethnic or national origins.”
-
-107. According to section 23 EA, “on a comparison for the purposes of section
-13, … there must be no material difference between the circumstances
+20 107. According to section 23 EA, “on a comparison for the purposes of section
+13, ... there must be no material difference between the circumstances
 relating to each case”. The relevant “circumstances” are those factors
 which the respondent has taken into account in deciding to treat the
 claimant as it did, with the exception of the element of race (Shamoon v
 
-25
-
-Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11). A
+25 Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11). A
 person can be an appropriate comparator even if the situations compared
 are not precisely the same (Hewage v Grampian Health Board [2012]
 UKSC 37). The claimant does not need to point to an actual comparator at
 all and may rely only on a hypothetical comparison.
+
 
-8000485/2023
+--- New Page 35 ---
+Page number: 35
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 35
+8000485/2023 Page 35
 
 108. Very little direct discrimination today is overt, and it can be necessary to
 look for indicators from a time before or after a particular decision which
 may demonstrate that an ostensibly fair-minded decision was, or equally
 was not, affected by racial bias (Anya v University of Oxford [2001] IRLT
-5
 
-377, CA). Sometimes evidence is led of so-called ‘evidential comparators’.
+5 377, CA). Sometimes evidence is led of so-called ‘evidential comparators’.
 These are actual comparators but whose material circumstances in some
 way differ from those of the claimant. Their evidential value is variable and
 is inevitably weakened by differences in material circumstances from the
+
 claimant’s (Shamoon).
 
-10
-
-109. For a direct race discrimination complaint to succeed, it must be found that
+10 109. For adirect race discrimination complaint to succeed, it must be found that
 any less favourable treatment was because of the claimant’s race, though
 the discriminatory reason need not be the sole or even the principal reason
 for the respondent’s treatment. In JP Morgan Europe Ltd v Chweidan
 [2011] IRLR 673, CA, LJ Elias summarised the position as follows:
 
-15
-
-“5 … This means that a reason for the less favourable treatment – not
+15 “5... This means that a reason for the less favourable treatment — not
 necessarily the only reason but one which is significant in the sense
-of more than trivial - must be the claimant’s disability. …”
+of more than trivial - must be the claimant’s disability. ...”
+
 110. Section 39(2) of EA provides among other matters that an employer must
+
 not discriminate against an employee as to the terms on which
 
-20
-
-employment is offered or the way in which he affords access to training or
+20 employment is offered or the way in which he affords access to training or
 other benefits, or by dismissing him or subjecting him to ‘any other
+
 detriment’. There is, therefore, a requirement for an element of detriment
+
 in any discrimination claim (which does not concern terms of employment,
+
 access to benefits or dismissal).
 
-25
-
-111. ‘Detriment’ is not defined in the legislation, save that it is said to exclude
+25 111. ‘Detriment’ is not defined in the legislation, save that it is said to exclude
 conduct amounting to harassment (s.212). A claimant seeking to establish
-a 'detriment' needs to show that a reasonable employee would or might
+a ‘detriment’ needs to show that a reasonable employee would or might
 take the view that they had been disadvantaged in the circumstances in
 which they had to work (Shamoon v Chief Constable of the Royal Ulster
-
-30
-
-Constabulary (Northern Ireland) [2003] UKHL 11. The dicta of Peter
+30 Constabulary (Northern Ireland) [2003] UKHL 11. The dicta of Peter
 Gibson LJ in Jiad v Byford [2003] IRLR 232), CA is that ‘detriment’ is to
 be given a wide meaning and it means no more than to put under a
+
 disadvantage. Although a trivial disadvantage would not suffice, it is not
+
 
-8000485/2023
-
-Page 36
-
-necessary to find some physical or economic consequence. ACAS
-describes detriment as describing ‘damage, harm or loss’.
-Burden of Proof (EA claims)
-112. Section 136 of EA deals with the burden of proof. It provides, so far as
-5
-
-material, as follows:
-“136
-
-Burden of proof
-
-(1)
-
-This section applies to any proceedings relating to a contravention
-of this Act.
-
-(2)
-
-If there are facts from which the court could decide, in the absence
-of any other explanation, that a person (A) contravened the
+--- New Page 36 ---
+Page number: 36
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-provision concerned, the court must hold that the contravention
-occurred.
-(3)
-
-But subsection (2) does not apply if A shows that A did not
-contravene the provision.
-
 15
 
-…
-(6)
-
-A reference to the court includes a reference to—
-(a)
-
-an employment tribunal;
-
-…”
-113. The effect of section 136 is that, if the claimant makes out a prima facie
 20
-
-case of discrimination (or harassment or victimisation), it will be for the
-respondent to show a non-discriminatory explanation.
-114. There are two stages. Under Stage 1, the claimant must show facts from
-which the Tribunal could decide there was discrimination (or harassment
-or victimisation). This means a ‘reasonable tribunal could properly
 
 25
 
+30
+
+8000485/2023 Page 36
+
+necessary to find some physical or economic consequence. ACAS
+describes detriment as describing ‘damage, harm or loss’.
+
+Burden of Proof (EA claims)
+
+112.
+
+113.
+
+114.
+
+Section 136 of EA deals with the burden of proof. It provides, so far as
+
+material, as follows:
+“136 Burden of proof
+
+(1) This section applies to any proceedings relating to a contravention
+of this Act.
+
+(2) If there are facts from which the court could decide, in the absence
+of any other explanation, that a person (A) contravened the
+provision concerned, the court must hold that the contravention
+
+occurred.
+
+(3) But subsection (2) does not apply if A shows that A did not
+
+contravene the provision.
+
+(6) A reference to the court includes a reference to—
+
+(a) | anemployment tribunal;
+
+y
+
+The effect of section 136 is that, if the claimant makes out a prima facie
+case of discrimination (or harassment or victimisation), it will be for the
+
+respondent to show a non-discriminatory explanation.
+
+There are two stages. Under Stage 1, the claimant must show facts from
+which the Tribunal could decide there was discrimination (or harassment
+or victimisation). This means a ‘reasonable tribunal could properly
 conclude’ on the balance of probabilities that there was discrimination or
-harassment (Madarassy v Nomura International plc [2007] IRLR 246,
+harassment (Madarassy v Nomura International ple [2007] IRLR 246,
 CA). The Tribunal should take into account all facts and evidence available
 to it at Stage 1, not only those which the claimant has adduced or proved.
 If there are disputed facts, the burden of proof is on the claimant to prove
+those facts. The respondent’s explanation is to be left out of account in
+
+
+--- New Page 37 ---
+Page number: 37
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-those facts. The respondent’s explanation is to be left out of account in
-
-8000485/2023
-
-Page 37
+8000485/2023 Page 37
 
 applying Stage 1. However, merely showing a protected characteristic plus
 less favourable treatment is not generally sufficient to shift the burden and
 progress to Stage 2. Those bare facts only indicate a possibility of
 discrimination. They are not, without more, sufficient material from which
-5
-
 a tribunal could conclude that, on the balance of probabilities, the
 respondent had committed un unlawful act of discrimination or other
+
 prohibited conduct. ‘Something more’ is required (Madarassy).
+
 115. Although, at Stage 1, a tribunal must exclude the substance of the
-employer’s explanation, it is not excluded from drawing inferences from
-
-10
-
+employer's explanation, it is not excluded from drawing inferences from
 the fact that there are inconsistencies in an employer’s explanation (Veolia
 Environmental Services UK v Gumbs EAT/0487/12/BA).
+
 116. If the claimant shows facts from which the Tribunal could decide a
 discriminatory or other prohibited act has occurred, then, under Stage 2,
 the respondent must prove on the balance of probabilities that the
-
-15
-
 treatment was ‘in no sense whatsoever’ because of the protected
+
 characteristic or protected act (Igen v Wong [2005] IRLR 258).
+
 117. There are cases where it is unnecessary to apply the burden of proof
 provisions. These provisions will require careful attention where there is
 room for doubt as to the facts necessary to prove discrimination or other
-
-20
-
 prohibited conduct but they have nothing to offer where the Tribunal is in
 a position to make positive findings one way or the other (Hewage).
+
 Sections 39 and 40 of EA (Discrimination and Harassment at Work)
 118. Section 39 of the EA, so far as relevant, is in the following terms:
 
-25
-
-39.
-
-Employees and applicants
+39. | Employees and applicants
 
 (1)
 
-…
-
-(2)
-
-An employer (A) must not discriminate against an employee of A's
+(2) An employer (A) must not discriminate against an employee of A's
 (B)—
-
-30
-
 (a)
-
-…
-
 (b)
 
-…
+(c) by dismissing B;
+
 
-(c)
+--- New Page 38 ---
+Page number: 38
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-by dismissing B;
-
-8000485/2023
-(d)
-
-Page 38
-by subjecting B to any other detriment.
-
-…
-119. Section 40 of the EA, so far as relevant, provides:
-
-5
-
-40.
-
-Employees and applicants: harassment
-
-(1)
-
-An employer (A) must not, in relation to employment by A,
-harass a person (B)—
-(a)
-
-who is an employee of A's;
-
-…
-Submissions
 10
+
+15
+
+20
+
+25
+
+8000485/2023 Page 38
+
+(dq) by subjecting B to any other detriment.
+
+119. Section 40 of the EA, so far as relevant, provides:
+40. Employees and applicants: harassment
+
+(1) | Anemployer (A) must not, in relation to employment by A,
+harass a person (B)—
+
+(a) who is an employee of A's;
+
+Submissions
 
 120. Mr Meechan spoke to a written submission to which he faithfully adhered.
 The claimant gave an oral submission. The entire content of both
 submissions has been carefully considered and taken into account in
 making the decisions in this judgment. Failure to mention any part of these
-submissions
-
-15
-
-in
-
-this
-
-judgment
-
-does
-
-not
-
-reflect their
-
-lack
-
-of
-
+submissions in this judgment does not reflecttheir lack of
 consideration. The submissions are addressed in the ‘Discussion and
 Decision’ section below, which sets out where the submissions were
+
 accepted, where they are not, and the reasons for this.
 Discussion and Decision
 Whistleblowing: Did C make protected disclosures?
 
-20
-
 121. Did C make the disclosures set out at paragraphs 9 (i), (ii) and (iii) above
 and were they protected disclosures?
-12 January 2023 alleged PD (1) – complaint about JW
+
+12 January 2023 alleged PD (1) — complaint about JW
+
 122. C’s claim is that on this date he told CT that the way in which JW had
 spoken to him at the meeting was insulting, abusive and violent, was
-
-25
-
 contributing to insecurity in the department and was having an effect on
+
 his own health and safety and on that of the whole team.
+
 123. In his submissions, C said that having an individual allowed to terrorize
 others verbally put health and safety at risk. He referred to his evidence
 about JW’s behaviour. He said everything was written in plain English on
+
 
-8000485/2023
+--- New Page 39 ---
+Page number: 39
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 39
+8000485/2023 Page 39
 
 19 June. It was, said C, not necessary to explicitly say something illegal
 was happening. Mr Meechan summarised the law on qualifying protected
 disclosures. He submitted that C didn’t make the disclosures in the way
 alleged in his pleaded case and the information neither expressly nor
-5
 
-impliedly tended to show breach of a legal obligation or risk to health and
+5 impliedly tended to show breach of a legal obligation or risk to health and
 safety. Further, Mr Meechan argued that any belief that the disclosures
 were in the public interest was not objectively reasonable.
+
 124. With respect to the alleged protected disclosure on 12 January, we have
 not found that C used the words averred in his amended claim. It was not
-
-10
-
-C’s evidence to the Tribunal that he did so. We have found instead that he
+10 C’s evidence to the Tribunal that he did so. We have found instead that he
 told CT the way JW spoke to him unacceptable. C did not use the words
 ‘violent’ or ‘abusive’ though he did say he found JW to be condescending
 and insulting. We have found that he did not say JW was contributing to
 insecurity in the department or having an effect on C’s health and safety
+15 and that of the whole team.
 
-15
-
-and that of the whole team.
 125. We considered whether, in the words we found he uttered, C disclosed
 information which in his reasonable belief tended to show that a person
 had failed, was failing or was likely to fail to comply with a legal obligation
 or that the health and safety of an individual had been, was being or was
 
-20
-
-likely to be endangered. We do not accept that C believed telling CT that
+20 likely to be endangered. We do not accept that C believed telling CT that
 he found JW’s behaviour unacceptable and his language insulting and
 condesceding tended to show the circumstances mentioned (or any other
 relevant circumstances listed in s.43B(1) of ERA). Support for that finding
 is available from the Teams chat which followed between C and CT where
 
-25
-
-C said “so let’s just forget about that discussion we had this afternoon …
-as I was not aware of these challenges.” Had C genuinely believed that his
+25 C said “so let’s just forget about that discussion we had this afternoon ...
+as | was not aware of these challenges.” Had C genuinely believed that his
 disclosure tended to show endangerment or a likely legal breach, it seems
 unlikely he would so readily have asked that the matter be forgotten about
 regardless of CT’s explanation about JW’s ADHD.
 
-30
-
-126. Even if he did hold such a belief, it would not be objectively reasonable to
+30 126. Even if he did hold such a belief, it would not be objectively reasonable to
 do so. C did not refer to his health or that of anyone else during his
 discussion with CT. He did not allege any legal breach either expressly or
 impliedly. In these circumstances, it is unnecessary to go on to consider
 whether C reasonably believed his disclosure was in the public interest.
+
 
-8000485/2023
+--- New Page 40 ---
+Page number: 40
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 40
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 40
 
 However, had we required to decide this, we would have found that he did
 not. We do not accept he entertained such a belief as a matter of fact, but,
 even if he did so, such belief would not have been an objectively
 reasonable one for him to hold based on the information he conveyed to
-5
-
 CT on 12 January. This information affected only him and arguably CT
 herself as the only other participants in the call.
-12 January 2023 alleged PD (2) – Complaint about copying passwords
+
+12 January 2023 alleged PD (2) — Complaint about copying passwords
+
 127. C did not address us in his submissions on the alleged protected
 disclosure concerning the copying of passwords in the context of his
-
-10
-
 submission on whistleblowing. Mr Meechan submitted that C did not
 expressly or impliedly referred to any legal obligation being breached in
 his conversation with CT.
+
 128. We have found as a matter of fact that C raised with CT the practice of
 copying old passwords to the new server but that he did not tell her the
-
-15
-
 action of JW in doing so was contrary to R’s legal obligations following a
 cyber security breach. Again, it was not C’s evidence at the hearing that
 he did so.
-129. We considered whether, on the facts found, C disclosed information which
+
+129. Weconsidered whether, on the facts found, C disclosed information which
 in his reasonable belief tended to show that a person had failed, was failing
-
-20
-
 or was likely to fail to comply with a legal obligation. We accept he
 disclosed factual information (the practice of copying passwords from one
 server to another) for the purposes of Cavendish. However, we do not
 accept that C believed voicing his concerns about this tended to show the
 circumstances mentioned (or any other relevant circumstances listed in
-
-25
-
 s.43B(1) of ERA). As Mr Meechan pointed out, C didn’t refer to any legal
 obligations expressly or impliedly. Again, some support for C’s lack of
 belief might be derived from his own willingness to accept CT’s contrary
 view without argument and to continue with the approach she proposed.
 When she pointed out the passwords were encrypted and were not
-
-30
-
 captured by the cyber breach because the particular server was not live,
 C went along with her approach and direction. It is unlikely he would so
 readily have acceded to the approach if he genuinely believed that he had
 conveyed information tending to show R’s breach of a legal obligation.
+
 
-8000485/2023
-
-Page 41
-
-130. In any event, even if C did hold such a belief, it would not be objectively
-reasonable to do so. He referred to no legislation or or other laws or even
-guidance during the discussion. There is no objectively reasonable basis
-for a belief that the information he shared tended to show breach of a legal
-5
-
-obligation or the likelihood of one.
-19 June 2023 – alleged PD (3) verbal abuse by JW and IT malpractice
-131. C said that his email of 19 June was written in plain English and that it was
-hard to demonstrate that these logical conclusions (endangerment to H&S
-and a legal breach) did not flow from what he wrote. For something to be
+--- New Page 41 ---
+Page number: 41
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 41
+
+130.
+
+In any event, even if C did hold such a belief, it would not be objectively
+reasonable to do so. He referred to no legislation or or other laws or even
+guidance during the discussion. There is no objectively reasonable basis
+for a belief that the information he shared tended to show breach of a legal
+obligation or the likelihood of one.
+
+19 June 2023 — alleged PD (3) verbal abuse by JW and IT malpractice
+
+131.
+
+132.
+
+133.
+
+C said that his email of 19 June was written in plain English and that it was
+hard to demonstrate that these logical conclusions (endangerment to H&S
+and a legal breach) did not flow from what he wrote. For something to be
 illegal, it did not been to be explicitly said, in C’s submission. He also relied
 on the text of the email as tending to show a risk to health and safety. Mr
 Meechan, on the other hand, said there was no mention of legal obligations
 and that the reference to ‘digital security hygiene’ was a very different
 issue, more akin to a recommendation of best practice. With regard to the
-
-15
-
 email content about JW, Mr Meechan adopted the same points as he had
 in relation to the first alleged protected disclosure.
-132. With regard to IT malpractice, C said this in his email:
-“…it is not right to copy the passwords from an old server when rebuilding
+
+With regard to IT malpractice, C said this in his email:
+
+“...It is not right to copy the passwords from an old server when rebuilding
 a server in a company setting and even more so right after a horrible
-
-20
-
 cyberattack. Instead, a dutiful devops engineer should use a secure
-method to reset all the passwords on the new server and this is what I had
+method to reset all the passwords on the new server and this is what | had
 in mind as a matter of dutiful care towards the interest of my employer.
-…
-… in spite of the fact that copying over old passwords to new servers in an
 
-25
-
+... In spite of the fact that copying over old passwords to new servers in an
 environment which had suffered a recent attack was clearly wrong and not
-in the best interest of the company in my modest opinion, I nonetheless
-accepted the verdict.”
-133. We accept that again there is a disclosure of information about a practice
+in the best interest of the company in my modest opinion, | nonetheless
+accepted the veraict.”
+
+We accept that again there is a disclosure of information about a practice
 of copying passwords from an old server. We considered whether, in his
-
-30
-
 reasonable belief, this information tended to show that a person had failed,
 was failing or was likely to fail to comply with a legal obligation. We
 concluded that C did not subjectively hold this belief at the time, but that,
+
 
-8000485/2023
+--- New Page 42 ---
+Page number: 42
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 42
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 42
+
+134.
+
+135.
 
 even if he did so, such belief was not objectively reasonable. C makes no
 reference in his email to any legal obligation either expressly or by
 implication. On the contrary, he refers to his preferred approach as being
 what a ‘dutiful’ devops engineer should do. It was, he said, a matter of
-5
-
 dutiful care towards the interests of his employer and not in R’s best
 interests. His criticism at its highest is that the practice is “wrong” in C’s
 own opinion. His email cannot be read as supporting an objectively
 reasonabe belief that he was disclosing information tending to show that
 R was falling foul of a legal obligation.
 
-10
+With regard to verbal abuse by JW, C’s email of 19 June included the
 
-134. With regard to verbal abuse by JW, C’s email of 19 June included the
 following relevant text:
-despite the violence with which I was treated
-…
-… I am not too fond of getting anywhere near Mr White as he is most likely
 
-15
+despite the violence with which | was treated
 
-the most verbally abusive, brutal, loud and disrespectful person I ever
-came across…
-Between his never ending rather vulgar insults, … about the other teams
-who are always systematically qualified after the use of… the “F” word, his
+... lam not too fond of getting anywhere near Mr White as he is most likely
+the most verbally abusive, brutal, loud and disrespectful person | ever
+
+came across...
+
+Between his never ending rather vulgar insults, ... about the other teams
+who are always systematically qualified after the use of... the “F” word, his
 total lack of respect for everyone including our manager whom he would
+systematically interrupt during team meetings ..., the fact that he once
+allowed himself to shush her ..., his systematic attempts to belittle me in
 
-20
-
-systematically interrupt during team meetings …, the fact that he once
-allowed himself to shush her …, his systematic attempts to belittle me in
 particular and some of his comments about my direct manager
-…by being too tolerant of his excessive behaviour, it is not only reinforcing
-them but leading to an atmosphere I personally consider rather toxic and
 
-25
+...by being too tolerant of his excessive behaviour, it is not only reinforcing
+them but leading to an atmosphere | personally consider rather toxic and
 
 discouraging.
-…I have detailed it above some characters in the team with an attitude that
+
+...| have detailed it above some characters in the team with an attitude that
 would guarantee in other settings, an immediate dismissal for gross
 misconduct; but these characters are instead left in peace when they
 terrorise everyone around them with open brutality and verbal abuse and
 
-30
-
 this is not right to me.
-135. We accept that C’s email disclosed some information about JW and some
+
+We accept that C’s email disclosed some information about JW and some
 of his behaviour. There was some factual content conveyed about JW
+
 
-8000485/2023
+--- New Page 43 ---
+Page number: 43
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 43
+8000485/2023 Page 43
 
 using the f word about other teams, as well as interrupting and shushing
 his manager, and belittling C. In his email, C also deploys emotive
 language which is not tied to a specific factual allegation, describing JW
-as “violent”, “abusive”, “brutal” and ‘terrorising’.
-5
 
-136. In different circumstances, such potent language might be reasonably
+as “violent”, “abusive”, “brutal” and ‘terrorising’.
+
+5 136. In different circumstances, such potent language might be reasonably
 believed by a worker to tend to show that some act of physical violence
 had occurred or was likely to occur. Were that the case, the requirements
 of section 43B(1) would most likely be satisfied . However, C did not
 believe that his emotive words tended to show such a situation. He was
 
-10
-
-not alleging physical violence or intimidation by JW and did not believe his
-words disclosed information tending to show this. He had minimal inperson interactions with JW as both individuals were remote workers, and
+10 not alleging physical violence or intimidation by JW and did not believe his
+words disclosed information tending to show this. He had minimal in-
+person interactions with JW as both individuals were remote workers, and
 he knew the email recipients understood this. The array of adjectives was
 intended to refer to the behaviour of JW mentioned in the email which was
 
-15
+15 restricted to verbal interactions.
 
-restricted to verbal interactions.
 137. Notwithstanding the immoderate language used in relation to JW, the
 factual information disclosed, we find, was not believed by C to tend to
 show either a breach of a legal obligation or the endangerment of health
 and safety. C does not expressly refer to either risk in his email and we do
 
-20
-
-not accept he believed such a situation was implied by his description of
+20 not accept he believed such a situation was implied by his description of
 the bad language, interruptions and other conduct in the email. If he did
 so, such belief would not be objectively reasonable when one focuses on
 the factual information conveyed about JW’s conduct, rather than the
+
 emotive adjectives.
 
-25
-
-138. Again, we do not require to do so, but if we were to consider whether C
+25 138. Again, we do not require to do so, but if we were to consider whether C
 reasonably believed his disclosures were in the public interest, we would
 conclude he did not. JW was a colleague at the same level as C. He
-worked from home and he did not, in the scheme of the respondent’s
+worked from home and he did not, in the scheme of the respondent's
 international structure, have a particularly high office in relative terms or a
 
-30
-
-wide sphere of influence or interaction organisationally. This was a clash
+30 wide sphere of influence or interaction organisationally. This was a clash
 of communication styles and sensibilities, but was a contained matter in
 the sense that, at most, it affected perhaps 5 or 6 people in R’s ArchOps
 team. C was also aware when he wrote his email that any ‘wrongdoing’ by
 JW may be contributed to by his ADHD. We don’t accept that C believed
+
 
-8000485/2023
+--- New Page 44 ---
+Page number: 44
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 44
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 44
 
 subjectively that he was disclosing information about JW in the interests of
 a wider public. In all the circumstances, it would not be objectively
 reasonable for him to hold such a belief, even if he did so.
-139. We therefore find that C did not make protected disclosures to R as alleged
-5
 
+139. We therefore find that C did not make protected disclosures to R as alleged
 or at all. It follows that C’s complaint of automatic unfair dismissal pursuant
 to section 103A of ERA is dismissed. So too is his protected disclosure
 detriment complaint brought puruant to s.47B of that Act.
-Victimisation
-Alleged Protected Act (1) – Communications with CT on 12 January 2023
 
-10
+Victimisation
+Alleged Protected Act (1) — Communications with CT on 12 January 2023
 
 140. C alleges that his complaints made to CT on 12 January 2023 about JW’s
 conduct amounted to a protected act. As discussed above in the context
@@ -2723,648 +2570,648 @@ of C’s whistleblowing complaints, we have not found that C said the things
 which were pleaded in his amended claim. We found he told CT the way
 JW spoke to him unacceptable and that he found JW to be condescending
 
-15
-
 and insulting.
+
 141. C’s submissions on victimisation were not focused on whether his actings
 met the definition of a protected act but on his assertion that there was a
 causal link between his complaint about JW and his dismissal. Mr
 Meechan summarised the legislative provisions on victimisation and cited
-
-20
-
 the case of Beneviste v Kingston University EAT 039/05 in which the
 EAT commented that a claim does not identify a protected act in the true
 legal sense ‘merely by making a reference to a criticism, grievance or
 complaint without suggesting that the criticism, grievance or complaint was
 in some sense an allegation of discrimination or otherwise a contravention
+of the legislation.’ He argued that the alleged protected acts did not happen
+in the way C alleged but that, in any event, complaining about the way JW
+
+spoke to him with no mention of race could not amount to a protected act.
+
+142. Weconsider whether C made an allegation (implied or express) that R or
+JW contravened the EA by saying what he said on 12 January 2023, or
+whether this was another ‘thing’ done for the purposes of or in connection
+with the EA. C did not mention his race or any other protected
+
+characteristic to CT in the course of his conversation with her. He made
+
+
+--- New Page 45 ---
+Page number: 45
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
 
 25
 
-of the legislation.’ He argued that the alleged protected acts did not happen
-in the way C alleged but that, in any event, complaining about the way JW
-spoke to him with no mention of race could not amount to a protected act.
-142. We consider whether C made an allegation (implied or express) that R or
-JW contravened the EA by saying what he said on 12 January 2023, or
-
 30
 
-whether this was another ‘thing’ done for the purposes of or in connection
-with the EA. C did not mention his race or any other protected
-characteristic to CT in the course of his conversation with her. He made
-
-8000485/2023
-
-Page 45
+8000485/2023 Page 45
 
 no express allegation that JW or anyone else had contravened the EA. He
 made no mention of words like ‘discrimination’ or ‘bias’ or ‘prejudice’ in his
 conversation. He made no mention of the EA or allude to equalities
 legislation or rights more generally, or to any alleged breach of a law or
-5
-
 statute. Merely making a complaint or criticism without conveying some
 sense of an allegation of discrimination or other conduct prohibited does
 not suffice to satisfy the requirements under EA s.27(2)(d). Nor was there
 any evidential basis for a conclusion that the conversation on 12 January
 was a thing done for the purposes of or in connection with EA. The
-
-10
-
 communications C made to CT on that date did not amount to a protected
 act.
-Alleged Protected Act (2) – ‘Formal grievance’ on 19 June 2023
+
+Alleged Protected Act (2) — ‘Formal grievance’ on 19 June 2023
+
 143. C alleges that he complained of direct discrimination and of an
 ‘atmosphere of bias and prejudice’ in his email of 19 June. In reality, he
-
-15
-
 used no such words in that correspondence. Those parts of the email
 which are said to imply an allegation of a contravention of the EA have
 been set out at paragraphs 132 and 134. He described JW, among other
 matters as ‘verbally abusive, brutal, loud and disrespectful’ and said he
 had ‘terrible manners’. He alleged that JW used vulgar insults and the f
-
-20
-
 word when describing other teams. What was lacking from his email was
 any suggestion that this conduct related to C’s race or any other protected
 characteristic. Nor was there even a suggestion in the email that JW’s
 criticised conduct was targeted exclusively at C. On the contrary, C
 referred to JW shushing and interrupting their line manager, CT, and
-
-25
-
 swearing about absent colleagues as well as belittling C himself.
-144. At its highest, C potentially alludes (without using these words) to a double
+
+144. Atits highest, C potentially alludes (without using these words) to a double
 standard in his email when he juxtaposes his own treatment with that of
 JW. He talks of his respectful efforts then goes on immediately thereafter
-to observe, “we have … some characters in the team … with an attitude
-
-30
-
+to observe, “we have ... some characters in the team ... with an attitude
 that would guarantee in other settings, an immediate dismissal for gross
 misconduct; but these characters are instead left in peace when they
-terrorize everyone … with open brutality and verbal abuse…” Although he
+terrorize everyone ... with open brutality and verbal abuse...” Although he
 speaks of characters in the plural, C refers to JW alone. This can be
 inferred from the rest of his email which includes no complaint about
+
 
-8000485/2023
+--- New Page 46 ---
+Page number: 46
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 46
+8000485/2023 Page 46
 
 anyone else. However, even if the email is read as complaining about JW’s
 apparent impunity compared to his own experience, nothing he says
 suggests an allegation that the difference is influenced by C’s race. In
 these circumstances, we find that C neither makes an allegation of a
-5
 
-contravention of the EA in his email, nor is the sending of the email
+5 contravention of the EA in his email, nor is the sending of the email
 something he does for the purposes of or in connection with that
 legislation.
+
 145. As C did not do a protected act, his complaint of victimisation cannot
+
 succeed and is dis missed.
+10 Harassment related to race
 
-10
-
-Harassment related to race
 146. C’s harassment complaint is premised on an allegation that JW over a
 period between 12 January and 19 June repeatedly shouted at, belittled,
 mocked and laughed at the claimant. As previously observed, the facts we
 have found fall far short of the characterisation of the events in C’s
 
-15
-
-amended pleadings. We recognise there is a potential time bar issue in
+15 amended pleadings. We recognise there is a potential time bar issue in
 relation to the first two of the three incidents complained of, which took
 place in January and February/ March 2023. In the interests of efficiency,
 we approach the matter by first considering whether those incidents fall
 within the definition of harassment. To decide the time bar point, we would
 
-20
-
-require to decide whether there was prohibited conduct extending over a
+20 require to decide whether there was prohibited conduct extending over a
 period which included the earlier incidents. This would necessitate
 conclusions about whether those acts were unlawful harassment or other
+
 prohibited conduct so we begin by addressing that question.
 Was JW’s conduct unwanted?
 
-25
-
-147. While the three interactions we found took place were neither as extreme
+25 147. While the three interactions we found took place were neither as extreme
 nor as frequent as C’s pleadings suggest, we accept that JW’s tone and
 communication style was not welcomed by C. That is supported to some
 degree by his decision to complain to CT about the matter on 12 January
 2023. We accept, on balance, that JW’s conduct on each of the three
 
-30
+30 occasions was unwanted by C whose reaction was one of considerable
 
-occasions was unwanted by C whose reaction was one of considerable
 upset.
+
 
-8000485/2023
+--- New Page 47 ---
+Page number: 47
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 47
+8000485/2023 Page 47
 
 Did JW’s unwanted conduct relate to race?
-148. C’s argument was that, within his department, he, in particular, was
-targeted by JW. Mr Meechan said there was a lack of evidence to establish
-C’s harassment allegations generally and particularly a lack of evidence
-5
 
-that JW’s conduct related to race. He pointed out it was C’s own evidence
+148. C’s argument was that, within his department, he, in particular, was
+
+targeted by JW. Mr Meechan said there was a lack of evidence to establish
+
+C’s harassment allegations generally and particularly a lack of evidence
+
+5 that JW’s conduct related to race. He pointed out it was C’s own evidence
 that JW spoke inappropriately about other people who were white.
+
 149. As C would have it, he was trying to innovate in the suggestions and
 approaches he was proposing and JW was targeting his work with
 criticisms and blocking his innovation. C acknowledged that he alone in
 
-10
-
-the team was trying to innovate with suggestions of the kind he put forward.
+10 the team was trying to innovate with suggestions of the kind he put forward.
 JW denied targeting C. As he would have it, C’s innovating was ignoring
 ‘prior art’. He accepted he would become stern when he had to repeat
 himself and believed C was taking the wrong approach (e.g. in relation to
 his ‘innovative’ modular approach) or not doing what was asked of him.
 
-15
-
-150. We accept, on the balance of probabilities, that JW communicated with C
+15 150. We accept, on the balance of probabilities, that JW communicated with C
 in the way he did on the occasions in question because of his genuinely
 held views that C’s proposals were not correct. We accept he felt, as time
 went on, that C was not willing to engage with R’s way of working. We wish
 to be clear that we make no finding as to whether the proposed firewall or
 
-20
-
-the modular approach or generating new passwords as opposed to
+20 the modular approach or generating new passwords as opposed to
 copying old ones were or were not sound approaches. What we conclude,
 based on the evidence before us is that, rightly or wrongly, JW genuinely
 did not agree with C’s proposals and that this disagreement, rather than
+
 C’s race, motivated him to voice his dissent during the three exchanges.
 
-25
-
-151. There was no reference or allusion to C’s race in JW’s words. As regards
+25 151. There was no reference or allusion to C’s race in JW’s words. As regards
 JW’s tone and manner, we accept that he expressed himself in a forthright
 way, but there was no evidence that this style of communication was
 reserved exclusively for C or for people of colour. There was substantial
 evidence to the contrary, including from C. JW was forthright and scathing
 
-30
-
-about others in a team of white ethnicity. C witnessed JW ‘shushing’ his
+30 about others in a team of white ethnicity. C witnessed JW ‘shushing’ his
 white manager, CT, and interrupting her.
+
 152. Zoe Mackie (who was white) told C about her experience of JW as being
 someone with strong opinions and Greg Dolan (also white) told him that
+
 
-8000485/2023
+--- New Page 48 ---
+Page number: 48
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 48
+10
 
-“JW comes off rash and opinionated … you have to fight your corner.” Both
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 48
+
+“JW comes off rash and opinionated ... you have to fight your corner.” Both
 of them were alluding in their respective conversations with C to their own
-experience of JW’s opinionated approach before C had joined the team.
-153. While we acknowledge that JW’s forthright and firm manner was not
-5
 
+experience of JW’s opinionated approach before C had joined the team.
+
+153. While we acknowledge that JW’s forthright and firm manner was not
 welcomed or appreciated by C, who found it particularly offensive, we find
 it was characteristic of JW’s communication style with work colleagues
 irrespective of their ethnicity. We were able to come to a positive finding
 on the balance of probabilities that JW’s conduct did not relate to C’s race.
 In those circumstances, it is unnecessary to apply the burden of proof
-
-10
-
 provisions in s.136 of EA (Hewage).
+
 154. C’s complaint of harassment related to race is accordingly dismissed.
 Direct Race Discrimination
+
 Allegation (1): CT and DM allegedly permitted JW to behave in an aggressive
 and disrespectful way
-
-15
 
 155. Again, there is a potential time bar issue in relation to the earlier events
 relied upon in this complaint. We approach the matter by considering first
 whether the events complained of amounted to direct discrimination as
 alleged, applying the same reasoning set out in paragraph 146 above in
-relation to the harassment complaint arising from the same events.
 
-20
+relation to the harassment complaint arising from the same events.
 
 156. In his submissions, C said CT tried to downplay JW’s behaviour. Mr
 Meechan pointed out DM was not present at the meetings in question and
 no concerns about JW were brought to his attention by C at the time of the
 alleged events. He said that CT’s evidence was that no action was
-required.
 
-25
+required.
 
 157. We have found that CT did not raise C’s concerns with JW in relation to
 the incident on 12 January 2023 because, after she had explained JW’s
 struggles with ADHD, C had asked her to just forget their discussion that
 day where he had raised the matter. There was no evidence that C ever
 raised the issue with CT again until he copied her into the email of 19 June
+or that he ever raised JW’s behaviour with DM until he copied him into that
+email. Further, we have accepted that CT did not agree with C’s
+
+
+--- New Page 49 ---
+Page number: 49
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-or that he ever raised JW’s behaviour with DM until he copied him into that
-email. Further, we have accepted that CT did not agree with C’s
-
-8000485/2023
-
-Page 49
+8000485/2023 Page 49
 
 characterisation of JW’s behaviour during the exchange in January 2023
 or in the two subsequent exchanges about which he gave evidence.
+
 158. We find, as a matter of fact, that CT and DM did not take action in
 relation to JW’s conduct during team meetings because they did not view
 his conduct in the way that C did and did not consider any intervention
-
-5
-
 warranted. We find that C’s race had no bearing on the approach taken to
 JW by his managers. C did not wish action to be taken. He had asked for
 CT to forget it. We accept that CT and DM tolerated a degree of
 brusqueness in JW’s communication style because of their knowledge of
 his ADHD but find that C’s race in no way influenced their approach in this
 
-10
-
 regard.
-159. Given this positive finding, it is unnecessary to apply the burden of proof
-provisions in s.136 of EA (Hewage). The complaint that CT and DM
-permitted JW to behave in a disrespectful way towards C because of C’s
-race is, therefore, dismissed.
 
-15
+159. Given this positive finding, it is unnecessary to apply the burden of proof
+provisions in s.1386 of EA (Hewage). The complaint that CT and DM
+permitted JW to behave in a disrespectful way towards C because of C’s
+
+race is, therefore, dismissed.
 
 Allegation (2): On 13 June, CT misrepresented to HR what had happened in her
 meeting that day with C
-160.
 
-The allegation that CT misrepresented her meeting of 13 June with C to
+160. The allegation that CT misrepresented her meeting of 13 June with C to
 HR has not been established as a matter of fact. The complaint that this
 alleged conduct amounted to direct race discrimination is, therefore,
 
-20
-
 dismissed.
 Allegation (3): HR did not follow R’s performance procedure in relation to C
-161.
 
-This allegation has not been established. R’s disciplinary policy
+161. This allegation has not been established. R’s disciplinary policy
 expressly did not ‘normally apply’ to employees with less than 24 months’
-
-25
-
 service. In relation to C, we have found that R followed its standard process
 which was to arrange a so-called ‘continued employment meeting’ with a
 member of R’s HR personnel who would decide the employee’s fate
 following such a meeting. There was no difference in C’s treatment as
 compared with other employees (including those of white ethnicity) with
+less than 23 months’ service whose performance had been raised with the
+People Team by their manager as a source of concern.
+
+
+--- New Page 50 ---
+Page number: 50
+Title of ebook of origin: 8000485_Judgment_050624.pdf
+
+10
+
+15
+
+20
+
+25
 
 30
 
-less than 23 months’ service whose performance had been raised with the
-People Team by their manager as a source of concern.
-
-8000485/2023
-
-Page 50
+8000485/2023 Page 50
 
 162. There was or would be a difference in C’s treatment compared to
 employees with more than 24 months’ service. According to R’s policy,
 such employees would be dealt with in accordance with R’s procedure and
 would be informed in writing of improvements required and given a period
-5
-
 of monitoring. However, individuals with more than 24 months’ service are
 not relevant comparators for C since there is a material difference in their
 circumstances other than a difference in the protected characteristic of
 race. That difference is their longer service and it is this which determines
 their differing treatment.
 
-10
-
 163. The complaint that R did not follow its performance procedure in relation
 to C because of his race is, therefore, dismissed.
+
 Allegation (4): C sent code to DM to check which DM did not check
+
 164. C sent an email on 19 June 2023 with links embedded to code he had
 written during his employment. DM was not one of the addressees but was
-
-15
-
 copied into the email, along with CT. The email did not expressly ask that
 DM (or any other recipient) check the code linked within it. It is undisputed
 that DM did not do so.
+
 165. We accept, on the balance of probabilities, that DM did not do so
 because he did not understand he was being asked to do so in the absence
-
-20
-
 of any request. We accept that DM, who was not a primary recipient,
 scanned the email, knowing he would not be present at the meeting which
-was be taken forward by LC and DMn.
-
-We find, on the balance of
-
+was be taken forward by LC and DMn. We find, on the balance of
 probabilities, that C’s race had no influence whatsoever on DM’s omission
 to review the code linked in the email of 19 June 2023. In those
-25
-
 circumstances, it is unnecessary to apply the burden of proof provisions in
 s.136 of EA (Hewage).
+
 Allegation (5) R cancelled C’s benefits the day he was dismissed, indicating
+
 prejudgment.
+
 166. The allegation that R cancelled C’s health benefits the day before the
-
-30
-
 decision was taken to dismiss him has not been found to be established
 on the evidence. R made the instruction to the provider after the dismissal
+
 to be actioned with retrospective effect in line with R’s practice. The
+
 
-8000485/2023
-
-Page 51
-
-complaint that this alleged conduct amounted to direct race discrimination
-is, therefore, dismissed.
-Allegation (6): was C dismissed because of his race?
-167. It is not disputed by R that C was dismissed. The reason given by LC in
-5
-
-her letter was C’s ‘overall capability within your role .. specifically in relation
-to [his] failure to perform tasks in a timely manner, … utilise our systems
-efficiently and to perform the tasks … to the standards expected.”
-168. In his submission, C pointed out that he was told in his meetings in June
-with R that he was expected to commit code 5 or 6 times per day but said
+--- New Page 51 ---
+Page number: 51
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
-no one in the team was committing that frequently and he was not, in fact
-the worst performer. He submitted that CT had never told him there was
-anything wrong. He also relied upon DM’s reference to him as a
-‘passenger’ in communications and asserted, in effect that DM would not
-use that term towards CT or the CEO. C said JW had been verbally
-
 15
 
+20
+
+25
+
+30
+
+8000485/2023 Page 51
+
+complaint that this alleged conduct amounted to direct race discrimination
+is, therefore, dismissed.
+
+Allegation (6): was C dismissed because of his race?
+
+167. It is not disputed by R that C was dismissed. The reason given by LC in
+her letter was C’s ‘overall capability within your role .. specifically in relation
+to [his] failure to perform tasks in a timely manner, ... utilise our systems
+
+efficiently and to perform the tasks ... to the standards expected.”
+
+168. In his submission, C pointed out that he was told in his meetings in June
+with R that he was expected to commit code 5 or 6 times per day but said
+no one in the team was committing that frequently and he was not, in fact
+the worst performer. He submitted that CT had never told him there was
+anything wrong. He also relied upon DM's reference to him as a
+‘passenger in communications and asserted, in effect that DM would not
+use that term towards CT or the CEO. C said JW had been verbally
 abusive, yet he was not dismissed. He asserted that CT and DM were
 reluctant to accept their managerial responsibilities. He said they put the
 problem on to HR but that HR merely acted on information given to them
 about C’s perceived failure which, he said, was not factual.
+
 169. Mr Meechan said that R’s witnesses were consistent that race was not the
-
-20
-
 reason for the dismissal. He said C had failed to establish the ‘something
 more’ beyond a protected characteristic and less favourable treatment in
 order to discharge the initial burden of proof as required by Madarassey.
 He said that JW was not a relevant comparator because there were
 material differences between their respective circumstances. R did not
 
-25
-
 have performance concerns in relation to JW.
+
 170. We agree with C’s observation that, although LC ultimately confirmed the
 dismissal, that she merely acted on information given to her by C’s
 managers. There can be little doubt that this was so. The HR team would
 not have convened a ‘continued employment meeting’ if CT and DMn had
-
-30
-
 not contacted them on 12 June to raise their concerns. They did so, not in
 tentative terms, but in a manner that left little room for doubt about their
 expected outcome. They said, “Given the above, we believe there isn’t a
 role for Marcel in the department given the natural way Marcel likes to work
+
 
-8000485/2023
+--- New Page 52 ---
+Page number: 52
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 52
-
-and his level of exposure to the tools we use.” In a Teams chat among DM,
-DMn and CT on 25 May, DM had expressed himself even more starkly. He
-said, ‘We have made the decision to Under 23 months dismiss Marcel he’s not worked out and there’s no room for passengers right now’.
 5
 
-171. Although LC was adamant in her evidence that no managers influenced
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 52
+
+171.
+
+172.
+
+173.
+
+and his level of exposure to the tools we use.” Ina Teams chat among DM,
+DMn and CT on 25 May, DM had expressed himself even more starkly. He
+said, ‘We have made the decision to Under 23 months dismiss Marcel -
+
+he’s not worked out and there’s no room for passengers right now.
+
+Although LC was adamant in her evidence that no managers influenced
 her decision to dismiss and that she made the decision based on what C
 had put forward, we were not persuaded that the wishes of DMn, DM and
 CT did not feature in her decision making. We are satisfied, on balance,
 that their wishes and view weighed heavily for LC as did the evidence they
-
-10
-
 put forward regarding C’s performance. In those circumstances, we did not
 consider we could decide whether C’s race was an effective cause of the
 dismissal by focusing on LC’s decision in isolation. We require also to
 decide whether race played a role (conscious or otherwise) in the decision
 of those managers to initiate the HR led process.
 
-15
-
-172. With respect to C’s submission that CT failed to raise concerns with him,
+With respect to C’s submission that CT failed to raise concerns with him,
 formally or otherwise, we acknowledge that this is broadly correct. CT
 didn’t flag up what she perceived as C’s shortcomings in a way that would
 alert him to the seriousness with which she regarded them. Her ‘course
 corrections’ were interspersed with smiley emojis and she offered no
-
-20
-
 warning of the potential consequences of a failure to improve. There was
 scant evidence that she specifically raised with him other sources of
 frustration such as her unhappiness with the pace of his work or her
 perception that he was not listening to guidance. We acknowledge and
 accept that, in the circumstances, R’s letter of 14 June 2023 came as a
-
-25
-
 shock and a blow to C.
-173. The issue for us, however, is whether R dismissed C because of his race.
+
+The issue for us, however, is whether R dismissed C because of his race.
 We acknowledge that perhaps, in a different case, the absence of any
 evidence of any performance management might point away from the
 existence of a genuine perception that performance was poor. However,
-
-30
-
 in this case, the evidence led by R that CT did genuinely perceive a
 problem was substantial and compelling. We accepted CT’s evidence that
 she had considerable frustrations with C’s performance in the role. Her
 evidence was corroborated by that of DM with whom she had shared her
 frustrations over a period before he decided to escalate the issue with
+
 
-8000485/2023
-more
-
-senior
-
-Page 53
-managers.
-
-There
-
-accounts
-
-were
-
-consistent
-
-with
-
-contemporary written evidence in the form of the group chats of 25 May
-where CT spelled out to the other managers instances which had caused
-her concern. That evidence also showed there had been previous
-5
-
-conversations along similar lines. CT said, ‘it’s more of an overall thing, for
-his experience, we expected more – sorta what I mentioned to you
-already.’ Further, there was evidence before us that both JW and Zoe
-Mackie also had misgivings about C’s approach to his role.
-174. We accepted on the balance of probabilities the evidence that CT raised
+--- New Page 53 ---
+Page number: 53
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
 10
 
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 53
+
+174.
+
+175.
+
+176.
+
+more senior managers. There accounts were consistent with
+contemporary written evidence in the form of the group chats of 25 May
+where CT spelled out to the other managers instances which had caused
+her concern. That evidence also showed there had been previous
+conversations along similar lines. CT said, ‘it’s more of an overall thing, for
+his experience, we expected more — sorta what | mentioned to you
+already.’ Further, there was evidence before us that both JW and Zoe
+
+Mackie also had misgivings about C’s approach to his role.
+
+We accepted on the balance of probabilities the evidence that CT raised
 her criticisms with DM because she held concerns about C’s performance
 and not for any reason related to his race. We were satisfied that CT
 declined to raise the matters with C because she was someone who shied
 away from what she perceived as confrontation. We also accepted that
 she felt bad about C’s fate and her own possible failings in the matter. (She
-
-15
-
 said as much in the group chat of 25 May 2023). We further accept DM’s
 evidence that he made his decision to escalate the issue to HR based on
 based on CT’s criticisms of C’s performance and not on C’s race. As set
 out above, there was ample evidence that he had liaised with CT about
 her concerns regarding C. There was no evidence which might give us to
-
-20
-
 infer some alternative racial motivation on DM’s part. DM and CT had
+
 made the decision to hire C following an interview which they conducted.
-175. C sought to rely on his analysis that he was not the least frequent pusher
+
+C sought to rely on his analysis that he was not the least frequent pusher
 of code to GitHub. We did not agree that this materially undermined the
 evidence of R’s witnesses that his race played no role in their decision
-
-25
-
 making. R had not carried out this analysis of the GitHub logs at the time
 of dismissal and nor had C so the figures presented to the Tribunal were
+
 not before R’s managers at the time.
-176. In any event, Greg Dolan was not a comparator in materially the same
+
+In any event, Greg Dolan was not a comparator in materially the same
 circumstances as C. Mr Dolan was engaged on different tasks in the
-
-30
-
 material period which did not require the same frequency of code commits.
 There was also no evidence that CT had repeatedly reminded Greg to
 commit code in the way she had C, with little success. CT’s own
 circumstances likewise differed to C’s. She had the managerial role of
 Lead Engineer and we do not accept her own pushing frequency can be
+
 
-8000485/2023
+--- New Page 54 ---
+Page number: 54
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 54
+8000485/2023 Page 54
 
 relevantly compared with C’s. Although no one in the team was committing
 the 5 or 6 times per day that DMn indicated he would expect, the average
 figures calculated by C showed that JW was committing more than ten
 times as frequently as C. They showed that C was not close to committing
-5
+5 as much as once per day which CT had commended to him as ‘good
 
-as much as once per day which CT had commended to him as ‘good
-practice … at a minimum’.
+practice ... at a minimum’.
+
 177. Nor did we did not find C’s comparisons of his treatment with that of JW to
 be illuminating in all the circumstances of the case. C did not suggest that
 JW’s circumstances were the same in all material respects to his own.
-
-10
-
-They plainly were not. JW did not have less than 23 months’ service. JW
+10 They plainly were not. JW did not have less than 23 months’ service. JW
 had not been encouraged by CT to commit code more frequently. CT had
 no concerns about JW’s performance. JW did not commit code with the
 same frequency as C or advocate the same approach as C to the tasks
 set.
 
-15
-
-178. Instead, C’s position was that JW conducted himself in a worse manner
+15 178. Instead, C’s position was that JW conducted himself in a worse manner
 than C yet avoided dismissal. A material difference is that CT did not agree
 with C’s view of JW’s conduct. She did not accept him to be verbally
 abusive. She acknowledged he could say things in “the wrong way” and
 had challenges managing his anger. She attributed JW’s manner, at least
 
-20
-
-to some extent, to his ADHD. She was not in receipt of any complaints
+20 to some extent, to his ADHD. She was not in receipt of any complaints
 about JW’s behaviour from team members other than C who complained
 on 12 January but asked her to forget it later in the day.
+
 179. We accept CT did not dismiss JW or formalise any procedure against him
 because she did not consider such action to be warranted by JW’s
 
-25
-
-conduct. JW was neither a relevant comparator in materially the same
+25 conduct. JW was neither a relevant comparator in materially the same
 circumstances, nor was he a helpful ‘evidential’ comparator. The factual
 circumstances which pertained to him differed so markedly to those of C
+
 that the evidential value of his comparative ‘treatment’ was extremely
+
 weak.
 
-30
-
-180. We further accept LC’s evidence that she made the ultimate decision to
+30 180. We further accept LC’s evidence that she made the ultimate decision to
 dismiss based on CT’s criticisms of C’s performance and the evidence she
 had received about these. We accept she did not dismiss because of C’s
 race. We saw he evidence which was provided to her by CT in June 2023
+
 
-8000485/2023
+--- New Page 55 ---
+Page number: 55
+Title of ebook of origin: 8000485_Judgment_050624.pdf
 
-Page 55
+10
+
+15
+
+20
+
+25
+
+30
+
+8000485/2023 Page 55
+
+181.
+
+182.
 
 and we concluded she genuinely believed there was a problem with C’s
 performance in his role based on that evidence. There was no evidence
-which might give us to infer some alternative racial motivation on LC’s part.
-181. We were satisfied, on the balance of probabilities, that R did not dismiss C
-5
 
+which might give us to infer some alternative racial motivation on LC’s part.
+
+We were satisfied, on the balance of probabilities, that R did not dismiss C
 because of C’s race. Neither CT not DM nor LC acted as they did for
 reasons related to C’s race. As we are in a position to make a positive
 finding, it is unnecessary to apply the burden of proof provisions in section
 136 (Hewage). In so finding, we do not make any finding about C’s
 competence or otherwise as a DevOps Engineer. C has been anxious to
-
-10
-
 persuade us of the appropriateness of the modular approach and to
 advocate the merits of his other thought processes and decisions in
 approaching work tasks. We have found that CT perceived C’s
 performance as inadequate and that she passed her assessments on to
 other managers, who agreed with her criticisms. We venture no view on
-
-15
-
 whether or not she or they were objectively right or wrong in that
 assessment; we find only that race played no role.
-182. The claimant’s complaints of direct race discrimination are, therefore,
+
+The claimant’s complaints of direct race discrimination are, therefore,
 dismissed.
 
-20
-
 L Murphy
-____________________
+
+ 
+
 Employment Judge
-_31 May 2024_______
+
+31 May 2024
 Date
 
-25
+Date sent to parties 5 June
 
-Date sent to parties
-2024_________________
-30
-
-___5
-
-June
-
+2024
 
